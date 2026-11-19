@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: cec6b9df5a25fa446852d50112670aec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3815432793339779659
+    second: VFX_Move_Leaf_Blade_0
+  - first:
+      213: 4282957329839871424
+    second: VFX_Move_Leaf_Blade_1
+  - first:
+      213: -1541896886221701697
+    second: VFX_Move_Leaf_Blade_2
+  - first:
+      213: 6783139002394847926
+    second: VFX_Move_Leaf_Blade_3
+  - first:
+      213: -7289086001652889131
+    second: VFX_Move_Leaf_Blade_4
+  - first:
+      213: 1373670157545450091
+    second: VFX_Move_Leaf_Blade_5
+  - first:
+      213: -1741563965851489467
+    second: VFX_Move_Leaf_Blade_6
+  - first:
+      213: -8849346396506634029
+    second: VFX_Move_Leaf_Blade_7
+  - first:
+      213: 210152980741052210
+    second: VFX_Move_Leaf_Blade_8
+  - first:
+      213: -2521943367707073501
+    second: VFX_Move_Leaf_Blade_9
+  - first:
+      213: 6940584007294336322
+    second: VFX_Move_Leaf_Blade_10
+  - first:
+      213: 29939393086068918
+    second: VFX_Move_Leaf_Blade_11
+  - first:
+      213: -1829533605454575015
+    second: VFX_Move_Leaf_Blade_12
+  - first:
+      213: 5930131727501932250
+    second: VFX_Move_Leaf_Blade_13
+  - first:
+      213: 2599583358453551443
+    second: VFX_Move_Leaf_Blade_14
+  - first:
+      213: 7190102442603106446
+    second: VFX_Move_Leaf_Blade_15
+  - first:
+      213: 5864738273227157695
+    second: VFX_Move_Leaf_Blade_16
+  - first:
+      213: 6574721534071505447
+    second: VFX_Move_Leaf_Blade_17
+  - first:
+      213: -9026860827368827364
+    second: VFX_Move_Leaf_Blade_18
+  - first:
+      213: 9105981986006269199
+    second: VFX_Move_Leaf_Blade_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b52b98e61cdc0bc0800000000000000
+      internalID: -3815432793339779659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5d249dffe107b30800000000000000
+      internalID: 4282957329839871424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd797883f41a9ae0800000000000000
+      internalID: -1541896886221701697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baa7dbebfc822e50800000000000000
+      internalID: 6783139002394847926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9053696e6f7da90800000000000000
+      internalID: -7289086001652889131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a2d03fab1401310800000000000000
+      internalID: 1373670157545450091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b2dcddcc8b4d7e0800000000000000
+      internalID: -1741563965851489467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8c6d5965ec03580800000000000000
+      internalID: -8849346396506634029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2375f85c50d9ae200800000000000000
+      internalID: 210152980741052210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324ea207ed1400dd0800000000000000
+      internalID: -2521943367707073501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d3980c168e15060800000000000000
+      internalID: 6940584007294336322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b89fa928bd5a6000800000000000000
+      internalID: 29939393086068918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a8d3e01e03c96e0800000000000000
+      internalID: -1829533605454575015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 2
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6b601136f0c4250800000000000000
+      internalID: 5930131727501932250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35114a49a43931420800000000000000
+      internalID: 2599583358453551443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 4
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80d606a31068c360800000000000000
+      internalID: 7190102442603106446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 5
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0b754036cb36150800000000000000
+      internalID: 5864738273227157695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722817f966a1e3b50800000000000000
+      internalID: 6574721534071505447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 3
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16dac367e52ab280800000000000000
+      internalID: -9026860827368827364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d7207ee52fe5e70800000000000000
+      internalID: 9105981986006269199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Leaf_Blade_0: -3815432793339779659
+      VFX_Move_Leaf_Blade_1: 4282957329839871424
+      VFX_Move_Leaf_Blade_10: 6940584007294336322
+      VFX_Move_Leaf_Blade_11: 29939393086068918
+      VFX_Move_Leaf_Blade_12: -1829533605454575015
+      VFX_Move_Leaf_Blade_13: 5930131727501932250
+      VFX_Move_Leaf_Blade_14: 2599583358453551443
+      VFX_Move_Leaf_Blade_15: 7190102442603106446
+      VFX_Move_Leaf_Blade_16: 5864738273227157695
+      VFX_Move_Leaf_Blade_17: 6574721534071505447
+      VFX_Move_Leaf_Blade_18: -9026860827368827364
+      VFX_Move_Leaf_Blade_19: 9105981986006269199
+      VFX_Move_Leaf_Blade_2: -1541896886221701697
+      VFX_Move_Leaf_Blade_3: 6783139002394847926
+      VFX_Move_Leaf_Blade_4: -7289086001652889131
+      VFX_Move_Leaf_Blade_5: 1373670157545450091
+      VFX_Move_Leaf_Blade_6: -1741563965851489467
+      VFX_Move_Leaf_Blade_7: -8849346396506634029
+      VFX_Move_Leaf_Blade_8: 210152980741052210
+      VFX_Move_Leaf_Blade_9: -2521943367707073501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

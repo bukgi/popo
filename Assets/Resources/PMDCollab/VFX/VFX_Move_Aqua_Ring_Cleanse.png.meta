@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: da720e0da333f7e4582a5f4f8d647e70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5277612635241968392
+    second: VFX_Move_Aqua_Ring_Cleanse_0
+  - first:
+      213: 1743707178441747819
+    second: VFX_Move_Aqua_Ring_Cleanse_1
+  - first:
+      213: 230029146769238024
+    second: VFX_Move_Aqua_Ring_Cleanse_2
+  - first:
+      213: 8477799673282084962
+    second: VFX_Move_Aqua_Ring_Cleanse_3
+  - first:
+      213: -3268387706245877386
+    second: VFX_Move_Aqua_Ring_Cleanse_4
+  - first:
+      213: -6668612459950400311
+    second: VFX_Move_Aqua_Ring_Cleanse_5
+  - first:
+      213: -4953680525860605872
+    second: VFX_Move_Aqua_Ring_Cleanse_6
+  - first:
+      213: -7371077653485172259
+    second: VFX_Move_Aqua_Ring_Cleanse_7
+  - first:
+      213: -7171225173388773093
+    second: VFX_Move_Aqua_Ring_Cleanse_8
+  - first:
+      213: -7070625664338542724
+    second: VFX_Move_Aqua_Ring_Cleanse_9
+  - first:
+      213: 1568705018587541976
+    second: VFX_Move_Aqua_Ring_Cleanse_10
+  - first:
+      213: 8746393386248131267
+    second: VFX_Move_Aqua_Ring_Cleanse_11
+  - first:
+      213: -10968498927003393
+    second: VFX_Move_Aqua_Ring_Cleanse_12
+  - first:
+      213: 6455463086100393152
+    second: VFX_Move_Aqua_Ring_Cleanse_13
+  - first:
+      213: -5116428472890239710
+    second: VFX_Move_Aqua_Ring_Cleanse_14
+  - first:
+      213: 2368852209983557388
+    second: VFX_Move_Aqua_Ring_Cleanse_15
+  - first:
+      213: -6240564858256213153
+    second: VFX_Move_Aqua_Ring_Cleanse_16
+  - first:
+      213: 2670532640699257429
+    second: VFX_Move_Aqua_Ring_Cleanse_17
+  - first:
+      213: 921337225907295109
+    second: VFX_Move_Aqua_Ring_Cleanse_18
+  - first:
+      213: 7392547137083508388
+    second: VFX_Move_Aqua_Ring_Cleanse_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc0a4e254722c6b0800000000000000
+      internalID: -5277612635241968392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6da153b074e23810800000000000000
+      internalID: 1743707178441747819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808aa2d4a4a313300800000000000000
+      internalID: 230029146769238024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260c6e2b2e137a570800000000000000
+      internalID: 8477799673282084962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671f5f4a2ba54a2d0800000000000000
+      internalID: -3268387706245877386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc99ebac445473a0800000000000000
+      internalID: -6668612459950400311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050fe45becdf04bb0800000000000000
+      internalID: -4953680525860605872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd942348deba4b990800000000000000
+      internalID: -7371077653485172259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19b2d713b0ba7c90800000000000000
+      internalID: -7171225173388773093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f37598b6710ed90800000000000000
+      internalID: -7070625664338542724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1784e27e825c510800000000000000
+      internalID: 1568705018587541976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c25525c17e616970800000000000000
+      internalID: 8746393386248131267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff89cb5553809dff0800000000000000
+      internalID: -10968498927003393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc29ab6979669950800000000000000
+      internalID: 6455463086100393152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225dea2796bcef8b0800000000000000
+      internalID: -5116428472890239710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f0875c88adfd020800000000000000
+      internalID: 2368852209983557388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b3ad9435f0569a0800000000000000
+      internalID: -6240564858256213153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55217f1a943af0520800000000000000
+      internalID: 2670532640699257429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5835c84535f39cc00800000000000000
+      internalID: 921337225907295109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Ring_Cleanse_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6813b247a979660800000000000000
+      internalID: 7392547137083508388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Aqua_Ring_Cleanse_0: -5277612635241968392
+      VFX_Move_Aqua_Ring_Cleanse_1: 1743707178441747819
+      VFX_Move_Aqua_Ring_Cleanse_10: 1568705018587541976
+      VFX_Move_Aqua_Ring_Cleanse_11: 8746393386248131267
+      VFX_Move_Aqua_Ring_Cleanse_12: -10968498927003393
+      VFX_Move_Aqua_Ring_Cleanse_13: 6455463086100393152
+      VFX_Move_Aqua_Ring_Cleanse_14: -5116428472890239710
+      VFX_Move_Aqua_Ring_Cleanse_15: 2368852209983557388
+      VFX_Move_Aqua_Ring_Cleanse_16: -6240564858256213153
+      VFX_Move_Aqua_Ring_Cleanse_17: 2670532640699257429
+      VFX_Move_Aqua_Ring_Cleanse_18: 921337225907295109
+      VFX_Move_Aqua_Ring_Cleanse_19: 7392547137083508388
+      VFX_Move_Aqua_Ring_Cleanse_2: 230029146769238024
+      VFX_Move_Aqua_Ring_Cleanse_3: 8477799673282084962
+      VFX_Move_Aqua_Ring_Cleanse_4: -3268387706245877386
+      VFX_Move_Aqua_Ring_Cleanse_5: -6668612459950400311
+      VFX_Move_Aqua_Ring_Cleanse_6: -4953680525860605872
+      VFX_Move_Aqua_Ring_Cleanse_7: -7371077653485172259
+      VFX_Move_Aqua_Ring_Cleanse_8: -7171225173388773093
+      VFX_Move_Aqua_Ring_Cleanse_9: -7070625664338542724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

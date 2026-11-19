@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 15a418703d8c3c14099672f990e07120
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8569016618909955775
+    second: VFX_Move_Rollout_Bounce_0
+  - first:
+      213: 2742247642927071912
+    second: VFX_Move_Rollout_Bounce_1
+  - first:
+      213: 3730221788114804366
+    second: VFX_Move_Rollout_Bounce_2
+  - first:
+      213: -3407959732881922693
+    second: VFX_Move_Rollout_Bounce_3
+  - first:
+      213: -6272663973114858454
+    second: VFX_Move_Rollout_Bounce_4
+  - first:
+      213: -3516691433278207906
+    second: VFX_Move_Rollout_Bounce_5
+  - first:
+      213: -3914809245651568097
+    second: VFX_Move_Rollout_Bounce_6
+  - first:
+      213: -5525376187821174533
+    second: VFX_Move_Rollout_Bounce_7
+  - first:
+      213: 9004261177071867269
+    second: VFX_Move_Rollout_Bounce_8
+  - first:
+      213: 5330636089269803177
+    second: VFX_Move_Rollout_Bounce_9
+  - first:
+      213: 1151495964517309781
+    second: VFX_Move_Rollout_Bounce_10
+  - first:
+      213: -8151143905794501220
+    second: VFX_Move_Rollout_Bounce_11
+  - first:
+      213: 443443882567273038
+    second: VFX_Move_Rollout_Bounce_12
+  - first:
+      213: 3904021617479263406
+    second: VFX_Move_Rollout_Bounce_13
+  - first:
+      213: 8666901116106281122
+    second: VFX_Move_Rollout_Bounce_14
+  - first:
+      213: -7730737498802147970
+    second: VFX_Move_Rollout_Bounce_15
+  - first:
+      213: -4447371944235900596
+    second: VFX_Move_Rollout_Bounce_16
+  - first:
+      213: -373200308215301985
+    second: VFX_Move_Rollout_Bounce_17
+  - first:
+      213: -8305707071625310810
+    second: VFX_Move_Rollout_Bounce_18
+  - first:
+      213: -2688653053116275286
+    second: VFX_Move_Rollout_Bounce_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149047329ccb41980800000000000000
+      internalID: -8569016618909955775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 14
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a202d2c3bb6e0620800000000000000
+      internalID: 2742247642927071912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e5106e3f864c330800000000000000
+      internalID: 3730221788114804366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75ecb8ddae74b0d0800000000000000
+      internalID: -3407959732881922693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a243917b95503f8a0800000000000000
+      internalID: -6272663973114858454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e580bce06c3323fc0800000000000000
+      internalID: -3516691433278207906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1af58d8bbdcba9c0800000000000000
+      internalID: -3914809245651568097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf05482c1abe153b0800000000000000
+      internalID: -5525376187821174533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 9
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585953c75df85fc70800000000000000
+      internalID: 9004261177071867269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 11
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8ddcfb7493af940800000000000000
+      internalID: 5330636089269803177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d99559a7feaff00800000000000000
+      internalID: 1151495964517309781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 12
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c955706edc151ee80800000000000000
+      internalID: -8151143905794501220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 11
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a0e3a9cdd672600800000000000000
+      internalID: 443443882567273038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 9
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea42c490afedd2630800000000000000
+      internalID: 3904021617479263406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a093f855a4074870800000000000000
+      internalID: 8666901116106281122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d2b1c3437e6b490800000000000000
+      internalID: -7730737498802147970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41e7c7a7c2c742c0800000000000000
+      internalID: -4447371944235900596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 6
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98b2c60c4022daf0800000000000000
+      internalID: -373200308215301985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_18
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adc2538c633cbc80800000000000000
+      internalID: -8305707071625310810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rollout_Bounce_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 6
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa52cb41b4cffaad0800000000000000
+      internalID: -2688653053116275286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Rollout_Bounce_0: -8569016618909955775
+      VFX_Move_Rollout_Bounce_1: 2742247642927071912
+      VFX_Move_Rollout_Bounce_10: 1151495964517309781
+      VFX_Move_Rollout_Bounce_11: -8151143905794501220
+      VFX_Move_Rollout_Bounce_12: 443443882567273038
+      VFX_Move_Rollout_Bounce_13: 3904021617479263406
+      VFX_Move_Rollout_Bounce_14: 8666901116106281122
+      VFX_Move_Rollout_Bounce_15: -7730737498802147970
+      VFX_Move_Rollout_Bounce_16: -4447371944235900596
+      VFX_Move_Rollout_Bounce_17: -373200308215301985
+      VFX_Move_Rollout_Bounce_18: -8305707071625310810
+      VFX_Move_Rollout_Bounce_19: -2688653053116275286
+      VFX_Move_Rollout_Bounce_2: 3730221788114804366
+      VFX_Move_Rollout_Bounce_3: -3407959732881922693
+      VFX_Move_Rollout_Bounce_4: -6272663973114858454
+      VFX_Move_Rollout_Bounce_5: -3516691433278207906
+      VFX_Move_Rollout_Bounce_6: -3914809245651568097
+      VFX_Move_Rollout_Bounce_7: -5525376187821174533
+      VFX_Move_Rollout_Bounce_8: 9004261177071867269
+      VFX_Move_Rollout_Bounce_9: 5330636089269803177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

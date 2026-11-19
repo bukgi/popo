@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 32977762e98d39c4fbcbd8a70a1343b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2379061781157120516
+    second: VFX_Move_Flame_Wheel_0
+  - first:
+      213: -4748451794541741671
+    second: VFX_Move_Flame_Wheel_1
+  - first:
+      213: 38453325292141988
+    second: VFX_Move_Flame_Wheel_2
+  - first:
+      213: 4917951342231038781
+    second: VFX_Move_Flame_Wheel_3
+  - first:
+      213: -918834552539724716
+    second: VFX_Move_Flame_Wheel_4
+  - first:
+      213: -5748268865782347838
+    second: VFX_Move_Flame_Wheel_5
+  - first:
+      213: -1102910677916075626
+    second: VFX_Move_Flame_Wheel_6
+  - first:
+      213: -6755567986157381401
+    second: VFX_Move_Flame_Wheel_7
+  - first:
+      213: -541955512644913172
+    second: VFX_Move_Flame_Wheel_8
+  - first:
+      213: 9174826259739251890
+    second: VFX_Move_Flame_Wheel_9
+  - first:
+      213: 7279999843033105266
+    second: VFX_Move_Flame_Wheel_10
+  - first:
+      213: -7360562267869646162
+    second: VFX_Move_Flame_Wheel_11
+  - first:
+      213: 893920498429057348
+    second: VFX_Move_Flame_Wheel_12
+  - first:
+      213: -4915890234683411503
+    second: VFX_Move_Flame_Wheel_13
+  - first:
+      213: 9149180303629257221
+    second: VFX_Move_Flame_Wheel_14
+  - first:
+      213: 2506005186572494026
+    second: VFX_Move_Flame_Wheel_15
+  - first:
+      213: -3717328137522573281
+    second: VFX_Move_Flame_Wheel_16
+  - first:
+      213: 2724674626415056298
+    second: VFX_Move_Flame_Wheel_17
+  - first:
+      213: 4277593080538189006
+    second: VFX_Move_Flame_Wheel_18
+  - first:
+      213: -5244938480583316724
+    second: VFX_Move_Flame_Wheel_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a049cc510240120800000000000000
+      internalID: 2379061781157120516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999f541504c1a1eb0800000000000000
+      internalID: -4748451794541741671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad787a781d988000800000000000000
+      internalID: 38453325292141988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b265870b2104440800000000000000
+      internalID: 4917951342231038781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454c388b7d4af33f0800000000000000
+      internalID: -918834552539724716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c70b951ceb0a30b0800000000000000
+      internalID: -5748268865782347838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b3d7f49ca1b0f0800000000000000
+      internalID: -1102910677916075626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8961985b66f32a0800000000000000
+      internalID: -6755567986157381401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce73cb825569a78f0800000000000000
+      internalID: -541955512644913172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b41fa77fd7835f70800000000000000
+      internalID: 9174826259739251890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27343e04941c70560800000000000000
+      internalID: 7279999843033105266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea27c748d970ad990800000000000000
+      internalID: -7360562267869646162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449dd4605f7d76c00800000000000000
+      internalID: 893920498429057348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d332e680ef37cbb0800000000000000
+      internalID: -4915890234683411503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a82dff20b68fe70800000000000000
+      internalID: 9149180303629257221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 3
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4a0f6907e17c220800000000000000
+      internalID: 2506005186572494026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 4
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10176111c5696cc0800000000000000
+      internalID: -3717328137522573281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa55df3032dffc520800000000000000
+      internalID: 2724674626415056298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 2
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccc52b3e301d5b30800000000000000
+      internalID: 4277593080538189006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Wheel_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bed04ad3c3637b0800000000000000
+      internalID: -5244938480583316724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Flame_Wheel_0: 2379061781157120516
+      VFX_Move_Flame_Wheel_1: -4748451794541741671
+      VFX_Move_Flame_Wheel_10: 7279999843033105266
+      VFX_Move_Flame_Wheel_11: -7360562267869646162
+      VFX_Move_Flame_Wheel_12: 893920498429057348
+      VFX_Move_Flame_Wheel_13: -4915890234683411503
+      VFX_Move_Flame_Wheel_14: 9149180303629257221
+      VFX_Move_Flame_Wheel_15: 2506005186572494026
+      VFX_Move_Flame_Wheel_16: -3717328137522573281
+      VFX_Move_Flame_Wheel_17: 2724674626415056298
+      VFX_Move_Flame_Wheel_18: 4277593080538189006
+      VFX_Move_Flame_Wheel_19: -5244938480583316724
+      VFX_Move_Flame_Wheel_2: 38453325292141988
+      VFX_Move_Flame_Wheel_3: 4917951342231038781
+      VFX_Move_Flame_Wheel_4: -918834552539724716
+      VFX_Move_Flame_Wheel_5: -5748268865782347838
+      VFX_Move_Flame_Wheel_6: -1102910677916075626
+      VFX_Move_Flame_Wheel_7: -6755567986157381401
+      VFX_Move_Flame_Wheel_8: -541955512644913172
+      VFX_Move_Flame_Wheel_9: 9174826259739251890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

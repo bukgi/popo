@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: cf607dba00d031c4faf1f52cfd62763f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4306376067101838343
+    second: VFX_Move_Wing_Hurricane_0
+  - first:
+      213: -5679144599079514788
+    second: VFX_Move_Wing_Hurricane_1
+  - first:
+      213: 3292547012649054205
+    second: VFX_Move_Wing_Hurricane_2
+  - first:
+      213: -3561646398099738785
+    second: VFX_Move_Wing_Hurricane_3
+  - first:
+      213: -1701424765670354137
+    second: VFX_Move_Wing_Hurricane_4
+  - first:
+      213: -7068849440732409291
+    second: VFX_Move_Wing_Hurricane_5
+  - first:
+      213: 6056353831269626054
+    second: VFX_Move_Wing_Hurricane_6
+  - first:
+      213: 8125748168768989993
+    second: VFX_Move_Wing_Hurricane_7
+  - first:
+      213: 7539434583094499837
+    second: VFX_Move_Wing_Hurricane_8
+  - first:
+      213: -7853924033404116062
+    second: VFX_Move_Wing_Hurricane_9
+  - first:
+      213: 3405783252219015192
+    second: VFX_Move_Wing_Hurricane_10
+  - first:
+      213: -256990250300184325
+    second: VFX_Move_Wing_Hurricane_11
+  - first:
+      213: 6132749457513909411
+    second: VFX_Move_Wing_Hurricane_12
+  - first:
+      213: -5191746253902039231
+    second: VFX_Move_Wing_Hurricane_13
+  - first:
+      213: -7933064522716060294
+    second: VFX_Move_Wing_Hurricane_14
+  - first:
+      213: 2349946238656010135
+    second: VFX_Move_Wing_Hurricane_15
+  - first:
+      213: -6963537049714354119
+    second: VFX_Move_Wing_Hurricane_16
+  - first:
+      213: 5373836291585589612
+    second: VFX_Move_Wing_Hurricane_17
+  - first:
+      213: -8502093628509474724
+    second: VFX_Move_Wing_Hurricane_18
+  - first:
+      213: 8083976481043429348
+    second: VFX_Move_Wing_Hurricane_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c49d4873253cb30800000000000000
+      internalID: 4306376067101838343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d89c79310af21b0800000000000000
+      internalID: -5679144599079514788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff6837301a71bd20800000000000000
+      internalID: 3292547012649054205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f27b9a87d729ec0800000000000000
+      internalID: -3561646398099738785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7239a2ea0335368e0800000000000000
+      internalID: -1701424765670354137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5321d62d2e666ed90800000000000000
+      internalID: -7068849440732409291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0f6eab8bd7c0450800000000000000
+      internalID: 6056353831269626054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ba1cd48e474c070800000000000000
+      internalID: 8125748168768989993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df994a4cec371a860800000000000000
+      internalID: 7539434583094499837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a36b0814b1410390800000000000000
+      internalID: -7853924033404116062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8103d72c2d5c34f20800000000000000
+      internalID: 3405783252219015192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf86e1c9abcfe6cf0800000000000000
+      internalID: -256990250300184325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac069f8327eb1550800000000000000
+      internalID: 6132749457513909411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14734340a4633f7b0800000000000000
+      internalID: -5191746253902039231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75614709d718e190800000000000000
+      internalID: -7933064522716060294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 3
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7975b5c47afac9020800000000000000
+      internalID: 2349946238656010135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938118b92fb8c5f90800000000000000
+      internalID: -6963537049714354119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61cf09a2a3b39a40800000000000000
+      internalID: 5373836291585589612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 0
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50b49114ee720a80800000000000000
+      internalID: -8502093628509474724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wing_Hurricane_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7b43d57cd003070800000000000000
+      internalID: 8083976481043429348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Wing_Hurricane_0: 4306376067101838343
+      VFX_Move_Wing_Hurricane_1: -5679144599079514788
+      VFX_Move_Wing_Hurricane_10: 3405783252219015192
+      VFX_Move_Wing_Hurricane_11: -256990250300184325
+      VFX_Move_Wing_Hurricane_12: 6132749457513909411
+      VFX_Move_Wing_Hurricane_13: -5191746253902039231
+      VFX_Move_Wing_Hurricane_14: -7933064522716060294
+      VFX_Move_Wing_Hurricane_15: 2349946238656010135
+      VFX_Move_Wing_Hurricane_16: -6963537049714354119
+      VFX_Move_Wing_Hurricane_17: 5373836291585589612
+      VFX_Move_Wing_Hurricane_18: -8502093628509474724
+      VFX_Move_Wing_Hurricane_19: 8083976481043429348
+      VFX_Move_Wing_Hurricane_2: 3292547012649054205
+      VFX_Move_Wing_Hurricane_3: -3561646398099738785
+      VFX_Move_Wing_Hurricane_4: -1701424765670354137
+      VFX_Move_Wing_Hurricane_5: -7068849440732409291
+      VFX_Move_Wing_Hurricane_6: 6056353831269626054
+      VFX_Move_Wing_Hurricane_7: 8125748168768989993
+      VFX_Move_Wing_Hurricane_8: 7539434583094499837
+      VFX_Move_Wing_Hurricane_9: -7853924033404116062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

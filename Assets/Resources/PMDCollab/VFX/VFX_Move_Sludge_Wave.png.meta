@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 7ef060ae8e4d7e341b3245ebe36c3574
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8284815521285491765
+    second: VFX_Move_Sludge_Wave_0
+  - first:
+      213: 4394060934570988359
+    second: VFX_Move_Sludge_Wave_1
+  - first:
+      213: -1352174880991247455
+    second: VFX_Move_Sludge_Wave_2
+  - first:
+      213: -6493351004251788186
+    second: VFX_Move_Sludge_Wave_3
+  - first:
+      213: -1792327890199387105
+    second: VFX_Move_Sludge_Wave_4
+  - first:
+      213: -2101377889644837050
+    second: VFX_Move_Sludge_Wave_5
+  - first:
+      213: 5109502428783412321
+    second: VFX_Move_Sludge_Wave_6
+  - first:
+      213: -8972929894222607451
+    second: VFX_Move_Sludge_Wave_7
+  - first:
+      213: -3001960668491751322
+    second: VFX_Move_Sludge_Wave_8
+  - first:
+      213: -422858363781883285
+    second: VFX_Move_Sludge_Wave_9
+  - first:
+      213: -3598916382006194252
+    second: VFX_Move_Sludge_Wave_10
+  - first:
+      213: 8532011190746937170
+    second: VFX_Move_Sludge_Wave_11
+  - first:
+      213: 990676469648156933
+    second: VFX_Move_Sludge_Wave_12
+  - first:
+      213: -2594978492795375514
+    second: VFX_Move_Sludge_Wave_13
+  - first:
+      213: 3982757012364929571
+    second: VFX_Move_Sludge_Wave_14
+  - first:
+      213: 2299679288824505645
+    second: VFX_Move_Sludge_Wave_15
+  - first:
+      213: 2599812753562421900
+    second: VFX_Move_Sludge_Wave_16
+  - first:
+      213: 3585766843378638835
+    second: VFX_Move_Sludge_Wave_17
+  - first:
+      213: -6776980341901248107
+    second: VFX_Move_Sludge_Wave_18
+  - first:
+      213: -4702685955233121857
+    second: VFX_Move_Sludge_Wave_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c4ddf52d399f270800000000000000
+      internalID: 8284815521285491765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7435686a327dafc30800000000000000
+      internalID: 4394060934570988359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a38f402c1c1c3de0800000000000000
+      internalID: -1352174880991247455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c65a53aabf2e5a0800000000000000
+      internalID: -6493351004251788186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14e3afa74f5027e0800000000000000
+      internalID: -1792327890199387105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6470cd461f766d2e0800000000000000
+      internalID: -2101377889644837050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16481ae336998e640800000000000000
+      internalID: 5109502428783412321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abc0644dcfb97380800000000000000
+      internalID: -8972929894222607451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660ead45da4e656d0800000000000000
+      internalID: -3001960668491751322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a5a7cfe84b12af0800000000000000
+      internalID: -422858363781883285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfcf225e941e0ec0800000000000000
+      internalID: -3598916382006194252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257f02439fac76670800000000000000
+      internalID: 8532011190746937170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50967b410079fbd00800000000000000
+      internalID: 990676469648156933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66037214fc8ccfbd0800000000000000
+      internalID: -2594978492795375514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a25b4b668954730800000000000000
+      internalID: 3982757012364929571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2525b3012a1aef10800000000000000
+      internalID: 2299679288824505645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a4e9acce3641420800000000000000
+      internalID: 2599812753562421900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff15f222f333c130800000000000000
+      internalID: 3585766843378638835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 5
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599bb27f84453f1a0800000000000000
+      internalID: -6776980341901248107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Wave_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb97c142a04bcbeb0800000000000000
+      internalID: -4702685955233121857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Sludge_Wave_0: 8284815521285491765
+      VFX_Move_Sludge_Wave_1: 4394060934570988359
+      VFX_Move_Sludge_Wave_10: -3598916382006194252
+      VFX_Move_Sludge_Wave_11: 8532011190746937170
+      VFX_Move_Sludge_Wave_12: 990676469648156933
+      VFX_Move_Sludge_Wave_13: -2594978492795375514
+      VFX_Move_Sludge_Wave_14: 3982757012364929571
+      VFX_Move_Sludge_Wave_15: 2299679288824505645
+      VFX_Move_Sludge_Wave_16: 2599812753562421900
+      VFX_Move_Sludge_Wave_17: 3585766843378638835
+      VFX_Move_Sludge_Wave_18: -6776980341901248107
+      VFX_Move_Sludge_Wave_19: -4702685955233121857
+      VFX_Move_Sludge_Wave_2: -1352174880991247455
+      VFX_Move_Sludge_Wave_3: -6493351004251788186
+      VFX_Move_Sludge_Wave_4: -1792327890199387105
+      VFX_Move_Sludge_Wave_5: -2101377889644837050
+      VFX_Move_Sludge_Wave_6: 5109502428783412321
+      VFX_Move_Sludge_Wave_7: -8972929894222607451
+      VFX_Move_Sludge_Wave_8: -3001960668491751322
+      VFX_Move_Sludge_Wave_9: -422858363781883285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

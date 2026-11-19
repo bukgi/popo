@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e7e981f7702d7114da9b2985c634a054
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2207903918434657948
+    second: VFX_Move_Chrono_Time_Bomb_0
+  - first:
+      213: 245517769259442384
+    second: VFX_Move_Chrono_Time_Bomb_1
+  - first:
+      213: -2563166326407842058
+    second: VFX_Move_Chrono_Time_Bomb_2
+  - first:
+      213: 2741312145450113622
+    second: VFX_Move_Chrono_Time_Bomb_3
+  - first:
+      213: 6577760840434328725
+    second: VFX_Move_Chrono_Time_Bomb_4
+  - first:
+      213: 8627215680726063354
+    second: VFX_Move_Chrono_Time_Bomb_5
+  - first:
+      213: 2402320354996267035
+    second: VFX_Move_Chrono_Time_Bomb_6
+  - first:
+      213: 7226484497984703379
+    second: VFX_Move_Chrono_Time_Bomb_7
+  - first:
+      213: -1532205771603852533
+    second: VFX_Move_Chrono_Time_Bomb_8
+  - first:
+      213: -7985347104164173743
+    second: VFX_Move_Chrono_Time_Bomb_9
+  - first:
+      213: 6194499764067533322
+    second: VFX_Move_Chrono_Time_Bomb_10
+  - first:
+      213: -501448960415302682
+    second: VFX_Move_Chrono_Time_Bomb_11
+  - first:
+      213: -3611987012874032228
+    second: VFX_Move_Chrono_Time_Bomb_12
+  - first:
+      213: -2958431740827532091
+    second: VFX_Move_Chrono_Time_Bomb_13
+  - first:
+      213: -7899448114989520257
+    second: VFX_Move_Chrono_Time_Bomb_14
+  - first:
+      213: -184450681904364459
+    second: VFX_Move_Chrono_Time_Bomb_15
+  - first:
+      213: -3272711314313089740
+    second: VFX_Move_Chrono_Time_Bomb_16
+  - first:
+      213: -2418901748835773803
+    second: VFX_Move_Chrono_Time_Bomb_17
+  - first:
+      213: 5380094037368633763
+    second: VFX_Move_Chrono_Time_Bomb_18
+  - first:
+      213: 7884069143244742813
+    second: VFX_Move_Chrono_Time_Bomb_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469528b8513fb51e0800000000000000
+      internalID: -2207903918434657948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d061ce3c11486300800000000000000
+      internalID: 245517769259442384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6b73e6ecdcd6cd0800000000000000
+      internalID: -2563166326407842058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a94084fd81b0620800000000000000
+      internalID: 2741312145450113622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594209742a6e84b50800000000000000
+      internalID: 6577760840434328725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af85b52e3f60ab770800000000000000
+      internalID: 8627215680726063354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b182e3482a1c65120800000000000000
+      internalID: 2402320354996267035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bce350d51a94460800000000000000
+      internalID: 7226484497984703379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03cfbcf7f28cbae0800000000000000
+      internalID: -1532205771603852533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158a910fd195e2190800000000000000
+      internalID: -7985347104164173743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a028c7e27b847f550800000000000000
+      internalID: 6194499764067533322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebf479c3de7a09f0800000000000000
+      internalID: -501448960415302682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba15ce2f4afddc0800000000000000
+      internalID: -3611987012874032228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c40cb3910a81f6d0800000000000000
+      internalID: -2958431740827532091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aab60eac58f5290800000000000000
+      internalID: -7899448114989520257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55403820513b07df0800000000000000
+      internalID: -184450681904364459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d67f1366ef492d0800000000000000
+      internalID: -3272711314313089740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929212eca55e6ed0800000000000000
+      internalID: -2418901748835773803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9fd83a50fe9aa40800000000000000
+      internalID: 5380094037368633763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Chrono_Time_Bomb_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90a8bb3d17d96d60800000000000000
+      internalID: 7884069143244742813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Chrono_Time_Bomb_0: -2207903918434657948
+      VFX_Move_Chrono_Time_Bomb_1: 245517769259442384
+      VFX_Move_Chrono_Time_Bomb_10: 6194499764067533322
+      VFX_Move_Chrono_Time_Bomb_11: -501448960415302682
+      VFX_Move_Chrono_Time_Bomb_12: -3611987012874032228
+      VFX_Move_Chrono_Time_Bomb_13: -2958431740827532091
+      VFX_Move_Chrono_Time_Bomb_14: -7899448114989520257
+      VFX_Move_Chrono_Time_Bomb_15: -184450681904364459
+      VFX_Move_Chrono_Time_Bomb_16: -3272711314313089740
+      VFX_Move_Chrono_Time_Bomb_17: -2418901748835773803
+      VFX_Move_Chrono_Time_Bomb_18: 5380094037368633763
+      VFX_Move_Chrono_Time_Bomb_19: 7884069143244742813
+      VFX_Move_Chrono_Time_Bomb_2: -2563166326407842058
+      VFX_Move_Chrono_Time_Bomb_3: 2741312145450113622
+      VFX_Move_Chrono_Time_Bomb_4: 6577760840434328725
+      VFX_Move_Chrono_Time_Bomb_5: 8627215680726063354
+      VFX_Move_Chrono_Time_Bomb_6: 2402320354996267035
+      VFX_Move_Chrono_Time_Bomb_7: 7226484497984703379
+      VFX_Move_Chrono_Time_Bomb_8: -1532205771603852533
+      VFX_Move_Chrono_Time_Bomb_9: -7985347104164173743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

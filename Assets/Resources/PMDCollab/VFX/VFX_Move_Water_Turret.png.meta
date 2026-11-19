@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 348dc1c6078c9ad4cb41e3facab23583
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3478581648182018674
+    second: VFX_Move_Water_Turret_0
+  - first:
+      213: 8403881053689714282
+    second: VFX_Move_Water_Turret_1
+  - first:
+      213: -3418676778933137492
+    second: VFX_Move_Water_Turret_2
+  - first:
+      213: -2683851753643216155
+    second: VFX_Move_Water_Turret_3
+  - first:
+      213: -8924769549775957802
+    second: VFX_Move_Water_Turret_4
+  - first:
+      213: 1944627613217315824
+    second: VFX_Move_Water_Turret_5
+  - first:
+      213: -1098598466364474993
+    second: VFX_Move_Water_Turret_6
+  - first:
+      213: -1091236866452268663
+    second: VFX_Move_Water_Turret_7
+  - first:
+      213: -2355990429994366926
+    second: VFX_Move_Water_Turret_8
+  - first:
+      213: -5100843332190755833
+    second: VFX_Move_Water_Turret_9
+  - first:
+      213: -1497125749592110557
+    second: VFX_Move_Water_Turret_10
+  - first:
+      213: -9130712538474551221
+    second: VFX_Move_Water_Turret_11
+  - first:
+      213: -4052205421308675352
+    second: VFX_Move_Water_Turret_12
+  - first:
+      213: 3336905541102745746
+    second: VFX_Move_Water_Turret_13
+  - first:
+      213: 9026089838614973632
+    second: VFX_Move_Water_Turret_14
+  - first:
+      213: 74839319265936722
+    second: VFX_Move_Water_Turret_15
+  - first:
+      213: 7182430969989367973
+    second: VFX_Move_Water_Turret_16
+  - first:
+      213: 7901271189974995016
+    second: VFX_Move_Water_Turret_17
+  - first:
+      213: 3825072923488602368
+    second: VFX_Move_Water_Turret_18
+  - first:
+      213: 3668430860055518926
+    second: VFX_Move_Water_Turret_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dfae9db6899bfc0800000000000000
+      internalID: -3478581648182018674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a669fcbea4590a470800000000000000
+      internalID: 8403881053689714282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf40dd159b6e80d0800000000000000
+      internalID: -3418676778933137492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2794abc0b01cad0800000000000000
+      internalID: -2683851753643216155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d091634169d42480800000000000000
+      internalID: -8924769549775957802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbdb3ad284bcfa10800000000000000
+      internalID: 1944627613217315824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f897e85f38ef0c0f0800000000000000
+      internalID: -1098598466364474993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9895d410ad52bd0f0800000000000000
+      internalID: -1091236866452268663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23847fdbf27dd4fd0800000000000000
+      internalID: -2355990429994366926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704a9d9c30a2639b0800000000000000
+      internalID: -5100843332190755833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ac8771014293be0800000000000000
+      internalID: -1497125749592110557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e406a251394180800000000000000
+      internalID: -9130712538474551221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eafbf983aca3c7c0800000000000000
+      internalID: -4052205421308675352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2983672f8e11f4e20800000000000000
+      internalID: 3336905541102745746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc886dc2ec134d70800000000000000
+      internalID: 9026089838614973632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 3
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2550410e6f1e90100800000000000000
+      internalID: 74839319265936722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a80bfdb9ee1da360800000000000000
+      internalID: 7182430969989367973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840dc78d844f6ad60800000000000000
+      internalID: 7901271189974995016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009c08cce83651530800000000000000
+      internalID: 3825072923488602368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Turret_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece90b85e62e8e230800000000000000
+      internalID: 3668430860055518926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Water_Turret_0: -3478581648182018674
+      VFX_Move_Water_Turret_1: 8403881053689714282
+      VFX_Move_Water_Turret_10: -1497125749592110557
+      VFX_Move_Water_Turret_11: -9130712538474551221
+      VFX_Move_Water_Turret_12: -4052205421308675352
+      VFX_Move_Water_Turret_13: 3336905541102745746
+      VFX_Move_Water_Turret_14: 9026089838614973632
+      VFX_Move_Water_Turret_15: 74839319265936722
+      VFX_Move_Water_Turret_16: 7182430969989367973
+      VFX_Move_Water_Turret_17: 7901271189974995016
+      VFX_Move_Water_Turret_18: 3825072923488602368
+      VFX_Move_Water_Turret_19: 3668430860055518926
+      VFX_Move_Water_Turret_2: -3418676778933137492
+      VFX_Move_Water_Turret_3: -2683851753643216155
+      VFX_Move_Water_Turret_4: -8924769549775957802
+      VFX_Move_Water_Turret_5: 1944627613217315824
+      VFX_Move_Water_Turret_6: -1098598466364474993
+      VFX_Move_Water_Turret_7: -1091236866452268663
+      VFX_Move_Water_Turret_8: -2355990429994366926
+      VFX_Move_Water_Turret_9: -5100843332190755833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

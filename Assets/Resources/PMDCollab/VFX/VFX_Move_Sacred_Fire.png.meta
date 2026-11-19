@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 792874138dd4d214ba8ad8431a971636
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1434737894382295936
+    second: VFX_Move_Sacred_Fire_0
+  - first:
+      213: -5028166433820057379
+    second: VFX_Move_Sacred_Fire_1
+  - first:
+      213: -2982603508666829051
+    second: VFX_Move_Sacred_Fire_2
+  - first:
+      213: 2846931480690066882
+    second: VFX_Move_Sacred_Fire_3
+  - first:
+      213: -2099611539653147145
+    second: VFX_Move_Sacred_Fire_4
+  - first:
+      213: 7429736213330599938
+    second: VFX_Move_Sacred_Fire_5
+  - first:
+      213: -222247899625982086
+    second: VFX_Move_Sacred_Fire_6
+  - first:
+      213: 2604529082496646172
+    second: VFX_Move_Sacred_Fire_7
+  - first:
+      213: 3924549051298668364
+    second: VFX_Move_Sacred_Fire_8
+  - first:
+      213: 5245747094302836971
+    second: VFX_Move_Sacred_Fire_9
+  - first:
+      213: -3731540763814294024
+    second: VFX_Move_Sacred_Fire_10
+  - first:
+      213: -8520364908541819587
+    second: VFX_Move_Sacred_Fire_11
+  - first:
+      213: -6673486983712820357
+    second: VFX_Move_Sacred_Fire_12
+  - first:
+      213: -1909579586404065663
+    second: VFX_Move_Sacred_Fire_13
+  - first:
+      213: -4352671773124835910
+    second: VFX_Move_Sacred_Fire_14
+  - first:
+      213: -1851581274671490544
+    second: VFX_Move_Sacred_Fire_15
+  - first:
+      213: -1924349632544185734
+    second: VFX_Move_Sacred_Fire_16
+  - first:
+      213: 6045730460319188471
+    second: VFX_Move_Sacred_Fire_17
+  - first:
+      213: -8997271078389004825
+    second: VFX_Move_Sacred_Fire_18
+  - first:
+      213: -7394627302180602837
+    second: VFX_Move_Sacred_Fire_19
+  - first:
+      213: 3004295811609367351
+    second: VFX_Move_Sacred_Fire_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0842d839c79c61ce0800000000000000
+      internalID: -1434737894382295936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0ec90d44d583ab0800000000000000
+      internalID: -5028166433820057379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507741059e9ab96d0800000000000000
+      internalID: -2982603508666829051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c588661915528720800000000000000
+      internalID: 2846931480690066882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5c9accd6eacd2e0800000000000000
+      internalID: -2099611539653147145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2002d6ab8b9bb1760800000000000000
+      internalID: 7429736213330599938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7777ba76ba6aecf0800000000000000
+      internalID: -222247899625982086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cf261b665252420800000000000000
+      internalID: 2604529082496646172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fd04aa19cc67630800000000000000
+      internalID: 3924549051298668364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be845796033acc840800000000000000
+      internalID: 5245747094302836971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd85f32277e63cc0800000000000000
+      internalID: -3731540763814294024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3549ad224591c980800000000000000
+      internalID: -8520364908541819587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73ba9a22f20363a0800000000000000
+      internalID: -6673486983712820357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e5c0acb7fcf75e0800000000000000
+      internalID: -1909579586404065663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5460375143893c0800000000000000
+      internalID: -4352671773124835910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ad07a04acdd46e0800000000000000
+      internalID: -1851581274671490544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72ec8074365b45e0800000000000000
+      internalID: -1924349632544185734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 0
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5851f62dfb6e350800000000000000
+      internalID: 6045730460319188471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e54ab0bf95432380800000000000000
+      internalID: -8997271078389004825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cbe17a5a1016990800000000000000
+      internalID: -7394627302180602837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sacred_Fire_20
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7339b2b8f1761b920800000000000000
+      internalID: 3004295811609367351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Sacred_Fire_0: -1434737894382295936
+      VFX_Move_Sacred_Fire_1: -5028166433820057379
+      VFX_Move_Sacred_Fire_10: -3731540763814294024
+      VFX_Move_Sacred_Fire_11: -8520364908541819587
+      VFX_Move_Sacred_Fire_12: -6673486983712820357
+      VFX_Move_Sacred_Fire_13: -1909579586404065663
+      VFX_Move_Sacred_Fire_14: -4352671773124835910
+      VFX_Move_Sacred_Fire_15: -1851581274671490544
+      VFX_Move_Sacred_Fire_16: -1924349632544185734
+      VFX_Move_Sacred_Fire_17: 6045730460319188471
+      VFX_Move_Sacred_Fire_18: -8997271078389004825
+      VFX_Move_Sacred_Fire_19: -7394627302180602837
+      VFX_Move_Sacred_Fire_2: -2982603508666829051
+      VFX_Move_Sacred_Fire_20: 3004295811609367351
+      VFX_Move_Sacred_Fire_3: 2846931480690066882
+      VFX_Move_Sacred_Fire_4: -2099611539653147145
+      VFX_Move_Sacred_Fire_5: 7429736213330599938
+      VFX_Move_Sacred_Fire_6: -222247899625982086
+      VFX_Move_Sacred_Fire_7: 2604529082496646172
+      VFX_Move_Sacred_Fire_8: 3924549051298668364
+      VFX_Move_Sacred_Fire_9: 5245747094302836971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

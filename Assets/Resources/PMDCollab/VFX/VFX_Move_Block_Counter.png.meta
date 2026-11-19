@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 9d81bf5ca621e33439d65dc5c3e4c318
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5431669517215091010
+    second: VFX_Move_Block_Counter_0
+  - first:
+      213: -3664059544635234570
+    second: VFX_Move_Block_Counter_1
+  - first:
+      213: -7708413108009276137
+    second: VFX_Move_Block_Counter_2
+  - first:
+      213: -720275813914721754
+    second: VFX_Move_Block_Counter_3
+  - first:
+      213: -7439553792791475228
+    second: VFX_Move_Block_Counter_4
+  - first:
+      213: 3241769683920204764
+    second: VFX_Move_Block_Counter_5
+  - first:
+      213: 7373159755950436421
+    second: VFX_Move_Block_Counter_6
+  - first:
+      213: 3579605537740434587
+    second: VFX_Move_Block_Counter_7
+  - first:
+      213: -4315991139083415827
+    second: VFX_Move_Block_Counter_8
+  - first:
+      213: 5849930804434885100
+    second: VFX_Move_Block_Counter_9
+  - first:
+      213: 9138612360071843197
+    second: VFX_Move_Block_Counter_10
+  - first:
+      213: 2303030061426499674
+    second: VFX_Move_Block_Counter_11
+  - first:
+      213: 5973057298125664339
+    second: VFX_Move_Block_Counter_12
+  - first:
+      213: -2720000666550833807
+    second: VFX_Move_Block_Counter_13
+  - first:
+      213: -4467573042729279173
+    second: VFX_Move_Block_Counter_14
+  - first:
+      213: -3221025448203924697
+    second: VFX_Move_Block_Counter_15
+  - first:
+      213: -4137513742730083026
+    second: VFX_Move_Block_Counter_16
+  - first:
+      213: 1153118628220413985
+    second: VFX_Move_Block_Counter_17
+  - first:
+      213: 2230847728957167981
+    second: VFX_Move_Block_Counter_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6b3113a55de94b0800000000000000
+      internalID: -5431669517215091010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f62326d145a62dc0800000000000000
+      internalID: -3664059544635234570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d64238e17360590800000000000000
+      internalID: -7708413108009276137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622ce43a6f01106f0800000000000000
+      internalID: -720275813914721754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb014ded3561c890800000000000000
+      internalID: -7439553792791475228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3b1b51a541dfc20800000000000000
+      internalID: 3241769683920204764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540b1adbbb9b25660800000000000000
+      internalID: 7373159755950436421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c2a0165405da130800000000000000
+      internalID: 3579605537740434587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee03351de48a14c0800000000000000
+      internalID: -4315991139083415827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 6
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9d4f682112f2150800000000000000
+      internalID: 5849930804434885100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d8316e58fd2de70800000000000000
+      internalID: 9138612360071843197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a506f5e83a106ff10800000000000000
+      internalID: 2303030061426499674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350b5dd47ff84e250800000000000000
+      internalID: 5973057298125664339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d69611ecd904ad0800000000000000
+      internalID: -2720000666550833807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31a204ecfdfff1c0800000000000000
+      internalID: -4467573042729279173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_15
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bcf4bab6e9c43d0800000000000000
+      internalID: -3221025448203924697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25c6472c299496c0800000000000000
+      internalID: -4137513742730083026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a6fa6843b00010800000000000000
+      internalID: 1153118628220413985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Block_Counter_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d699a70a03095fe10800000000000000
+      internalID: 2230847728957167981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Block_Counter_0: -5431669517215091010
+      VFX_Move_Block_Counter_1: -3664059544635234570
+      VFX_Move_Block_Counter_10: 9138612360071843197
+      VFX_Move_Block_Counter_11: 2303030061426499674
+      VFX_Move_Block_Counter_12: 5973057298125664339
+      VFX_Move_Block_Counter_13: -2720000666550833807
+      VFX_Move_Block_Counter_14: -4467573042729279173
+      VFX_Move_Block_Counter_15: -3221025448203924697
+      VFX_Move_Block_Counter_16: -4137513742730083026
+      VFX_Move_Block_Counter_17: 1153118628220413985
+      VFX_Move_Block_Counter_18: 2230847728957167981
+      VFX_Move_Block_Counter_2: -7708413108009276137
+      VFX_Move_Block_Counter_3: -720275813914721754
+      VFX_Move_Block_Counter_4: -7439553792791475228
+      VFX_Move_Block_Counter_5: 3241769683920204764
+      VFX_Move_Block_Counter_6: 7373159755950436421
+      VFX_Move_Block_Counter_7: 3579605537740434587
+      VFX_Move_Block_Counter_8: -4315991139083415827
+      VFX_Move_Block_Counter_9: 5849930804434885100
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

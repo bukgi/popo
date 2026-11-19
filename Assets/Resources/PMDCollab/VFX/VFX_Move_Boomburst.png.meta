@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 35a1fb59b18237a4c81c18edd65ad3f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -212092601631594887
+    second: VFX_Move_Boomburst_0
+  - first:
+      213: 7428502646315420180
+    second: VFX_Move_Boomburst_1
+  - first:
+      213: 5487534068218349574
+    second: VFX_Move_Boomburst_2
+  - first:
+      213: -4483868318031736785
+    second: VFX_Move_Boomburst_3
+  - first:
+      213: -1800486616403446298
+    second: VFX_Move_Boomburst_4
+  - first:
+      213: -4361558396452674197
+    second: VFX_Move_Boomburst_5
+  - first:
+      213: 357577503228536218
+    second: VFX_Move_Boomburst_6
+  - first:
+      213: -8094717422389821140
+    second: VFX_Move_Boomburst_7
+  - first:
+      213: -2051298690530582212
+    second: VFX_Move_Boomburst_8
+  - first:
+      213: 5808595998428981568
+    second: VFX_Move_Boomburst_9
+  - first:
+      213: -7287401360685816334
+    second: VFX_Move_Boomburst_10
+  - first:
+      213: -4711945991187388227
+    second: VFX_Move_Boomburst_11
+  - first:
+      213: -6966295930461534599
+    second: VFX_Move_Boomburst_12
+  - first:
+      213: -6403725224731034322
+    second: VFX_Move_Boomburst_13
+  - first:
+      213: 8774626672722310690
+    second: VFX_Move_Boomburst_14
+  - first:
+      213: -3932814738733561127
+    second: VFX_Move_Boomburst_15
+  - first:
+      213: -542656143982674378
+    second: VFX_Move_Boomburst_16
+  - first:
+      213: -6145179674102627525
+    second: VFX_Move_Boomburst_17
+  - first:
+      213: -717943173007991357
+    second: VFX_Move_Boomburst_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976a24c07ee7e0df0800000000000000
+      internalID: -212092601631594887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a0ea68cc7571760800000000000000
+      internalID: 7428502646315420180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608420d2923a72c40800000000000000
+      internalID: 5487534068218349574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f201714758916c1c0800000000000000
+      internalID: -4483868318031736785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e57d6636f26307e0800000000000000
+      internalID: -1800486616403446298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65e0583fb1a873c0800000000000000
+      internalID: -4361558396452674197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95ab9b38de56f400800000000000000
+      internalID: 357577503228536218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c210a495469c9af80800000000000000
+      internalID: -8094717422389821140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3163be85b25883e0800000000000000
+      internalID: -2051298690530582212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 6
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0496d1a09474c9050800000000000000
+      internalID: 5808595998428981568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5af90a213fdda90800000000000000
+      internalID: -7287401360685816334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db82372061ecb9eb0800000000000000
+      internalID: -4711945991187388227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9764790a2ceb25f90800000000000000
+      internalID: -6966295930461534599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2db2b426d56127a0800000000000000
+      internalID: -6403725224731034322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226f748087cb5c970800000000000000
+      internalID: 8774626672722310690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_15
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da8d5205d5db69c0800000000000000
+      internalID: -3932814738733561127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ebab6bc191878f0800000000000000
+      internalID: -542656143982674378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33892c15afe7baa0800000000000000
+      internalID: -6145179674102627525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boomburst_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd11fbec7a5906f0800000000000000
+      internalID: -717943173007991357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Boomburst_0: -212092601631594887
+      VFX_Move_Boomburst_1: 7428502646315420180
+      VFX_Move_Boomburst_10: -7287401360685816334
+      VFX_Move_Boomburst_11: -4711945991187388227
+      VFX_Move_Boomburst_12: -6966295930461534599
+      VFX_Move_Boomburst_13: -6403725224731034322
+      VFX_Move_Boomburst_14: 8774626672722310690
+      VFX_Move_Boomburst_15: -3932814738733561127
+      VFX_Move_Boomburst_16: -542656143982674378
+      VFX_Move_Boomburst_17: -6145179674102627525
+      VFX_Move_Boomburst_18: -717943173007991357
+      VFX_Move_Boomburst_2: 5487534068218349574
+      VFX_Move_Boomburst_3: -4483868318031736785
+      VFX_Move_Boomburst_4: -1800486616403446298
+      VFX_Move_Boomburst_5: -4361558396452674197
+      VFX_Move_Boomburst_6: 357577503228536218
+      VFX_Move_Boomburst_7: -8094717422389821140
+      VFX_Move_Boomburst_8: -2051298690530582212
+      VFX_Move_Boomburst_9: 5808595998428981568
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

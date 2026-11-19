@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 799180aa5e6d3c440b971126bb461369
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4900226560707980805
+    second: VFX_Move_Thunder_Fang_0
+  - first:
+      213: 2025299406168560252
+    second: VFX_Move_Thunder_Fang_1
+  - first:
+      213: -2795780281425833887
+    second: VFX_Move_Thunder_Fang_2
+  - first:
+      213: 7811947765178653072
+    second: VFX_Move_Thunder_Fang_3
+  - first:
+      213: -3402162418456184226
+    second: VFX_Move_Thunder_Fang_4
+  - first:
+      213: -6865374309828606789
+    second: VFX_Move_Thunder_Fang_5
+  - first:
+      213: -1487278801328702955
+    second: VFX_Move_Thunder_Fang_6
+  - first:
+      213: -5093258987705950420
+    second: VFX_Move_Thunder_Fang_7
+  - first:
+      213: -5774062268370241681
+    second: VFX_Move_Thunder_Fang_8
+  - first:
+      213: -2704592953102205152
+    second: VFX_Move_Thunder_Fang_9
+  - first:
+      213: 3520191389497286428
+    second: VFX_Move_Thunder_Fang_10
+  - first:
+      213: 4068824947078245871
+    second: VFX_Move_Thunder_Fang_11
+  - first:
+      213: 2816141789812248492
+    second: VFX_Move_Thunder_Fang_12
+  - first:
+      213: 2330456426658733385
+    second: VFX_Move_Thunder_Fang_13
+  - first:
+      213: 7460990392068287241
+    second: VFX_Move_Thunder_Fang_14
+  - first:
+      213: 3622968815548641438
+    second: VFX_Move_Thunder_Fang_15
+  - first:
+      213: -8887689163297561883
+    second: VFX_Move_Thunder_Fang_16
+  - first:
+      213: 3408686245976139516
+    second: VFX_Move_Thunder_Fang_17
+  - first:
+      213: 1217218195379878820
+    second: VFX_Move_Thunder_Fang_18
+  - first:
+      213: 2419120479721492851
+    second: VFX_Move_Thunder_Fang_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf11112d7e5eefbb0800000000000000
+      internalID: -4900226560707980805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c729c74541f4b1c10800000000000000
+      internalID: 2025299406168560252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160529f85a46339d0800000000000000
+      internalID: -2795780281425833887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099516b5a1d996c60800000000000000
+      internalID: 7811947765178653072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a3cbb4e4719c0d0800000000000000
+      internalID: -3402162418456184226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4c294807a49b0a0800000000000000
+      internalID: -6865374309828606789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a75d46fcf1c5be0800000000000000
+      internalID: -1487278801328702955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f98b89feb1159b0800000000000000
+      internalID: -5093258987705950420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 10
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f673ece85f86edfa0800000000000000
+      internalID: -5774062268370241681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 11
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7158e90b577ad0800000000000000
+      internalID: -2704592953102205152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 12
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fdf500b6b3ad030800000000000000
+      internalID: 3520191389497286428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 13
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda8d75bbe577830800000000000000
+      internalID: 4068824947078245871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 13
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf44ea8902f41720800000000000000
+      internalID: 2816141789812248492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d1583d5c1775020800000000000000
+      internalID: 2330456426658733385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 13
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b25d74b33ca8760800000000000000
+      internalID: 7460990392068287241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 13
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90381341fe574230800000000000000
+      internalID: 3622968815548641438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 13
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e26f838bc598a480800000000000000
+      internalID: -8887689163297561883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 12
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6ea2aa4161e4f20800000000000000
+      internalID: 3408686245976139516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 10
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab72c5ef7d64e010800000000000000
+      internalID: 1217218195379878820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Fang_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 10
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3711cae5241729120800000000000000
+      internalID: 2419120479721492851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Thunder_Fang_0: -4900226560707980805
+      VFX_Move_Thunder_Fang_1: 2025299406168560252
+      VFX_Move_Thunder_Fang_10: 3520191389497286428
+      VFX_Move_Thunder_Fang_11: 4068824947078245871
+      VFX_Move_Thunder_Fang_12: 2816141789812248492
+      VFX_Move_Thunder_Fang_13: 2330456426658733385
+      VFX_Move_Thunder_Fang_14: 7460990392068287241
+      VFX_Move_Thunder_Fang_15: 3622968815548641438
+      VFX_Move_Thunder_Fang_16: -8887689163297561883
+      VFX_Move_Thunder_Fang_17: 3408686245976139516
+      VFX_Move_Thunder_Fang_18: 1217218195379878820
+      VFX_Move_Thunder_Fang_19: 2419120479721492851
+      VFX_Move_Thunder_Fang_2: -2795780281425833887
+      VFX_Move_Thunder_Fang_3: 7811947765178653072
+      VFX_Move_Thunder_Fang_4: -3402162418456184226
+      VFX_Move_Thunder_Fang_5: -6865374309828606789
+      VFX_Move_Thunder_Fang_6: -1487278801328702955
+      VFX_Move_Thunder_Fang_7: -5093258987705950420
+      VFX_Move_Thunder_Fang_8: -5774062268370241681
+      VFX_Move_Thunder_Fang_9: -2704592953102205152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

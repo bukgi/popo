@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: ddbf6d1311fb5354081eb155610845de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8463010952645237279
+    second: VFX_Move_Phoenix_Wing_0
+  - first:
+      213: 5427351724873890726
+    second: VFX_Move_Phoenix_Wing_1
+  - first:
+      213: -4969987052941115728
+    second: VFX_Move_Phoenix_Wing_2
+  - first:
+      213: 8496353477716626183
+    second: VFX_Move_Phoenix_Wing_3
+  - first:
+      213: 4931663210379398729
+    second: VFX_Move_Phoenix_Wing_4
+  - first:
+      213: 2161242766382810819
+    second: VFX_Move_Phoenix_Wing_5
+  - first:
+      213: 8698796977687381841
+    second: VFX_Move_Phoenix_Wing_6
+  - first:
+      213: 5665463588742317945
+    second: VFX_Move_Phoenix_Wing_7
+  - first:
+      213: 4808832133964721765
+    second: VFX_Move_Phoenix_Wing_8
+  - first:
+      213: -6312940262380647596
+    second: VFX_Move_Phoenix_Wing_9
+  - first:
+      213: 3224206937907757424
+    second: VFX_Move_Phoenix_Wing_10
+  - first:
+      213: 3961368492505410750
+    second: VFX_Move_Phoenix_Wing_11
+  - first:
+      213: 6587874029093999296
+    second: VFX_Move_Phoenix_Wing_12
+  - first:
+      213: 5568268724797266038
+    second: VFX_Move_Phoenix_Wing_13
+  - first:
+      213: 5120530095242498231
+    second: VFX_Move_Phoenix_Wing_14
+  - first:
+      213: -8694078969499032842
+    second: VFX_Move_Phoenix_Wing_15
+  - first:
+      213: 7064656400138232045
+    second: VFX_Move_Phoenix_Wing_16
+  - first:
+      213: -6352881579578993763
+    second: VFX_Move_Phoenix_Wing_17
+  - first:
+      213: -8894687427319594045
+    second: VFX_Move_Phoenix_Wing_18
+  - first:
+      213: 4028571739754849931
+    second: VFX_Move_Phoenix_Wing_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e52755a0685d8a80800000000000000
+      internalID: -8463010952645237279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 12
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab363073a3d15b40800000000000000
+      internalID: 5427351724873890726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be77238b1f070bb0800000000000000
+      internalID: -4969987052941115728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 7
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b447de87c19e570800000000000000
+      internalID: 8496353477716626183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 6
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ec68e8f89c07440800000000000000
+      internalID: 4931663210379398729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 5
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c641a368d64efd10800000000000000
+      internalID: 2161242766382810819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 5
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1574c4453c558b870800000000000000
+      internalID: 8698796977687381841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 6
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97745e6fd15cf9e40800000000000000
+      internalID: 5665463588742317945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e6379f8576cb240800000000000000
+      internalID: 4808832133964721765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 8
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b4a8c574ee368a0800000000000000
+      internalID: -6312940262380647596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 9
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0718750a02faebc20800000000000000
+      internalID: 3224206937907757424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebca53cd7ab99f630800000000000000
+      internalID: 3961368492505410750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_12
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 9
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c25b218684dc6b50800000000000000
+      internalID: 6587874029093999296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 9
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678557b37e6764d40800000000000000
+      internalID: 5568268724797266038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 10
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b050acedf6cf0740800000000000000
+      internalID: 5120530095242498231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 11
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2e0dd8d3d685780800000000000000
+      internalID: -8694078969499032842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 12
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0ed66d093ba0260800000000000000
+      internalID: 7064656400138232045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 10
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d935215ccd706d7a0800000000000000
+      internalID: -6352881579578993763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_18
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c38b7239e8bf8480800000000000000
+      internalID: -8894687427319594045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phoenix_Wing_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 6
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86e34c27ac58e730800000000000000
+      internalID: 4028571739754849931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Phoenix_Wing_0: -8463010952645237279
+      VFX_Move_Phoenix_Wing_1: 5427351724873890726
+      VFX_Move_Phoenix_Wing_10: 3224206937907757424
+      VFX_Move_Phoenix_Wing_11: 3961368492505410750
+      VFX_Move_Phoenix_Wing_12: 6587874029093999296
+      VFX_Move_Phoenix_Wing_13: 5568268724797266038
+      VFX_Move_Phoenix_Wing_14: 5120530095242498231
+      VFX_Move_Phoenix_Wing_15: -8694078969499032842
+      VFX_Move_Phoenix_Wing_16: 7064656400138232045
+      VFX_Move_Phoenix_Wing_17: -6352881579578993763
+      VFX_Move_Phoenix_Wing_18: -8894687427319594045
+      VFX_Move_Phoenix_Wing_19: 4028571739754849931
+      VFX_Move_Phoenix_Wing_2: -4969987052941115728
+      VFX_Move_Phoenix_Wing_3: 8496353477716626183
+      VFX_Move_Phoenix_Wing_4: 4931663210379398729
+      VFX_Move_Phoenix_Wing_5: 2161242766382810819
+      VFX_Move_Phoenix_Wing_6: 8698796977687381841
+      VFX_Move_Phoenix_Wing_7: 5665463588742317945
+      VFX_Move_Phoenix_Wing_8: 4808832133964721765
+      VFX_Move_Phoenix_Wing_9: -6312940262380647596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

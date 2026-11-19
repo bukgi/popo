@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f15b5450a47e10c4a92d2f41244cdb45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4803945723034672850
+    second: VFX_Move_Electroweb_0
+  - first:
+      213: 4036545177007662985
+    second: VFX_Move_Electroweb_1
+  - first:
+      213: 1140202208916226830
+    second: VFX_Move_Electroweb_2
+  - first:
+      213: -4772181118351548656
+    second: VFX_Move_Electroweb_3
+  - first:
+      213: 2280325255807165656
+    second: VFX_Move_Electroweb_4
+  - first:
+      213: -4737382458324538899
+    second: VFX_Move_Electroweb_5
+  - first:
+      213: 8265714530245260688
+    second: VFX_Move_Electroweb_6
+  - first:
+      213: -3802516053019664757
+    second: VFX_Move_Electroweb_7
+  - first:
+      213: -9072843730602932908
+    second: VFX_Move_Electroweb_8
+  - first:
+      213: -8278912237610203176
+    second: VFX_Move_Electroweb_9
+  - first:
+      213: 1223565898871063481
+    second: VFX_Move_Electroweb_10
+  - first:
+      213: 1879847097565156315
+    second: VFX_Move_Electroweb_11
+  - first:
+      213: 1063411905420839053
+    second: VFX_Move_Electroweb_12
+  - first:
+      213: 8914443608456659689
+    second: VFX_Move_Electroweb_13
+  - first:
+      213: 5449384252984352457
+    second: VFX_Move_Electroweb_14
+  - first:
+      213: -5209177020479897763
+    second: VFX_Move_Electroweb_15
+  - first:
+      213: -8431569108658728625
+    second: VFX_Move_Electroweb_16
+  - first:
+      213: 5647397323705342378
+    second: VFX_Move_Electroweb_17
+  - first:
+      213: 2965021279657200349
+    second: VFX_Move_Electroweb_18
+  - first:
+      213: 7059718001743470974
+    second: VFX_Move_Electroweb_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21e24a31d4f45db0800000000000000
+      internalID: -4803945723034672850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ab53b370b40830800000000000000
+      internalID: 4036545177007662985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0341923edfc2df00800000000000000
+      internalID: 1140202208916226830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f54d49e8ec5cdb0800000000000000
+      internalID: -4772181118351548656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4ecbc0db755af10800000000000000
+      internalID: 2280325255807165656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9266ef0cf614eb0800000000000000
+      internalID: -4737382458324538899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095bd065297b5b270800000000000000
+      internalID: 8265714530245260688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eda0fdbcfba3bc0800000000000000
+      internalID: -3802516053019664757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45548ce62b8c61280800000000000000
+      internalID: -9072843730602932908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 5
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d70c96fe256b1d80800000000000000
+      internalID: -8278912237610203176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3cd79c3bafaf010800000000000000
+      internalID: 1223565898871063481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd39b62b9fe861a10800000000000000
+      internalID: 1879847097565156315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88c7886e7ff1ce00800000000000000
+      internalID: 1063411905420839053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e28f4c2b3776bb70800000000000000
+      internalID: 8914443608456659689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce5db32b1a10ab40800000000000000
+      internalID: 5449384252984352457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ffa2a691945b7b0800000000000000
+      internalID: -5209177020479897763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 5
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f415d3b619c0dfa80800000000000000
+      internalID: -8431569108658728625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 4
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9d2f8d1f59f5e40800000000000000
+      internalID: 5647397323705342378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda017df42fd52920800000000000000
+      internalID: 2965021279657200349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electroweb_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71a95c5e1829f160800000000000000
+      internalID: 7059718001743470974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Electroweb_0: -4803945723034672850
+      VFX_Move_Electroweb_1: 4036545177007662985
+      VFX_Move_Electroweb_10: 1223565898871063481
+      VFX_Move_Electroweb_11: 1879847097565156315
+      VFX_Move_Electroweb_12: 1063411905420839053
+      VFX_Move_Electroweb_13: 8914443608456659689
+      VFX_Move_Electroweb_14: 5449384252984352457
+      VFX_Move_Electroweb_15: -5209177020479897763
+      VFX_Move_Electroweb_16: -8431569108658728625
+      VFX_Move_Electroweb_17: 5647397323705342378
+      VFX_Move_Electroweb_18: 2965021279657200349
+      VFX_Move_Electroweb_19: 7059718001743470974
+      VFX_Move_Electroweb_2: 1140202208916226830
+      VFX_Move_Electroweb_3: -4772181118351548656
+      VFX_Move_Electroweb_4: 2280325255807165656
+      VFX_Move_Electroweb_5: -4737382458324538899
+      VFX_Move_Electroweb_6: 8265714530245260688
+      VFX_Move_Electroweb_7: -3802516053019664757
+      VFX_Move_Electroweb_8: -9072843730602932908
+      VFX_Move_Electroweb_9: -8278912237610203176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

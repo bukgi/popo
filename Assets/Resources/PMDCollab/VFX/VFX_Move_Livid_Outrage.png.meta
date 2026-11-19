@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 84e04207a4af7594b8369f595d4d045a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8525372148867989817
+    second: VFX_Move_Livid_Outrage_0
+  - first:
+      213: -2033350436629017836
+    second: VFX_Move_Livid_Outrage_1
+  - first:
+      213: 5784268935500957382
+    second: VFX_Move_Livid_Outrage_2
+  - first:
+      213: -8655660981247628909
+    second: VFX_Move_Livid_Outrage_3
+  - first:
+      213: -6790925647185620455
+    second: VFX_Move_Livid_Outrage_4
+  - first:
+      213: -922566354549581662
+    second: VFX_Move_Livid_Outrage_5
+  - first:
+      213: -4519204066775375426
+    second: VFX_Move_Livid_Outrage_6
+  - first:
+      213: 771336534846792015
+    second: VFX_Move_Livid_Outrage_7
+  - first:
+      213: 1811828288926993400
+    second: VFX_Move_Livid_Outrage_8
+  - first:
+      213: -4795416553501385683
+    second: VFX_Move_Livid_Outrage_9
+  - first:
+      213: -1543864806855848161
+    second: VFX_Move_Livid_Outrage_10
+  - first:
+      213: -480156135279202969
+    second: VFX_Move_Livid_Outrage_11
+  - first:
+      213: 6919578923111460431
+    second: VFX_Move_Livid_Outrage_12
+  - first:
+      213: -7765730108943372500
+    second: VFX_Move_Livid_Outrage_13
+  - first:
+      213: 4116295226594049231
+    second: VFX_Move_Livid_Outrage_14
+  - first:
+      213: 2425694487720264097
+    second: VFX_Move_Livid_Outrage_15
+  - first:
+      213: -2031959957665923389
+    second: VFX_Move_Livid_Outrage_16
+  - first:
+      213: 3553072851004766538
+    second: VFX_Move_Livid_Outrage_17
+  - first:
+      213: 6924113052281612547
+    second: VFX_Move_Livid_Outrage_18
+  - first:
+      213: 1986904345228814334
+    second: VFX_Move_Livid_Outrage_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cef6b0333bcfa980800000000000000
+      internalID: -8525372148867989817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b87d01d8618c3e0800000000000000
+      internalID: -2033350436629017836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c68cd153f9d54050800000000000000
+      internalID: 5784268935500957382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399a68c723ae0e780800000000000000
+      internalID: -8655660981247628909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912596f8a19c1c1a0800000000000000
+      internalID: -6790925647185620455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8585bd9c26233f0800000000000000
+      internalID: -922566354549581662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb16a5458df8841c0800000000000000
+      internalID: -4519204066775375426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41e2d1ed7654ba00800000000000000
+      internalID: 771336534846792015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb4f73ba38e42910800000000000000
+      internalID: 1811828288926993400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c95824d02437db0800000000000000
+      internalID: -4795416553501385683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f412e4327139ae0800000000000000
+      internalID: -1543864806855848161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 0
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d65f7f9842659f0800000000000000
+      internalID: -480156135279202969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea65b7e58470060800000000000000
+      internalID: 6919578923111460431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fefda4c959a3490800000000000000
+      internalID: -7765730108943372500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc36c313b4002930800000000000000
+      internalID: 4116295226594049231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_15
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a18032e84cc9a120800000000000000
+      internalID: 2425694487720264097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 6
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce318d2f270dc3e0800000000000000
+      internalID: -2031959957665923389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 7
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a493939deec0f4130800000000000000
+      internalID: 3553072851004766538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 9
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30924e1b224671060800000000000000
+      internalID: 6924113052281612547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Livid_Outrage_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 10
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef72b0499f6e29b10800000000000000
+      internalID: 1986904345228814334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Livid_Outrage_0: -8525372148867989817
+      VFX_Move_Livid_Outrage_1: -2033350436629017836
+      VFX_Move_Livid_Outrage_10: -1543864806855848161
+      VFX_Move_Livid_Outrage_11: -480156135279202969
+      VFX_Move_Livid_Outrage_12: 6919578923111460431
+      VFX_Move_Livid_Outrage_13: -7765730108943372500
+      VFX_Move_Livid_Outrage_14: 4116295226594049231
+      VFX_Move_Livid_Outrage_15: 2425694487720264097
+      VFX_Move_Livid_Outrage_16: -2031959957665923389
+      VFX_Move_Livid_Outrage_17: 3553072851004766538
+      VFX_Move_Livid_Outrage_18: 6924113052281612547
+      VFX_Move_Livid_Outrage_19: 1986904345228814334
+      VFX_Move_Livid_Outrage_2: 5784268935500957382
+      VFX_Move_Livid_Outrage_3: -8655660981247628909
+      VFX_Move_Livid_Outrage_4: -6790925647185620455
+      VFX_Move_Livid_Outrage_5: -922566354549581662
+      VFX_Move_Livid_Outrage_6: -4519204066775375426
+      VFX_Move_Livid_Outrage_7: 771336534846792015
+      VFX_Move_Livid_Outrage_8: 1811828288926993400
+      VFX_Move_Livid_Outrage_9: -4795416553501385683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

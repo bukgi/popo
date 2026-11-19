@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 242f80fed48d8aa4381a5c451c4c5672
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8670015798635788938
+    second: VFX_Move_Spatial_Origin_Pulse_0
+  - first:
+      213: 3390913922842651445
+    second: VFX_Move_Spatial_Origin_Pulse_1
+  - first:
+      213: -1354319044481242725
+    second: VFX_Move_Spatial_Origin_Pulse_2
+  - first:
+      213: 3421927655337200010
+    second: VFX_Move_Spatial_Origin_Pulse_3
+  - first:
+      213: 113692133410079082
+    second: VFX_Move_Spatial_Origin_Pulse_4
+  - first:
+      213: 3494557963013629146
+    second: VFX_Move_Spatial_Origin_Pulse_5
+  - first:
+      213: -2573280169282940534
+    second: VFX_Move_Spatial_Origin_Pulse_6
+  - first:
+      213: -3319995707804442030
+    second: VFX_Move_Spatial_Origin_Pulse_7
+  - first:
+      213: -5940596954063982268
+    second: VFX_Move_Spatial_Origin_Pulse_8
+  - first:
+      213: 8465778615136501839
+    second: VFX_Move_Spatial_Origin_Pulse_9
+  - first:
+      213: 7673736211320224255
+    second: VFX_Move_Spatial_Origin_Pulse_10
+  - first:
+      213: 6792506052424986924
+    second: VFX_Move_Spatial_Origin_Pulse_11
+  - first:
+      213: -8813183085224588786
+    second: VFX_Move_Spatial_Origin_Pulse_12
+  - first:
+      213: 1224144590203617498
+    second: VFX_Move_Spatial_Origin_Pulse_13
+  - first:
+      213: 4707581149711673764
+    second: VFX_Move_Spatial_Origin_Pulse_14
+  - first:
+      213: 5172401807035771590
+    second: VFX_Move_Spatial_Origin_Pulse_15
+  - first:
+      213: 6573161803116515824
+    second: VFX_Move_Spatial_Origin_Pulse_16
+  - first:
+      213: 4028080336586841984
+    second: VFX_Move_Spatial_Origin_Pulse_17
+  - first:
+      213: -9116990672599486828
+    second: VFX_Move_Spatial_Origin_Pulse_18
+  - first:
+      213: -4078715418230284559
+    second: VFX_Move_Spatial_Origin_Pulse_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8af5b2ee65125870800000000000000
+      internalID: 8670015798635788938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b66fa3f32fe0f20800000000000000
+      internalID: 3390913922842651445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b992629210e743de0800000000000000
+      internalID: -1354319044481242725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89857782112d7f20800000000000000
+      internalID: 3421927655337200010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a610aa9946ae39100800000000000000
+      internalID: 113692133410079082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4a070d3f92f7030800000000000000
+      internalID: 3494557963013629146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a815552e15fd94cd0800000000000000
+      internalID: -2573280169282940534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252ae7c6e710de1d0800000000000000
+      internalID: -3319995707804442030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441bf3f7b82ce8da0800000000000000
+      internalID: -5940596954063982268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 9
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f404f4efbcc7c7570800000000000000
+      internalID: 8465778615136501839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff93bcf4d669e7a60800000000000000
+      internalID: 7673736211320224255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c217b753444d34e50800000000000000
+      internalID: 6792506052424986924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a05b0ada841b580800000000000000
+      internalID: -8813183085224588786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad08dccd4090df010800000000000000
+      internalID: 1224144590203617498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a3e32d10b45140800000000000000
+      internalID: 4707581149711673764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caa4f7f90018c740800000000000000
+      internalID: 5172401807035771590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f11de575df883b50800000000000000
+      internalID: 6573161803116515824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 8
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f9ef479bd96e730800000000000000
+      internalID: 4028080336586841984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 7
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e68238941f97180800000000000000
+      internalID: -9116990672599486828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Spatial_Origin_Pulse_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 6
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe9974efed7567c0800000000000000
+      internalID: -4078715418230284559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Spatial_Origin_Pulse_0: 8670015798635788938
+      VFX_Move_Spatial_Origin_Pulse_1: 3390913922842651445
+      VFX_Move_Spatial_Origin_Pulse_10: 7673736211320224255
+      VFX_Move_Spatial_Origin_Pulse_11: 6792506052424986924
+      VFX_Move_Spatial_Origin_Pulse_12: -8813183085224588786
+      VFX_Move_Spatial_Origin_Pulse_13: 1224144590203617498
+      VFX_Move_Spatial_Origin_Pulse_14: 4707581149711673764
+      VFX_Move_Spatial_Origin_Pulse_15: 5172401807035771590
+      VFX_Move_Spatial_Origin_Pulse_16: 6573161803116515824
+      VFX_Move_Spatial_Origin_Pulse_17: 4028080336586841984
+      VFX_Move_Spatial_Origin_Pulse_18: -9116990672599486828
+      VFX_Move_Spatial_Origin_Pulse_19: -4078715418230284559
+      VFX_Move_Spatial_Origin_Pulse_2: -1354319044481242725
+      VFX_Move_Spatial_Origin_Pulse_3: 3421927655337200010
+      VFX_Move_Spatial_Origin_Pulse_4: 113692133410079082
+      VFX_Move_Spatial_Origin_Pulse_5: 3494557963013629146
+      VFX_Move_Spatial_Origin_Pulse_6: -2573280169282940534
+      VFX_Move_Spatial_Origin_Pulse_7: -3319995707804442030
+      VFX_Move_Spatial_Origin_Pulse_8: -5940596954063982268
+      VFX_Move_Spatial_Origin_Pulse_9: 8465778615136501839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 1a3ec78ac8adc064588429ee1c5329f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3051450162135375861
+    second: VFX_Move_Waterfall_Slam_0
+  - first:
+      213: 1233085898824465246
+    second: VFX_Move_Waterfall_Slam_1
+  - first:
+      213: -3850039984259054161
+    second: VFX_Move_Waterfall_Slam_2
+  - first:
+      213: 6104444493605437342
+    second: VFX_Move_Waterfall_Slam_3
+  - first:
+      213: -8818419066660158292
+    second: VFX_Move_Waterfall_Slam_4
+  - first:
+      213: -8792505403809546
+    second: VFX_Move_Waterfall_Slam_5
+  - first:
+      213: -818435757210407725
+    second: VFX_Move_Waterfall_Slam_6
+  - first:
+      213: 2095643328750566978
+    second: VFX_Move_Waterfall_Slam_7
+  - first:
+      213: -8597843169305189597
+    second: VFX_Move_Waterfall_Slam_8
+  - first:
+      213: -6425649192518711131
+    second: VFX_Move_Waterfall_Slam_9
+  - first:
+      213: 1129830138771080893
+    second: VFX_Move_Waterfall_Slam_10
+  - first:
+      213: -7241067925564910238
+    second: VFX_Move_Waterfall_Slam_11
+  - first:
+      213: -2253509839820087525
+    second: VFX_Move_Waterfall_Slam_12
+  - first:
+      213: -1156075461265845435
+    second: VFX_Move_Waterfall_Slam_13
+  - first:
+      213: -3169672604378063251
+    second: VFX_Move_Waterfall_Slam_14
+  - first:
+      213: -2668997311920606454
+    second: VFX_Move_Waterfall_Slam_15
+  - first:
+      213: -1843224299421216050
+    second: VFX_Move_Waterfall_Slam_16
+  - first:
+      213: 7043242326850709170
+    second: VFX_Move_Waterfall_Slam_17
+  - first:
+      213: -4684174126591668149
+    second: VFX_Move_Waterfall_Slam_18
+  - first:
+      213: -7764351279695837477
+    second: VFX_Move_Waterfall_Slam_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff13e351cde85a20800000000000000
+      internalID: 3051450162135375861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bb9f0871dcc1110800000000000000
+      internalID: 1233085898824465246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5403f5809e19ac0800000000000000
+      internalID: -3850039984259054161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ff0789ce757b450800000000000000
+      internalID: 6104444493605437342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca48033b49eae9580800000000000000
+      internalID: -8818419066660158292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f068be4343c0eff0800000000000000
+      internalID: -8792505403809546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dceefbd30554a4f0800000000000000
+      internalID: -818435757210407725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e381a1188351d10800000000000000
+      internalID: 2095643328750566978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323ab0bd0335ea880800000000000000
+      internalID: -8597843169305189597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a885ac9a1283d6a0800000000000000
+      internalID: -6425649192518711131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db60bfd6686fdaf00800000000000000
+      internalID: 1129830138771080893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 5
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2659a36261f828b90800000000000000
+      internalID: -7241067925564910238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 6
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f1da38dbce9b0e0800000000000000
+      internalID: -2253509839820087525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 6
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54314bd3e7bc4ffe0800000000000000
+      internalID: -1156075461265845435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 5
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e12c95f8f0304d0800000000000000
+      internalID: -3169672604378063251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 6
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03ff74f511d5fad0800000000000000
+      internalID: -2668997311920606454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec251a7f34d8b66e0800000000000000
+      internalID: -1843224299421216050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 4
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6aeee549f9eb160800000000000000
+      internalID: 7043242326850709170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b409d6e13787efeb0800000000000000
+      internalID: -4684174126591668149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Waterfall_Slam_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 2
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6416ef5ab7f3490800000000000000
+      internalID: -7764351279695837477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Waterfall_Slam_0: 3051450162135375861
+      VFX_Move_Waterfall_Slam_1: 1233085898824465246
+      VFX_Move_Waterfall_Slam_10: 1129830138771080893
+      VFX_Move_Waterfall_Slam_11: -7241067925564910238
+      VFX_Move_Waterfall_Slam_12: -2253509839820087525
+      VFX_Move_Waterfall_Slam_13: -1156075461265845435
+      VFX_Move_Waterfall_Slam_14: -3169672604378063251
+      VFX_Move_Waterfall_Slam_15: -2668997311920606454
+      VFX_Move_Waterfall_Slam_16: -1843224299421216050
+      VFX_Move_Waterfall_Slam_17: 7043242326850709170
+      VFX_Move_Waterfall_Slam_18: -4684174126591668149
+      VFX_Move_Waterfall_Slam_19: -7764351279695837477
+      VFX_Move_Waterfall_Slam_2: -3850039984259054161
+      VFX_Move_Waterfall_Slam_3: 6104444493605437342
+      VFX_Move_Waterfall_Slam_4: -8818419066660158292
+      VFX_Move_Waterfall_Slam_5: -8792505403809546
+      VFX_Move_Waterfall_Slam_6: -818435757210407725
+      VFX_Move_Waterfall_Slam_7: 2095643328750566978
+      VFX_Move_Waterfall_Slam_8: -8597843169305189597
+      VFX_Move_Waterfall_Slam_9: -6425649192518711131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 487bbe817bd8f3a4eb796ac6515d381f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 16924426989301521
+    second: VFX_Move_Dark_Fissure_0
+  - first:
+      213: 5335180149532707985
+    second: VFX_Move_Dark_Fissure_1
+  - first:
+      213: 1318373078096743817
+    second: VFX_Move_Dark_Fissure_2
+  - first:
+      213: 3043168751233564026
+    second: VFX_Move_Dark_Fissure_3
+  - first:
+      213: 7409896282367190759
+    second: VFX_Move_Dark_Fissure_4
+  - first:
+      213: -5054680047506154913
+    second: VFX_Move_Dark_Fissure_5
+  - first:
+      213: -255764352249574125
+    second: VFX_Move_Dark_Fissure_6
+  - first:
+      213: 6390826509704288616
+    second: VFX_Move_Dark_Fissure_7
+  - first:
+      213: -4826424337440097393
+    second: VFX_Move_Dark_Fissure_8
+  - first:
+      213: -3521423217360675892
+    second: VFX_Move_Dark_Fissure_9
+  - first:
+      213: -4164171060292839165
+    second: VFX_Move_Dark_Fissure_10
+  - first:
+      213: -1824382177943167001
+    second: VFX_Move_Dark_Fissure_11
+  - first:
+      213: -7991850744711177602
+    second: VFX_Move_Dark_Fissure_12
+  - first:
+      213: 6516757651016956959
+    second: VFX_Move_Dark_Fissure_13
+  - first:
+      213: 4951984256427660240
+    second: VFX_Move_Dark_Fissure_14
+  - first:
+      213: -2191553578717741256
+    second: VFX_Move_Dark_Fissure_15
+  - first:
+      213: -5980969964315713914
+    second: VFX_Move_Dark_Fissure_16
+  - first:
+      213: 7003514236864768055
+    second: VFX_Move_Dark_Fissure_17
+  - first:
+      213: 4867224933693199446
+    second: VFX_Move_Dark_Fissure_18
+  - first:
+      213: -4595820636646182734
+    second: VFX_Move_Dark_Fissure_19
+  - first:
+      213: -7278446867871166252
+    second: VFX_Move_Dark_Fissure_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f69ba3da02c3000800000000000000
+      internalID: 16924426989301521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ccc99341e5a0a40800000000000000
+      internalID: 5335180149532707985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d0569545dcb4210800000000000000
+      internalID: 1318373078096743817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d78d81bd18b3a20800000000000000
+      internalID: 3043168751233564026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6ebf4d86d35d660800000000000000
+      internalID: 7409896282367190759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a1423174b2ad9b0800000000000000
+      internalID: -5054680047506154913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc4fd3da7537cf0800000000000000
+      internalID: -255764352249574125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869d21cb9d6c0b850800000000000000
+      internalID: 6390826509704288616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b3597f2a8150db0800000000000000
+      internalID: -4826424337440097393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb5769bd34612fc0800000000000000
+      internalID: -3521423217360675892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309984fbb74e536c0800000000000000
+      internalID: -4164171060292839165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efd42d331e7ea6e0800000000000000
+      internalID: -1824382177943167001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a9c8f171e371190800000000000000
+      internalID: -7991850744711177602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cbc2c6e8c207a50800000000000000
+      internalID: 6516757651016956959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d392b9c17bf8b440800000000000000
+      internalID: 4951984256427660240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ffa4aa1a90691e0800000000000000
+      internalID: -2191553578717741256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e5ea881835ffca0800000000000000
+      internalID: -5980969964315713914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 0
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73827bb971b713160800000000000000
+      internalID: 7003514236864768055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65415be1a4bdb8340800000000000000
+      internalID: 4867224933693199446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b07b4d0b7d5830c0800000000000000
+      internalID: -4595820636646182734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Fissure_20
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d01cf3f223cdfa90800000000000000
+      internalID: -7278446867871166252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dark_Fissure_0: 16924426989301521
+      VFX_Move_Dark_Fissure_1: 5335180149532707985
+      VFX_Move_Dark_Fissure_10: -4164171060292839165
+      VFX_Move_Dark_Fissure_11: -1824382177943167001
+      VFX_Move_Dark_Fissure_12: -7991850744711177602
+      VFX_Move_Dark_Fissure_13: 6516757651016956959
+      VFX_Move_Dark_Fissure_14: 4951984256427660240
+      VFX_Move_Dark_Fissure_15: -2191553578717741256
+      VFX_Move_Dark_Fissure_16: -5980969964315713914
+      VFX_Move_Dark_Fissure_17: 7003514236864768055
+      VFX_Move_Dark_Fissure_18: 4867224933693199446
+      VFX_Move_Dark_Fissure_19: -4595820636646182734
+      VFX_Move_Dark_Fissure_2: 1318373078096743817
+      VFX_Move_Dark_Fissure_20: -7278446867871166252
+      VFX_Move_Dark_Fissure_3: 3043168751233564026
+      VFX_Move_Dark_Fissure_4: 7409896282367190759
+      VFX_Move_Dark_Fissure_5: -5054680047506154913
+      VFX_Move_Dark_Fissure_6: -255764352249574125
+      VFX_Move_Dark_Fissure_7: 6390826509704288616
+      VFX_Move_Dark_Fissure_8: -4826424337440097393
+      VFX_Move_Dark_Fissure_9: -3521423217360675892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

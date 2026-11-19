@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 71e5644f4296c88438d37c333fb977f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5136693590689526985
+    second: VFX_Move_Meteor_Mash_0
+  - first:
+      213: -5779950247524294351
+    second: VFX_Move_Meteor_Mash_1
+  - first:
+      213: 414464193157884161
+    second: VFX_Move_Meteor_Mash_2
+  - first:
+      213: 170747231145093586
+    second: VFX_Move_Meteor_Mash_3
+  - first:
+      213: -658398231723491685
+    second: VFX_Move_Meteor_Mash_4
+  - first:
+      213: 5254311668406178718
+    second: VFX_Move_Meteor_Mash_5
+  - first:
+      213: 7809126576896202606
+    second: VFX_Move_Meteor_Mash_6
+  - first:
+      213: 751182323401732612
+    second: VFX_Move_Meteor_Mash_7
+  - first:
+      213: 5951525232962015203
+    second: VFX_Move_Meteor_Mash_8
+  - first:
+      213: 372937536840531298
+    second: VFX_Move_Meteor_Mash_9
+  - first:
+      213: 5836471918818744349
+    second: VFX_Move_Meteor_Mash_10
+  - first:
+      213: 1614976914172053743
+    second: VFX_Move_Meteor_Mash_11
+  - first:
+      213: -6800770441718459616
+    second: VFX_Move_Meteor_Mash_12
+  - first:
+      213: 8614116669360727335
+    second: VFX_Move_Meteor_Mash_13
+  - first:
+      213: 6465057831522360330
+    second: VFX_Move_Meteor_Mash_14
+  - first:
+      213: 2159886199283925601
+    second: VFX_Move_Meteor_Mash_15
+  - first:
+      213: 7993297198336099415
+    second: VFX_Move_Meteor_Mash_16
+  - first:
+      213: -7937216050913000578
+    second: VFX_Move_Meteor_Mash_17
+  - first:
+      213: -454650242546066096
+    second: VFX_Move_Meteor_Mash_18
+  - first:
+      213: 2183802459521218240
+    second: VFX_Move_Meteor_Mash_19
+  - first:
+      213: 383471148950983593
+    second: VFX_Move_Meteor_Mash_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c43319fa93394740800000000000000
+      internalID: 5136693590689526985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13122e49fdd79cfa0800000000000000
+      internalID: -5779950247524294351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1096b4ddcf870c500800000000000000
+      internalID: 414464193157884161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9e8cab3bd9e5200800000000000000
+      internalID: 170747231145093586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e306deb46ecd6f0800000000000000
+      internalID: -658398231723491685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e935a86bf901be840800000000000000
+      internalID: 5254311668406178718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67d5f54f379f5c60800000000000000
+      internalID: 7809126576896202606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402b9ebd75cbc6a00800000000000000
+      internalID: 751182323401732612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef8976baa0189250800000000000000
+      internalID: 5951525232962015203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26df9ceb6b0fc2500800000000000000
+      internalID: 372937536840531298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18dbb689405ff050800000000000000
+      internalID: 5836471918818744349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe88ea962fc896610800000000000000
+      internalID: 1614976914172053743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0231566b05fce91a0800000000000000
+      internalID: -6800770441718459616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7256403a87d7b8770800000000000000
+      internalID: 8614116669360727335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c5f3c28df78b950800000000000000
+      internalID: 6465057831522360330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162469ffd0579fd10800000000000000
+      internalID: 2159886199283925601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754c2fa9375edee60800000000000000
+      internalID: 7993297198336099415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 0
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e734dcb0e0859d190800000000000000
+      internalID: -7937216050913000578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d1ff36302c0b9f0800000000000000
+      internalID: -454650242546066096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6f26344cc6e4e10800000000000000
+      internalID: 2183802459521218240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Meteor_Mash_20
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a395de6afc525500800000000000000
+      internalID: 383471148950983593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Meteor_Mash_0: 5136693590689526985
+      VFX_Move_Meteor_Mash_1: -5779950247524294351
+      VFX_Move_Meteor_Mash_10: 5836471918818744349
+      VFX_Move_Meteor_Mash_11: 1614976914172053743
+      VFX_Move_Meteor_Mash_12: -6800770441718459616
+      VFX_Move_Meteor_Mash_13: 8614116669360727335
+      VFX_Move_Meteor_Mash_14: 6465057831522360330
+      VFX_Move_Meteor_Mash_15: 2159886199283925601
+      VFX_Move_Meteor_Mash_16: 7993297198336099415
+      VFX_Move_Meteor_Mash_17: -7937216050913000578
+      VFX_Move_Meteor_Mash_18: -454650242546066096
+      VFX_Move_Meteor_Mash_19: 2183802459521218240
+      VFX_Move_Meteor_Mash_2: 414464193157884161
+      VFX_Move_Meteor_Mash_20: 383471148950983593
+      VFX_Move_Meteor_Mash_3: 170747231145093586
+      VFX_Move_Meteor_Mash_4: -658398231723491685
+      VFX_Move_Meteor_Mash_5: 5254311668406178718
+      VFX_Move_Meteor_Mash_6: 7809126576896202606
+      VFX_Move_Meteor_Mash_7: 751182323401732612
+      VFX_Move_Meteor_Mash_8: 5951525232962015203
+      VFX_Move_Meteor_Mash_9: 372937536840531298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

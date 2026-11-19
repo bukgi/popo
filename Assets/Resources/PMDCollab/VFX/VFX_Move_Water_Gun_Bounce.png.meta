@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0c357af7104ee0846b0c52489c7c54db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8718901997966273167
+    second: VFX_Move_Water_Gun_Bounce_0
+  - first:
+      213: -8427140995158930093
+    second: VFX_Move_Water_Gun_Bounce_1
+  - first:
+      213: 8383853981071214462
+    second: VFX_Move_Water_Gun_Bounce_2
+  - first:
+      213: 736822360033957971
+    second: VFX_Move_Water_Gun_Bounce_3
+  - first:
+      213: 5161337126513923707
+    second: VFX_Move_Water_Gun_Bounce_4
+  - first:
+      213: 3405160175436167170
+    second: VFX_Move_Water_Gun_Bounce_5
+  - first:
+      213: -3577375862708504030
+    second: VFX_Move_Water_Gun_Bounce_6
+  - first:
+      213: -5257911300547073499
+    second: VFX_Move_Water_Gun_Bounce_7
+  - first:
+      213: -7966751657247050222
+    second: VFX_Move_Water_Gun_Bounce_8
+  - first:
+      213: 3697034813712682590
+    second: VFX_Move_Water_Gun_Bounce_9
+  - first:
+      213: -8054183534995770350
+    second: VFX_Move_Water_Gun_Bounce_10
+  - first:
+      213: -9034793071226948427
+    second: VFX_Move_Water_Gun_Bounce_11
+  - first:
+      213: 4339392699441128292
+    second: VFX_Move_Water_Gun_Bounce_12
+  - first:
+      213: -1547159731160551042
+    second: VFX_Move_Water_Gun_Bounce_13
+  - first:
+      213: 3874755367928094200
+    second: VFX_Move_Water_Gun_Bounce_14
+  - first:
+      213: 2741269462297826026
+    second: VFX_Move_Water_Gun_Bounce_15
+  - first:
+      213: -7214678886209411502
+    second: VFX_Move_Water_Gun_Bounce_16
+  - first:
+      213: -3357003674636995366
+    second: VFX_Move_Water_Gun_Bounce_17
+  - first:
+      213: 540625316647720009
+    second: VFX_Move_Water_Gun_Bounce_18
+  - first:
+      213: 177623212066796110
+    second: VFX_Move_Water_Gun_Bounce_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175d6cbd3dc300780800000000000000
+      internalID: -8718901997966273167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 13
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d8b6fe9e7cc0b80800000000000000
+      internalID: -8427140995158930093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e778e76b6ce695470800000000000000
+      internalID: 8383853981071214462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 11
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35893685808b93a00800000000000000
+      internalID: 736822360033957971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76d5e745c0c0a740800000000000000
+      internalID: 5161337126513923707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208fd24632f814f20800000000000000
+      internalID: 3405160175436167170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22af33b4b9b9a5ec0800000000000000
+      internalID: -3577375862708504030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a216e97852807b0800000000000000
+      internalID: -5257911300547073499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216f800d399607190800000000000000
+      internalID: -7966751657247050222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ec89943918e4330800000000000000
+      internalID: 3697034813712682590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214f6c07fbac93090800000000000000
+      internalID: -8054183534995770350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b47b52f197fd9280800000000000000
+      internalID: -9034793071226948427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463ac174bae983c30800000000000000
+      internalID: 4339392699441128292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71f265fb62678ae0800000000000000
+      internalID: -1547159731160551042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd54e05a75e5c530800000000000000
+      internalID: 3874755367928094200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae253e55d02fa0620800000000000000
+      internalID: 2741269462297826026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2562afa27cf40eb90800000000000000
+      internalID: -7214678886209411502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4b49fa1f68961d0800000000000000
+      internalID: -3357003674636995366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944de537cdfa08700800000000000000
+      internalID: 540625316647720009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Gun_Bounce_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42fa1bce5b077200800000000000000
+      internalID: 177623212066796110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Water_Gun_Bounce_0: -8718901997966273167
+      VFX_Move_Water_Gun_Bounce_1: -8427140995158930093
+      VFX_Move_Water_Gun_Bounce_10: -8054183534995770350
+      VFX_Move_Water_Gun_Bounce_11: -9034793071226948427
+      VFX_Move_Water_Gun_Bounce_12: 4339392699441128292
+      VFX_Move_Water_Gun_Bounce_13: -1547159731160551042
+      VFX_Move_Water_Gun_Bounce_14: 3874755367928094200
+      VFX_Move_Water_Gun_Bounce_15: 2741269462297826026
+      VFX_Move_Water_Gun_Bounce_16: -7214678886209411502
+      VFX_Move_Water_Gun_Bounce_17: -3357003674636995366
+      VFX_Move_Water_Gun_Bounce_18: 540625316647720009
+      VFX_Move_Water_Gun_Bounce_19: 177623212066796110
+      VFX_Move_Water_Gun_Bounce_2: 8383853981071214462
+      VFX_Move_Water_Gun_Bounce_3: 736822360033957971
+      VFX_Move_Water_Gun_Bounce_4: 5161337126513923707
+      VFX_Move_Water_Gun_Bounce_5: 3405160175436167170
+      VFX_Move_Water_Gun_Bounce_6: -3577375862708504030
+      VFX_Move_Water_Gun_Bounce_7: -5257911300547073499
+      VFX_Move_Water_Gun_Bounce_8: -7966751657247050222
+      VFX_Move_Water_Gun_Bounce_9: 3697034813712682590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

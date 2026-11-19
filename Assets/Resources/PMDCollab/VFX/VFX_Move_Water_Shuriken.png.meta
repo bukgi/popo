@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f172f439e5931dc48a44b83fd965d010
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8077038978429601783
+    second: VFX_Move_Water_Shuriken_0
+  - first:
+      213: -6191648120376060006
+    second: VFX_Move_Water_Shuriken_1
+  - first:
+      213: 135227895607241930
+    second: VFX_Move_Water_Shuriken_2
+  - first:
+      213: -3802009237893837880
+    second: VFX_Move_Water_Shuriken_3
+  - first:
+      213: -7985500036591478973
+    second: VFX_Move_Water_Shuriken_4
+  - first:
+      213: -7428928241846508112
+    second: VFX_Move_Water_Shuriken_5
+  - first:
+      213: 5401704598479203885
+    second: VFX_Move_Water_Shuriken_6
+  - first:
+      213: -8395031367338373079
+    second: VFX_Move_Water_Shuriken_7
+  - first:
+      213: 2799184323139709740
+    second: VFX_Move_Water_Shuriken_8
+  - first:
+      213: -7438465002759088161
+    second: VFX_Move_Water_Shuriken_9
+  - first:
+      213: -7173519855041042265
+    second: VFX_Move_Water_Shuriken_10
+  - first:
+      213: -388618398009297775
+    second: VFX_Move_Water_Shuriken_11
+  - first:
+      213: -4634981469420371802
+    second: VFX_Move_Water_Shuriken_12
+  - first:
+      213: -2715810820075350720
+    second: VFX_Move_Water_Shuriken_13
+  - first:
+      213: -4196660284688675779
+    second: VFX_Move_Water_Shuriken_14
+  - first:
+      213: -1906152802724594495
+    second: VFX_Move_Water_Shuriken_15
+  - first:
+      213: 1705894775882882795
+    second: VFX_Move_Water_Shuriken_16
+  - first:
+      213: -208951437695368859
+    second: VFX_Move_Water_Shuriken_17
+  - first:
+      213: -3751522735348511596
+    second: VFX_Move_Water_Shuriken_18
+  - first:
+      213: -2378629857361097007
+    second: VFX_Move_Water_Shuriken_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7c74a2828671070800000000000000
+      internalID: 8077038978429601783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9715cad6d8d21aa0800000000000000
+      internalID: -6191648120376060006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acca469fd0d60e100800000000000000
+      internalID: 135227895607241930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb8596fdbc8c3bc0800000000000000
+      internalID: -3802009237893837880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3479815960ecd2190800000000000000
+      internalID: -7985500036591478973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b52fdacf1527e890800000000000000
+      internalID: -7428928241846508112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e62fd76b5b6fa40800000000000000
+      internalID: 5401704598479203885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920d88f337bde7b80800000000000000
+      internalID: -8395031367338373079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 11
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ba599af43b8d620800000000000000
+      internalID: 2799184323139709740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 11
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd79e5c9d7345c890800000000000000
+      internalID: -7438465002759088161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a82113e2b9827c90800000000000000
+      internalID: -7173519855041042265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194797140a95b9af0800000000000000
+      internalID: -388618398009297775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a04ea629ec3dafb0800000000000000
+      internalID: -4634981469420371802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0451f38b2708f4ad0800000000000000
+      internalID: -2715810820075350720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c4428b4b772c5c0800000000000000
+      internalID: -4196660284688675779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc3cf9002cfb85e0800000000000000
+      internalID: -1906152802724594495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee91bca24e8ca710800000000000000
+      internalID: 1705894775882882795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5614cd446c7a91df0800000000000000
+      internalID: -208951437695368859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c00c8d2f9efebc0800000000000000
+      internalID: -3751522735348511596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Shuriken_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de8adb4fb86dfed0800000000000000
+      internalID: -2378629857361097007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Water_Shuriken_0: 8077038978429601783
+      VFX_Move_Water_Shuriken_1: -6191648120376060006
+      VFX_Move_Water_Shuriken_10: -7173519855041042265
+      VFX_Move_Water_Shuriken_11: -388618398009297775
+      VFX_Move_Water_Shuriken_12: -4634981469420371802
+      VFX_Move_Water_Shuriken_13: -2715810820075350720
+      VFX_Move_Water_Shuriken_14: -4196660284688675779
+      VFX_Move_Water_Shuriken_15: -1906152802724594495
+      VFX_Move_Water_Shuriken_16: 1705894775882882795
+      VFX_Move_Water_Shuriken_17: -208951437695368859
+      VFX_Move_Water_Shuriken_18: -3751522735348511596
+      VFX_Move_Water_Shuriken_19: -2378629857361097007
+      VFX_Move_Water_Shuriken_2: 135227895607241930
+      VFX_Move_Water_Shuriken_3: -3802009237893837880
+      VFX_Move_Water_Shuriken_4: -7985500036591478973
+      VFX_Move_Water_Shuriken_5: -7428928241846508112
+      VFX_Move_Water_Shuriken_6: 5401704598479203885
+      VFX_Move_Water_Shuriken_7: -8395031367338373079
+      VFX_Move_Water_Shuriken_8: 2799184323139709740
+      VFX_Move_Water_Shuriken_9: -7438465002759088161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

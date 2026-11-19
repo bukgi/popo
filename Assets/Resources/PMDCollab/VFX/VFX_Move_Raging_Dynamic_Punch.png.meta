@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 6677d5afdcd8cc84f89965618c9f5b92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -717856405045322350
+    second: VFX_Move_Raging_Dynamic_Punch_0
+  - first:
+      213: 6731497782522337841
+    second: VFX_Move_Raging_Dynamic_Punch_1
+  - first:
+      213: -3301142020960515154
+    second: VFX_Move_Raging_Dynamic_Punch_2
+  - first:
+      213: 1358182480423870309
+    second: VFX_Move_Raging_Dynamic_Punch_3
+  - first:
+      213: -1138371735042429515
+    second: VFX_Move_Raging_Dynamic_Punch_4
+  - first:
+      213: -3990685700040066552
+    second: VFX_Move_Raging_Dynamic_Punch_5
+  - first:
+      213: -5853745177938829645
+    second: VFX_Move_Raging_Dynamic_Punch_6
+  - first:
+      213: -4041795446848419492
+    second: VFX_Move_Raging_Dynamic_Punch_7
+  - first:
+      213: -4801091295914311073
+    second: VFX_Move_Raging_Dynamic_Punch_8
+  - first:
+      213: 8365722411327917803
+    second: VFX_Move_Raging_Dynamic_Punch_9
+  - first:
+      213: 4470907133376857943
+    second: VFX_Move_Raging_Dynamic_Punch_10
+  - first:
+      213: 335034468413577879
+    second: VFX_Move_Raging_Dynamic_Punch_11
+  - first:
+      213: 2128074250787250142
+    second: VFX_Move_Raging_Dynamic_Punch_12
+  - first:
+      213: 7885317547724942118
+    second: VFX_Move_Raging_Dynamic_Punch_13
+  - first:
+      213: -4319352577875303298
+    second: VFX_Move_Raging_Dynamic_Punch_14
+  - first:
+      213: -1785292841094028368
+    second: VFX_Move_Raging_Dynamic_Punch_15
+  - first:
+      213: 7325139492092346604
+    second: VFX_Move_Raging_Dynamic_Punch_16
+  - first:
+      213: -672777375420510066
+    second: VFX_Move_Raging_Dynamic_Punch_17
+  - first:
+      213: 2242606997699879125
+    second: VFX_Move_Raging_Dynamic_Punch_18
+  - first:
+      213: 514838083608930002
+    second: VFX_Move_Raging_Dynamic_Punch_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dd8892769a906f0800000000000000
+      internalID: -717856405045322350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ad29571951b6d50800000000000000
+      internalID: 6731497782522337841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab888772dcff22d0800000000000000
+      internalID: -3301142020960515154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fd2dd15cb39d210800000000000000
+      internalID: 1358182480423870309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd637630f0b330f0800000000000000
+      internalID: -1138371735042429515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a71e6df7c3e98c0800000000000000
+      internalID: -3990685700040066552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bedc4f66c153cea0800000000000000
+      internalID: -5853745177938829645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c590fc79478a8e7c0800000000000000
+      internalID: -4041795446848419492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52cec457e81f5db0800000000000000
+      internalID: -4801091295914311073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee89b8a534091470800000000000000
+      internalID: 8365722411327917803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75700b4995adb0e30800000000000000
+      internalID: 4470907133376857943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a9d4de21846a400800000000000000
+      internalID: 335034468413577879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf54dd8140788d10800000000000000
+      internalID: 2128074250787250142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bac4d08864e6d60800000000000000
+      internalID: 7885317547724942118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74231027b39e04c0800000000000000
+      internalID: -4319352577875303298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3ea82be9d5937e0800000000000000
+      internalID: -1785292841094028368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0895cce8f18a560800000000000000
+      internalID: 7325139492092346604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e801425aa80d9a6f0800000000000000
+      internalID: -672777375420510066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0e4bcbe275f1f10800000000000000
+      internalID: 2242606997699879125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Raging_Dynamic_Punch_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d66a526282152700800000000000000
+      internalID: 514838083608930002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Raging_Dynamic_Punch_0: -717856405045322350
+      VFX_Move_Raging_Dynamic_Punch_1: 6731497782522337841
+      VFX_Move_Raging_Dynamic_Punch_10: 4470907133376857943
+      VFX_Move_Raging_Dynamic_Punch_11: 335034468413577879
+      VFX_Move_Raging_Dynamic_Punch_12: 2128074250787250142
+      VFX_Move_Raging_Dynamic_Punch_13: 7885317547724942118
+      VFX_Move_Raging_Dynamic_Punch_14: -4319352577875303298
+      VFX_Move_Raging_Dynamic_Punch_15: -1785292841094028368
+      VFX_Move_Raging_Dynamic_Punch_16: 7325139492092346604
+      VFX_Move_Raging_Dynamic_Punch_17: -672777375420510066
+      VFX_Move_Raging_Dynamic_Punch_18: 2242606997699879125
+      VFX_Move_Raging_Dynamic_Punch_19: 514838083608930002
+      VFX_Move_Raging_Dynamic_Punch_2: -3301142020960515154
+      VFX_Move_Raging_Dynamic_Punch_3: 1358182480423870309
+      VFX_Move_Raging_Dynamic_Punch_4: -1138371735042429515
+      VFX_Move_Raging_Dynamic_Punch_5: -3990685700040066552
+      VFX_Move_Raging_Dynamic_Punch_6: -5853745177938829645
+      VFX_Move_Raging_Dynamic_Punch_7: -4041795446848419492
+      VFX_Move_Raging_Dynamic_Punch_8: -4801091295914311073
+      VFX_Move_Raging_Dynamic_Punch_9: 8365722411327917803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

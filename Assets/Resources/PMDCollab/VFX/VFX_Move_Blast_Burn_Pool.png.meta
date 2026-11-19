@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f774108609ec6fb458eaf514760495ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6565218218148036381
+    second: VFX_Move_Blast_Burn_Pool_0
+  - first:
+      213: -6780754175597391905
+    second: VFX_Move_Blast_Burn_Pool_1
+  - first:
+      213: -3982305186939968958
+    second: VFX_Move_Blast_Burn_Pool_2
+  - first:
+      213: 3763638520267396267
+    second: VFX_Move_Blast_Burn_Pool_3
+  - first:
+      213: -8391654308734529779
+    second: VFX_Move_Blast_Burn_Pool_4
+  - first:
+      213: 4598049381252846640
+    second: VFX_Move_Blast_Burn_Pool_5
+  - first:
+      213: 4649635804965187544
+    second: VFX_Move_Blast_Burn_Pool_6
+  - first:
+      213: 4252127162164055457
+    second: VFX_Move_Blast_Burn_Pool_7
+  - first:
+      213: -2880276719365205279
+    second: VFX_Move_Blast_Burn_Pool_8
+  - first:
+      213: 9023721513636397898
+    second: VFX_Move_Blast_Burn_Pool_9
+  - first:
+      213: -6216164554779132624
+    second: VFX_Move_Blast_Burn_Pool_10
+  - first:
+      213: -8616361667176761607
+    second: VFX_Move_Blast_Burn_Pool_11
+  - first:
+      213: -2392866100412149482
+    second: VFX_Move_Blast_Burn_Pool_12
+  - first:
+      213: -3458081418315586486
+    second: VFX_Move_Blast_Burn_Pool_13
+  - first:
+      213: 7062301119060638284
+    second: VFX_Move_Blast_Burn_Pool_14
+  - first:
+      213: -2693257962850445982
+    second: VFX_Move_Blast_Burn_Pool_15
+  - first:
+      213: 3369771392697617288
+    second: VFX_Move_Blast_Burn_Pool_16
+  - first:
+      213: 8015233684243807259
+    second: VFX_Move_Blast_Burn_Pool_17
+  - first:
+      213: -5630398186041352499
+    second: VFX_Move_Blast_Burn_Pool_18
+  - first:
+      213: 544612736601582332
+    second: VFX_Move_Blast_Burn_Pool_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e00d5a80d8a3e4a0800000000000000
+      internalID: -6565218218148036381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 13
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf4546d00ce5e1a0800000000000000
+      internalID: -6780754175597391905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2426f3918820cb8c0800000000000000
+      internalID: -3982305186939968958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 11
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4d3872b412b3430800000000000000
+      internalID: 3763638520267396267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f800afddada8b80800000000000000
+      internalID: -8391654308734529779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034d74dfc8d8fcf30800000000000000
+      internalID: 4598049381252846640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df23e93123d68040800000000000000
+      internalID: 4649635804965187544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad04901027920b30800000000000000
+      internalID: 4252127162164055457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2d86785933708d0800000000000000
+      internalID: -2880276719365205279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43095c28e2ba3d70800000000000000
+      internalID: 9023721513636397898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03df307a54fbbb9a0800000000000000
+      internalID: -6216164554779132624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6f2a317b88c6880800000000000000
+      internalID: -8616361667176761607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111cd9a5f4daced0800000000000000
+      internalID: -2392866100412149482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44abe0954d6200d0800000000000000
+      internalID: -3458081418315586486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af37a3375520260800000000000000
+      internalID: 7062301119060638284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2659ecbf620af9ad0800000000000000
+      internalID: -2693257962850445982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bc3045a35d3ce20800000000000000
+      internalID: 3369771392697617288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cf81db194db3f60800000000000000
+      internalID: 8015233684243807259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce50015eaeccd1b0800000000000000
+      internalID: -5630398186041352499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Blast_Burn_Pool_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa6a41066ade8700800000000000000
+      internalID: 544612736601582332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Blast_Burn_Pool_0: -6565218218148036381
+      VFX_Move_Blast_Burn_Pool_1: -6780754175597391905
+      VFX_Move_Blast_Burn_Pool_10: -6216164554779132624
+      VFX_Move_Blast_Burn_Pool_11: -8616361667176761607
+      VFX_Move_Blast_Burn_Pool_12: -2392866100412149482
+      VFX_Move_Blast_Burn_Pool_13: -3458081418315586486
+      VFX_Move_Blast_Burn_Pool_14: 7062301119060638284
+      VFX_Move_Blast_Burn_Pool_15: -2693257962850445982
+      VFX_Move_Blast_Burn_Pool_16: 3369771392697617288
+      VFX_Move_Blast_Burn_Pool_17: 8015233684243807259
+      VFX_Move_Blast_Burn_Pool_18: -5630398186041352499
+      VFX_Move_Blast_Burn_Pool_19: 544612736601582332
+      VFX_Move_Blast_Burn_Pool_2: -3982305186939968958
+      VFX_Move_Blast_Burn_Pool_3: 3763638520267396267
+      VFX_Move_Blast_Burn_Pool_4: -8391654308734529779
+      VFX_Move_Blast_Burn_Pool_5: 4598049381252846640
+      VFX_Move_Blast_Burn_Pool_6: 4649635804965187544
+      VFX_Move_Blast_Burn_Pool_7: 4252127162164055457
+      VFX_Move_Blast_Burn_Pool_8: -2880276719365205279
+      VFX_Move_Blast_Burn_Pool_9: 9023721513636397898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

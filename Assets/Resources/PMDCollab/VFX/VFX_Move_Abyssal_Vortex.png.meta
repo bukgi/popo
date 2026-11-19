@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 57b40381d670b584aa5e63df6a543247
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3439427866187535615
+    second: VFX_Move_Abyssal_Vortex_0
+  - first:
+      213: 1341462024967005858
+    second: VFX_Move_Abyssal_Vortex_1
+  - first:
+      213: -6483536524395150909
+    second: VFX_Move_Abyssal_Vortex_2
+  - first:
+      213: 11512771177667559
+    second: VFX_Move_Abyssal_Vortex_3
+  - first:
+      213: 5147435821583137510
+    second: VFX_Move_Abyssal_Vortex_4
+  - first:
+      213: -5986009488781822403
+    second: VFX_Move_Abyssal_Vortex_5
+  - first:
+      213: -2219369515135717271
+    second: VFX_Move_Abyssal_Vortex_6
+  - first:
+      213: 4166637496476204486
+    second: VFX_Move_Abyssal_Vortex_7
+  - first:
+      213: 1506642081230728683
+    second: VFX_Move_Abyssal_Vortex_8
+  - first:
+      213: -951908034392150444
+    second: VFX_Move_Abyssal_Vortex_9
+  - first:
+      213: -6643767155650416924
+    second: VFX_Move_Abyssal_Vortex_10
+  - first:
+      213: 3961307882263468978
+    second: VFX_Move_Abyssal_Vortex_11
+  - first:
+      213: 7717056448949171723
+    second: VFX_Move_Abyssal_Vortex_12
+  - first:
+      213: 8517078170369060355
+    second: VFX_Move_Abyssal_Vortex_13
+  - first:
+      213: 2795732434829319006
+    second: VFX_Move_Abyssal_Vortex_14
+  - first:
+      213: 9136916293105554362
+    second: VFX_Move_Abyssal_Vortex_15
+  - first:
+      213: -8764337361635497886
+    second: VFX_Move_Abyssal_Vortex_16
+  - first:
+      213: -6430053230479061115
+    second: VFX_Move_Abyssal_Vortex_17
+  - first:
+      213: -3533446709988775903
+    second: VFX_Move_Abyssal_Vortex_18
+  - first:
+      213: -394187663724893247
+    second: VFX_Move_Abyssal_Vortex_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bef4d1492b440d0800000000000000
+      internalID: -3439427866187535615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6a5d5ba94dd9210800000000000000
+      internalID: 1341462024967005858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1082fd1e9d506a0800000000000000
+      internalID: -6483536524395150909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebdc6cedc6e82000800000000000000
+      internalID: 11512771177667559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea75918b9d5f6740800000000000000
+      internalID: 5147435821583137510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36ba0fc51c6deca0800000000000000
+      internalID: -5986009488781822403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96031094f273331e0800000000000000
+      internalID: -2219369515135717271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd794d2abed2d930800000000000000
+      internalID: 4166637496476204486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 5
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beda9678dfaa8e410800000000000000
+      internalID: 1506642081230728683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e2737afa42ac2f0800000000000000
+      internalID: -951908034392150444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeac0dd8f89cc3a0800000000000000
+      internalID: -6643767155650416924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbd440f78469f630800000000000000
+      internalID: 3961307882263468978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06b04f14fd781b60800000000000000
+      internalID: 7717056448949171723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ee415787db23670800000000000000
+      internalID: 8517078170369060355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b1a0946df6cc620800000000000000
+      internalID: 2795732434829319006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3190985f8dcce70800000000000000
+      internalID: 9136916293105554362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2682804ea91de5680800000000000000
+      internalID: -8764337361635497886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f417e97acd3c6a0800000000000000
+      internalID: -6430053230479061115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a85230fca6fec0800000000000000
+      internalID: -3533446709988775903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Abyssal_Vortex_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb26d88860978af0800000000000000
+      internalID: -394187663724893247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Abyssal_Vortex_0: -3439427866187535615
+      VFX_Move_Abyssal_Vortex_1: 1341462024967005858
+      VFX_Move_Abyssal_Vortex_10: -6643767155650416924
+      VFX_Move_Abyssal_Vortex_11: 3961307882263468978
+      VFX_Move_Abyssal_Vortex_12: 7717056448949171723
+      VFX_Move_Abyssal_Vortex_13: 8517078170369060355
+      VFX_Move_Abyssal_Vortex_14: 2795732434829319006
+      VFX_Move_Abyssal_Vortex_15: 9136916293105554362
+      VFX_Move_Abyssal_Vortex_16: -8764337361635497886
+      VFX_Move_Abyssal_Vortex_17: -6430053230479061115
+      VFX_Move_Abyssal_Vortex_18: -3533446709988775903
+      VFX_Move_Abyssal_Vortex_19: -394187663724893247
+      VFX_Move_Abyssal_Vortex_2: -6483536524395150909
+      VFX_Move_Abyssal_Vortex_3: 11512771177667559
+      VFX_Move_Abyssal_Vortex_4: 5147435821583137510
+      VFX_Move_Abyssal_Vortex_5: -5986009488781822403
+      VFX_Move_Abyssal_Vortex_6: -2219369515135717271
+      VFX_Move_Abyssal_Vortex_7: 4166637496476204486
+      VFX_Move_Abyssal_Vortex_8: 1506642081230728683
+      VFX_Move_Abyssal_Vortex_9: -951908034392150444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

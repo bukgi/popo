@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: c59bd7e9e9011354abb6268ba7289027
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3579015945351194262
+    second: VFX_Move_Leech_Seed_0
+  - first:
+      213: 1095610055118414583
+    second: VFX_Move_Leech_Seed_1
+  - first:
+      213: -4403629708697149214
+    second: VFX_Move_Leech_Seed_2
+  - first:
+      213: 2462827772865733501
+    second: VFX_Move_Leech_Seed_3
+  - first:
+      213: 2165751569416603955
+    second: VFX_Move_Leech_Seed_4
+  - first:
+      213: 8491610842910896494
+    second: VFX_Move_Leech_Seed_5
+  - first:
+      213: -7411336774086632955
+    second: VFX_Move_Leech_Seed_6
+  - first:
+      213: 746593697555612759
+    second: VFX_Move_Leech_Seed_7
+  - first:
+      213: 3878916518376631297
+    second: VFX_Move_Leech_Seed_8
+  - first:
+      213: 7497763934620283791
+    second: VFX_Move_Leech_Seed_9
+  - first:
+      213: 3348267144895673389
+    second: VFX_Move_Leech_Seed_10
+  - first:
+      213: -2697226005675939500
+    second: VFX_Move_Leech_Seed_11
+  - first:
+      213: 5121702239352444119
+    second: VFX_Move_Leech_Seed_12
+  - first:
+      213: 8164642069816776061
+    second: VFX_Move_Leech_Seed_13
+  - first:
+      213: -1637795630684143814
+    second: VFX_Move_Leech_Seed_14
+  - first:
+      213: 8628979177017922339
+    second: VFX_Move_Leech_Seed_15
+  - first:
+      213: -1530355395703317395
+    second: VFX_Move_Leech_Seed_16
+  - first:
+      213: 3774983671488471649
+    second: VFX_Move_Leech_Seed_17
+  - first:
+      213: -3979436450743508069
+    second: VFX_Move_Leech_Seed_18
+  - first:
+      213: 7999834958408492976
+    second: VFX_Move_Leech_Seed_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696ed143a083ba130800000000000000
+      internalID: 3579015945351194262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2eda35a83643f00800000000000000
+      internalID: 1095610055118414583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0efb28c1a23e2c0800000000000000
+      internalID: -4403629708697149214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73e0a09fc8bd2220800000000000000
+      internalID: 2462827772865733501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33942d6e39b4e0e10800000000000000
+      internalID: 2165751569416603955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e613f86321348d570800000000000000
+      internalID: 8491610842910896494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ad6cd8874a52990800000000000000
+      internalID: -7411336774086632955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7540956230f6c5a00800000000000000
+      internalID: 746593697555612759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 11
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ceb37a50ea4d530800000000000000
+      internalID: 3878916518376631297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 11
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83f6ccd2986d0860800000000000000
+      internalID: 7497763934620283791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d243e987a3f677e20800000000000000
+      internalID: 3348267144895673389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4596db40d37819ad0800000000000000
+      internalID: -2697226005675939500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4dcedfc01f31740800000000000000
+      internalID: 5121702239352444119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7593a154b2ae4170800000000000000
+      internalID: 8164642069816776061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f72622d816549e0800000000000000
+      internalID: -1637795630684143814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323556cd7da40c770800000000000000
+      internalID: 8628979177017922339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c500330e513cae0800000000000000
+      internalID: -1530355395703317395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16268f306af636430800000000000000
+      internalID: 3774983671488471649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93213bc1a336c8c0800000000000000
+      internalID: -3979436450743508069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leech_Seed_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7a0bd728f150f60800000000000000
+      internalID: 7999834958408492976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Leech_Seed_0: 3579015945351194262
+      VFX_Move_Leech_Seed_1: 1095610055118414583
+      VFX_Move_Leech_Seed_10: 3348267144895673389
+      VFX_Move_Leech_Seed_11: -2697226005675939500
+      VFX_Move_Leech_Seed_12: 5121702239352444119
+      VFX_Move_Leech_Seed_13: 8164642069816776061
+      VFX_Move_Leech_Seed_14: -1637795630684143814
+      VFX_Move_Leech_Seed_15: 8628979177017922339
+      VFX_Move_Leech_Seed_16: -1530355395703317395
+      VFX_Move_Leech_Seed_17: 3774983671488471649
+      VFX_Move_Leech_Seed_18: -3979436450743508069
+      VFX_Move_Leech_Seed_19: 7999834958408492976
+      VFX_Move_Leech_Seed_2: -4403629708697149214
+      VFX_Move_Leech_Seed_3: 2462827772865733501
+      VFX_Move_Leech_Seed_4: 2165751569416603955
+      VFX_Move_Leech_Seed_5: 8491610842910896494
+      VFX_Move_Leech_Seed_6: -7411336774086632955
+      VFX_Move_Leech_Seed_7: 746593697555612759
+      VFX_Move_Leech_Seed_8: 3878916518376631297
+      VFX_Move_Leech_Seed_9: 7497763934620283791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

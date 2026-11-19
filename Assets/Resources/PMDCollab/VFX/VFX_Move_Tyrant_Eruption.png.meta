@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 66a02a0f6bfb54c4d816ecc6b843c063
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3547168673299618584
+    second: VFX_Move_Tyrant_Eruption_0
+  - first:
+      213: 241528091137575314
+    second: VFX_Move_Tyrant_Eruption_1
+  - first:
+      213: -4793521743725563105
+    second: VFX_Move_Tyrant_Eruption_2
+  - first:
+      213: -7522845733615043638
+    second: VFX_Move_Tyrant_Eruption_3
+  - first:
+      213: 5006312058365721220
+    second: VFX_Move_Tyrant_Eruption_4
+  - first:
+      213: -3217824213711379317
+    second: VFX_Move_Tyrant_Eruption_5
+  - first:
+      213: -8591299124585278480
+    second: VFX_Move_Tyrant_Eruption_6
+  - first:
+      213: -2717508310024247948
+    second: VFX_Move_Tyrant_Eruption_7
+  - first:
+      213: 3607936180292766791
+    second: VFX_Move_Tyrant_Eruption_8
+  - first:
+      213: -4684257126998753227
+    second: VFX_Move_Tyrant_Eruption_9
+  - first:
+      213: -4178649696924815456
+    second: VFX_Move_Tyrant_Eruption_10
+  - first:
+      213: 5664089485192097525
+    second: VFX_Move_Tyrant_Eruption_11
+  - first:
+      213: 7942720827492051768
+    second: VFX_Move_Tyrant_Eruption_12
+  - first:
+      213: -3148010181662246736
+    second: VFX_Move_Tyrant_Eruption_13
+  - first:
+      213: 6603288648095320591
+    second: VFX_Move_Tyrant_Eruption_14
+  - first:
+      213: -8948561728071373500
+    second: VFX_Move_Tyrant_Eruption_15
+  - first:
+      213: -7374605774036932987
+    second: VFX_Move_Tyrant_Eruption_16
+  - first:
+      213: 5583375960244153267
+    second: VFX_Move_Tyrant_Eruption_17
+  - first:
+      213: 4172799044316180770
+    second: VFX_Move_Tyrant_Eruption_18
+  - first:
+      213: 8775443767893099819
+    second: VFX_Move_Tyrant_Eruption_19
+  - first:
+      213: -4586015589349509114
+    second: VFX_Move_Tyrant_Eruption_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e42595a2ece5cec0800000000000000
+      internalID: -3547168673299618584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 7
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299888be4841a5300800000000000000
+      internalID: 241528091137575314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13702a0f5df97db0800000000000000
+      internalID: -4793521743725563105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbffcbb9ab799790800000000000000
+      internalID: -7522845733615043638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ab4a1ea4ef97540800000000000000
+      internalID: 5006312058365721220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8425182dedf753d0800000000000000
+      internalID: -3217824213711379317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f358fff6f295c880800000000000000
+      internalID: -8591299124585278480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47525da0798794ad0800000000000000
+      internalID: -2717508310024247948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c41ae17d6f11230800000000000000
+      internalID: 3607936180292766791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530c5a416fc2efeb0800000000000000
+      internalID: -4684257126998753227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afa0067d347206c0800000000000000
+      internalID: -4178649696924815456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe66ec8063ea9e40800000000000000
+      internalID: 5664089485192097525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ba2c0a2863a3e60800000000000000
+      internalID: 7942720827492051768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b875bc2b650054d0800000000000000
+      internalID: -3148010181662246736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a471b2a0893ab50800000000000000
+      internalID: 6603288648095320591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d66a3158250d380800000000000000
+      internalID: -8948561728071373500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586ebffee1328a990800000000000000
+      internalID: -7374605774036932987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 0
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbeec59ad22c7d40800000000000000
+      internalID: 5583375960244153267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2213e835f92c8e930800000000000000
+      internalID: 4172799044316180770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b250fa3dc93a8c970800000000000000
+      internalID: 8775443767893099819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tyrant_Eruption_20
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6083b668e133b50c0800000000000000
+      internalID: -4586015589349509114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Tyrant_Eruption_0: -3547168673299618584
+      VFX_Move_Tyrant_Eruption_1: 241528091137575314
+      VFX_Move_Tyrant_Eruption_10: -4178649696924815456
+      VFX_Move_Tyrant_Eruption_11: 5664089485192097525
+      VFX_Move_Tyrant_Eruption_12: 7942720827492051768
+      VFX_Move_Tyrant_Eruption_13: -3148010181662246736
+      VFX_Move_Tyrant_Eruption_14: 6603288648095320591
+      VFX_Move_Tyrant_Eruption_15: -8948561728071373500
+      VFX_Move_Tyrant_Eruption_16: -7374605774036932987
+      VFX_Move_Tyrant_Eruption_17: 5583375960244153267
+      VFX_Move_Tyrant_Eruption_18: 4172799044316180770
+      VFX_Move_Tyrant_Eruption_19: 8775443767893099819
+      VFX_Move_Tyrant_Eruption_2: -4793521743725563105
+      VFX_Move_Tyrant_Eruption_20: -4586015589349509114
+      VFX_Move_Tyrant_Eruption_3: -7522845733615043638
+      VFX_Move_Tyrant_Eruption_4: 5006312058365721220
+      VFX_Move_Tyrant_Eruption_5: -3217824213711379317
+      VFX_Move_Tyrant_Eruption_6: -8591299124585278480
+      VFX_Move_Tyrant_Eruption_7: -2717508310024247948
+      VFX_Move_Tyrant_Eruption_8: 3607936180292766791
+      VFX_Move_Tyrant_Eruption_9: -4684257126998753227
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d1ea7c28c47868a43ac042bcf982f238
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2700609845412774615
+    second: VFX_Move_Sky_Uppercut_0
+  - first:
+      213: -5821200005786656631
+    second: VFX_Move_Sky_Uppercut_1
+  - first:
+      213: -8772148904825522591
+    second: VFX_Move_Sky_Uppercut_2
+  - first:
+      213: 1419791116141036166
+    second: VFX_Move_Sky_Uppercut_3
+  - first:
+      213: -7332785631791352167
+    second: VFX_Move_Sky_Uppercut_4
+  - first:
+      213: 1527269673862724547
+    second: VFX_Move_Sky_Uppercut_5
+  - first:
+      213: 7643149168042612033
+    second: VFX_Move_Sky_Uppercut_6
+  - first:
+      213: -3042635392455357474
+    second: VFX_Move_Sky_Uppercut_7
+  - first:
+      213: -2866604477571222507
+    second: VFX_Move_Sky_Uppercut_8
+  - first:
+      213: -6224171982980680178
+    second: VFX_Move_Sky_Uppercut_9
+  - first:
+      213: -3781271845397298256
+    second: VFX_Move_Sky_Uppercut_10
+  - first:
+      213: 5353336821838174166
+    second: VFX_Move_Sky_Uppercut_11
+  - first:
+      213: -4248038709051411687
+    second: VFX_Move_Sky_Uppercut_12
+  - first:
+      213: -4392810134473571044
+    second: VFX_Move_Sky_Uppercut_13
+  - first:
+      213: -6951666570924590769
+    second: VFX_Move_Sky_Uppercut_14
+  - first:
+      213: 952340825082578260
+    second: VFX_Move_Sky_Uppercut_15
+  - first:
+      213: -4663973736090225036
+    second: VFX_Move_Sky_Uppercut_16
+  - first:
+      213: -5604524721221042604
+    second: VFX_Move_Sky_Uppercut_17
+  - first:
+      213: -5181483375058741552
+    second: VFX_Move_Sky_Uppercut_18
+  - first:
+      213: 3945137291399329242
+    second: VFX_Move_Sky_Uppercut_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dbf3f67a1858ad0800000000000000
+      internalID: -2700609845412774615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980a590df61f63fa0800000000000000
+      internalID: -5821200005786656631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166fa034c01134680800000000000000
+      internalID: -8772148904825522591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68287dc6f7c14b310800000000000000
+      internalID: 1419791116141036166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996fcf29156bc3a90800000000000000
+      internalID: -7332785631791352167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb70d23da3f13510800000000000000
+      internalID: 1527269673862724547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14590865cabe11a60800000000000000
+      internalID: 7643149168042612033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbcaab2b3366c5d0800000000000000
+      internalID: -3042635392455357474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514b2d26a66c738d0800000000000000
+      internalID: -2866604477571222507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e067f7dfe8c4f99a0800000000000000
+      internalID: -6224171982980680178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b388e76a49368bc0800000000000000
+      internalID: -3781271845397298256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 3
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7deace97fda4a40800000000000000
+      internalID: 5353336821838174166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913b1ea1d4feb05c0800000000000000
+      internalID: -4248038709051411687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1587f0f47a9903c0800000000000000
+      internalID: -4392810134473571044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 5
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f413d518b68f90800000000000000
+      internalID: -6951666570924590769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 8
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45546284fe4673d00800000000000000
+      internalID: 952340825082578260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 8
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476379a099c364fb0800000000000000
+      internalID: -4663973736090225036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 6
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e79b8c57ab832b0800000000000000
+      internalID: -5604524721221042604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 4
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d61804b25ca718b0800000000000000
+      internalID: -5181483375058741552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sky_Uppercut_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5f00cd671ffb630800000000000000
+      internalID: 3945137291399329242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Sky_Uppercut_0: -2700609845412774615
+      VFX_Move_Sky_Uppercut_1: -5821200005786656631
+      VFX_Move_Sky_Uppercut_10: -3781271845397298256
+      VFX_Move_Sky_Uppercut_11: 5353336821838174166
+      VFX_Move_Sky_Uppercut_12: -4248038709051411687
+      VFX_Move_Sky_Uppercut_13: -4392810134473571044
+      VFX_Move_Sky_Uppercut_14: -6951666570924590769
+      VFX_Move_Sky_Uppercut_15: 952340825082578260
+      VFX_Move_Sky_Uppercut_16: -4663973736090225036
+      VFX_Move_Sky_Uppercut_17: -5604524721221042604
+      VFX_Move_Sky_Uppercut_18: -5181483375058741552
+      VFX_Move_Sky_Uppercut_19: 3945137291399329242
+      VFX_Move_Sky_Uppercut_2: -8772148904825522591
+      VFX_Move_Sky_Uppercut_3: 1419791116141036166
+      VFX_Move_Sky_Uppercut_4: -7332785631791352167
+      VFX_Move_Sky_Uppercut_5: 1527269673862724547
+      VFX_Move_Sky_Uppercut_6: 7643149168042612033
+      VFX_Move_Sky_Uppercut_7: -3042635392455357474
+      VFX_Move_Sky_Uppercut_8: -2866604477571222507
+      VFX_Move_Sky_Uppercut_9: -6224171982980680178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

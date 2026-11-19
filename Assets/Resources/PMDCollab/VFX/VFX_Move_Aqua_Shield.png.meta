@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 44d15862ce2e37345bef58b4ffdac1ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -290845679143090847
+    second: VFX_Move_Aqua_Shield_0
+  - first:
+      213: -6612819410134203009
+    second: VFX_Move_Aqua_Shield_1
+  - first:
+      213: 8336497746668733167
+    second: VFX_Move_Aqua_Shield_2
+  - first:
+      213: 6854772047418105097
+    second: VFX_Move_Aqua_Shield_3
+  - first:
+      213: 7957978565500872329
+    second: VFX_Move_Aqua_Shield_4
+  - first:
+      213: -3412129818370854969
+    second: VFX_Move_Aqua_Shield_5
+  - first:
+      213: -5910497192073115277
+    second: VFX_Move_Aqua_Shield_6
+  - first:
+      213: -8118830656961088914
+    second: VFX_Move_Aqua_Shield_7
+  - first:
+      213: -34762587701903283
+    second: VFX_Move_Aqua_Shield_8
+  - first:
+      213: -1113570270167862487
+    second: VFX_Move_Aqua_Shield_9
+  - first:
+      213: -2709624033478032226
+    second: VFX_Move_Aqua_Shield_10
+  - first:
+      213: 5399764338085912396
+    second: VFX_Move_Aqua_Shield_11
+  - first:
+      213: 1732455481878048120
+    second: VFX_Move_Aqua_Shield_12
+  - first:
+      213: -5077260794372268966
+    second: VFX_Move_Aqua_Shield_13
+  - first:
+      213: 4531952971754612946
+    second: VFX_Move_Aqua_Shield_14
+  - first:
+      213: 3331303924954860797
+    second: VFX_Move_Aqua_Shield_15
+  - first:
+      213: -3995198313523049343
+    second: VFX_Move_Aqua_Shield_16
+  - first:
+      213: -5361402318523977713
+    second: VFX_Move_Aqua_Shield_17
+  - first:
+      213: 7179063559554926157
+    second: VFX_Move_Aqua_Shield_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16508325565b6fbf0800000000000000
+      internalID: -290845679143090847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75842f58cb8a34a0800000000000000
+      internalID: -6612819410134203009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2c80d288031b370800000000000000
+      internalID: 8336497746668733167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d12a6ebda012f50800000000000000
+      internalID: 6854772047418105097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9862ad6975b607e60800000000000000
+      internalID: 7957978565500872329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfac78220ea5a0d0800000000000000
+      internalID: -3412129818370854969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379c9847e12b9fda0800000000000000
+      internalID: -5910497192073115277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62784c688e145f80800000000000000
+      internalID: -8118830656961088914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d400e845c9f748ff0800000000000000
+      internalID: -34762587701903283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 6
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923753e3dbdcb80f0800000000000000
+      internalID: -1113570270167862487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e944ea93c4b756ad0800000000000000
+      internalID: -2709624033478032226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fde6a6e01dfea40800000000000000
+      internalID: 5399764338085912396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87de482f41bea0810800000000000000
+      internalID: 1732455481878048120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c5c6f3532f989b0800000000000000
+      internalID: -5077260794372268966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8a53c673bb4ee30800000000000000
+      internalID: 4531952971754612946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_15
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc8ccd054b2b3e20800000000000000
+      internalID: 3331303924954860797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c08332d443e88c0800000000000000
+      internalID: -3995198313523049343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f003c6a4ff87895b0800000000000000
+      internalID: -5361402318523977713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Shield_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d460937654821a360800000000000000
+      internalID: 7179063559554926157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Aqua_Shield_0: -290845679143090847
+      VFX_Move_Aqua_Shield_1: -6612819410134203009
+      VFX_Move_Aqua_Shield_10: -2709624033478032226
+      VFX_Move_Aqua_Shield_11: 5399764338085912396
+      VFX_Move_Aqua_Shield_12: 1732455481878048120
+      VFX_Move_Aqua_Shield_13: -5077260794372268966
+      VFX_Move_Aqua_Shield_14: 4531952971754612946
+      VFX_Move_Aqua_Shield_15: 3331303924954860797
+      VFX_Move_Aqua_Shield_16: -3995198313523049343
+      VFX_Move_Aqua_Shield_17: -5361402318523977713
+      VFX_Move_Aqua_Shield_18: 7179063559554926157
+      VFX_Move_Aqua_Shield_2: 8336497746668733167
+      VFX_Move_Aqua_Shield_3: 6854772047418105097
+      VFX_Move_Aqua_Shield_4: 7957978565500872329
+      VFX_Move_Aqua_Shield_5: -3412129818370854969
+      VFX_Move_Aqua_Shield_6: -5910497192073115277
+      VFX_Move_Aqua_Shield_7: -8118830656961088914
+      VFX_Move_Aqua_Shield_8: -34762587701903283
+      VFX_Move_Aqua_Shield_9: -1113570270167862487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

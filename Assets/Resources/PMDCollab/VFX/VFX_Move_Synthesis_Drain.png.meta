@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 75d7f9b0359ae3a4bb8c0134cfa17338
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2718909785086785250
+    second: VFX_Move_Synthesis_Drain_0
+  - first:
+      213: -313224525919284784
+    second: VFX_Move_Synthesis_Drain_1
+  - first:
+      213: -950634254396447854
+    second: VFX_Move_Synthesis_Drain_2
+  - first:
+      213: -7907338878234947812
+    second: VFX_Move_Synthesis_Drain_3
+  - first:
+      213: -7281331465779235690
+    second: VFX_Move_Synthesis_Drain_4
+  - first:
+      213: -1010105194713306385
+    second: VFX_Move_Synthesis_Drain_5
+  - first:
+      213: 1361107049318209212
+    second: VFX_Move_Synthesis_Drain_6
+  - first:
+      213: 3311266040508229118
+    second: VFX_Move_Synthesis_Drain_7
+  - first:
+      213: -5512572498889916952
+    second: VFX_Move_Synthesis_Drain_8
+  - first:
+      213: 2106883751496362746
+    second: VFX_Move_Synthesis_Drain_9
+  - first:
+      213: 4928576864809397827
+    second: VFX_Move_Synthesis_Drain_10
+  - first:
+      213: -798637896047806431
+    second: VFX_Move_Synthesis_Drain_11
+  - first:
+      213: -7382293883638068508
+    second: VFX_Move_Synthesis_Drain_12
+  - first:
+      213: -7409179977674768090
+    second: VFX_Move_Synthesis_Drain_13
+  - first:
+      213: 3721575570862325649
+    second: VFX_Move_Synthesis_Drain_14
+  - first:
+      213: 1865455356710076520
+    second: VFX_Move_Synthesis_Drain_15
+  - first:
+      213: 1572100348890059461
+    second: VFX_Move_Synthesis_Drain_16
+  - first:
+      213: 4797744142214360215
+    second: VFX_Move_Synthesis_Drain_17
+  - first:
+      213: -5727481833863742894
+    second: VFX_Move_Synthesis_Drain_18
+  - first:
+      213: -1505185060260315380
+    second: VFX_Move_Synthesis_Drain_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e198193b4fd744ad0800000000000000
+      internalID: -2718909785086785250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d114a504f337abf0800000000000000
+      internalID: -313224525919284784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293a16bae2baec2f0800000000000000
+      internalID: -950634254396447854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f8b246f2d734290800000000000000
+      internalID: -7907338878234947812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694ba5a2c9383fa90800000000000000
+      internalID: -7281331465779235690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea265b5da26bf1f0800000000000000
+      internalID: -1010105194713306385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb654ef56af93e210800000000000000
+      internalID: 1361107049318209212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5ae458beaf3fd20800000000000000
+      internalID: 3311266040508229118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 6
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed3415e4886f73b0800000000000000
+      internalID: -5512572498889916952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 8
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaabf6fb972d3d10800000000000000
+      internalID: 2106883751496362746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 9
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e2c2bbb82d56440800000000000000
+      internalID: 4928576864809397827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 9
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128b7ed901baae4f0800000000000000
+      internalID: -798637896047806431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 9
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac63e63d2dc8990800000000000000
+      internalID: -7382293883638068508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 9
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62142c9d01e4d2990800000000000000
+      internalID: -7409179977674768090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 10
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f35029341b5a330800000000000000
+      internalID: 3721575570862325649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 11
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860cd0963cd63e910800000000000000
+      internalID: 1865455356710076520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 11
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c21cde10f831d510800000000000000
+      internalID: 1572100348890059461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 11
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ce5e7b0e2059240800000000000000
+      internalID: 4797744142214360215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 10
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a7c0b1e95e380b0800000000000000
+      internalID: -5727481833863742894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Drain_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 8
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f75f999228c1be0800000000000000
+      internalID: -1505185060260315380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Synthesis_Drain_0: -2718909785086785250
+      VFX_Move_Synthesis_Drain_1: -313224525919284784
+      VFX_Move_Synthesis_Drain_10: 4928576864809397827
+      VFX_Move_Synthesis_Drain_11: -798637896047806431
+      VFX_Move_Synthesis_Drain_12: -7382293883638068508
+      VFX_Move_Synthesis_Drain_13: -7409179977674768090
+      VFX_Move_Synthesis_Drain_14: 3721575570862325649
+      VFX_Move_Synthesis_Drain_15: 1865455356710076520
+      VFX_Move_Synthesis_Drain_16: 1572100348890059461
+      VFX_Move_Synthesis_Drain_17: 4797744142214360215
+      VFX_Move_Synthesis_Drain_18: -5727481833863742894
+      VFX_Move_Synthesis_Drain_19: -1505185060260315380
+      VFX_Move_Synthesis_Drain_2: -950634254396447854
+      VFX_Move_Synthesis_Drain_3: -7907338878234947812
+      VFX_Move_Synthesis_Drain_4: -7281331465779235690
+      VFX_Move_Synthesis_Drain_5: -1010105194713306385
+      VFX_Move_Synthesis_Drain_6: 1361107049318209212
+      VFX_Move_Synthesis_Drain_7: 3311266040508229118
+      VFX_Move_Synthesis_Drain_8: -5512572498889916952
+      VFX_Move_Synthesis_Drain_9: 2106883751496362746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

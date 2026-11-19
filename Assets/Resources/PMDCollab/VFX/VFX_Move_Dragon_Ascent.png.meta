@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: aff43e53ffc33ae43ac0028a14f12037
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6590259820490638112
+    second: VFX_Move_Dragon_Ascent_0
+  - first:
+      213: 554183171306214612
+    second: VFX_Move_Dragon_Ascent_1
+  - first:
+      213: 8021503860466441474
+    second: VFX_Move_Dragon_Ascent_2
+  - first:
+      213: 2848172409462948285
+    second: VFX_Move_Dragon_Ascent_3
+  - first:
+      213: 1039068799674847648
+    second: VFX_Move_Dragon_Ascent_4
+  - first:
+      213: 6353946730228886528
+    second: VFX_Move_Dragon_Ascent_5
+  - first:
+      213: 6628521323676237090
+    second: VFX_Move_Dragon_Ascent_6
+  - first:
+      213: -4441346768287510028
+    second: VFX_Move_Dragon_Ascent_7
+  - first:
+      213: -8738581761179998216
+    second: VFX_Move_Dragon_Ascent_8
+  - first:
+      213: -1575839325646651813
+    second: VFX_Move_Dragon_Ascent_9
+  - first:
+      213: -1611796735196859879
+    second: VFX_Move_Dragon_Ascent_10
+  - first:
+      213: -8373981806148183707
+    second: VFX_Move_Dragon_Ascent_11
+  - first:
+      213: -7666442038847821059
+    second: VFX_Move_Dragon_Ascent_12
+  - first:
+      213: -5533893206245961167
+    second: VFX_Move_Dragon_Ascent_13
+  - first:
+      213: -1926231361844735840
+    second: VFX_Move_Dragon_Ascent_14
+  - first:
+      213: -7964747183267094763
+    second: VFX_Move_Dragon_Ascent_15
+  - first:
+      213: -7152332727367344757
+    second: VFX_Move_Dragon_Ascent_16
+  - first:
+      213: 1362315786943220996
+    second: VFX_Move_Dragon_Ascent_17
+  - first:
+      213: -926451631236418296
+    second: VFX_Move_Dragon_Ascent_18
+  - first:
+      213: 5078466295648122559
+    second: VFX_Move_Dragon_Ascent_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec30262c91ba84a0800000000000000
+      internalID: -6590259820490638112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 14
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4d43a78aad0b700800000000000000
+      internalID: 554183171306214612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dd687e24b125f60800000000000000
+      internalID: 8021503860466441474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db18b1557bdb68720800000000000000
+      internalID: 2848172409462948285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a19fcd61938b6e00800000000000000
+      internalID: 1039068799674847648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c2c01f2e0cd2850800000000000000
+      internalID: 6353946730228886528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22df2d3460d3dfb50800000000000000
+      internalID: 6628521323676237090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1d4ef35aa2d52c0800000000000000
+      internalID: -4441346768287510028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 9
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7a82cef225ab680800000000000000
+      internalID: -8738581761179998216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 11
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e7db38b7e712ae0800000000000000
+      internalID: -1575839325646651813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912f474b86fb1a9e0800000000000000
+      internalID: -1611796735196859879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 12
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56914f02ae3a9cb80800000000000000
+      internalID: -8373981806148183707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 11
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaaa5f85935b9590800000000000000
+      internalID: -7666442038847821059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 9
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13213c0e279a333b0800000000000000
+      internalID: -5533893206245961167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0170238c6a445e0800000000000000
+      internalID: -1926231361844735840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f5297c2a8877190800000000000000
+      internalID: -7964747183267094763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d5ed5774fcdbc90800000000000000
+      internalID: -7152332727367344757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 6
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d48a88dfae7e210800000000000000
+      internalID: 1362315786943220996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_18
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805729266259423f0800000000000000
+      internalID: -926451631236418296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Ascent_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 6
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb676e360365a7640800000000000000
+      internalID: 5078466295648122559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dragon_Ascent_0: -6590259820490638112
+      VFX_Move_Dragon_Ascent_1: 554183171306214612
+      VFX_Move_Dragon_Ascent_10: -1611796735196859879
+      VFX_Move_Dragon_Ascent_11: -8373981806148183707
+      VFX_Move_Dragon_Ascent_12: -7666442038847821059
+      VFX_Move_Dragon_Ascent_13: -5533893206245961167
+      VFX_Move_Dragon_Ascent_14: -1926231361844735840
+      VFX_Move_Dragon_Ascent_15: -7964747183267094763
+      VFX_Move_Dragon_Ascent_16: -7152332727367344757
+      VFX_Move_Dragon_Ascent_17: 1362315786943220996
+      VFX_Move_Dragon_Ascent_18: -926451631236418296
+      VFX_Move_Dragon_Ascent_19: 5078466295648122559
+      VFX_Move_Dragon_Ascent_2: 8021503860466441474
+      VFX_Move_Dragon_Ascent_3: 2848172409462948285
+      VFX_Move_Dragon_Ascent_4: 1039068799674847648
+      VFX_Move_Dragon_Ascent_5: 6353946730228886528
+      VFX_Move_Dragon_Ascent_6: 6628521323676237090
+      VFX_Move_Dragon_Ascent_7: -4441346768287510028
+      VFX_Move_Dragon_Ascent_8: -8738581761179998216
+      VFX_Move_Dragon_Ascent_9: -1575839325646651813
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

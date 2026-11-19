@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: ac011e5f73bb352488b00e1a50357c32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7502924448099295894
+    second: VFX_Move_Dynamic_Punch_0
+  - first:
+      213: -247740937783325077
+    second: VFX_Move_Dynamic_Punch_1
+  - first:
+      213: -1957197706692146649
+    second: VFX_Move_Dynamic_Punch_2
+  - first:
+      213: -335556653377573890
+    second: VFX_Move_Dynamic_Punch_3
+  - first:
+      213: 1494696728914964155
+    second: VFX_Move_Dynamic_Punch_4
+  - first:
+      213: 3480675486325506490
+    second: VFX_Move_Dynamic_Punch_5
+  - first:
+      213: 6030475663363770152
+    second: VFX_Move_Dynamic_Punch_6
+  - first:
+      213: 6576950036421168212
+    second: VFX_Move_Dynamic_Punch_7
+  - first:
+      213: 418477966326687509
+    second: VFX_Move_Dynamic_Punch_8
+  - first:
+      213: -6732058264999028803
+    second: VFX_Move_Dynamic_Punch_9
+  - first:
+      213: -5396682602803816047
+    second: VFX_Move_Dynamic_Punch_10
+  - first:
+      213: 3580622290766960830
+    second: VFX_Move_Dynamic_Punch_11
+  - first:
+      213: 7134754780486112296
+    second: VFX_Move_Dynamic_Punch_12
+  - first:
+      213: -1081544400437509503
+    second: VFX_Move_Dynamic_Punch_13
+  - first:
+      213: -280234968840836130
+    second: VFX_Move_Dynamic_Punch_14
+  - first:
+      213: -8489351830121628711
+    second: VFX_Move_Dynamic_Punch_15
+  - first:
+      213: 8506257285199682182
+    second: VFX_Move_Dynamic_Punch_16
+  - first:
+      213: -4978004108137079455
+    second: VFX_Move_Dynamic_Punch_17
+  - first:
+      213: -1949142950680944543
+    second: VFX_Move_Dynamic_Punch_18
+  - first:
+      213: 4351945596683193932
+    second: VFX_Move_Dynamic_Punch_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d927677f140e790800000000000000
+      internalID: -7502924448099295894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e4a1ffde8df8cf0800000000000000
+      internalID: -247740937783325077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ac7613e03a6d4e0800000000000000
+      internalID: -1957197706692146649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb2969600dd75bf0800000000000000
+      internalID: -335556653377573890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe2ae571ca3eb410800000000000000
+      internalID: 1494696728914964155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab187d4d9e7dd4030800000000000000
+      internalID: 3480675486325506490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8278f6d3aad80b350800000000000000
+      internalID: 6030475663363770152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c40624635064b50800000000000000
+      internalID: 6576950036421168212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517ea314e7bbec500800000000000000
+      internalID: 418477966326687509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7108b0dace292a0800000000000000
+      internalID: -6732058264999028803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199195ef3c12b15b0800000000000000
+      internalID: -5396682602803816047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb89204a00de0b130800000000000000
+      internalID: 3580622290766960830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824156adbadb30360800000000000000
+      internalID: 7134754780486112296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1820c1b19159df0f0800000000000000
+      internalID: -1081544400437509503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb6994d7c76c1cf0800000000000000
+      internalID: -280234968840836130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_15
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbb9403d73cf2a80800000000000000
+      internalID: -8489351830121628711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ad76cceeb4c0670800000000000000
+      internalID: 8506257285199682182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ddd0463a39aeab0800000000000000
+      internalID: -4978004108137079455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160a43830d043f4e0800000000000000
+      internalID: -1949142950680944543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dynamic_Punch_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e802c6677356c30800000000000000
+      internalID: 4351945596683193932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dynamic_Punch_0: -7502924448099295894
+      VFX_Move_Dynamic_Punch_1: -247740937783325077
+      VFX_Move_Dynamic_Punch_10: -5396682602803816047
+      VFX_Move_Dynamic_Punch_11: 3580622290766960830
+      VFX_Move_Dynamic_Punch_12: 7134754780486112296
+      VFX_Move_Dynamic_Punch_13: -1081544400437509503
+      VFX_Move_Dynamic_Punch_14: -280234968840836130
+      VFX_Move_Dynamic_Punch_15: -8489351830121628711
+      VFX_Move_Dynamic_Punch_16: 8506257285199682182
+      VFX_Move_Dynamic_Punch_17: -4978004108137079455
+      VFX_Move_Dynamic_Punch_18: -1949142950680944543
+      VFX_Move_Dynamic_Punch_19: 4351945596683193932
+      VFX_Move_Dynamic_Punch_2: -1957197706692146649
+      VFX_Move_Dynamic_Punch_3: -335556653377573890
+      VFX_Move_Dynamic_Punch_4: 1494696728914964155
+      VFX_Move_Dynamic_Punch_5: 3480675486325506490
+      VFX_Move_Dynamic_Punch_6: 6030475663363770152
+      VFX_Move_Dynamic_Punch_7: 6576950036421168212
+      VFX_Move_Dynamic_Punch_8: 418477966326687509
+      VFX_Move_Dynamic_Punch_9: -6732058264999028803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

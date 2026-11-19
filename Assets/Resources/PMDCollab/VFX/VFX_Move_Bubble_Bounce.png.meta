@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: cc8cfc15e45a2bd438f896677b3e382f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8637634422596605276
+    second: VFX_Move_Bubble_Bounce_0
+  - first:
+      213: 6051454478678715016
+    second: VFX_Move_Bubble_Bounce_1
+  - first:
+      213: 1726745923870132678
+    second: VFX_Move_Bubble_Bounce_2
+  - first:
+      213: 4263638268759274278
+    second: VFX_Move_Bubble_Bounce_3
+  - first:
+      213: -3388680697849666305
+    second: VFX_Move_Bubble_Bounce_4
+  - first:
+      213: -123457104959731061
+    second: VFX_Move_Bubble_Bounce_5
+  - first:
+      213: -3073439867969434919
+    second: VFX_Move_Bubble_Bounce_6
+  - first:
+      213: -7711796693605874399
+    second: VFX_Move_Bubble_Bounce_7
+  - first:
+      213: -5307722986836650496
+    second: VFX_Move_Bubble_Bounce_8
+  - first:
+      213: 623456144568489916
+    second: VFX_Move_Bubble_Bounce_9
+  - first:
+      213: -1889025276637055850
+    second: VFX_Move_Bubble_Bounce_10
+  - first:
+      213: 5294446688712830129
+    second: VFX_Move_Bubble_Bounce_11
+  - first:
+      213: 682405916537295022
+    second: VFX_Move_Bubble_Bounce_12
+  - first:
+      213: -2841149537906485417
+    second: VFX_Move_Bubble_Bounce_13
+  - first:
+      213: 2615230151343129373
+    second: VFX_Move_Bubble_Bounce_14
+  - first:
+      213: 3123168369060493732
+    second: VFX_Move_Bubble_Bounce_15
+  - first:
+      213: -2387056129774325329
+    second: VFX_Move_Bubble_Bounce_16
+  - first:
+      213: 3626355085362646595
+    second: VFX_Move_Bubble_Bounce_17
+  - first:
+      213: -6123900860086734848
+    second: VFX_Move_Bubble_Bounce_18
+  - first:
+      213: 6609979841886209562
+    second: VFX_Move_Bubble_Bounce_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c559e824eba0fd770800000000000000
+      internalID: 8637634422596605276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a671059c51bf350800000000000000
+      internalID: 6051454478678715016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c902a1e442a6f710800000000000000
+      internalID: 1726745923870132678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 10
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623782c6a6c7b2b30800000000000000
+      internalID: 4263638268759274278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4a27bfbdcf8f0d0800000000000000
+      internalID: -3388680697849666305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a80e9ca64694ef0800000000000000
+      internalID: -123457104959731061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da882f49b2f855d0800000000000000
+      internalID: -3073439867969434919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125079914c13af490800000000000000
+      internalID: -7711796693605874399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0061d63a01e2756b0800000000000000
+      internalID: -5307722986836650496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb71a0e6f06f6a800800000000000000
+      internalID: 623456144568489916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6947056f485d8c5e0800000000000000
+      internalID: -1889025276637055850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca8f25637a97940800000000000000
+      internalID: 5294446688712830129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea094d7c094687900800000000000000
+      internalID: 682405916537295022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 9
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757915f5c853298d0800000000000000
+      internalID: -2841149537906485417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c2b077f92b4420800000000000000
+      internalID: 2615230151343129373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9369b9519b75b20800000000000000
+      internalID: 3123168369060493732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1f1edd8197fded0800000000000000
+      internalID: -2387056129774325329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ec874acb6635230800000000000000
+      internalID: 3626355085362646595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00032d21d98830ba0800000000000000
+      internalID: -6123900860086734848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Bounce_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16ce1025ad5bbb50800000000000000
+      internalID: 6609979841886209562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Bubble_Bounce_0: 8637634422596605276
+      VFX_Move_Bubble_Bounce_1: 6051454478678715016
+      VFX_Move_Bubble_Bounce_10: -1889025276637055850
+      VFX_Move_Bubble_Bounce_11: 5294446688712830129
+      VFX_Move_Bubble_Bounce_12: 682405916537295022
+      VFX_Move_Bubble_Bounce_13: -2841149537906485417
+      VFX_Move_Bubble_Bounce_14: 2615230151343129373
+      VFX_Move_Bubble_Bounce_15: 3123168369060493732
+      VFX_Move_Bubble_Bounce_16: -2387056129774325329
+      VFX_Move_Bubble_Bounce_17: 3626355085362646595
+      VFX_Move_Bubble_Bounce_18: -6123900860086734848
+      VFX_Move_Bubble_Bounce_19: 6609979841886209562
+      VFX_Move_Bubble_Bounce_2: 1726745923870132678
+      VFX_Move_Bubble_Bounce_3: 4263638268759274278
+      VFX_Move_Bubble_Bounce_4: -3388680697849666305
+      VFX_Move_Bubble_Bounce_5: -123457104959731061
+      VFX_Move_Bubble_Bounce_6: -3073439867969434919
+      VFX_Move_Bubble_Bounce_7: -7711796693605874399
+      VFX_Move_Bubble_Bounce_8: -5307722986836650496
+      VFX_Move_Bubble_Bounce_9: 623456144568489916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

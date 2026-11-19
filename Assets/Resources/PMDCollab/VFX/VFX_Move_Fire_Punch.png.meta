@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 64edd2c9ada93aa4d8438eab6d49b76a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4142656588412906266
+    second: VFX_Move_Fire_Punch_0
+  - first:
+      213: -6952728891531585185
+    second: VFX_Move_Fire_Punch_1
+  - first:
+      213: -2809950005581340914
+    second: VFX_Move_Fire_Punch_2
+  - first:
+      213: -3462156089011629854
+    second: VFX_Move_Fire_Punch_3
+  - first:
+      213: -1606804303463575113
+    second: VFX_Move_Fire_Punch_4
+  - first:
+      213: -6156360208810956777
+    second: VFX_Move_Fire_Punch_5
+  - first:
+      213: -5942565351175682776
+    second: VFX_Move_Fire_Punch_6
+  - first:
+      213: -4549943620897288064
+    second: VFX_Move_Fire_Punch_7
+  - first:
+      213: 7142723773703952234
+    second: VFX_Move_Fire_Punch_8
+  - first:
+      213: -8401787094305205246
+    second: VFX_Move_Fire_Punch_9
+  - first:
+      213: 7362047248877835801
+    second: VFX_Move_Fire_Punch_10
+  - first:
+      213: 5776041703763312702
+    second: VFX_Move_Fire_Punch_11
+  - first:
+      213: -7249662784739046351
+    second: VFX_Move_Fire_Punch_12
+  - first:
+      213: 3187565853314296045
+    second: VFX_Move_Fire_Punch_13
+  - first:
+      213: -3928576411092156463
+    second: VFX_Move_Fire_Punch_14
+  - first:
+      213: -3678989904836599899
+    second: VFX_Move_Fire_Punch_15
+  - first:
+      213: 3532685024883545600
+    second: VFX_Move_Fire_Punch_16
+  - first:
+      213: -1563195569412063003
+    second: VFX_Move_Fire_Punch_17
+  - first:
+      213: 1607971756428506509
+    second: VFX_Move_Fire_Punch_18
+  - first:
+      213: -3041353480847929818
+    second: VFX_Move_Fire_Punch_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b68cae73cad7930800000000000000
+      internalID: 4142656588412906266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f591aa809e1f28f90800000000000000
+      internalID: -6952728891531585185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f97b09b5d0109d0800000000000000
+      internalID: -2809950005581340914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0918d5163f3ffc0800000000000000
+      internalID: -3462156089011629854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b11c7ccffb73b9e0800000000000000
+      internalID: -1606804303463575113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71829740207309aa0800000000000000
+      internalID: -6156360208810956777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82501a45c44c78da0800000000000000
+      internalID: -5942565351175682776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080dc58226a5bd0c0800000000000000
+      internalID: -4549943620897288064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a679c5cad6d002360800000000000000
+      internalID: 7142723773703952234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2041a7df62bd66b80800000000000000
+      internalID: -8401787094305205246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 4
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916510197fe3b2660800000000000000
+      internalID: 7362047248877835801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 5
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3087a8a35f982050800000000000000
+      internalID: 5776041703763312702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 5
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c824e8b16046b90800000000000000
+      internalID: -7249662784739046351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 5
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8a6f051428c3c20800000000000000
+      internalID: 3187565853314296045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 5
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df7fdf8194ea79c0800000000000000
+      internalID: -3928576411092156463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_15
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 6
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af57f57c2a91fcc0800000000000000
+      internalID: -3678989904836599899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 7
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006968b205e960130800000000000000
+      internalID: 3532685024883545600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 6
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0caba69e96e4ae0800000000000000
+      internalID: -1563195569412063003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8538c60bc9a05610800000000000000
+      internalID: 1607971756428506509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Punch_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 6
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e49a97f11fac5d0800000000000000
+      internalID: -3041353480847929818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Fire_Punch_0: 4142656588412906266
+      VFX_Move_Fire_Punch_1: -6952728891531585185
+      VFX_Move_Fire_Punch_10: 7362047248877835801
+      VFX_Move_Fire_Punch_11: 5776041703763312702
+      VFX_Move_Fire_Punch_12: -7249662784739046351
+      VFX_Move_Fire_Punch_13: 3187565853314296045
+      VFX_Move_Fire_Punch_14: -3928576411092156463
+      VFX_Move_Fire_Punch_15: -3678989904836599899
+      VFX_Move_Fire_Punch_16: 3532685024883545600
+      VFX_Move_Fire_Punch_17: -1563195569412063003
+      VFX_Move_Fire_Punch_18: 1607971756428506509
+      VFX_Move_Fire_Punch_19: -3041353480847929818
+      VFX_Move_Fire_Punch_2: -2809950005581340914
+      VFX_Move_Fire_Punch_3: -3462156089011629854
+      VFX_Move_Fire_Punch_4: -1606804303463575113
+      VFX_Move_Fire_Punch_5: -6156360208810956777
+      VFX_Move_Fire_Punch_6: -5942565351175682776
+      VFX_Move_Fire_Punch_7: -4549943620897288064
+      VFX_Move_Fire_Punch_8: 7142723773703952234
+      VFX_Move_Fire_Punch_9: -8401787094305205246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

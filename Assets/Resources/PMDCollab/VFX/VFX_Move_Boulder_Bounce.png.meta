@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: b6df41b0d7274714890cf6e58b73e594
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -378639251680322717
+    second: VFX_Move_Boulder_Bounce_0
+  - first:
+      213: 7068611634427270416
+    second: VFX_Move_Boulder_Bounce_1
+  - first:
+      213: 7882363851996698947
+    second: VFX_Move_Boulder_Bounce_2
+  - first:
+      213: 9077029591061116001
+    second: VFX_Move_Boulder_Bounce_3
+  - first:
+      213: -2365604443887076537
+    second: VFX_Move_Boulder_Bounce_4
+  - first:
+      213: 7886963817472655290
+    second: VFX_Move_Boulder_Bounce_5
+  - first:
+      213: -6206424787478614520
+    second: VFX_Move_Boulder_Bounce_6
+  - first:
+      213: 1445759356208955248
+    second: VFX_Move_Boulder_Bounce_7
+  - first:
+      213: 1758268903555853867
+    second: VFX_Move_Boulder_Bounce_8
+  - first:
+      213: 7498708503767209569
+    second: VFX_Move_Boulder_Bounce_9
+  - first:
+      213: 1190431441572342483
+    second: VFX_Move_Boulder_Bounce_10
+  - first:
+      213: -7460518433622348229
+    second: VFX_Move_Boulder_Bounce_11
+  - first:
+      213: -720215691900557691
+    second: VFX_Move_Boulder_Bounce_12
+  - first:
+      213: 37729091223509962
+    second: VFX_Move_Boulder_Bounce_13
+  - first:
+      213: 417641926429603693
+    second: VFX_Move_Boulder_Bounce_14
+  - first:
+      213: -6072699593498920587
+    second: VFX_Move_Boulder_Bounce_15
+  - first:
+      213: 704510894073868724
+    second: VFX_Move_Boulder_Bounce_16
+  - first:
+      213: -3521621711821934574
+    second: VFX_Move_Boulder_Bounce_17
+  - first:
+      213: 402385393706481190
+    second: VFX_Move_Boulder_Bounce_18
+  - first:
+      213: -1954617397463189674
+    second: VFX_Move_Boulder_Bounce_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b13915b9dcebaf0800000000000000
+      internalID: -378639251680322717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0151b3594d0c81260800000000000000
+      internalID: 7068611634427270416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34994ac2928c36d60800000000000000
+      internalID: 7882363851996698947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16438e6225618fd70800000000000000
+      internalID: 9077029591061116001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7603ba4fab2fd0800000000000000
+      internalID: -2365604443887076537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abff0d81ecf147d60800000000000000
+      internalID: 7886963817472655290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e6821f9895ed9a0800000000000000
+      internalID: -6206424787478614520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f3889797e501410800000000000000
+      internalID: 1445759356208955248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eef088040a66810800000000000000
+      internalID: 1758268903555853867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166de3187a3c01860800000000000000
+      internalID: 7498708503767209569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da2064c613458010800000000000000
+      internalID: 1190431441572342483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eafab130ae67890800000000000000
+      internalID: -7460518433622348229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586ea92e4a74106f0800000000000000
+      internalID: -720215691900557691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb5318986a068000800000000000000
+      internalID: 37729091223509962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67752c8e13cbc500800000000000000
+      internalID: 417641926429603693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57976dde4ef69bba0800000000000000
+      internalID: -6072699593498920587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b17aadecece6c900800000000000000
+      internalID: 704510894073868724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210fc8126bfa02fc0800000000000000
+      internalID: -3521621711821934574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 5
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6263ea6326f859500800000000000000
+      internalID: 402385393706481190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Boulder_Bounce_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657786045ddcfd4e0800000000000000
+      internalID: -1954617397463189674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Boulder_Bounce_0: -378639251680322717
+      VFX_Move_Boulder_Bounce_1: 7068611634427270416
+      VFX_Move_Boulder_Bounce_10: 1190431441572342483
+      VFX_Move_Boulder_Bounce_11: -7460518433622348229
+      VFX_Move_Boulder_Bounce_12: -720215691900557691
+      VFX_Move_Boulder_Bounce_13: 37729091223509962
+      VFX_Move_Boulder_Bounce_14: 417641926429603693
+      VFX_Move_Boulder_Bounce_15: -6072699593498920587
+      VFX_Move_Boulder_Bounce_16: 704510894073868724
+      VFX_Move_Boulder_Bounce_17: -3521621711821934574
+      VFX_Move_Boulder_Bounce_18: 402385393706481190
+      VFX_Move_Boulder_Bounce_19: -1954617397463189674
+      VFX_Move_Boulder_Bounce_2: 7882363851996698947
+      VFX_Move_Boulder_Bounce_3: 9077029591061116001
+      VFX_Move_Boulder_Bounce_4: -2365604443887076537
+      VFX_Move_Boulder_Bounce_5: 7886963817472655290
+      VFX_Move_Boulder_Bounce_6: -6206424787478614520
+      VFX_Move_Boulder_Bounce_7: 1445759356208955248
+      VFX_Move_Boulder_Bounce_8: 1758268903555853867
+      VFX_Move_Boulder_Bounce_9: 7498708503767209569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0d8c9a8a1048a9742a9a4a7817aa71f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3164362063948330218
+    second: VFX_Move_Fire_Clone_0
+  - first:
+      213: -4559122398358609052
+    second: VFX_Move_Fire_Clone_1
+  - first:
+      213: 6412375595829739482
+    second: VFX_Move_Fire_Clone_2
+  - first:
+      213: -1511785788889617839
+    second: VFX_Move_Fire_Clone_3
+  - first:
+      213: -374093466386240884
+    second: VFX_Move_Fire_Clone_4
+  - first:
+      213: 4276146621245290414
+    second: VFX_Move_Fire_Clone_5
+  - first:
+      213: 720325516239203661
+    second: VFX_Move_Fire_Clone_6
+  - first:
+      213: 1726277296751698320
+    second: VFX_Move_Fire_Clone_7
+  - first:
+      213: 6391104530745649115
+    second: VFX_Move_Fire_Clone_8
+  - first:
+      213: 8706398884269610478
+    second: VFX_Move_Fire_Clone_9
+  - first:
+      213: 5775331381434055164
+    second: VFX_Move_Fire_Clone_10
+  - first:
+      213: -2903562982677480229
+    second: VFX_Move_Fire_Clone_11
+  - first:
+      213: 7840429762511503026
+    second: VFX_Move_Fire_Clone_12
+  - first:
+      213: -1298181749200467964
+    second: VFX_Move_Fire_Clone_13
+  - first:
+      213: -9175876031023234410
+    second: VFX_Move_Fire_Clone_14
+  - first:
+      213: 4771776035526588256
+    second: VFX_Move_Fire_Clone_15
+  - first:
+      213: 526341146169791056
+    second: VFX_Move_Fire_Clone_16
+  - first:
+      213: -4975933919751604070
+    second: VFX_Move_Fire_Clone_17
+  - first:
+      213: 3230406655188082666
+    second: VFX_Move_Fire_Clone_18
+  - first:
+      213: -2218936265462878639
+    second: VFX_Move_Fire_Clone_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4bc5a18821aeb20800000000000000
+      internalID: 3164362063948330218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463ee4e755ebab0c0800000000000000
+      internalID: -4559122398358609052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfb0d351a55df850800000000000000
+      internalID: 6412375595829739482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a20c4b5de050be0800000000000000
+      internalID: -1511785788889617839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ae04f69f3fecaf0800000000000000
+      internalID: -374093466386240884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7ffce22bce75b30800000000000000
+      internalID: 4276146621245290414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d66169d3c1ff900800000000000000
+      internalID: 720325516239203661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091e4b02e08f4f710800000000000000
+      internalID: 1726277296751698320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7eb7d85b3c1b850800000000000000
+      internalID: 6391104530745649115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee55fb128a753d870800000000000000
+      internalID: 8706398884269610478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 9
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9fa8ada49162050800000000000000
+      internalID: 5775331381434055164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 9
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcf88ad9d874b7d0800000000000000
+      internalID: -2903562982677480229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bef5e0245dcecc60800000000000000
+      internalID: 7840429762511503026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408c201c39eebfde0800000000000000
+      internalID: -1298181749200467964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692c6db9d5db8a080800000000000000
+      internalID: -9175876031023234410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b849b501c83240800000000000000
+      internalID: 4771776035526588256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0525f18db70fd4700800000000000000
+      internalID: 526341146169791056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98736fa67ee1fab0800000000000000
+      internalID: -4975933919751604070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 5
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef1b8accb5b4dc20800000000000000
+      internalID: 3230406655188082666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Clone_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e6ad51931c431e0800000000000000
+      internalID: -2218936265462878639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Fire_Clone_0: 3164362063948330218
+      VFX_Move_Fire_Clone_1: -4559122398358609052
+      VFX_Move_Fire_Clone_10: 5775331381434055164
+      VFX_Move_Fire_Clone_11: -2903562982677480229
+      VFX_Move_Fire_Clone_12: 7840429762511503026
+      VFX_Move_Fire_Clone_13: -1298181749200467964
+      VFX_Move_Fire_Clone_14: -9175876031023234410
+      VFX_Move_Fire_Clone_15: 4771776035526588256
+      VFX_Move_Fire_Clone_16: 526341146169791056
+      VFX_Move_Fire_Clone_17: -4975933919751604070
+      VFX_Move_Fire_Clone_18: 3230406655188082666
+      VFX_Move_Fire_Clone_19: -2218936265462878639
+      VFX_Move_Fire_Clone_2: 6412375595829739482
+      VFX_Move_Fire_Clone_3: -1511785788889617839
+      VFX_Move_Fire_Clone_4: -374093466386240884
+      VFX_Move_Fire_Clone_5: 4276146621245290414
+      VFX_Move_Fire_Clone_6: 720325516239203661
+      VFX_Move_Fire_Clone_7: 1726277296751698320
+      VFX_Move_Fire_Clone_8: 6391104530745649115
+      VFX_Move_Fire_Clone_9: 8706398884269610478
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

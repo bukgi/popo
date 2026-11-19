@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: c5b710f7b9b4b564eb36437cf03d29c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6932148808254484781
+    second: VFX_Move_Freeze_Dry_0
+  - first:
+      213: 8584756970678926673
+    second: VFX_Move_Freeze_Dry_1
+  - first:
+      213: 5669946484168040792
+    second: VFX_Move_Freeze_Dry_2
+  - first:
+      213: -3793778988112333811
+    second: VFX_Move_Freeze_Dry_3
+  - first:
+      213: 7377683960498155109
+    second: VFX_Move_Freeze_Dry_4
+  - first:
+      213: 2536825941661471291
+    second: VFX_Move_Freeze_Dry_5
+  - first:
+      213: -9141305752214291999
+    second: VFX_Move_Freeze_Dry_6
+  - first:
+      213: 9157809003388771667
+    second: VFX_Move_Freeze_Dry_7
+  - first:
+      213: 801221078308778758
+    second: VFX_Move_Freeze_Dry_8
+  - first:
+      213: -1316238515560517731
+    second: VFX_Move_Freeze_Dry_9
+  - first:
+      213: -8783666284178480075
+    second: VFX_Move_Freeze_Dry_10
+  - first:
+      213: -8459322962446335119
+    second: VFX_Move_Freeze_Dry_11
+  - first:
+      213: -7851589087262974405
+    second: VFX_Move_Freeze_Dry_12
+  - first:
+      213: 5335074336386602152
+    second: VFX_Move_Freeze_Dry_13
+  - first:
+      213: -8934406762938656294
+    second: VFX_Move_Freeze_Dry_14
+  - first:
+      213: -813322737010398441
+    second: VFX_Move_Freeze_Dry_15
+  - first:
+      213: 2618837585962318544
+    second: VFX_Move_Freeze_Dry_16
+  - first:
+      213: 5151790296139220658
+    second: VFX_Move_Freeze_Dry_17
+  - first:
+      213: -9139528719854853132
+    second: VFX_Move_Freeze_Dry_18
+  - first:
+      213: -3130483867780952066
+    second: VFX_Move_Freeze_Dry_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de08d1136f0ccf90800000000000000
+      internalID: -6932148808254484781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d30681bfe232770800000000000000
+      internalID: 8584756970678926673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851af446942bfae40800000000000000
+      internalID: 5669946484168040792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0439315c1ac95bc0800000000000000
+      internalID: -3793778988112333811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ee692397cc26660800000000000000
+      internalID: 7377683960498155109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b325ab5d0cd943320800000000000000
+      internalID: 2536825941661471291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e93800e9de832180800000000000000
+      internalID: -9141305752214291999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d9cd7b4c2171f70800000000000000
+      internalID: 9157809003388771667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603762f53528e1b00800000000000000
+      internalID: 801221078308778758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fe3583b08cbbde0800000000000000
+      internalID: -1316238515560517731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53467f96d062a1680800000000000000
+      internalID: -8783666284178480075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173c417c5927a9a80800000000000000
+      internalID: -8459322962446335119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e5b5b135d890390800000000000000
+      internalID: -7851589087262974405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a450aea7ddf90a40800000000000000
+      internalID: 5335074336386602152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad99138b26c920480800000000000000
+      internalID: -8934406762938656294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b2fb4a74f76b4f0800000000000000
+      internalID: -813322737010398441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dab9b3c8eaf75420800000000000000
+      internalID: 2618837585962318544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6ceae9af5de7740800000000000000
+      internalID: 5151790296139220658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 5
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f322967d0fd92180800000000000000
+      internalID: -9139528719854853132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Freeze_Dry_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff43dd12894e84d0800000000000000
+      internalID: -3130483867780952066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Freeze_Dry_0: -6932148808254484781
+      VFX_Move_Freeze_Dry_1: 8584756970678926673
+      VFX_Move_Freeze_Dry_10: -8783666284178480075
+      VFX_Move_Freeze_Dry_11: -8459322962446335119
+      VFX_Move_Freeze_Dry_12: -7851589087262974405
+      VFX_Move_Freeze_Dry_13: 5335074336386602152
+      VFX_Move_Freeze_Dry_14: -8934406762938656294
+      VFX_Move_Freeze_Dry_15: -813322737010398441
+      VFX_Move_Freeze_Dry_16: 2618837585962318544
+      VFX_Move_Freeze_Dry_17: 5151790296139220658
+      VFX_Move_Freeze_Dry_18: -9139528719854853132
+      VFX_Move_Freeze_Dry_19: -3130483867780952066
+      VFX_Move_Freeze_Dry_2: 5669946484168040792
+      VFX_Move_Freeze_Dry_3: -3793778988112333811
+      VFX_Move_Freeze_Dry_4: 7377683960498155109
+      VFX_Move_Freeze_Dry_5: 2536825941661471291
+      VFX_Move_Freeze_Dry_6: -9141305752214291999
+      VFX_Move_Freeze_Dry_7: 9157809003388771667
+      VFX_Move_Freeze_Dry_8: 801221078308778758
+      VFX_Move_Freeze_Dry_9: -1316238515560517731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

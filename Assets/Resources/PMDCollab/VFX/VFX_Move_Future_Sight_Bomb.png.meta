@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0e0492212b790524bb112af383a1eb3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6456383453048174143
+    second: VFX_Move_Future_Sight_Bomb_0
+  - first:
+      213: 3458894795907770779
+    second: VFX_Move_Future_Sight_Bomb_1
+  - first:
+      213: -3354739048281177534
+    second: VFX_Move_Future_Sight_Bomb_2
+  - first:
+      213: 2057301516579334295
+    second: VFX_Move_Future_Sight_Bomb_3
+  - first:
+      213: 3602191817667042113
+    second: VFX_Move_Future_Sight_Bomb_4
+  - first:
+      213: 4151914687039092064
+    second: VFX_Move_Future_Sight_Bomb_5
+  - first:
+      213: 9040109640785551242
+    second: VFX_Move_Future_Sight_Bomb_6
+  - first:
+      213: -5399048800294988182
+    second: VFX_Move_Future_Sight_Bomb_7
+  - first:
+      213: 7150563367070645886
+    second: VFX_Move_Future_Sight_Bomb_8
+  - first:
+      213: -498049587941224965
+    second: VFX_Move_Future_Sight_Bomb_9
+  - first:
+      213: 6531846637326039712
+    second: VFX_Move_Future_Sight_Bomb_10
+  - first:
+      213: 7016523123594344413
+    second: VFX_Move_Future_Sight_Bomb_11
+  - first:
+      213: -6895596420776132065
+    second: VFX_Move_Future_Sight_Bomb_12
+  - first:
+      213: -7424661769985906407
+    second: VFX_Move_Future_Sight_Bomb_13
+  - first:
+      213: 4541255412059191237
+    second: VFX_Move_Future_Sight_Bomb_14
+  - first:
+      213: -6804333899411626887
+    second: VFX_Move_Future_Sight_Bomb_15
+  - first:
+      213: 2520652837738402570
+    second: VFX_Move_Future_Sight_Bomb_16
+  - first:
+      213: 7008656378434302076
+    second: VFX_Move_Future_Sight_Bomb_17
+  - first:
+      213: 793537465136535739
+    second: VFX_Move_Future_Sight_Bomb_18
+  - first:
+      213: 2047179891718337714
+    second: VFX_Move_Future_Sight_Bomb_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c98a53f4715666a0800000000000000
+      internalID: -6456383453048174143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99a789ad76700030800000000000000
+      internalID: 3458894795907770779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24281191c929171d0800000000000000
+      internalID: -3354739048281177534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798659b44d00d8c10800000000000000
+      internalID: 2057301516579334295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bdcd87f5e8df130800000000000000
+      internalID: 3602191817667042113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06531baf8609e9930800000000000000
+      internalID: 4151914687039092064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f5b9d52dbe47d70800000000000000
+      internalID: 9040109640785551242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a661b65b8b9b215b0800000000000000
+      internalID: -5399048800294988182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eba2e3f77eb3360800000000000000
+      internalID: 7150563367070645886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdcb3ed9829619f0800000000000000
+      internalID: -498049587941224965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaf521d8e7c5aa50800000000000000
+      internalID: 6531846637326039712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7b7241b92bf5160800000000000000
+      internalID: 7016523123594344413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f120f29f69bed40a0800000000000000
+      internalID: -6895596420776132065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919219e257d46f890800000000000000
+      internalID: -7424661769985906407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7bb169cb7c50f30800000000000000
+      internalID: 4541255412059191237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974eb609e562291a0800000000000000
+      internalID: -6804333899411626887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a035a73a6682bf220800000000000000
+      internalID: 2520652837738402570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c703a5db7dfb34160800000000000000
+      internalID: 7008656378434302076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb85d65ce16330b00800000000000000
+      internalID: 793537465136535739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Future_Sight_Bomb_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4b13dd34b096c10800000000000000
+      internalID: 2047179891718337714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Future_Sight_Bomb_0: -6456383453048174143
+      VFX_Move_Future_Sight_Bomb_1: 3458894795907770779
+      VFX_Move_Future_Sight_Bomb_10: 6531846637326039712
+      VFX_Move_Future_Sight_Bomb_11: 7016523123594344413
+      VFX_Move_Future_Sight_Bomb_12: -6895596420776132065
+      VFX_Move_Future_Sight_Bomb_13: -7424661769985906407
+      VFX_Move_Future_Sight_Bomb_14: 4541255412059191237
+      VFX_Move_Future_Sight_Bomb_15: -6804333899411626887
+      VFX_Move_Future_Sight_Bomb_16: 2520652837738402570
+      VFX_Move_Future_Sight_Bomb_17: 7008656378434302076
+      VFX_Move_Future_Sight_Bomb_18: 793537465136535739
+      VFX_Move_Future_Sight_Bomb_19: 2047179891718337714
+      VFX_Move_Future_Sight_Bomb_2: -3354739048281177534
+      VFX_Move_Future_Sight_Bomb_3: 2057301516579334295
+      VFX_Move_Future_Sight_Bomb_4: 3602191817667042113
+      VFX_Move_Future_Sight_Bomb_5: 4151914687039092064
+      VFX_Move_Future_Sight_Bomb_6: 9040109640785551242
+      VFX_Move_Future_Sight_Bomb_7: -5399048800294988182
+      VFX_Move_Future_Sight_Bomb_8: 7150563367070645886
+      VFX_Move_Future_Sight_Bomb_9: -498049587941224965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

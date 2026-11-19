@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2fa690af2792d754cbf825f58f08df1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1760004120908575638
+    second: VFX_Move_Tail_Slap_0
+  - first:
+      213: -2124776606811026432
+    second: VFX_Move_Tail_Slap_1
+  - first:
+      213: -4623532684206494072
+    second: VFX_Move_Tail_Slap_2
+  - first:
+      213: 3328702378025761461
+    second: VFX_Move_Tail_Slap_3
+  - first:
+      213: -6725734810222216011
+    second: VFX_Move_Tail_Slap_4
+  - first:
+      213: -5041139468758016635
+    second: VFX_Move_Tail_Slap_5
+  - first:
+      213: 7944726437026220801
+    second: VFX_Move_Tail_Slap_6
+  - first:
+      213: 2935218495697429112
+    second: VFX_Move_Tail_Slap_7
+  - first:
+      213: -7864501305807310369
+    second: VFX_Move_Tail_Slap_8
+  - first:
+      213: -7694692936154634707
+    second: VFX_Move_Tail_Slap_9
+  - first:
+      213: -780045133979444580
+    second: VFX_Move_Tail_Slap_10
+  - first:
+      213: 1012219933585191727
+    second: VFX_Move_Tail_Slap_11
+  - first:
+      213: -1053611207769383984
+    second: VFX_Move_Tail_Slap_12
+  - first:
+      213: -5741371668531806798
+    second: VFX_Move_Tail_Slap_13
+  - first:
+      213: -2172334452459135298
+    second: VFX_Move_Tail_Slap_14
+  - first:
+      213: 4102583222653840403
+    second: VFX_Move_Tail_Slap_15
+  - first:
+      213: 4785487636824472187
+    second: VFX_Move_Tail_Slap_16
+  - first:
+      213: 730692454974579122
+    second: VFX_Move_Tail_Slap_17
+  - first:
+      213: 7021017053526632511
+    second: VFX_Move_Tail_Slap_18
+  - first:
+      213: 1931996126394864028
+    second: VFX_Move_Tail_Slap_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693bafd4c6acc6810800000000000000
+      internalID: 1760004120908575638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c08f30fe64382e0800000000000000
+      internalID: -2124776606811026432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ea67e2589e5dfb0800000000000000
+      internalID: -4623532684206494072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba39353d2de13e20800000000000000
+      internalID: 3328702378025761461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcb93713d369a2a0800000000000000
+      internalID: -6725734810222216011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d1a7dbc564a0ab0800000000000000
+      internalID: -5041139468758016635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b4a9cf996514e60800000000000000
+      internalID: 7944726437026220801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 8
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872a33e9badfbb820800000000000000
+      internalID: 2935218495697429112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 10
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd172c3fabdabd290800000000000000
+      internalID: -7864501305807310369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 11
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26abc4fa85f63590800000000000000
+      internalID: -7694692936154634707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 12
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a12606519bc25f0800000000000000
+      internalID: -780045133979444580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 13
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f233ae7aaa02c0e00800000000000000
+      internalID: 1012219933585191727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 13
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db19855032d061f0800000000000000
+      internalID: -1053611207769383984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 13
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd7ba5f2ec8250b0800000000000000
+      internalID: -5741371668531806798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe94d333515ad1e0800000000000000
+      internalID: -2172334452459135298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 13
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c62cf54bd4fe830800000000000000
+      internalID: 4102583222653840403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 13
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a32fda6a7796240800000000000000
+      internalID: 4785487636824472187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 12
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b161da9ae0f32a00800000000000000
+      internalID: 730692454974579122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 10
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f382a6dafc9af6160800000000000000
+      internalID: 7021017053526632511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tail_Slap_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 10
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c915235ad34dfca10800000000000000
+      internalID: 1931996126394864028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Tail_Slap_0: 1760004120908575638
+      VFX_Move_Tail_Slap_1: -2124776606811026432
+      VFX_Move_Tail_Slap_10: -780045133979444580
+      VFX_Move_Tail_Slap_11: 1012219933585191727
+      VFX_Move_Tail_Slap_12: -1053611207769383984
+      VFX_Move_Tail_Slap_13: -5741371668531806798
+      VFX_Move_Tail_Slap_14: -2172334452459135298
+      VFX_Move_Tail_Slap_15: 4102583222653840403
+      VFX_Move_Tail_Slap_16: 4785487636824472187
+      VFX_Move_Tail_Slap_17: 730692454974579122
+      VFX_Move_Tail_Slap_18: 7021017053526632511
+      VFX_Move_Tail_Slap_19: 1931996126394864028
+      VFX_Move_Tail_Slap_2: -4623532684206494072
+      VFX_Move_Tail_Slap_3: 3328702378025761461
+      VFX_Move_Tail_Slap_4: -6725734810222216011
+      VFX_Move_Tail_Slap_5: -5041139468758016635
+      VFX_Move_Tail_Slap_6: 7944726437026220801
+      VFX_Move_Tail_Slap_7: 2935218495697429112
+      VFX_Move_Tail_Slap_8: -7864501305807310369
+      VFX_Move_Tail_Slap_9: -7694692936154634707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

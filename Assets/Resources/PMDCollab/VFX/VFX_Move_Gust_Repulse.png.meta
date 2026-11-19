@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 94b0d106318814948b3bc35a5753dbd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2717469907477413767
+    second: VFX_Move_Gust_Repulse_0
+  - first:
+      213: -2900753344765618545
+    second: VFX_Move_Gust_Repulse_1
+  - first:
+      213: -6974883253040856992
+    second: VFX_Move_Gust_Repulse_2
+  - first:
+      213: -7339477197784709677
+    second: VFX_Move_Gust_Repulse_3
+  - first:
+      213: 9006965453045063256
+    second: VFX_Move_Gust_Repulse_4
+  - first:
+      213: -4954160790872056778
+    second: VFX_Move_Gust_Repulse_5
+  - first:
+      213: 5713943859764254471
+    second: VFX_Move_Gust_Repulse_6
+  - first:
+      213: 4477667554131572642
+    second: VFX_Move_Gust_Repulse_7
+  - first:
+      213: 6732838818885893877
+    second: VFX_Move_Gust_Repulse_8
+  - first:
+      213: -4787555307281017659
+    second: VFX_Move_Gust_Repulse_9
+  - first:
+      213: -3903343625920760217
+    second: VFX_Move_Gust_Repulse_10
+  - first:
+      213: 7129937275727054353
+    second: VFX_Move_Gust_Repulse_11
+  - first:
+      213: 8396727536094899500
+    second: VFX_Move_Gust_Repulse_12
+  - first:
+      213: 198150274720244011
+    second: VFX_Move_Gust_Repulse_13
+  - first:
+      213: -5370691067710009690
+    second: VFX_Move_Gust_Repulse_14
+  - first:
+      213: 6249695099962128807
+    second: VFX_Move_Gust_Repulse_15
+  - first:
+      213: 6897022024610806975
+    second: VFX_Move_Gust_Repulse_16
+  - first:
+      213: -3760687253009222444
+    second: VFX_Move_Gust_Repulse_17
+  - first:
+      213: -8616673615276632563
+    second: VFX_Move_Gust_Repulse_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f310bab7466b520800000000000000
+      internalID: 2717469907477413767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f861838a3347eb7d0800000000000000
+      internalID: -2900753344765618545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060cda8c2ac343f90800000000000000
+      internalID: -6974883253040856992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d586f4ff50f42a90800000000000000
+      internalID: -7339477197784709677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e57fccb5b2ffc70800000000000000
+      internalID: 9006965453045063256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c17eb42094f3bb0800000000000000
+      internalID: -4954160790872056778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707d5cbaaa10c4f40800000000000000
+      internalID: 5713943859764254471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7fd42baeed32e30800000000000000
+      internalID: 4477667554131572642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe77a1db39df6d50800000000000000
+      internalID: 6732838818885893877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 6
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c49af640df2f8db0800000000000000
+      internalID: -4787555307281017659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76635bc27a984d9c0800000000000000
+      internalID: -3903343625920760217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116078e1d20a2f260800000000000000
+      internalID: 7129937275727054353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d6da0d43b278470800000000000000
+      internalID: 8396727536094899500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21a8d000a8ffb200800000000000000
+      internalID: 198150274720244011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae08c6dde87775b0800000000000000
+      internalID: -5370691067710009690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_15
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9fdb3c4906bb650800000000000000
+      internalID: 6249695099962128807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcf8f84df427bf50800000000000000
+      internalID: 6897022024610806975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4bb0d4eda5fcbc0800000000000000
+      internalID: -3760687253009222444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Gust_Repulse_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0694fffffc6b6880800000000000000
+      internalID: -8616673615276632563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Gust_Repulse_0: 2717469907477413767
+      VFX_Move_Gust_Repulse_1: -2900753344765618545
+      VFX_Move_Gust_Repulse_10: -3903343625920760217
+      VFX_Move_Gust_Repulse_11: 7129937275727054353
+      VFX_Move_Gust_Repulse_12: 8396727536094899500
+      VFX_Move_Gust_Repulse_13: 198150274720244011
+      VFX_Move_Gust_Repulse_14: -5370691067710009690
+      VFX_Move_Gust_Repulse_15: 6249695099962128807
+      VFX_Move_Gust_Repulse_16: 6897022024610806975
+      VFX_Move_Gust_Repulse_17: -3760687253009222444
+      VFX_Move_Gust_Repulse_18: -8616673615276632563
+      VFX_Move_Gust_Repulse_2: -6974883253040856992
+      VFX_Move_Gust_Repulse_3: -7339477197784709677
+      VFX_Move_Gust_Repulse_4: 9006965453045063256
+      VFX_Move_Gust_Repulse_5: -4954160790872056778
+      VFX_Move_Gust_Repulse_6: 5713943859764254471
+      VFX_Move_Gust_Repulse_7: 4477667554131572642
+      VFX_Move_Gust_Repulse_8: 6732838818885893877
+      VFX_Move_Gust_Repulse_9: -4787555307281017659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: abda0a8bf7b77764a828b79656a07eca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8916235580843405200
+    second: VFX_Move_Volt_Bounce_0
+  - first:
+      213: 725239565128378122
+    second: VFX_Move_Volt_Bounce_1
+  - first:
+      213: 6331163541861799728
+    second: VFX_Move_Volt_Bounce_2
+  - first:
+      213: 407012584903736753
+    second: VFX_Move_Volt_Bounce_3
+  - first:
+      213: -8697677631658781102
+    second: VFX_Move_Volt_Bounce_4
+  - first:
+      213: -8050411877512582503
+    second: VFX_Move_Volt_Bounce_5
+  - first:
+      213: -850607409730858648
+    second: VFX_Move_Volt_Bounce_6
+  - first:
+      213: -8939763913355365183
+    second: VFX_Move_Volt_Bounce_7
+  - first:
+      213: 3939566803702618055
+    second: VFX_Move_Volt_Bounce_8
+  - first:
+      213: 1664669495239568651
+    second: VFX_Move_Volt_Bounce_9
+  - first:
+      213: -8889517507034298962
+    second: VFX_Move_Volt_Bounce_10
+  - first:
+      213: -8107057553621340996
+    second: VFX_Move_Volt_Bounce_11
+  - first:
+      213: -8975499686994845701
+    second: VFX_Move_Volt_Bounce_12
+  - first:
+      213: 8669198277691623274
+    second: VFX_Move_Volt_Bounce_13
+  - first:
+      213: -4631775057133699797
+    second: VFX_Move_Volt_Bounce_14
+  - first:
+      213: 7214603498012905623
+    second: VFX_Move_Volt_Bounce_15
+  - first:
+      213: -9024795689902221884
+    second: VFX_Move_Volt_Bounce_16
+  - first:
+      213: 1434869093554985653
+    second: VFX_Move_Volt_Bounce_17
+  - first:
+      213: -5871125467894084707
+    second: VFX_Move_Volt_Bounce_18
+  - first:
+      213: 253607966759974823
+    second: VFX_Move_Volt_Bounce_19
+  - first:
+      213: -6534718476774161290
+    second: VFX_Move_Volt_Bounce_20
+  - first:
+      213: -4962535460832185055
+    second: VFX_Move_Volt_Bounce_21
+  - first:
+      213: -5382144469016490686
+    second: VFX_Move_Volt_Bounce_22
+  - first:
+      213: 8922831551014311645
+    second: VFX_Move_Volt_Bounce_23
+  - first:
+      213: -685914992630140473
+    second: VFX_Move_Volt_Bounce_24
+  - first:
+      213: -7301658668367362004
+    second: VFX_Move_Volt_Bounce_25
+  - first:
+      213: 6956494698762050536
+    second: VFX_Move_Volt_Bounce_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09faed14505dcbb70800000000000000
+      internalID: 8916235580843405200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a072980ca81901a00800000000000000
+      internalID: 725239565128378122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037939782bfccd750800000000000000
+      internalID: 6331163541861799728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 15
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdfc4e1acff5a500800000000000000
+      internalID: 407012584903736753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2561e1ab644ab4780800000000000000
+      internalID: -8697677631658781102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 14
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ae641ec01374090800000000000000
+      internalID: -8050411877512582503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8615dab41190234f0800000000000000
+      internalID: -850607409730858648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4f890f5149fe380800000000000000
+      internalID: -8939763913355365183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 9
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c79d9f92272ca630800000000000000
+      internalID: 3939566803702618055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 15
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dee2c06181a1710800000000000000
+      internalID: 1664669495239568651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 10
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ca901de612a480800000000000000
+      internalID: -8889517507034298962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 15
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbca0c6ab12fd7f80800000000000000
+      internalID: -8107057553621340996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 9
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffda03c69e907380800000000000000
+      internalID: -8975499686994845701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67cc35f6ed2f4870800000000000000
+      internalID: 8669198277691623274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 8
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2df7003021a8bfb0800000000000000
+      internalID: -4631775057133699797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 14
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790995628ab6f1460800000000000000
+      internalID: 7214603498012905623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5d6eca22c71c280800000000000000
+      internalID: -9024795689902221884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 14
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba188c96dda9e310800000000000000
+      internalID: 1434869093554985653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b8c665e72958ea0800000000000000
+      internalID: -5871125467894084707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 22
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7ffe22a1ff48300800000000000000
+      internalID: 253607966759974823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_20
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 14
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674c1b4fa240055a0800000000000000
+      internalID: -6534718476774161290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_21
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 14
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12571df7a48812bb0800000000000000
+      internalID: -4962535460832185055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_22
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 14
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d407a0f18ce45b0800000000000000
+      internalID: -5382144469016490686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_23
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 14
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd61bdc350444db70800000000000000
+      internalID: 8922831551014311645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_24
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 14
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c17a26c2f32b76f0800000000000000
+      internalID: -685914992630140473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_25
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 16
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28cfc0802c4baa90800000000000000
+      internalID: -7301658668367362004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Bounce_26
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 16
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb9999421f6a8060800000000000000
+      internalID: 6956494698762050536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Volt_Bounce_0: 8916235580843405200
+      VFX_Move_Volt_Bounce_1: 725239565128378122
+      VFX_Move_Volt_Bounce_10: -8889517507034298962
+      VFX_Move_Volt_Bounce_11: -8107057553621340996
+      VFX_Move_Volt_Bounce_12: -8975499686994845701
+      VFX_Move_Volt_Bounce_13: 8669198277691623274
+      VFX_Move_Volt_Bounce_14: -4631775057133699797
+      VFX_Move_Volt_Bounce_15: 7214603498012905623
+      VFX_Move_Volt_Bounce_16: -9024795689902221884
+      VFX_Move_Volt_Bounce_17: 1434869093554985653
+      VFX_Move_Volt_Bounce_18: -5871125467894084707
+      VFX_Move_Volt_Bounce_19: 253607966759974823
+      VFX_Move_Volt_Bounce_2: 6331163541861799728
+      VFX_Move_Volt_Bounce_20: -6534718476774161290
+      VFX_Move_Volt_Bounce_21: -4962535460832185055
+      VFX_Move_Volt_Bounce_22: -5382144469016490686
+      VFX_Move_Volt_Bounce_23: 8922831551014311645
+      VFX_Move_Volt_Bounce_24: -685914992630140473
+      VFX_Move_Volt_Bounce_25: -7301658668367362004
+      VFX_Move_Volt_Bounce_26: 6956494698762050536
+      VFX_Move_Volt_Bounce_3: 407012584903736753
+      VFX_Move_Volt_Bounce_4: -8697677631658781102
+      VFX_Move_Volt_Bounce_5: -8050411877512582503
+      VFX_Move_Volt_Bounce_6: -850607409730858648
+      VFX_Move_Volt_Bounce_7: -8939763913355365183
+      VFX_Move_Volt_Bounce_8: 3939566803702618055
+      VFX_Move_Volt_Bounce_9: 1664669495239568651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

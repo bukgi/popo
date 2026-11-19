@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 62ebe546a3986f9418afcc633433cbff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 368713710971734686
+    second: VFX_Move_Aqua_Execute_0
+  - first:
+      213: -8982131344884199531
+    second: VFX_Move_Aqua_Execute_1
+  - first:
+      213: 6601983203382927702
+    second: VFX_Move_Aqua_Execute_2
+  - first:
+      213: 745087422776447943
+    second: VFX_Move_Aqua_Execute_3
+  - first:
+      213: 8224914438459599345
+    second: VFX_Move_Aqua_Execute_4
+  - first:
+      213: -7814429681100621378
+    second: VFX_Move_Aqua_Execute_5
+  - first:
+      213: -821087102328498297
+    second: VFX_Move_Aqua_Execute_6
+  - first:
+      213: 1814174051151751443
+    second: VFX_Move_Aqua_Execute_7
+  - first:
+      213: 2069919910891628251
+    second: VFX_Move_Aqua_Execute_8
+  - first:
+      213: 5678487667132846380
+    second: VFX_Move_Aqua_Execute_9
+  - first:
+      213: -7328698289200271710
+    second: VFX_Move_Aqua_Execute_10
+  - first:
+      213: 3365446053181547973
+    second: VFX_Move_Aqua_Execute_11
+  - first:
+      213: 7856237452350240725
+    second: VFX_Move_Aqua_Execute_12
+  - first:
+      213: 6185755050496338583
+    second: VFX_Move_Aqua_Execute_13
+  - first:
+      213: -3458935273277190594
+    second: VFX_Move_Aqua_Execute_14
+  - first:
+      213: 4195048626935679720
+    second: VFX_Move_Aqua_Execute_15
+  - first:
+      213: -5875153577813629071
+    second: VFX_Move_Aqua_Execute_16
+  - first:
+      213: -2314894260453241946
+    second: VFX_Move_Aqua_Execute_17
+  - first:
+      213: 5587457664249605632
+    second: VFX_Move_Aqua_Execute_18
+  - first:
+      213: 8232313148464165263
+    second: VFX_Move_Aqua_Execute_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a4946aa2fed1500800000000000000
+      internalID: 368713710971734686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 6
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f8646912f095380800000000000000
+      internalID: -8982131344884199531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6512cb2aeb4fe9b50800000000000000
+      internalID: 6601983203382927702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c393393015175a00800000000000000
+      internalID: 745087422776447943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9ad54ba14c42270800000000000000
+      internalID: 8224914438459599345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb97abf8b919d8390800000000000000
+      internalID: -7814429681100621378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7871e0871a9ea94f0800000000000000
+      internalID: -821087102328498297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319a1a700bd3d2910800000000000000
+      internalID: 1814174051151751443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6243a2135d9bc10800000000000000
+      internalID: 2069919910891628251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21d3e4827a0ece40800000000000000
+      internalID: 5678487667132846380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae643e2cbb3b4a90800000000000000
+      internalID: -7328698289200271710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c560aeba5774be20800000000000000
+      internalID: 3365446053181547973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b47ab656f60d60800000000000000
+      internalID: 7856237452350240725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79aa964e17738d550800000000000000
+      internalID: 6185755050496338583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e8e37f1b46fffc0800000000000000
+      internalID: -3458935273277190594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eacdf7ff7ec73a30800000000000000
+      internalID: 4195048626935679720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177ad89e2f2477ea0800000000000000
+      internalID: -5875153577813629071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab08195fe7dfdfd0800000000000000
+      internalID: -2314894260453241946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ea12b5423aa8d40800000000000000
+      internalID: 5587457664249605632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Execute_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81fbfd113d0f3270800000000000000
+      internalID: 8232313148464165263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Aqua_Execute_0: 368713710971734686
+      VFX_Move_Aqua_Execute_1: -8982131344884199531
+      VFX_Move_Aqua_Execute_10: -7328698289200271710
+      VFX_Move_Aqua_Execute_11: 3365446053181547973
+      VFX_Move_Aqua_Execute_12: 7856237452350240725
+      VFX_Move_Aqua_Execute_13: 6185755050496338583
+      VFX_Move_Aqua_Execute_14: -3458935273277190594
+      VFX_Move_Aqua_Execute_15: 4195048626935679720
+      VFX_Move_Aqua_Execute_16: -5875153577813629071
+      VFX_Move_Aqua_Execute_17: -2314894260453241946
+      VFX_Move_Aqua_Execute_18: 5587457664249605632
+      VFX_Move_Aqua_Execute_19: 8232313148464165263
+      VFX_Move_Aqua_Execute_2: 6601983203382927702
+      VFX_Move_Aqua_Execute_3: 745087422776447943
+      VFX_Move_Aqua_Execute_4: 8224914438459599345
+      VFX_Move_Aqua_Execute_5: -7814429681100621378
+      VFX_Move_Aqua_Execute_6: -821087102328498297
+      VFX_Move_Aqua_Execute_7: 1814174051151751443
+      VFX_Move_Aqua_Execute_8: 2069919910891628251
+      VFX_Move_Aqua_Execute_9: 5678487667132846380
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

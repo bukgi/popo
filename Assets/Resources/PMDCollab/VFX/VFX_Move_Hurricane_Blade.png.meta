@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f932d4a4766883847b28c6f9663b9ec8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5809614450604970116
+    second: VFX_Move_Hurricane_Blade_0
+  - first:
+      213: 2618223747811864537
+    second: VFX_Move_Hurricane_Blade_1
+  - first:
+      213: 8104877084757068365
+    second: VFX_Move_Hurricane_Blade_2
+  - first:
+      213: 5416030845806222808
+    second: VFX_Move_Hurricane_Blade_3
+  - first:
+      213: -1998860128702510840
+    second: VFX_Move_Hurricane_Blade_4
+  - first:
+      213: -5207957168625302807
+    second: VFX_Move_Hurricane_Blade_5
+  - first:
+      213: -7185316493495884366
+    second: VFX_Move_Hurricane_Blade_6
+  - first:
+      213: 7444334153152226574
+    second: VFX_Move_Hurricane_Blade_7
+  - first:
+      213: -4420044239235883180
+    second: VFX_Move_Hurricane_Blade_8
+  - first:
+      213: -1266763250352880181
+    second: VFX_Move_Hurricane_Blade_9
+  - first:
+      213: -6766202794310192683
+    second: VFX_Move_Hurricane_Blade_10
+  - first:
+      213: -7512623264259074967
+    second: VFX_Move_Hurricane_Blade_11
+  - first:
+      213: 7343048906254927326
+    second: VFX_Move_Hurricane_Blade_12
+  - first:
+      213: 3367765454547768414
+    second: VFX_Move_Hurricane_Blade_13
+  - first:
+      213: 2904798219440095615
+    second: VFX_Move_Hurricane_Blade_14
+  - first:
+      213: 2108233572255072705
+    second: VFX_Move_Hurricane_Blade_15
+  - first:
+      213: -3558103709418541598
+    second: VFX_Move_Hurricane_Blade_16
+  - first:
+      213: -5482617618832894215
+    second: VFX_Move_Hurricane_Blade_17
+  - first:
+      213: -4896696267242315700
+    second: VFX_Move_Hurricane_Blade_18
+  - first:
+      213: -5744945054087600325
+    second: VFX_Move_Hurricane_Blade_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480194aef85ef9050800000000000000
+      internalID: 5809614450604970116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df61de60acc55420800000000000000
+      internalID: 2618223747811864537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a062164ce4a7070800000000000000
+      internalID: 8104877084757068365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd96d0eb5b992b40800000000000000
+      internalID: 5416030845806222808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809cef8ad4f9244e0800000000000000
+      internalID: -1998860128702510840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2c3ae4c8e99b7b0800000000000000
+      internalID: -5207957168625302807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b52c66f7b0a84c90800000000000000
+      internalID: -7185316493495884366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0562f378769f4760800000000000000
+      internalID: 7444334153152226574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f55dcce29d8a2c0800000000000000
+      internalID: -4420044239235883180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc58230198d8b6ee0800000000000000
+      internalID: -1266763250352880181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1b2ee486e9912a0800000000000000
+      internalID: -6766202794310192683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964908ad1fccdb790800000000000000
+      internalID: -7512623264259074967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed545a93310c7e560800000000000000
+      internalID: 7343048906254927326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54d62576d4bcbe20800000000000000
+      internalID: 3367765454547768414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f710aed179aef4820800000000000000
+      internalID: 2904798219440095615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 4
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c101d99343f14d10800000000000000
+      internalID: 2108233572255072705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edab1627831f9ec0800000000000000
+      internalID: -3558103709418541598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6da26e254d9e3b0800000000000000
+      internalID: -5482617618832894215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 0
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c406a0250b07b0cb0800000000000000
+      internalID: -4896696267242315700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hurricane_Blade_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37a8fc49ead540b0800000000000000
+      internalID: -5744945054087600325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Hurricane_Blade_0: 5809614450604970116
+      VFX_Move_Hurricane_Blade_1: 2618223747811864537
+      VFX_Move_Hurricane_Blade_10: -6766202794310192683
+      VFX_Move_Hurricane_Blade_11: -7512623264259074967
+      VFX_Move_Hurricane_Blade_12: 7343048906254927326
+      VFX_Move_Hurricane_Blade_13: 3367765454547768414
+      VFX_Move_Hurricane_Blade_14: 2904798219440095615
+      VFX_Move_Hurricane_Blade_15: 2108233572255072705
+      VFX_Move_Hurricane_Blade_16: -3558103709418541598
+      VFX_Move_Hurricane_Blade_17: -5482617618832894215
+      VFX_Move_Hurricane_Blade_18: -4896696267242315700
+      VFX_Move_Hurricane_Blade_19: -5744945054087600325
+      VFX_Move_Hurricane_Blade_2: 8104877084757068365
+      VFX_Move_Hurricane_Blade_3: 5416030845806222808
+      VFX_Move_Hurricane_Blade_4: -1998860128702510840
+      VFX_Move_Hurricane_Blade_5: -5207957168625302807
+      VFX_Move_Hurricane_Blade_6: -7185316493495884366
+      VFX_Move_Hurricane_Blade_7: 7444334153152226574
+      VFX_Move_Hurricane_Blade_8: -4420044239235883180
+      VFX_Move_Hurricane_Blade_9: -1266763250352880181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

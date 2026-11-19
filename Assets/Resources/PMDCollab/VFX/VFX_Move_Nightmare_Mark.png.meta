@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 4f58654cd18084e47ac2b93161626a2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5229616121325605645
+    second: VFX_Move_Nightmare_Mark_0
+  - first:
+      213: 4156726529919217219
+    second: VFX_Move_Nightmare_Mark_1
+  - first:
+      213: 5493688316298015415
+    second: VFX_Move_Nightmare_Mark_2
+  - first:
+      213: -347444357661436045
+    second: VFX_Move_Nightmare_Mark_3
+  - first:
+      213: -1137994621628467091
+    second: VFX_Move_Nightmare_Mark_4
+  - first:
+      213: -7176241097990039011
+    second: VFX_Move_Nightmare_Mark_5
+  - first:
+      213: 5577365986764753118
+    second: VFX_Move_Nightmare_Mark_6
+  - first:
+      213: 9174116078308504488
+    second: VFX_Move_Nightmare_Mark_7
+  - first:
+      213: -7304608715316974604
+    second: VFX_Move_Nightmare_Mark_8
+  - first:
+      213: 5888157934805976174
+    second: VFX_Move_Nightmare_Mark_9
+  - first:
+      213: 1864891248718781448
+    second: VFX_Move_Nightmare_Mark_10
+  - first:
+      213: -5028207355475855388
+    second: VFX_Move_Nightmare_Mark_11
+  - first:
+      213: 2048116862610797695
+    second: VFX_Move_Nightmare_Mark_12
+  - first:
+      213: -2806193510659600874
+    second: VFX_Move_Nightmare_Mark_13
+  - first:
+      213: -864104074302954398
+    second: VFX_Move_Nightmare_Mark_14
+  - first:
+      213: -1186046536157136629
+    second: VFX_Move_Nightmare_Mark_15
+  - first:
+      213: 2359711084653485907
+    second: VFX_Move_Nightmare_Mark_16
+  - first:
+      213: -2957919744659634048
+    second: VFX_Move_Nightmare_Mark_17
+  - first:
+      213: 8513972830046699252
+    second: VFX_Move_Nightmare_Mark_18
+  - first:
+      213: -2368947016333922310
+    second: VFX_Move_Nightmare_Mark_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03d4479724539840800000000000000
+      internalID: 5229616121325605645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 12
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ee64471c8afa930800000000000000
+      internalID: 4156726529919217219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b238a7ba608d3c40800000000000000
+      internalID: 5493688316298015415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37750629231ad2bf0800000000000000
+      internalID: -347444357661436045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68b785cbe70530f0800000000000000
+      internalID: -1137994621628467091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a9eb32ebed86c90800000000000000
+      internalID: -7176241097990039011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8857790d8c66d40800000000000000
+      internalID: 5577365986764753118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a337c777f1015f70800000000000000
+      internalID: 9174116078308504488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb2f4c2311d0aa90800000000000000
+      internalID: -7304608715316974604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e640285e170f6b150800000000000000
+      internalID: 5888157934805976174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 9
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c1e98c5bc61e910800000000000000
+      internalID: 1864891248718781448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7fadffc08383ab0800000000000000
+      internalID: -5028207355475855388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7477666f6f5c6c10800000000000000
+      internalID: 2048116862610797695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ec022bed56e09d0800000000000000
+      internalID: -2806193510659600874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26464323ce51204f0800000000000000
+      internalID: -864104074302954398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09754595f05a8fe0800000000000000
+      internalID: -1186046536157136629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f925daab06fb020800000000000000
+      internalID: 2359711084653485907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c279f9ab53f6d0800000000000000
+      internalID: -2957919744659634048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feb2421e25b72670800000000000000
+      internalID: 8513972830046699252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Nightmare_Mark_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affe1b76d3fcf1fd0800000000000000
+      internalID: -2368947016333922310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Nightmare_Mark_0: 5229616121325605645
+      VFX_Move_Nightmare_Mark_1: 4156726529919217219
+      VFX_Move_Nightmare_Mark_10: 1864891248718781448
+      VFX_Move_Nightmare_Mark_11: -5028207355475855388
+      VFX_Move_Nightmare_Mark_12: 2048116862610797695
+      VFX_Move_Nightmare_Mark_13: -2806193510659600874
+      VFX_Move_Nightmare_Mark_14: -864104074302954398
+      VFX_Move_Nightmare_Mark_15: -1186046536157136629
+      VFX_Move_Nightmare_Mark_16: 2359711084653485907
+      VFX_Move_Nightmare_Mark_17: -2957919744659634048
+      VFX_Move_Nightmare_Mark_18: 8513972830046699252
+      VFX_Move_Nightmare_Mark_19: -2368947016333922310
+      VFX_Move_Nightmare_Mark_2: 5493688316298015415
+      VFX_Move_Nightmare_Mark_3: -347444357661436045
+      VFX_Move_Nightmare_Mark_4: -1137994621628467091
+      VFX_Move_Nightmare_Mark_5: -7176241097990039011
+      VFX_Move_Nightmare_Mark_6: 5577365986764753118
+      VFX_Move_Nightmare_Mark_7: 9174116078308504488
+      VFX_Move_Nightmare_Mark_8: -7304608715316974604
+      VFX_Move_Nightmare_Mark_9: 5888157934805976174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

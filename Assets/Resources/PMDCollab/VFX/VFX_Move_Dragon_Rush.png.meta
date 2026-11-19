@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 751481453d9e2f440ad33df04db9e153
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5360050874302965443
+    second: VFX_Move_Dragon_Rush_0
+  - first:
+      213: -4822100128573841906
+    second: VFX_Move_Dragon_Rush_1
+  - first:
+      213: 650540887543421352
+    second: VFX_Move_Dragon_Rush_2
+  - first:
+      213: -8005066389531938842
+    second: VFX_Move_Dragon_Rush_3
+  - first:
+      213: 1761144752060358855
+    second: VFX_Move_Dragon_Rush_4
+  - first:
+      213: 3646030215757507933
+    second: VFX_Move_Dragon_Rush_5
+  - first:
+      213: 9084041581182557003
+    second: VFX_Move_Dragon_Rush_6
+  - first:
+      213: 4005028753404825073
+    second: VFX_Move_Dragon_Rush_7
+  - first:
+      213: 1115335385585492639
+    second: VFX_Move_Dragon_Rush_8
+  - first:
+      213: -5681886570474986081
+    second: VFX_Move_Dragon_Rush_9
+  - first:
+      213: 8493230533238546672
+    second: VFX_Move_Dragon_Rush_10
+  - first:
+      213: -6623000543541525835
+    second: VFX_Move_Dragon_Rush_11
+  - first:
+      213: 5758151117871312705
+    second: VFX_Move_Dragon_Rush_12
+  - first:
+      213: 7382240936539000577
+    second: VFX_Move_Dragon_Rush_13
+  - first:
+      213: -3089464599620031233
+    second: VFX_Move_Dragon_Rush_14
+  - first:
+      213: 1353333854791477063
+    second: VFX_Move_Dragon_Rush_15
+  - first:
+      213: 5975650899979520618
+    second: VFX_Move_Dragon_Rush_16
+  - first:
+      213: -5499434053733127447
+    second: VFX_Move_Dragon_Rush_17
+  - first:
+      213: 8679237490945894364
+    second: VFX_Move_Dragon_Rush_18
+  - first:
+      213: -5212697859729437397
+    second: VFX_Move_Dragon_Rush_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39562be0264d95b0800000000000000
+      internalID: -5360050874302965443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 6
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e9dfc4b75741db0800000000000000
+      internalID: -4822100128573841906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a994e19d7f270900800000000000000
+      internalID: 650540887543421352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efa788088a48e090800000000000000
+      internalID: -8005066389531938842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0e99032d7d07810800000000000000
+      internalID: 1761144752060358855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d219ae92d499230800000000000000
+      internalID: 3646030215757507933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b934350bff01e70800000000000000
+      internalID: 9084041581182557003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd8be18e68b49730800000000000000
+      internalID: 4005028753404825073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f922f37bf977a7f00800000000000000
+      internalID: 1115335385585492639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95a6c0a442e521b0800000000000000
+      internalID: -5681886570474986081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f06f21cb240ed570800000000000000
+      internalID: 8493230533238546672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b20df688106614a0800000000000000
+      internalID: -6623000543541525835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fecb70fef09ef40800000000000000
+      internalID: 5758151117871312705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f01ccd40df27660800000000000000
+      internalID: 7382240936539000577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 4
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffce089b0540025d0800000000000000
+      internalID: -3089464599620031233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 5
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7472b5d78f108c210800000000000000
+      internalID: 1353333854791477063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 7
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ac50b45d6cde250800000000000000
+      internalID: 5975650899979520618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 9
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaec898dd51ea3b0800000000000000
+      internalID: -5499434053733127447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 8
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd725117388d27870800000000000000
+      internalID: 8679237490945894364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Rush_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 6
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d43652ae6c8a7b0800000000000000
+      internalID: -5212697859729437397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dragon_Rush_0: -5360050874302965443
+      VFX_Move_Dragon_Rush_1: -4822100128573841906
+      VFX_Move_Dragon_Rush_10: 8493230533238546672
+      VFX_Move_Dragon_Rush_11: -6623000543541525835
+      VFX_Move_Dragon_Rush_12: 5758151117871312705
+      VFX_Move_Dragon_Rush_13: 7382240936539000577
+      VFX_Move_Dragon_Rush_14: -3089464599620031233
+      VFX_Move_Dragon_Rush_15: 1353333854791477063
+      VFX_Move_Dragon_Rush_16: 5975650899979520618
+      VFX_Move_Dragon_Rush_17: -5499434053733127447
+      VFX_Move_Dragon_Rush_18: 8679237490945894364
+      VFX_Move_Dragon_Rush_19: -5212697859729437397
+      VFX_Move_Dragon_Rush_2: 650540887543421352
+      VFX_Move_Dragon_Rush_3: -8005066389531938842
+      VFX_Move_Dragon_Rush_4: 1761144752060358855
+      VFX_Move_Dragon_Rush_5: 3646030215757507933
+      VFX_Move_Dragon_Rush_6: 9084041581182557003
+      VFX_Move_Dragon_Rush_7: 4005028753404825073
+      VFX_Move_Dragon_Rush_8: 1115335385585492639
+      VFX_Move_Dragon_Rush_9: -5681886570474986081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

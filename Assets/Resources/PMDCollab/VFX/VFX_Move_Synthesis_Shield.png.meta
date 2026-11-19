@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 8b01a10b574f5274e8eed68ea031263e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6615559242637233482
+    second: VFX_Move_Synthesis_Shield_0
+  - first:
+      213: 9053284591281028327
+    second: VFX_Move_Synthesis_Shield_1
+  - first:
+      213: -450614857525353673
+    second: VFX_Move_Synthesis_Shield_2
+  - first:
+      213: 1401313251407172788
+    second: VFX_Move_Synthesis_Shield_3
+  - first:
+      213: -2902333706512675768
+    second: VFX_Move_Synthesis_Shield_4
+  - first:
+      213: -9172388758552299028
+    second: VFX_Move_Synthesis_Shield_5
+  - first:
+      213: 5804013636438486247
+    second: VFX_Move_Synthesis_Shield_6
+  - first:
+      213: 4084740892366328298
+    second: VFX_Move_Synthesis_Shield_7
+  - first:
+      213: 559823154549049155
+    second: VFX_Move_Synthesis_Shield_8
+  - first:
+      213: -8193744167225104733
+    second: VFX_Move_Synthesis_Shield_9
+  - first:
+      213: 5367274381898148316
+    second: VFX_Move_Synthesis_Shield_10
+  - first:
+      213: -5562996873892889786
+    second: VFX_Move_Synthesis_Shield_11
+  - first:
+      213: -8047887303994972812
+    second: VFX_Move_Synthesis_Shield_12
+  - first:
+      213: 5320735422524704579
+    second: VFX_Move_Synthesis_Shield_13
+  - first:
+      213: -1357102446942396996
+    second: VFX_Move_Synthesis_Shield_14
+  - first:
+      213: -4399250650371117167
+    second: VFX_Move_Synthesis_Shield_15
+  - first:
+      213: 7872041991072126535
+    second: VFX_Move_Synthesis_Shield_16
+  - first:
+      213: -1429142943689192167
+    second: VFX_Move_Synthesis_Shield_17
+  - first:
+      213: 6507006923774034632
+    second: VFX_Move_Synthesis_Shield_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b23e086befc034a0800000000000000
+      internalID: -6615559242637233482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecb2d19e5ab3ad70800000000000000
+      internalID: 9053284591281028327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73320beac281fb9f0800000000000000
+      internalID: -450614857525353673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b41c294af6727310800000000000000
+      internalID: 1401313251407172788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c4ba30fd6d8b7d0800000000000000
+      internalID: -2902333706512675768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce934b0850125b080800000000000000
+      internalID: -9172388758552299028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec607fb6affb8050800000000000000
+      internalID: 5804013636438486247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1d101233aefa830800000000000000
+      internalID: 4084740892366328298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3474fe76134e4c700800000000000000
+      internalID: 559823154549049155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 6
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a66e1c9719f94e80800000000000000
+      internalID: -8193744167225104733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9e7110d936c7a40800000000000000
+      internalID: 5367274381898148316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b710531d34cc2b0800000000000000
+      internalID: -5562996873892889786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 4
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475e005f229205090800000000000000
+      internalID: -8047887303994972812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3474c632dac07d940800000000000000
+      internalID: 5320735422524704579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd5f26c38a9a2de0800000000000000
+      internalID: -1357102446942396996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_15
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 3
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f29ba77d8b2f2c0800000000000000
+      internalID: -4399250650371117167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74610d6ab7c1f3d60800000000000000
+      internalID: 7872041991072126535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d462c801aaa2ce0800000000000000
+      internalID: -1429142943689192167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Synthesis_Shield_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c20f8252588d4a50800000000000000
+      internalID: 6507006923774034632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Synthesis_Shield_0: -6615559242637233482
+      VFX_Move_Synthesis_Shield_1: 9053284591281028327
+      VFX_Move_Synthesis_Shield_10: 5367274381898148316
+      VFX_Move_Synthesis_Shield_11: -5562996873892889786
+      VFX_Move_Synthesis_Shield_12: -8047887303994972812
+      VFX_Move_Synthesis_Shield_13: 5320735422524704579
+      VFX_Move_Synthesis_Shield_14: -1357102446942396996
+      VFX_Move_Synthesis_Shield_15: -4399250650371117167
+      VFX_Move_Synthesis_Shield_16: 7872041991072126535
+      VFX_Move_Synthesis_Shield_17: -1429142943689192167
+      VFX_Move_Synthesis_Shield_18: 6507006923774034632
+      VFX_Move_Synthesis_Shield_2: -450614857525353673
+      VFX_Move_Synthesis_Shield_3: 1401313251407172788
+      VFX_Move_Synthesis_Shield_4: -2902333706512675768
+      VFX_Move_Synthesis_Shield_5: -9172388758552299028
+      VFX_Move_Synthesis_Shield_6: 5804013636438486247
+      VFX_Move_Synthesis_Shield_7: 4084740892366328298
+      VFX_Move_Synthesis_Shield_8: 559823154549049155
+      VFX_Move_Synthesis_Shield_9: -8193744167225104733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

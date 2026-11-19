@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 19eec965f0168224680824b46eb65625
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1698112876305628802
+    second: VFX_Move_Electric_Detonate_0
+  - first:
+      213: 1380551520993964179
+    second: VFX_Move_Electric_Detonate_1
+  - first:
+      213: -1211694927200330267
+    second: VFX_Move_Electric_Detonate_2
+  - first:
+      213: 6128305728828112491
+    second: VFX_Move_Electric_Detonate_3
+  - first:
+      213: -3208171648802931628
+    second: VFX_Move_Electric_Detonate_4
+  - first:
+      213: -5894686595876789191
+    second: VFX_Move_Electric_Detonate_5
+  - first:
+      213: 8050286041196289007
+    second: VFX_Move_Electric_Detonate_6
+  - first:
+      213: -119773725013832581
+    second: VFX_Move_Electric_Detonate_7
+  - first:
+      213: -124026542806826662
+    second: VFX_Move_Electric_Detonate_8
+  - first:
+      213: -5012683449674341300
+    second: VFX_Move_Electric_Detonate_9
+  - first:
+      213: 316211985755173276
+    second: VFX_Move_Electric_Detonate_10
+  - first:
+      213: 735522499077763789
+    second: VFX_Move_Electric_Detonate_11
+  - first:
+      213: 6388915894631058989
+    second: VFX_Move_Electric_Detonate_12
+  - first:
+      213: -5520712322298681548
+    second: VFX_Move_Electric_Detonate_13
+  - first:
+      213: 482981806655133451
+    second: VFX_Move_Electric_Detonate_14
+  - first:
+      213: -4162175002594276582
+    second: VFX_Move_Electric_Detonate_15
+  - first:
+      213: 6690978634783790878
+    second: VFX_Move_Electric_Detonate_16
+  - first:
+      213: 6288689219660322542
+    second: VFX_Move_Electric_Detonate_17
+  - first:
+      213: -5434720753791574171
+    second: VFX_Move_Electric_Detonate_18
+  - first:
+      213: 8147905790169010820
+    second: VFX_Move_Electric_Detonate_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71494306571f68e0800000000000000
+      internalID: -1698112876305628802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 14
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39078fa3b44b82310800000000000000
+      internalID: 1380551520993964179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edd41032e13f2fe0800000000000000
+      internalID: -1211694927200330267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e7ac9579d1c0550800000000000000
+      internalID: 6128305728828112491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c3f9e02e84a73d0800000000000000
+      internalID: -3208171648802931628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934e18eb5cdd13ea0800000000000000
+      internalID: -5894686595876789191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb5ac1908c58bf60800000000000000
+      internalID: 8050286041196289007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c00238e6a765ef0800000000000000
+      internalID: -119773725013832581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 9
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a518745348e574ef0800000000000000
+      internalID: -124026542806826662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 11
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c446eaaf5fe5f6ab0800000000000000
+      internalID: -5012683449674341300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 12
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9178ac2029636400800000000000000
+      internalID: 316211985755173276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 12
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc276d1e0d9153a00800000000000000
+      internalID: 735522499077763789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 11
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ec45ff72df9a850800000000000000
+      internalID: 6388915894631058989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 9
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e342946d7263b0800000000000000
+      internalID: -5520712322298681548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d7aae465e3b600800000000000000
+      internalID: 482981806655133451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b8b5523ebfc36c0800000000000000
+      internalID: -4162175002594276582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1714063e912bdc50800000000000000
+      internalID: 6690978634783790878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 6
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee69ea0c689e54750800000000000000
+      internalID: 6288689219660322542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_18
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f5fc0d44ef394b0800000000000000
+      internalID: -5434720753791574171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Electric_Detonate_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 6
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4825f5e852d231170800000000000000
+      internalID: 8147905790169010820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Electric_Detonate_0: -1698112876305628802
+      VFX_Move_Electric_Detonate_1: 1380551520993964179
+      VFX_Move_Electric_Detonate_10: 316211985755173276
+      VFX_Move_Electric_Detonate_11: 735522499077763789
+      VFX_Move_Electric_Detonate_12: 6388915894631058989
+      VFX_Move_Electric_Detonate_13: -5520712322298681548
+      VFX_Move_Electric_Detonate_14: 482981806655133451
+      VFX_Move_Electric_Detonate_15: -4162175002594276582
+      VFX_Move_Electric_Detonate_16: 6690978634783790878
+      VFX_Move_Electric_Detonate_17: 6288689219660322542
+      VFX_Move_Electric_Detonate_18: -5434720753791574171
+      VFX_Move_Electric_Detonate_19: 8147905790169010820
+      VFX_Move_Electric_Detonate_2: -1211694927200330267
+      VFX_Move_Electric_Detonate_3: 6128305728828112491
+      VFX_Move_Electric_Detonate_4: -3208171648802931628
+      VFX_Move_Electric_Detonate_5: -5894686595876789191
+      VFX_Move_Electric_Detonate_6: 8050286041196289007
+      VFX_Move_Electric_Detonate_7: -119773725013832581
+      VFX_Move_Electric_Detonate_8: -124026542806826662
+      VFX_Move_Electric_Detonate_9: -5012683449674341300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

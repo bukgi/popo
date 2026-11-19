@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 52f19ae48e901ab49803db3257c043c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3994614345316231028
+    second: VFX_Move_Metal_Claw_0
+  - first:
+      213: -5640234695966377578
+    second: VFX_Move_Metal_Claw_1
+  - first:
+      213: -6752979608318179150
+    second: VFX_Move_Metal_Claw_2
+  - first:
+      213: -1181774731022028231
+    second: VFX_Move_Metal_Claw_3
+  - first:
+      213: 3135383418267276270
+    second: VFX_Move_Metal_Claw_4
+  - first:
+      213: 5661255591767132501
+    second: VFX_Move_Metal_Claw_5
+  - first:
+      213: 586884903193376349
+    second: VFX_Move_Metal_Claw_6
+  - first:
+      213: -1129098053091438948
+    second: VFX_Move_Metal_Claw_7
+  - first:
+      213: -4835042902289689265
+    second: VFX_Move_Metal_Claw_8
+  - first:
+      213: 8042277501915241987
+    second: VFX_Move_Metal_Claw_9
+  - first:
+      213: -5666124535163941352
+    second: VFX_Move_Metal_Claw_10
+  - first:
+      213: -47040896072230364
+    second: VFX_Move_Metal_Claw_11
+  - first:
+      213: 8051214632951845922
+    second: VFX_Move_Metal_Claw_12
+  - first:
+      213: 8301957931345813874
+    second: VFX_Move_Metal_Claw_13
+  - first:
+      213: -6485670474566961625
+    second: VFX_Move_Metal_Claw_14
+  - first:
+      213: -6309698593207470269
+    second: VFX_Move_Metal_Claw_15
+  - first:
+      213: -2048488829734405839
+    second: VFX_Move_Metal_Claw_16
+  - first:
+      213: 2875968622673699741
+    second: VFX_Move_Metal_Claw_17
+  - first:
+      213: -5305015509887990709
+    second: VFX_Move_Metal_Claw_18
+  - first:
+      213: 4148236911286958985
+    second: VFX_Move_Metal_Claw_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c881fb4da674098c0800000000000000
+      internalID: -3994614345316231028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 5
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69937116d6cd9b1b0800000000000000
+      internalID: -5640234695966377578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b80db633d89842a0800000000000000
+      internalID: -6752979608318179150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93236e8b42e799fe0800000000000000
+      internalID: -1181774731022028231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee398706b9e138b20800000000000000
+      internalID: 3135383418267276270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55949f157f1d09e40800000000000000
+      internalID: 5661255591767132501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5671e2c5b8052800800000000000000
+      internalID: 586884903193376349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 6
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e46ec8d43a450f0800000000000000
+      internalID: -1129098053091438948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 7
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45df37f81a76ecb0800000000000000
+      internalID: -4835042902289689265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 9
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e16c637c8eb9f60800000000000000
+      internalID: 8042277501915241987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 10
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e8d6471c1ed51b0800000000000000
+      internalID: -5666124535163941352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 10
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ad2b3ed80e85ff0800000000000000
+      internalID: -47040896072230364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 11
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224958f2d09abbf60800000000000000
+      internalID: 8051214632951845922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 11
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271aa1eb0ca763370800000000000000
+      internalID: 8301957931345813874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 11
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7267231e0154ef5a0800000000000000
+      internalID: -6485670474566961625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 12
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34736184f827f68a0800000000000000
+      internalID: -6309698593207470269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 12
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1393351434e4293e0800000000000000
+      internalID: -2048488829734405839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 11
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93a2ab893e79e720800000000000000
+      internalID: 2875968622673699741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 10
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44403d308cc066b0800000000000000
+      internalID: -5305015509887990709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Metal_Claw_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 10
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b3c651e7f719930800000000000000
+      internalID: 4148236911286958985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Metal_Claw_0: -3994614345316231028
+      VFX_Move_Metal_Claw_1: -5640234695966377578
+      VFX_Move_Metal_Claw_10: -5666124535163941352
+      VFX_Move_Metal_Claw_11: -47040896072230364
+      VFX_Move_Metal_Claw_12: 8051214632951845922
+      VFX_Move_Metal_Claw_13: 8301957931345813874
+      VFX_Move_Metal_Claw_14: -6485670474566961625
+      VFX_Move_Metal_Claw_15: -6309698593207470269
+      VFX_Move_Metal_Claw_16: -2048488829734405839
+      VFX_Move_Metal_Claw_17: 2875968622673699741
+      VFX_Move_Metal_Claw_18: -5305015509887990709
+      VFX_Move_Metal_Claw_19: 4148236911286958985
+      VFX_Move_Metal_Claw_2: -6752979608318179150
+      VFX_Move_Metal_Claw_3: -1181774731022028231
+      VFX_Move_Metal_Claw_4: 3135383418267276270
+      VFX_Move_Metal_Claw_5: 5661255591767132501
+      VFX_Move_Metal_Claw_6: 586884903193376349
+      VFX_Move_Metal_Claw_7: -1129098053091438948
+      VFX_Move_Metal_Claw_8: -4835042902289689265
+      VFX_Move_Metal_Claw_9: 8042277501915241987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,51 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:Style src="PMDCollabImporterWindow.uss" />
+    <ui:ScrollView name="rootScroll" class="window-root">
+        <ui:VisualElement name="headerBox" class="header-box">
+            <ui:Label name="headerTitle" text="PMDCollab Pokémon Sprite &amp; Portrait Importer" class="header-title" />
+            <ui:Label name="headerSubtitle" text="Tải trực tiếp Sprites 8 hướng, AnimData.xml &amp; Portraits từ sprites.pmdcollab.org, tự động cắt (slice) và tạo dữ liệu nhân vật cho Unity." class="header-subtitle" />
+        </ui:VisualElement>
+
+        <ui:VisualElement name="searchSection" class="section-card">
+            <ui:Label text="1. Tra cứu Pokémon (GraphQL API)" class="section-title" />
+            <ui:VisualElement class="row">
+                <ui:IntegerField name="dexIdField" label="Số Pokédex (#)" value="25" class="grow-field" />
+                <ui:Button name="fetchFormsButton" text="Tra cứu Forms" class="action-button" />
+            </ui:VisualElement>
+
+            <ui:Label text="Chọn nhanh Pokémon phổ biến:" class="header-subtitle" />
+            <ui:VisualElement name="presetContainer" class="preset-row">
+                <ui:Button name="preset0001" text="#0001 Bulbasaur" class="preset-chip" />
+                <ui:Button name="preset0004" text="#0004 Charmander" class="preset-chip" />
+                <ui:Button name="preset0007" text="#0007 Squirtle" class="preset-chip" />
+                <ui:Button name="preset0025" text="#0025 Pikachu" class="preset-chip" />
+                <ui:Button name="preset0133" text="#0133 Eevee" class="preset-chip" />
+                <ui:Button name="preset0151" text="#0151 Mew" class="preset-chip" />
+                <ui:Button name="preset0448" text="#0448 Lucario" class="preset-chip" />
+            </ui:VisualElement>
+
+            <ui:DropdownField name="formDropdown" label="Form / Biến thể" />
+            <ui:Label name="creditInfoLabel" text="Tác giả (Credits): Chưa tra cứu" class="credit-label" />
+        </ui:VisualElement>
+
+        <ui:VisualElement name="optionsSection" class="section-card">
+            <ui:Label text="2. Tùy chọn Import &amp; Slicing" class="section-title" />
+            <ui:Toggle name="coreAnimsOnlyToggle" label="Chỉ import các Animation chính (Idle, Walk, Attack, Shoot, Hurt, Sleep...)" value="true" />
+            <ui:Toggle name="importPortraitsToggle" label="Tải và cắt bảng biểu cảm Portrait (40x40)" value="true" />
+            <ui:Toggle name="importShadowsToggle" label="Lưu kèm ảnh bóng (*-Shadow.png) và điểm neo (*-Offsets.png)" value="false" />
+            <ui:IntegerField name="pixelsPerUnitField" label="Pixels Per Unit (PPU)" value="24" />
+            <ui:TextField name="outputFolderField" label="Thư mục lưu" value="Assets/PMDCollab/Pokemon" />
+        </ui:VisualElement>
+
+        <ui:VisualElement name="actionsSection" class="section-card">
+            <ui:Label text="3. Thực thi &amp; Tạo Thế Giới Mở" class="section-title" />
+            <ui:Button name="downloadAndSliceButton" text="Tải &amp; Cắt Sprite Pokémon Đang Chọn" class="primary-button" />
+            <uie:ObjectField name="lastImportedDataField" label="Character Data vừa tạo" />
+            <ui:Button name="spawnInSceneButton" text="Spawn 1 Pokémon Vào Scene Hiện Tại" class="secondary-button" />
+            <ui:Button name="buildOpenWorldButton" text="🌍 Tạo Bản Đồ Thế Giới Mở &amp; Quần Thể Pokémon (1-Click)" class="primary-button" />
+            <ui:VisualElement class="status-box">
+                <ui:Label name="statusLabel" text="Sẵn sàng. Nhấn 'Tạo Bản Đồ Thế Giới Mở &amp; Quần Thể Pokémon (1-Click)' để tải 6 loài Pokémon và dựng toàn bộ thế giới mở!" class="status-label" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:ScrollView>
+</ui:UXML>

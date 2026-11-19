@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e12e35bba15501148a3febee5668c06d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4394004735366787669
+    second: VFX_Move_Draco_Bone_0
+  - first:
+      213: -4730850123200813875
+    second: VFX_Move_Draco_Bone_1
+  - first:
+      213: 1163550215892247203
+    second: VFX_Move_Draco_Bone_2
+  - first:
+      213: 1352006884970973768
+    second: VFX_Move_Draco_Bone_3
+  - first:
+      213: -1987410645844692915
+    second: VFX_Move_Draco_Bone_4
+  - first:
+      213: -3346646618169610044
+    second: VFX_Move_Draco_Bone_5
+  - first:
+      213: 8428473088669241736
+    second: VFX_Move_Draco_Bone_6
+  - first:
+      213: -1412197614588076471
+    second: VFX_Move_Draco_Bone_7
+  - first:
+      213: 7192854347634495059
+    second: VFX_Move_Draco_Bone_8
+  - first:
+      213: 2704918215050301503
+    second: VFX_Move_Draco_Bone_9
+  - first:
+      213: -8922953092766391308
+    second: VFX_Move_Draco_Bone_10
+  - first:
+      213: 6024813535083921522
+    second: VFX_Move_Draco_Bone_11
+  - first:
+      213: -7442456774470392140
+    second: VFX_Move_Draco_Bone_12
+  - first:
+      213: 1462017080577081560
+    second: VFX_Move_Draco_Bone_13
+  - first:
+      213: -1048173949760200937
+    second: VFX_Move_Draco_Bone_14
+  - first:
+      213: -7292592528507966198
+    second: VFX_Move_Draco_Bone_15
+  - first:
+      213: 8694283836457530339
+    second: VFX_Move_Draco_Bone_16
+  - first:
+      213: -3976196176713421324
+    second: VFX_Move_Draco_Bone_17
+  - first:
+      213: -8221409335973981705
+    second: VFX_Move_Draco_Bone_18
+  - first:
+      213: 4205646914297618468
+    second: VFX_Move_Draco_Bone_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552fbe0c604aafc30800000000000000
+      internalID: 4394004735366787669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4a009c0e4a85eb0800000000000000
+      internalID: -4730850123200813875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a22690b1c2c52010800000000000000
+      internalID: 1163550215892247203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ac390491b43c210800000000000000
+      internalID: 1352006884970973768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40f89f1c8c4b64e0800000000000000
+      internalID: -1987410645844692915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0fc3fc1a25e81d0800000000000000
+      internalID: -3346646618169610044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881d1114e93f7f470800000000000000
+      internalID: 8428473088669241736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ed2dd60cdd66ce0800000000000000
+      internalID: -1412197614588076471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ec0e77be622d360800000000000000
+      internalID: 7192854347634495059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f309e8a09ccc98520800000000000000
+      internalID: 2704918215050301503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3af2e107d4b2480800000000000000
+      internalID: -8922953092766391308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27084a44dff6c9350800000000000000
+      internalID: 6024813535083921522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b62e75def417b890800000000000000
+      internalID: -7442456774470392140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0c957e9c02a4410800000000000000
+      internalID: 1462017080577081560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f99bd98532471f0800000000000000
+      internalID: -1048173949760200937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d6d9eabb18bca90800000000000000
+      internalID: -7292592528507966198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3b870c51d48a870800000000000000
+      internalID: 8694283836457530339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdeab1e4a6b1d8c0800000000000000
+      internalID: -3976196176713421324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 5
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1d03094cfa7ed80800000000000000
+      internalID: -8221409335973981705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Draco_Bone_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4206d6906957d5a30800000000000000
+      internalID: 4205646914297618468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Draco_Bone_0: 4394004735366787669
+      VFX_Move_Draco_Bone_1: -4730850123200813875
+      VFX_Move_Draco_Bone_10: -8922953092766391308
+      VFX_Move_Draco_Bone_11: 6024813535083921522
+      VFX_Move_Draco_Bone_12: -7442456774470392140
+      VFX_Move_Draco_Bone_13: 1462017080577081560
+      VFX_Move_Draco_Bone_14: -1048173949760200937
+      VFX_Move_Draco_Bone_15: -7292592528507966198
+      VFX_Move_Draco_Bone_16: 8694283836457530339
+      VFX_Move_Draco_Bone_17: -3976196176713421324
+      VFX_Move_Draco_Bone_18: -8221409335973981705
+      VFX_Move_Draco_Bone_19: 4205646914297618468
+      VFX_Move_Draco_Bone_2: 1163550215892247203
+      VFX_Move_Draco_Bone_3: 1352006884970973768
+      VFX_Move_Draco_Bone_4: -1987410645844692915
+      VFX_Move_Draco_Bone_5: -3346646618169610044
+      VFX_Move_Draco_Bone_6: 8428473088669241736
+      VFX_Move_Draco_Bone_7: -1412197614588076471
+      VFX_Move_Draco_Bone_8: 7192854347634495059
+      VFX_Move_Draco_Bone_9: 2704918215050301503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d5ba55671636fdd42bd07bfc1b9c1bab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8181908020820410562
+    second: VFX_Move_Bubble_Prison_0
+  - first:
+      213: 6033677764777902575
+    second: VFX_Move_Bubble_Prison_1
+  - first:
+      213: -9042964285759099097
+    second: VFX_Move_Bubble_Prison_2
+  - first:
+      213: 6075236441488901731
+    second: VFX_Move_Bubble_Prison_3
+  - first:
+      213: 607683846176994140
+    second: VFX_Move_Bubble_Prison_4
+  - first:
+      213: 5787443533971064219
+    second: VFX_Move_Bubble_Prison_5
+  - first:
+      213: 8353852876582072607
+    second: VFX_Move_Bubble_Prison_6
+  - first:
+      213: 5022143543623698163
+    second: VFX_Move_Bubble_Prison_7
+  - first:
+      213: 2188076052940487595
+    second: VFX_Move_Bubble_Prison_8
+  - first:
+      213: -3597756830655005116
+    second: VFX_Move_Bubble_Prison_9
+  - first:
+      213: -2870977538598081384
+    second: VFX_Move_Bubble_Prison_10
+  - first:
+      213: 7329487143038415390
+    second: VFX_Move_Bubble_Prison_11
+  - first:
+      213: -5482814252362800454
+    second: VFX_Move_Bubble_Prison_12
+  - first:
+      213: 8609420242124435553
+    second: VFX_Move_Bubble_Prison_13
+  - first:
+      213: -5094647151683261979
+    second: VFX_Move_Bubble_Prison_14
+  - first:
+      213: 3169267500574790634
+    second: VFX_Move_Bubble_Prison_15
+  - first:
+      213: -4988783226878620838
+    second: VFX_Move_Bubble_Prison_16
+  - first:
+      213: -5277060058757061317
+    second: VFX_Move_Bubble_Prison_17
+  - first:
+      213: -9126621519366636302
+    second: VFX_Move_Bubble_Prison_18
+  - first:
+      213: 5502453368433883883
+    second: VFX_Move_Bubble_Prison_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c08bedcef9fb8170800000000000000
+      internalID: 8181908020820410562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe182c295fdebb350800000000000000
+      internalID: 6033677764777902575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe8cec4efe08280800000000000000
+      internalID: -9042964285759099097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36644750b539f4450800000000000000
+      internalID: 6075236441488901731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c537f1b0d3dee6800800000000000000
+      internalID: 607683846176994140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b950aff1b31215050800000000000000
+      internalID: 5787443533971064219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11bc8e3ee8dee370800000000000000
+      internalID: 8353852876582072607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f646b8c1fc32b540800000000000000
+      internalID: 5022143543623698163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab7e05c39b9d5e10800000000000000
+      internalID: 2188076052940487595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 9
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eb2986933321ec0800000000000000
+      internalID: -3597756830655005116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c6cb5c32d3828d0800000000000000
+      internalID: -2870977538598081384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f89a29b197b560800000000000000
+      internalID: 7329487143038415390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab267769c7129e3b0800000000000000
+      internalID: -5482814252362800454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16072e5781eca7770800000000000000
+      internalID: 8609420242124435553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9a6fb786d2c49b0800000000000000
+      internalID: -5094647151683261979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae353f110008bfb20800000000000000
+      internalID: 3169267500574790634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b097c361844cab0800000000000000
+      internalID: -4988783226878620838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 8
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35226be5dd14c6b0800000000000000
+      internalID: -5277060058757061317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 7
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc37b2451ab75180800000000000000
+      internalID: -9126621519366636302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bubble_Prison_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 6
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea37a27f24ac5c40800000000000000
+      internalID: 5502453368433883883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Bubble_Prison_0: 8181908020820410562
+      VFX_Move_Bubble_Prison_1: 6033677764777902575
+      VFX_Move_Bubble_Prison_10: -2870977538598081384
+      VFX_Move_Bubble_Prison_11: 7329487143038415390
+      VFX_Move_Bubble_Prison_12: -5482814252362800454
+      VFX_Move_Bubble_Prison_13: 8609420242124435553
+      VFX_Move_Bubble_Prison_14: -5094647151683261979
+      VFX_Move_Bubble_Prison_15: 3169267500574790634
+      VFX_Move_Bubble_Prison_16: -4988783226878620838
+      VFX_Move_Bubble_Prison_17: -5277060058757061317
+      VFX_Move_Bubble_Prison_18: -9126621519366636302
+      VFX_Move_Bubble_Prison_19: 5502453368433883883
+      VFX_Move_Bubble_Prison_2: -9042964285759099097
+      VFX_Move_Bubble_Prison_3: 6075236441488901731
+      VFX_Move_Bubble_Prison_4: 607683846176994140
+      VFX_Move_Bubble_Prison_5: 5787443533971064219
+      VFX_Move_Bubble_Prison_6: 8353852876582072607
+      VFX_Move_Bubble_Prison_7: 5022143543623698163
+      VFX_Move_Bubble_Prison_8: 2188076052940487595
+      VFX_Move_Bubble_Prison_9: -3597756830655005116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

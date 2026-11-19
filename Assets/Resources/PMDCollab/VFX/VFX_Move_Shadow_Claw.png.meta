@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2e35c46061b43a14d83d91b4386cabac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7065996169063572131
+    second: VFX_Move_Shadow_Claw_0
+  - first:
+      213: 4435866597601118595
+    second: VFX_Move_Shadow_Claw_1
+  - first:
+      213: -1005197392200883687
+    second: VFX_Move_Shadow_Claw_2
+  - first:
+      213: -8650079851717588452
+    second: VFX_Move_Shadow_Claw_3
+  - first:
+      213: -4012586491531550027
+    second: VFX_Move_Shadow_Claw_4
+  - first:
+      213: 6193827239446092504
+    second: VFX_Move_Shadow_Claw_5
+  - first:
+      213: -6430216443345568453
+    second: VFX_Move_Shadow_Claw_6
+  - first:
+      213: 3923540835415991187
+    second: VFX_Move_Shadow_Claw_7
+  - first:
+      213: 7480648562391119605
+    second: VFX_Move_Shadow_Claw_8
+  - first:
+      213: -1538511897300012651
+    second: VFX_Move_Shadow_Claw_9
+  - first:
+      213: 9090893015639985165
+    second: VFX_Move_Shadow_Claw_10
+  - first:
+      213: -7527207080402645724
+    second: VFX_Move_Shadow_Claw_11
+  - first:
+      213: -6982581876397530709
+    second: VFX_Move_Shadow_Claw_12
+  - first:
+      213: 5009849689040449381
+    second: VFX_Move_Shadow_Claw_13
+  - first:
+      213: -6760626373795821938
+    second: VFX_Move_Shadow_Claw_14
+  - first:
+      213: -258499761237613160
+    second: VFX_Move_Shadow_Claw_15
+  - first:
+      213: -268284993993465953
+    second: VFX_Move_Shadow_Claw_16
+  - first:
+      213: -570408365905530575
+    second: VFX_Move_Shadow_Claw_17
+  - first:
+      213: 7260892687434679882
+    second: VFX_Move_Shadow_Claw_18
+  - first:
+      213: -8315850265569307168
+    second: VFX_Move_Shadow_Claw_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a22e4914167f0260800000000000000
+      internalID: 7065996169063572131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38909051b2d5f8d30800000000000000
+      internalID: 4435866597601118595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912a7bc2c42dc02f0800000000000000
+      internalID: -1005197392200883687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a0c97743eb4f780800000000000000
+      internalID: -8650079851717588452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b22bb578dd6058c0800000000000000
+      internalID: -4012586491531550027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da9257de05e4f550800000000000000
+      internalID: 6193827239446092504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3df289a63843c6a0800000000000000
+      internalID: -6430216443345568453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393a5bc1a97337630800000000000000
+      internalID: 3923540835415991187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6fbdabb3a90d760800000000000000
+      internalID: 7480648562391119605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59178bea49b16aae0800000000000000
+      internalID: -1538511897300012651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c0d483807592e70800000000000000
+      internalID: 9090893015639985165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d8bcd8a0df98790800000000000000
+      internalID: -7527207080402645724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1ae3a57c2e81f90800000000000000
+      internalID: -6982581876397530709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f6b55bfbf868540800000000000000
+      internalID: 5009849689040449381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8643c2e12e6d22a0800000000000000
+      internalID: -6760626373795821938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895a8e436df996cf0800000000000000
+      internalID: -258499761237613160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_16
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 0
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f937a283cd64cf0800000000000000
+      internalID: -268284993993465953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_17
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1313a450d908518f0800000000000000
+      internalID: -570408365905530575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4686caed6fd3c460800000000000000
+      internalID: 7260892687434679882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Claw_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e557632e3a289c80800000000000000
+      internalID: -8315850265569307168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Shadow_Claw_0: 7065996169063572131
+      VFX_Move_Shadow_Claw_1: 4435866597601118595
+      VFX_Move_Shadow_Claw_10: 9090893015639985165
+      VFX_Move_Shadow_Claw_11: -7527207080402645724
+      VFX_Move_Shadow_Claw_12: -6982581876397530709
+      VFX_Move_Shadow_Claw_13: 5009849689040449381
+      VFX_Move_Shadow_Claw_14: -6760626373795821938
+      VFX_Move_Shadow_Claw_15: -258499761237613160
+      VFX_Move_Shadow_Claw_16: -268284993993465953
+      VFX_Move_Shadow_Claw_17: -570408365905530575
+      VFX_Move_Shadow_Claw_18: 7260892687434679882
+      VFX_Move_Shadow_Claw_19: -8315850265569307168
+      VFX_Move_Shadow_Claw_2: -1005197392200883687
+      VFX_Move_Shadow_Claw_3: -8650079851717588452
+      VFX_Move_Shadow_Claw_4: -4012586491531550027
+      VFX_Move_Shadow_Claw_5: 6193827239446092504
+      VFX_Move_Shadow_Claw_6: -6430216443345568453
+      VFX_Move_Shadow_Claw_7: 3923540835415991187
+      VFX_Move_Shadow_Claw_8: 7480648562391119605
+      VFX_Move_Shadow_Claw_9: -1538511897300012651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

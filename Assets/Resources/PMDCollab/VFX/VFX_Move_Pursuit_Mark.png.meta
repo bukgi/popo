@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 344788c4460ce3b47bd6b0f7df0eb058
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7207503194850687693
+    second: VFX_Move_Pursuit_Mark_0
+  - first:
+      213: 5300642455165578277
+    second: VFX_Move_Pursuit_Mark_1
+  - first:
+      213: 2161417830916339529
+    second: VFX_Move_Pursuit_Mark_2
+  - first:
+      213: -1565399126660144178
+    second: VFX_Move_Pursuit_Mark_3
+  - first:
+      213: -5757135927628294826
+    second: VFX_Move_Pursuit_Mark_4
+  - first:
+      213: 8811746305048069752
+    second: VFX_Move_Pursuit_Mark_5
+  - first:
+      213: -2018064282562949368
+    second: VFX_Move_Pursuit_Mark_6
+  - first:
+      213: -3999331770653146709
+    second: VFX_Move_Pursuit_Mark_7
+  - first:
+      213: 3003484958283731246
+    second: VFX_Move_Pursuit_Mark_8
+  - first:
+      213: -7410646158715380009
+    second: VFX_Move_Pursuit_Mark_9
+  - first:
+      213: -3298335935415373604
+    second: VFX_Move_Pursuit_Mark_10
+  - first:
+      213: -2066444221767234643
+    second: VFX_Move_Pursuit_Mark_11
+  - first:
+      213: -5228489734652430437
+    second: VFX_Move_Pursuit_Mark_12
+  - first:
+      213: 8241785204006836716
+    second: VFX_Move_Pursuit_Mark_13
+  - first:
+      213: 7980508675088938428
+    second: VFX_Move_Pursuit_Mark_14
+  - first:
+      213: 6879006367860447103
+    second: VFX_Move_Pursuit_Mark_15
+  - first:
+      213: -6781401182032658868
+    second: VFX_Move_Pursuit_Mark_16
+  - first:
+      213: 2737332550544273575
+    second: VFX_Move_Pursuit_Mark_17
+  - first:
+      213: -2870512740358310362
+    second: VFX_Move_Pursuit_Mark_18
+  - first:
+      213: 8888634860225428835
+    second: VFX_Move_Pursuit_Mark_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca719ef7f1360460800000000000000
+      internalID: 7207503194850687693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52caf7d9a3aaf8940800000000000000
+      internalID: 5300642455165578277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947b6f6c016eefd10800000000000000
+      internalID: 2161417830916339529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec327b3c9c5964ae0800000000000000
+      internalID: -1565399126660144178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655931e506b8a10b0800000000000000
+      internalID: -5757135927628294826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876404be39c994a70800000000000000
+      internalID: 8811746305048069752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f8ee72a356ef3e0800000000000000
+      internalID: -2018064282562949368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba10947a1f48f78c0800000000000000
+      internalID: -3999331770653146709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e211bba08a58ea920800000000000000
+      internalID: 3003484958283731246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de18a9f498182990800000000000000
+      internalID: -7410646158715380009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd039ab21f4f932d0800000000000000
+      internalID: -3298335935415373604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabc765cde38253e0800000000000000
+      internalID: -2066444221767234643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97f34eb94ca077b0800000000000000
+      internalID: -5228489734652430437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9d5e7e9f3b06270800000000000000
+      internalID: 8241785204006836716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb579918b5670ce60800000000000000
+      internalID: 7980508675088938428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 6
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77d8f358d3277f50800000000000000
+      internalID: 6879006367860447103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 9
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e7789ed8f93e1a0800000000000000
+      internalID: -6781401182032658868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 8
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a03e43a375fcf520800000000000000
+      internalID: 2737332550544273575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 7
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626b5bb0fd3e928d0800000000000000
+      internalID: -2870512740358310362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Pursuit_Mark_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 6
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36df3e5bf46ca5b70800000000000000
+      internalID: 8888634860225428835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Pursuit_Mark_0: 7207503194850687693
+      VFX_Move_Pursuit_Mark_1: 5300642455165578277
+      VFX_Move_Pursuit_Mark_10: -3298335935415373604
+      VFX_Move_Pursuit_Mark_11: -2066444221767234643
+      VFX_Move_Pursuit_Mark_12: -5228489734652430437
+      VFX_Move_Pursuit_Mark_13: 8241785204006836716
+      VFX_Move_Pursuit_Mark_14: 7980508675088938428
+      VFX_Move_Pursuit_Mark_15: 6879006367860447103
+      VFX_Move_Pursuit_Mark_16: -6781401182032658868
+      VFX_Move_Pursuit_Mark_17: 2737332550544273575
+      VFX_Move_Pursuit_Mark_18: -2870512740358310362
+      VFX_Move_Pursuit_Mark_19: 8888634860225428835
+      VFX_Move_Pursuit_Mark_2: 2161417830916339529
+      VFX_Move_Pursuit_Mark_3: -1565399126660144178
+      VFX_Move_Pursuit_Mark_4: -5757135927628294826
+      VFX_Move_Pursuit_Mark_5: 8811746305048069752
+      VFX_Move_Pursuit_Mark_6: -2018064282562949368
+      VFX_Move_Pursuit_Mark_7: -3999331770653146709
+      VFX_Move_Pursuit_Mark_8: 3003484958283731246
+      VFX_Move_Pursuit_Mark_9: -7410646158715380009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2c9f635be0e03b94ba6db2be9baf3278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3689144411023499217
+    second: VFX_Move_Sandstorm_Precipice_0
+  - first:
+      213: -8276504681052521998
+    second: VFX_Move_Sandstorm_Precipice_1
+  - first:
+      213: 770952376000298512
+    second: VFX_Move_Sandstorm_Precipice_2
+  - first:
+      213: -581134397053614458
+    second: VFX_Move_Sandstorm_Precipice_3
+  - first:
+      213: -2561800924035377446
+    second: VFX_Move_Sandstorm_Precipice_4
+  - first:
+      213: 8914603282438457930
+    second: VFX_Move_Sandstorm_Precipice_5
+  - first:
+      213: 3997603665905243574
+    second: VFX_Move_Sandstorm_Precipice_6
+  - first:
+      213: 7030255394753539707
+    second: VFX_Move_Sandstorm_Precipice_7
+  - first:
+      213: 6333769161967613947
+    second: VFX_Move_Sandstorm_Precipice_8
+  - first:
+      213: 3635902568901028567
+    second: VFX_Move_Sandstorm_Precipice_9
+  - first:
+      213: -2838318875000034620
+    second: VFX_Move_Sandstorm_Precipice_10
+  - first:
+      213: 3263978688144807301
+    second: VFX_Move_Sandstorm_Precipice_11
+  - first:
+      213: -2324454896650937945
+    second: VFX_Move_Sandstorm_Precipice_12
+  - first:
+      213: -4581314157497395937
+    second: VFX_Move_Sandstorm_Precipice_13
+  - first:
+      213: -3141783564648385713
+    second: VFX_Move_Sandstorm_Precipice_14
+  - first:
+      213: -2018266877632288652
+    second: VFX_Move_Sandstorm_Precipice_15
+  - first:
+      213: 7448359894097232276
+    second: VFX_Move_Sandstorm_Precipice_16
+  - first:
+      213: 5375045738851828525
+    second: VFX_Move_Sandstorm_Precipice_17
+  - first:
+      213: -5983822493911924140
+    second: VFX_Move_Sandstorm_Precipice_18
+  - first:
+      213: 5699106897238453551
+    second: VFX_Move_Sandstorm_Precipice_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20a3df34b68dccc0800000000000000
+      internalID: -3689144411023499217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9b108e7d2f32d80800000000000000
+      internalID: -8276504681052521998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ebd3ee919f2ba00800000000000000
+      internalID: 770952376000298512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686cbd848556fe7f0800000000000000
+      internalID: -581134397053614458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad69a91f1a7a27cd0800000000000000
+      internalID: -2561800924035377446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a864b247807bb70800000000000000
+      internalID: 8914603282438457930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5d41b9a575a7730800000000000000
+      internalID: 3997603665905243574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eee8c980c709160800000000000000
+      internalID: 7030255394753539707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7376cbe7116e750800000000000000
+      internalID: 6333769161967613947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daa6416f12557230800000000000000
+      internalID: 3635902568901028567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca265075044c98d0800000000000000
+      internalID: -2838318875000034620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 7
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5851155d25bfb4d20800000000000000
+      internalID: 3263978688144807301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 5
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a914b44690edbfd0800000000000000
+      internalID: -2324454896650937945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 4
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1556edeb07eb60c0800000000000000
+      internalID: -4581314157497395937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43f8fb6e742664d0800000000000000
+      internalID: -3141783564648385713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4786ac0d7fcadf3e0800000000000000
+      internalID: -2018266877632288652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4918eee4cd3ed5760800000000000000
+      internalID: 7448359894097232276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238dbb0f9ff79a40800000000000000
+      internalID: 5375045738851828525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452436b352135fca0800000000000000
+      internalID: -5983822493911924140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sandstorm_Precipice_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d60e2278b471f40800000000000000
+      internalID: 5699106897238453551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Sandstorm_Precipice_0: -3689144411023499217
+      VFX_Move_Sandstorm_Precipice_1: -8276504681052521998
+      VFX_Move_Sandstorm_Precipice_10: -2838318875000034620
+      VFX_Move_Sandstorm_Precipice_11: 3263978688144807301
+      VFX_Move_Sandstorm_Precipice_12: -2324454896650937945
+      VFX_Move_Sandstorm_Precipice_13: -4581314157497395937
+      VFX_Move_Sandstorm_Precipice_14: -3141783564648385713
+      VFX_Move_Sandstorm_Precipice_15: -2018266877632288652
+      VFX_Move_Sandstorm_Precipice_16: 7448359894097232276
+      VFX_Move_Sandstorm_Precipice_17: 5375045738851828525
+      VFX_Move_Sandstorm_Precipice_18: -5983822493911924140
+      VFX_Move_Sandstorm_Precipice_19: 5699106897238453551
+      VFX_Move_Sandstorm_Precipice_2: 770952376000298512
+      VFX_Move_Sandstorm_Precipice_3: -581134397053614458
+      VFX_Move_Sandstorm_Precipice_4: -2561800924035377446
+      VFX_Move_Sandstorm_Precipice_5: 8914603282438457930
+      VFX_Move_Sandstorm_Precipice_6: 3997603665905243574
+      VFX_Move_Sandstorm_Precipice_7: 7030255394753539707
+      VFX_Move_Sandstorm_Precipice_8: 6333769161967613947
+      VFX_Move_Sandstorm_Precipice_9: 3635902568901028567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

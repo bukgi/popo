@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: abce946fa9eed554180de1dc7d4e8665
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5506472305284502760
+    second: VFX_Move_Thunder_Shock_0
+  - first:
+      213: 8613570593701931075
+    second: VFX_Move_Thunder_Shock_1
+  - first:
+      213: 2908708075165296090
+    second: VFX_Move_Thunder_Shock_2
+  - first:
+      213: 2774130556086332978
+    second: VFX_Move_Thunder_Shock_3
+  - first:
+      213: 3473612127733473579
+    second: VFX_Move_Thunder_Shock_4
+  - first:
+      213: -8633325287122873865
+    second: VFX_Move_Thunder_Shock_5
+  - first:
+      213: 2954476709218232077
+    second: VFX_Move_Thunder_Shock_6
+  - first:
+      213: -2872859678525958091
+    second: VFX_Move_Thunder_Shock_7
+  - first:
+      213: 4442761419493551799
+    second: VFX_Move_Thunder_Shock_8
+  - first:
+      213: -330128688974837944
+    second: VFX_Move_Thunder_Shock_9
+  - first:
+      213: 9054478347457120001
+    second: VFX_Move_Thunder_Shock_10
+  - first:
+      213: 8946071475847626102
+    second: VFX_Move_Thunder_Shock_11
+  - first:
+      213: -8933939965027976071
+    second: VFX_Move_Thunder_Shock_12
+  - first:
+      213: -2514867079191548578
+    second: VFX_Move_Thunder_Shock_13
+  - first:
+      213: 7270078461326797241
+    second: VFX_Move_Thunder_Shock_14
+  - first:
+      213: 3728875097635019765
+    second: VFX_Move_Thunder_Shock_15
+  - first:
+      213: -2188183417871676053
+    second: VFX_Move_Thunder_Shock_16
+  - first:
+      213: 7777769870016516476
+    second: VFX_Move_Thunder_Shock_17
+  - first:
+      213: -1982177631285046442
+    second: VFX_Move_Thunder_Shock_18
+  - first:
+      213: -3457411346155470403
+    second: VFX_Move_Thunder_Shock_19
+  - first:
+      213: 7529817598964282162
+    second: VFX_Move_Thunder_Shock_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81badf5ec941593b0800000000000000
+      internalID: -5506472305284502760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348aa5d71dc898770800000000000000
+      internalID: 8613570593701931075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5a987559ecd5820800000000000000
+      internalID: 2908708075165296090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 15
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e2514fa01bf7620800000000000000
+      internalID: 2774130556086332978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21ea0183dfb43030800000000000000
+      internalID: 3473612127733473579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 14
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1d4a68464403880800000000000000
+      internalID: -8633325287122873865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d072e1ed9e8600920800000000000000
+      internalID: 2954476709218232077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538daebe75d8128d0800000000000000
+      internalID: -2872859678525958091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 9
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be29b6e8fbd7ad30800000000000000
+      internalID: 4442761419493551799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 15
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8474d7bd4b52b6bf0800000000000000
+      internalID: -330128688974837944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 10
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107c5a69518f7ad70800000000000000
+      internalID: 9054478347457120001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 15
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67df625eb94d62c70800000000000000
+      internalID: 8946071475847626102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 9
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c77d39fe4440480800000000000000
+      internalID: -8933939965027976071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5da67f37b5691dd0800000000000000
+      internalID: -2514867079191548578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 8
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b92a9097d184e460800000000000000
+      internalID: 7270078461326797241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 14
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbd5561520afb330800000000000000
+      internalID: 3728875097635019765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dcb5266c202a1e0800000000000000
+      internalID: -2188183417871676053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 14
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7112170d7030fb60800000000000000
+      internalID: 7777769870016516476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653978542f3ed74e0800000000000000
+      internalID: -1982177631285046442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 14
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db18ff5e2bec400d0800000000000000
+      internalID: -3457411346155470403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Shock_20
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 14
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23330c926394f7860800000000000000
+      internalID: 7529817598964282162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Thunder_Shock_0: -5506472305284502760
+      VFX_Move_Thunder_Shock_1: 8613570593701931075
+      VFX_Move_Thunder_Shock_10: 9054478347457120001
+      VFX_Move_Thunder_Shock_11: 8946071475847626102
+      VFX_Move_Thunder_Shock_12: -8933939965027976071
+      VFX_Move_Thunder_Shock_13: -2514867079191548578
+      VFX_Move_Thunder_Shock_14: 7270078461326797241
+      VFX_Move_Thunder_Shock_15: 3728875097635019765
+      VFX_Move_Thunder_Shock_16: -2188183417871676053
+      VFX_Move_Thunder_Shock_17: 7777769870016516476
+      VFX_Move_Thunder_Shock_18: -1982177631285046442
+      VFX_Move_Thunder_Shock_19: -3457411346155470403
+      VFX_Move_Thunder_Shock_2: 2908708075165296090
+      VFX_Move_Thunder_Shock_20: 7529817598964282162
+      VFX_Move_Thunder_Shock_3: 2774130556086332978
+      VFX_Move_Thunder_Shock_4: 3473612127733473579
+      VFX_Move_Thunder_Shock_5: -8633325287122873865
+      VFX_Move_Thunder_Shock_6: 2954476709218232077
+      VFX_Move_Thunder_Shock_7: -2872859678525958091
+      VFX_Move_Thunder_Shock_8: 4442761419493551799
+      VFX_Move_Thunder_Shock_9: -330128688974837944
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

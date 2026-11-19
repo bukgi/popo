@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 1150e4d33feb3ee4781c832515ca772b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3590045066339977606
+    second: VFX_Move_Teleport_Ambush_0
+  - first:
+      213: 3256928989298739399
+    second: VFX_Move_Teleport_Ambush_1
+  - first:
+      213: -4359384214369799155
+    second: VFX_Move_Teleport_Ambush_2
+  - first:
+      213: 1033525512545394090
+    second: VFX_Move_Teleport_Ambush_3
+  - first:
+      213: -624326534780649528
+    second: VFX_Move_Teleport_Ambush_4
+  - first:
+      213: 4363132950916009642
+    second: VFX_Move_Teleport_Ambush_5
+  - first:
+      213: 3292316096436605639
+    second: VFX_Move_Teleport_Ambush_6
+  - first:
+      213: 8466513201883552702
+    second: VFX_Move_Teleport_Ambush_7
+  - first:
+      213: -2979335034331726987
+    second: VFX_Move_Teleport_Ambush_8
+  - first:
+      213: 5191626062275007253
+    second: VFX_Move_Teleport_Ambush_9
+  - first:
+      213: -5455813400905323940
+    second: VFX_Move_Teleport_Ambush_10
+  - first:
+      213: -3944722994123906892
+    second: VFX_Move_Teleport_Ambush_11
+  - first:
+      213: -9217422301163709968
+    second: VFX_Move_Teleport_Ambush_12
+  - first:
+      213: 4403054051746854857
+    second: VFX_Move_Teleport_Ambush_13
+  - first:
+      213: 1874623881584688876
+    second: VFX_Move_Teleport_Ambush_14
+  - first:
+      213: 841446703265470137
+    second: VFX_Move_Teleport_Ambush_15
+  - first:
+      213: -455705997712957917
+    second: VFX_Move_Teleport_Ambush_16
+  - first:
+      213: 6119999266936990436
+    second: VFX_Move_Teleport_Ambush_17
+  - first:
+      213: 1340474116472338484
+    second: VFX_Move_Teleport_Ambush_18
+  - first:
+      213: 7436778378013321099
+    second: VFX_Move_Teleport_Ambush_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68986da87f662d130800000000000000
+      internalID: 3590045066339977606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8c2d9e8afe23d20800000000000000
+      internalID: 3256928989298739399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04fa0f672b5083c0800000000000000
+      internalID: -4359384214369799155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad52915af1d75e00800000000000000
+      internalID: 1033525512545394090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf7c8e0352f557f0800000000000000
+      internalID: -624326534780649528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae862f4d46fc8c30800000000000000
+      internalID: 4363132950916009642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c29768db08a0bd20800000000000000
+      internalID: 3292316096436605639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb9c6c46e81f7570800000000000000
+      internalID: 8466513201883552702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bf7cb429647a6d0800000000000000
+      internalID: -2979335034331726987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513df80b56c5c0840800000000000000
+      internalID: 5191626062275007253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 9
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ae8363e9e0944b0800000000000000
+      internalID: -5455813400905323940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0eded36578149c0800000000000000
+      internalID: -3944722994123906892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f99f5ac043251080800000000000000
+      internalID: -9217422301163709968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c73739e45aca1d30800000000000000
+      internalID: 4403054051746854857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeb155fc70040a10800000000000000
+      internalID: 1874623881584688876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6df85815b6dab00800000000000000
+      internalID: 841446703265470137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32edd4c3fc10da9f0800000000000000
+      internalID: -455705997712957917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_17
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 6
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea2e6b78ea9ee450800000000000000
+      internalID: 6119999266936990436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_18
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43870f65b125a9210800000000000000
+      internalID: 1340474116472338484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Ambush_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b872ac6788eb43760800000000000000
+      internalID: 7436778378013321099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Teleport_Ambush_0: 3590045066339977606
+      VFX_Move_Teleport_Ambush_1: 3256928989298739399
+      VFX_Move_Teleport_Ambush_10: -5455813400905323940
+      VFX_Move_Teleport_Ambush_11: -3944722994123906892
+      VFX_Move_Teleport_Ambush_12: -9217422301163709968
+      VFX_Move_Teleport_Ambush_13: 4403054051746854857
+      VFX_Move_Teleport_Ambush_14: 1874623881584688876
+      VFX_Move_Teleport_Ambush_15: 841446703265470137
+      VFX_Move_Teleport_Ambush_16: -455705997712957917
+      VFX_Move_Teleport_Ambush_17: 6119999266936990436
+      VFX_Move_Teleport_Ambush_18: 1340474116472338484
+      VFX_Move_Teleport_Ambush_19: 7436778378013321099
+      VFX_Move_Teleport_Ambush_2: -4359384214369799155
+      VFX_Move_Teleport_Ambush_3: 1033525512545394090
+      VFX_Move_Teleport_Ambush_4: -624326534780649528
+      VFX_Move_Teleport_Ambush_5: 4363132950916009642
+      VFX_Move_Teleport_Ambush_6: 3292316096436605639
+      VFX_Move_Teleport_Ambush_7: 8466513201883552702
+      VFX_Move_Teleport_Ambush_8: -2979335034331726987
+      VFX_Move_Teleport_Ambush_9: 5191626062275007253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

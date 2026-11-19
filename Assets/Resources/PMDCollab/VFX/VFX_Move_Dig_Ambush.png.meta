@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a90376c48d120e945bc1fca57a664333
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 367749131747671124
+    second: VFX_Move_Dig_Ambush_0
+  - first:
+      213: -2093604734782003807
+    second: VFX_Move_Dig_Ambush_1
+  - first:
+      213: -6934676152204943648
+    second: VFX_Move_Dig_Ambush_2
+  - first:
+      213: 2164927692316461657
+    second: VFX_Move_Dig_Ambush_3
+  - first:
+      213: 5393403402092502413
+    second: VFX_Move_Dig_Ambush_4
+  - first:
+      213: 7436625086378779866
+    second: VFX_Move_Dig_Ambush_5
+  - first:
+      213: 7874118062063728064
+    second: VFX_Move_Dig_Ambush_6
+  - first:
+      213: -6425392355149938741
+    second: VFX_Move_Dig_Ambush_7
+  - first:
+      213: 3762017059333379368
+    second: VFX_Move_Dig_Ambush_8
+  - first:
+      213: 1310188929991060985
+    second: VFX_Move_Dig_Ambush_9
+  - first:
+      213: -67125866689626121
+    second: VFX_Move_Dig_Ambush_10
+  - first:
+      213: -6111949841043495115
+    second: VFX_Move_Dig_Ambush_11
+  - first:
+      213: -1648078649950928926
+    second: VFX_Move_Dig_Ambush_12
+  - first:
+      213: -4755202176169901725
+    second: VFX_Move_Dig_Ambush_13
+  - first:
+      213: 6913018615673801972
+    second: VFX_Move_Dig_Ambush_14
+  - first:
+      213: 7309385133696948241
+    second: VFX_Move_Dig_Ambush_15
+  - first:
+      213: 1371408052741697001
+    second: VFX_Move_Dig_Ambush_16
+  - first:
+      213: -3977170438669076370
+    second: VFX_Move_Dig_Ambush_17
+  - first:
+      213: 1256445379954460945
+    second: VFX_Move_Dig_Ambush_18
+  - first:
+      213: 4750618165487203066
+    second: VFX_Move_Dig_Ambush_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c374c03e18a1500800000000000000
+      internalID: 367749131747671124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a52e3b069502f2e0800000000000000
+      internalID: -2093604734782003807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee9373f7c413cf90800000000000000
+      internalID: -6934676152204943648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95acde0144e5b0e10800000000000000
+      internalID: 2164927692316461657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d5b1891d739da40800000000000000
+      internalID: 5393403402092502413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4ad597d13343760800000000000000
+      internalID: 7436625086378779866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5bbc898ac764d60800000000000000
+      internalID: 7874118062063728064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcff6c832bb64d6a0800000000000000
+      internalID: -6425392355149938741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825968c559e553430800000000000000
+      internalID: 3762017059333379368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd24c0e3e9be2210800000000000000
+      internalID: 1310188929991060985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff79b04165811ff0800000000000000
+      internalID: -67125866689626121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537e897800efd2ba0800000000000000
+      internalID: -6111949841043495115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eff4c32339d029e0800000000000000
+      internalID: -1648078649950928926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3618a3e90d0220eb0800000000000000
+      internalID: -4755202176169901725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc46e0edc9ffef50800000000000000
+      internalID: 6913018615673801972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11817846d07207560800000000000000
+      internalID: 7309385133696948241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed67c1ab58380310800000000000000
+      internalID: 1371408052741697001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68f1f7de804ec8c0800000000000000
+      internalID: -3977170438669076370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_18
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119cdd78a6acf6110800000000000000
+      internalID: 1256445379954460945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dig_Ambush_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2f1693d069de140800000000000000
+      internalID: 4750618165487203066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dig_Ambush_0: 367749131747671124
+      VFX_Move_Dig_Ambush_1: -2093604734782003807
+      VFX_Move_Dig_Ambush_10: -67125866689626121
+      VFX_Move_Dig_Ambush_11: -6111949841043495115
+      VFX_Move_Dig_Ambush_12: -1648078649950928926
+      VFX_Move_Dig_Ambush_13: -4755202176169901725
+      VFX_Move_Dig_Ambush_14: 6913018615673801972
+      VFX_Move_Dig_Ambush_15: 7309385133696948241
+      VFX_Move_Dig_Ambush_16: 1371408052741697001
+      VFX_Move_Dig_Ambush_17: -3977170438669076370
+      VFX_Move_Dig_Ambush_18: 1256445379954460945
+      VFX_Move_Dig_Ambush_19: 4750618165487203066
+      VFX_Move_Dig_Ambush_2: -6934676152204943648
+      VFX_Move_Dig_Ambush_3: 2164927692316461657
+      VFX_Move_Dig_Ambush_4: 5393403402092502413
+      VFX_Move_Dig_Ambush_5: 7436625086378779866
+      VFX_Move_Dig_Ambush_6: 7874118062063728064
+      VFX_Move_Dig_Ambush_7: -6425392355149938741
+      VFX_Move_Dig_Ambush_8: 3762017059333379368
+      VFX_Move_Dig_Ambush_9: 1310188929991060985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

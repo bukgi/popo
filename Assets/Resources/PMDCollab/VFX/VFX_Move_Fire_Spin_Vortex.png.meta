@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: deab220a7cc9f81488d9bc76cc861f70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2625303069974990753
+    second: VFX_Move_Fire_Spin_Vortex_0
+  - first:
+      213: 55919678884317857
+    second: VFX_Move_Fire_Spin_Vortex_1
+  - first:
+      213: 4665113434596594441
+    second: VFX_Move_Fire_Spin_Vortex_2
+  - first:
+      213: -8827193704078627812
+    second: VFX_Move_Fire_Spin_Vortex_3
+  - first:
+      213: -8220227421473692856
+    second: VFX_Move_Fire_Spin_Vortex_4
+  - first:
+      213: 8801966293613513879
+    second: VFX_Move_Fire_Spin_Vortex_5
+  - first:
+      213: -5772026592564541634
+    second: VFX_Move_Fire_Spin_Vortex_6
+  - first:
+      213: 960966488106071973
+    second: VFX_Move_Fire_Spin_Vortex_7
+  - first:
+      213: -1484146219066151336
+    second: VFX_Move_Fire_Spin_Vortex_8
+  - first:
+      213: 4874225360233265277
+    second: VFX_Move_Fire_Spin_Vortex_9
+  - first:
+      213: -4777698160673255233
+    second: VFX_Move_Fire_Spin_Vortex_10
+  - first:
+      213: -659108225288195790
+    second: VFX_Move_Fire_Spin_Vortex_11
+  - first:
+      213: -4015405740333942481
+    second: VFX_Move_Fire_Spin_Vortex_12
+  - first:
+      213: 175755902571747954
+    second: VFX_Move_Fire_Spin_Vortex_13
+  - first:
+      213: -8812714469976536549
+    second: VFX_Move_Fire_Spin_Vortex_14
+  - first:
+      213: 6042972303343785506
+    second: VFX_Move_Fire_Spin_Vortex_15
+  - first:
+      213: 2850175685222863944
+    second: VFX_Move_Fire_Spin_Vortex_16
+  - first:
+      213: -6098875206600433429
+    second: VFX_Move_Fire_Spin_Vortex_17
+  - first:
+      213: -3362813580303081370
+    second: VFX_Move_Fire_Spin_Vortex_18
+  - first:
+      213: 8846563212513305735
+    second: VFX_Move_Fire_Spin_Vortex_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af0a919b33fe6420800000000000000
+      internalID: 2625303069974990753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa8ad3d6aaa6c000800000000000000
+      internalID: 55919678884317857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9035802b3ffcdb040800000000000000
+      internalID: 4665113434596594441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c24d838128f7580800000000000000
+      internalID: -8827193704078627812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843a22a76b2ebed80800000000000000
+      internalID: -8220227421473692856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c8bcf85bdd62a70800000000000000
+      internalID: 8801966293613513879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3705144564a5efa0800000000000000
+      internalID: -5772026592564541634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7fd94fde9065d00800000000000000
+      internalID: 960966488106071973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ea2d980e0476be0800000000000000
+      internalID: -1484146219066151336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7877efe32ab4a340800000000000000
+      internalID: 4874225360233265277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0980116d432bdb0800000000000000
+      internalID: -4777698160673255233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231b82baf806ad6f0800000000000000
+      internalID: -659108225288195790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29b452f0c96648c0800000000000000
+      internalID: -4015405740333942481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a97fbef09607200800000000000000
+      internalID: 175755902571747954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a8a1e91e2f2b580800000000000000
+      internalID: -8812714469976536549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2269458fa43fcd350800000000000000
+      internalID: 6042972303343785506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8441a215fabdd8720800000000000000
+      internalID: 2850175685222863944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0e42510517c5ba0800000000000000
+      internalID: -6098875206600433429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660ec2c9dd2e451d0800000000000000
+      internalID: -3362813580303081370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Vortex_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784e4e4ee5e45ca70800000000000000
+      internalID: 8846563212513305735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Fire_Spin_Vortex_0: 2625303069974990753
+      VFX_Move_Fire_Spin_Vortex_1: 55919678884317857
+      VFX_Move_Fire_Spin_Vortex_10: -4777698160673255233
+      VFX_Move_Fire_Spin_Vortex_11: -659108225288195790
+      VFX_Move_Fire_Spin_Vortex_12: -4015405740333942481
+      VFX_Move_Fire_Spin_Vortex_13: 175755902571747954
+      VFX_Move_Fire_Spin_Vortex_14: -8812714469976536549
+      VFX_Move_Fire_Spin_Vortex_15: 6042972303343785506
+      VFX_Move_Fire_Spin_Vortex_16: 2850175685222863944
+      VFX_Move_Fire_Spin_Vortex_17: -6098875206600433429
+      VFX_Move_Fire_Spin_Vortex_18: -3362813580303081370
+      VFX_Move_Fire_Spin_Vortex_19: 8846563212513305735
+      VFX_Move_Fire_Spin_Vortex_2: 4665113434596594441
+      VFX_Move_Fire_Spin_Vortex_3: -8827193704078627812
+      VFX_Move_Fire_Spin_Vortex_4: -8220227421473692856
+      VFX_Move_Fire_Spin_Vortex_5: 8801966293613513879
+      VFX_Move_Fire_Spin_Vortex_6: -5772026592564541634
+      VFX_Move_Fire_Spin_Vortex_7: 960966488106071973
+      VFX_Move_Fire_Spin_Vortex_8: -1484146219066151336
+      VFX_Move_Fire_Spin_Vortex_9: 4874225360233265277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

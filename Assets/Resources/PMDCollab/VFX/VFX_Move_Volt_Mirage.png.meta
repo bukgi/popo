@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: de4b7766d4ca1f04587df122aaec48ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8581989119520836359
+    second: VFX_Move_Volt_Mirage_0
+  - first:
+      213: -5565791649248796160
+    second: VFX_Move_Volt_Mirage_1
+  - first:
+      213: 1161543916302407933
+    second: VFX_Move_Volt_Mirage_2
+  - first:
+      213: -3384474567334392083
+    second: VFX_Move_Volt_Mirage_3
+  - first:
+      213: 471536460840999440
+    second: VFX_Move_Volt_Mirage_4
+  - first:
+      213: 8457911933821007479
+    second: VFX_Move_Volt_Mirage_5
+  - first:
+      213: -7605756651661916974
+    second: VFX_Move_Volt_Mirage_6
+  - first:
+      213: 3515905709437028359
+    second: VFX_Move_Volt_Mirage_7
+  - first:
+      213: 6672792897649196785
+    second: VFX_Move_Volt_Mirage_8
+  - first:
+      213: 906096455653913157
+    second: VFX_Move_Volt_Mirage_9
+  - first:
+      213: -682668148287774645
+    second: VFX_Move_Volt_Mirage_10
+  - first:
+      213: -2409824855331252787
+    second: VFX_Move_Volt_Mirage_11
+  - first:
+      213: -5259562020775306231
+    second: VFX_Move_Volt_Mirage_12
+  - first:
+      213: 1850209515705453793
+    second: VFX_Move_Volt_Mirage_13
+  - first:
+      213: -9197287851277798217
+    second: VFX_Move_Volt_Mirage_14
+  - first:
+      213: -2763929346069696510
+    second: VFX_Move_Volt_Mirage_15
+  - first:
+      213: -2537101243913047299
+    second: VFX_Move_Volt_Mirage_16
+  - first:
+      213: -8465016781512285018
+    second: VFX_Move_Volt_Mirage_17
+  - first:
+      213: 8045668113456047770
+    second: VFX_Move_Volt_Mirage_18
+  - first:
+      213: 5499992194113523063
+    second: VFX_Move_Volt_Mirage_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f471b87d56a6e880800000000000000
+      internalID: -8581989119520836359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002a0bcdbf552c2b0800000000000000
+      internalID: -5565791649248796160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8983aa902ae1010800000000000000
+      internalID: 1161543916302407933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee80be005ee701d0800000000000000
+      internalID: -3384474567334392083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a921fa9eb3b8600800000000000000
+      internalID: 471536460840999440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77630f4871a806570800000000000000
+      internalID: 8457911933821007479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d480a15f9ce27690800000000000000
+      internalID: -7605756651661916974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70803ca5d910bc030800000000000000
+      internalID: 3515905709437028359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe312459c58a9c50800000000000000
+      internalID: 6672792897649196785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542fd7bfce9139c00800000000000000
+      internalID: 906096455653913157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4065d1afeca686f0800000000000000
+      internalID: -682668148287774645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5d217df059e8ed0800000000000000
+      internalID: -2409824855331252787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c5d8d55384207b0800000000000000
+      internalID: -5259562020775306231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eccbaf60c34da910800000000000000
+      internalID: 1850209515705453793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b43297bd6bac5080800000000000000
+      internalID: -9197287851277798217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200fc3757ec84a9d0800000000000000
+      internalID: -2763929346069696510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_16
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df27c5d5cd76accd0800000000000000
+      internalID: -2537101243913047299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_17
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 6
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a46d383618368a80800000000000000
+      internalID: -8465016781512285018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_18
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a962c3b7584f7af60800000000000000
+      internalID: 8045668113456047770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Volt_Mirage_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dce85a2c5e35c40800000000000000
+      internalID: 5499992194113523063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Volt_Mirage_0: -8581989119520836359
+      VFX_Move_Volt_Mirage_1: -5565791649248796160
+      VFX_Move_Volt_Mirage_10: -682668148287774645
+      VFX_Move_Volt_Mirage_11: -2409824855331252787
+      VFX_Move_Volt_Mirage_12: -5259562020775306231
+      VFX_Move_Volt_Mirage_13: 1850209515705453793
+      VFX_Move_Volt_Mirage_14: -9197287851277798217
+      VFX_Move_Volt_Mirage_15: -2763929346069696510
+      VFX_Move_Volt_Mirage_16: -2537101243913047299
+      VFX_Move_Volt_Mirage_17: -8465016781512285018
+      VFX_Move_Volt_Mirage_18: 8045668113456047770
+      VFX_Move_Volt_Mirage_19: 5499992194113523063
+      VFX_Move_Volt_Mirage_2: 1161543916302407933
+      VFX_Move_Volt_Mirage_3: -3384474567334392083
+      VFX_Move_Volt_Mirage_4: 471536460840999440
+      VFX_Move_Volt_Mirage_5: 8457911933821007479
+      VFX_Move_Volt_Mirage_6: -7605756651661916974
+      VFX_Move_Volt_Mirage_7: 3515905709437028359
+      VFX_Move_Volt_Mirage_8: 6672792897649196785
+      VFX_Move_Volt_Mirage_9: 906096455653913157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

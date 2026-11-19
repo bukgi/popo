@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 08f5387d876dcf245823bd9901ac1a25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4981594057811434174
+    second: VFX_Move_Hyper_Beam_0
+  - first:
+      213: -3784601895871792156
+    second: VFX_Move_Hyper_Beam_1
+  - first:
+      213: 8615155209387190573
+    second: VFX_Move_Hyper_Beam_2
+  - first:
+      213: 7341812424861215075
+    second: VFX_Move_Hyper_Beam_3
+  - first:
+      213: 3261609121079059587
+    second: VFX_Move_Hyper_Beam_4
+  - first:
+      213: 3281495218297223173
+    second: VFX_Move_Hyper_Beam_5
+  - first:
+      213: 8136117386320519374
+    second: VFX_Move_Hyper_Beam_6
+  - first:
+      213: 3566459253411818949
+    second: VFX_Move_Hyper_Beam_7
+  - first:
+      213: -843858410279356372
+    second: VFX_Move_Hyper_Beam_8
+  - first:
+      213: -8123730480467243944
+    second: VFX_Move_Hyper_Beam_9
+  - first:
+      213: -4079584958921013863
+    second: VFX_Move_Hyper_Beam_10
+  - first:
+      213: -202226625301361100
+    second: VFX_Move_Hyper_Beam_11
+  - first:
+      213: -6747628389447595519
+    second: VFX_Move_Hyper_Beam_12
+  - first:
+      213: 932570340616423969
+    second: VFX_Move_Hyper_Beam_13
+  - first:
+      213: -4905087806630691377
+    second: VFX_Move_Hyper_Beam_14
+  - first:
+      213: 1616628234179053252
+    second: VFX_Move_Hyper_Beam_15
+  - first:
+      213: -6175429965754742484
+    second: VFX_Move_Hyper_Beam_16
+  - first:
+      213: 4476348344643249621
+    second: VFX_Move_Hyper_Beam_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba1c07e66d222540800000000000000
+      internalID: 4981594057811434174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 17
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebba4c90a46a7bc0800000000000000
+      internalID: -3784601895871792156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 15
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d292164940e2f8770800000000000000
+      internalID: 8615155209387190573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369e667708b53e560800000000000000
+      internalID: 7341812424861215075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38467120730934d20800000000000000
+      internalID: 3261609121079059587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508bfb2d3863a8d20800000000000000
+      internalID: 3281495218297223173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0a386e7ab49e070800000000000000
+      internalID: 8136117386320519374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd24898bcb9e7130800000000000000
+      internalID: 3566459253411818949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28b29e2f330a44f0800000000000000
+      internalID: -843858410279356372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c8cbc5b26b24f80800000000000000
+      internalID: -8123730480467243944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 15
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9958c7c28176267c0800000000000000
+      internalID: -4079584958921013863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e49caa4fb813df0800000000000000
+      internalID: -202226625301361100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 15
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a82a2fabb9b52a0800000000000000
+      internalID: -6747628389447595519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ac188a8c721fc00800000000000000
+      internalID: 932570340616423969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd7dadc0a0adebb0800000000000000
+      internalID: -4905087806630691377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c60c1050da6f6610800000000000000
+      internalID: 1616628234179053252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29c2eb3a277c4aa0800000000000000
+      internalID: -6175429965754742484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hyper_Beam_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 12
+        width: 145
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d56e5d4a1f2f1e30800000000000000
+      internalID: 4476348344643249621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Hyper_Beam_0: 4981594057811434174
+      VFX_Move_Hyper_Beam_1: -3784601895871792156
+      VFX_Move_Hyper_Beam_10: -4079584958921013863
+      VFX_Move_Hyper_Beam_11: -202226625301361100
+      VFX_Move_Hyper_Beam_12: -6747628389447595519
+      VFX_Move_Hyper_Beam_13: 932570340616423969
+      VFX_Move_Hyper_Beam_14: -4905087806630691377
+      VFX_Move_Hyper_Beam_15: 1616628234179053252
+      VFX_Move_Hyper_Beam_16: -6175429965754742484
+      VFX_Move_Hyper_Beam_17: 4476348344643249621
+      VFX_Move_Hyper_Beam_2: 8615155209387190573
+      VFX_Move_Hyper_Beam_3: 7341812424861215075
+      VFX_Move_Hyper_Beam_4: 3261609121079059587
+      VFX_Move_Hyper_Beam_5: 3281495218297223173
+      VFX_Move_Hyper_Beam_6: 8136117386320519374
+      VFX_Move_Hyper_Beam_7: 3566459253411818949
+      VFX_Move_Hyper_Beam_8: -843858410279356372
+      VFX_Move_Hyper_Beam_9: -8123730480467243944
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

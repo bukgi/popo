@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 603899df2916bb24ea02c40885e6b0cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5078255256924266466
+    second: VFX_Move_Bone_Rush_0
+  - first:
+      213: -4040187033189757295
+    second: VFX_Move_Bone_Rush_1
+  - first:
+      213: 5198178292486311549
+    second: VFX_Move_Bone_Rush_2
+  - first:
+      213: 3958190891820762174
+    second: VFX_Move_Bone_Rush_3
+  - first:
+      213: -2103700930821160756
+    second: VFX_Move_Bone_Rush_4
+  - first:
+      213: -3522280639797123877
+    second: VFX_Move_Bone_Rush_5
+  - first:
+      213: 5983036006120062231
+    second: VFX_Move_Bone_Rush_6
+  - first:
+      213: -3280282070218745798
+    second: VFX_Move_Bone_Rush_7
+  - first:
+      213: -310579177259562592
+    second: VFX_Move_Bone_Rush_8
+  - first:
+      213: 6661541924180728393
+    second: VFX_Move_Bone_Rush_9
+  - first:
+      213: -2150082114384160174
+    second: VFX_Move_Bone_Rush_10
+  - first:
+      213: -2199257675636338608
+    second: VFX_Move_Bone_Rush_11
+  - first:
+      213: -8805763373588513446
+    second: VFX_Move_Bone_Rush_12
+  - first:
+      213: -7831513462096260654
+    second: VFX_Move_Bone_Rush_13
+  - first:
+      213: 5103203171374648457
+    second: VFX_Move_Bone_Rush_14
+  - first:
+      213: 7298430598674568172
+    second: VFX_Move_Bone_Rush_15
+  - first:
+      213: -3620563269812844532
+    second: VFX_Move_Bone_Rush_16
+  - first:
+      213: 3345719516199509397
+    second: VFX_Move_Bone_Rush_17
+  - first:
+      213: -8978479154103221454
+    second: VFX_Move_Bone_Rush_18
+  - first:
+      213: -7078577437773270129
+    second: VFX_Move_Bone_Rush_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10e444efb96689b0800000000000000
+      internalID: -5078255256924266466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ec5949c4f5ee7c0800000000000000
+      internalID: -4040187033189757295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e0bcaad93a32840800000000000000
+      internalID: 5198178292486311549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34c92c05a15ee630800000000000000
+      internalID: 3958190891820762174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc00fb836272ec2e0800000000000000
+      internalID: -2103700930821160756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd428a18b685e1fc0800000000000000
+      internalID: -3522280639797123877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d782f4c83080350800000000000000
+      internalID: 5983036006120062231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38578936d81a72d0800000000000000
+      internalID: -3280282070218745798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a98fc042e990bbf0800000000000000
+      internalID: -310579177259562592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a1a2fe51d827c50800000000000000
+      internalID: 6661541924180728393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a163665bf5922e0800000000000000
+      internalID: -2150082114384160174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0501522dbcaaa71e0800000000000000
+      internalID: -2199257675636338608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d7c1dddd4abc580800000000000000
+      internalID: -8805763373588513446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d11016dfffd05390800000000000000
+      internalID: -7831513462096260654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cce661f3832d640800000000000000
+      internalID: 5103203171374648457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3d6d3f5fb394560800000000000000
+      internalID: 7298430598674568172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c088aff73ec21cdc0800000000000000
+      internalID: -3620563269812844532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 6
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dd9217c226e6e20800000000000000
+      internalID: 3345719516199509397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2338d6487c8066380800000000000000
+      internalID: -8978479154103221454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bone_Rush_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83fd620357d3cd90800000000000000
+      internalID: -7078577437773270129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Bone_Rush_0: -5078255256924266466
+      VFX_Move_Bone_Rush_1: -4040187033189757295
+      VFX_Move_Bone_Rush_10: -2150082114384160174
+      VFX_Move_Bone_Rush_11: -2199257675636338608
+      VFX_Move_Bone_Rush_12: -8805763373588513446
+      VFX_Move_Bone_Rush_13: -7831513462096260654
+      VFX_Move_Bone_Rush_14: 5103203171374648457
+      VFX_Move_Bone_Rush_15: 7298430598674568172
+      VFX_Move_Bone_Rush_16: -3620563269812844532
+      VFX_Move_Bone_Rush_17: 3345719516199509397
+      VFX_Move_Bone_Rush_18: -8978479154103221454
+      VFX_Move_Bone_Rush_19: -7078577437773270129
+      VFX_Move_Bone_Rush_2: 5198178292486311549
+      VFX_Move_Bone_Rush_3: 3958190891820762174
+      VFX_Move_Bone_Rush_4: -2103700930821160756
+      VFX_Move_Bone_Rush_5: -3522280639797123877
+      VFX_Move_Bone_Rush_6: 5983036006120062231
+      VFX_Move_Bone_Rush_7: -3280282070218745798
+      VFX_Move_Bone_Rush_8: -310579177259562592
+      VFX_Move_Bone_Rush_9: 6661541924180728393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e0ebbbd45b04e48449a246e49c0d12ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3734033887643153367
+    second: VFX_Move_Phantom_Shadow_Force_0
+  - first:
+      213: 3625693985812208404
+    second: VFX_Move_Phantom_Shadow_Force_1
+  - first:
+      213: -8042805857603158968
+    second: VFX_Move_Phantom_Shadow_Force_2
+  - first:
+      213: 1716636808071040285
+    second: VFX_Move_Phantom_Shadow_Force_3
+  - first:
+      213: 2033635503283064292
+    second: VFX_Move_Phantom_Shadow_Force_4
+  - first:
+      213: -2269742614175489821
+    second: VFX_Move_Phantom_Shadow_Force_5
+  - first:
+      213: 889641879976744274
+    second: VFX_Move_Phantom_Shadow_Force_6
+  - first:
+      213: 8077419480521282307
+    second: VFX_Move_Phantom_Shadow_Force_7
+  - first:
+      213: -8826925178241095145
+    second: VFX_Move_Phantom_Shadow_Force_8
+  - first:
+      213: 7297662828910897493
+    second: VFX_Move_Phantom_Shadow_Force_9
+  - first:
+      213: -1062023823228844076
+    second: VFX_Move_Phantom_Shadow_Force_10
+  - first:
+      213: -6028950272298618702
+    second: VFX_Move_Phantom_Shadow_Force_11
+  - first:
+      213: -111175666385260535
+    second: VFX_Move_Phantom_Shadow_Force_12
+  - first:
+      213: 1337034452558014207
+    second: VFX_Move_Phantom_Shadow_Force_13
+  - first:
+      213: -77920178051799738
+    second: VFX_Move_Phantom_Shadow_Force_14
+  - first:
+      213: -7139222696069069448
+    second: VFX_Move_Phantom_Shadow_Force_15
+  - first:
+      213: -1002685857624444271
+    second: VFX_Move_Phantom_Shadow_Force_16
+  - first:
+      213: -8237705118700666394
+    second: VFX_Move_Phantom_Shadow_Force_17
+  - first:
+      213: 5690277303670281351
+    second: VFX_Move_Phantom_Shadow_Force_18
+  - first:
+      213: 8675181128336654029
+    second: VFX_Move_Phantom_Shadow_Force_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3bd3c7904f1d330800000000000000
+      internalID: 3734033887643153367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b5b98687d015230800000000000000
+      internalID: 3625693985812208404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cf1246fa6326090800000000000000
+      internalID: -8042805857603158968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d4f61f418b2d710800000000000000
+      internalID: 1716636808071040285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed4fcf27bce83c10800000000000000
+      internalID: 2033635503283064292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0e0863e114080e0800000000000000
+      internalID: -2269742614175489821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25513598394a85c00800000000000000
+      internalID: 889641879976744274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3039a46b832c81070800000000000000
+      internalID: 8077419480521282307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aecf34156708580800000000000000
+      internalID: -8826925178241095145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5596ecf9da1864560800000000000000
+      internalID: 7297662828910897493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d74179a5fee241f0800000000000000
+      internalID: -1062023823228844076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 9
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0752b8badd45ca0800000000000000
+      internalID: -6028950272298618702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90070790256057ef0800000000000000
+      internalID: -111175666385260535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6ed2d20c91e8210800000000000000
+      internalID: 1337034452558014207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645236ac20c2beef0800000000000000
+      internalID: -77920178051799738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875856c78c26cec90800000000000000
+      internalID: -7139222696069069448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192bcf2668eb512f0800000000000000
+      internalID: -1002685857624444271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e10e6bf6dacdad80800000000000000
+      internalID: -8237705118700666394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_18
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 5
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7841cbe2f0de7fe40800000000000000
+      internalID: 5690277303670281351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Shadow_Force_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcebdace54f646870800000000000000
+      internalID: 8675181128336654029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Phantom_Shadow_Force_0: 3734033887643153367
+      VFX_Move_Phantom_Shadow_Force_1: 3625693985812208404
+      VFX_Move_Phantom_Shadow_Force_10: -1062023823228844076
+      VFX_Move_Phantom_Shadow_Force_11: -6028950272298618702
+      VFX_Move_Phantom_Shadow_Force_12: -111175666385260535
+      VFX_Move_Phantom_Shadow_Force_13: 1337034452558014207
+      VFX_Move_Phantom_Shadow_Force_14: -77920178051799738
+      VFX_Move_Phantom_Shadow_Force_15: -7139222696069069448
+      VFX_Move_Phantom_Shadow_Force_16: -1002685857624444271
+      VFX_Move_Phantom_Shadow_Force_17: -8237705118700666394
+      VFX_Move_Phantom_Shadow_Force_18: 5690277303670281351
+      VFX_Move_Phantom_Shadow_Force_19: 8675181128336654029
+      VFX_Move_Phantom_Shadow_Force_2: -8042805857603158968
+      VFX_Move_Phantom_Shadow_Force_3: 1716636808071040285
+      VFX_Move_Phantom_Shadow_Force_4: 2033635503283064292
+      VFX_Move_Phantom_Shadow_Force_5: -2269742614175489821
+      VFX_Move_Phantom_Shadow_Force_6: 889641879976744274
+      VFX_Move_Phantom_Shadow_Force_7: 8077419480521282307
+      VFX_Move_Phantom_Shadow_Force_8: -8826925178241095145
+      VFX_Move_Phantom_Shadow_Force_9: 7297662828910897493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

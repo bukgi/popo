@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: cea05b04a400df44a9db5fee86ded057
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 215720853547873014
+    second: VFX_Move_Toxic_Hex_0
+  - first:
+      213: -5831111289492227554
+    second: VFX_Move_Toxic_Hex_1
+  - first:
+      213: -212853052770128207
+    second: VFX_Move_Toxic_Hex_2
+  - first:
+      213: 1559578049771742249
+    second: VFX_Move_Toxic_Hex_3
+  - first:
+      213: 3674459780894629884
+    second: VFX_Move_Toxic_Hex_4
+  - first:
+      213: 1481476666279164395
+    second: VFX_Move_Toxic_Hex_5
+  - first:
+      213: 5977968242531124204
+    second: VFX_Move_Toxic_Hex_6
+  - first:
+      213: 6507864420180813993
+    second: VFX_Move_Toxic_Hex_7
+  - first:
+      213: 7339393679571498623
+    second: VFX_Move_Toxic_Hex_8
+  - first:
+      213: 15799459309556123
+    second: VFX_Move_Toxic_Hex_9
+  - first:
+      213: 8276997943024071753
+    second: VFX_Move_Toxic_Hex_10
+  - first:
+      213: 5987094363638409701
+    second: VFX_Move_Toxic_Hex_11
+  - first:
+      213: -5879100279589075453
+    second: VFX_Move_Toxic_Hex_12
+  - first:
+      213: -8628223749445131713
+    second: VFX_Move_Toxic_Hex_13
+  - first:
+      213: 3902109336801883793
+    second: VFX_Move_Toxic_Hex_14
+  - first:
+      213: -8670965683963831498
+    second: VFX_Move_Toxic_Hex_15
+  - first:
+      213: -1526208582987858091
+    second: VFX_Move_Toxic_Hex_16
+  - first:
+      213: -1363044906862312088
+    second: VFX_Move_Toxic_Hex_17
+  - first:
+      213: -6757314544832806184
+    second: VFX_Move_Toxic_Hex_18
+  - first:
+      213: -7939693803234565293
+    second: VFX_Move_Toxic_Hex_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f27d5e29f46ef200800000000000000
+      internalID: 215720853547873014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1abb004d2bb31fa0800000000000000
+      internalID: -5831111289492227554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be6748b64bcb0df0800000000000000
+      internalID: -212853052770128207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924242829fbb4a510800000000000000
+      internalID: 1559578049771742249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff1fadd3bd4ef230800000000000000
+      internalID: 3674459780894629884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be97994cd234f8410800000000000000
+      internalID: 1481476666279164395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 7
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce342a6a17206f250800000000000000
+      internalID: 5977968242531124204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8e743c534905a50800000000000000
+      internalID: 6507864420180813993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f763b917aa3cad560800000000000000
+      internalID: 7339393679571498623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b911ac74681283000800000000000000
+      internalID: 15799459309556123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944b69896cdcdd270800000000000000
+      internalID: 8276997943024071753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 9
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9296d4a9e661350800000000000000
+      internalID: 5987094363638409701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_12
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306813cc17d396ea0800000000000000
+      internalID: -5879100279589075453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32ebb3d634624880800000000000000
+      internalID: -8628223749445131713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196bfce74c3172630800000000000000
+      internalID: 3902109336801883793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_15
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 7
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bdbb3b6aa8aa780800000000000000
+      internalID: -8670965683963831498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f3bd54161d1dae0800000000000000
+      internalID: -1526208582987858091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 6
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865019101ed751de0800000000000000
+      internalID: -1363044906862312088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 5
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d209a729323932a0800000000000000
+      internalID: -6757314544832806184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Toxic_Hex_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35365d06d8a80d190800000000000000
+      internalID: -7939693803234565293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Toxic_Hex_0: 215720853547873014
+      VFX_Move_Toxic_Hex_1: -5831111289492227554
+      VFX_Move_Toxic_Hex_10: 8276997943024071753
+      VFX_Move_Toxic_Hex_11: 5987094363638409701
+      VFX_Move_Toxic_Hex_12: -5879100279589075453
+      VFX_Move_Toxic_Hex_13: -8628223749445131713
+      VFX_Move_Toxic_Hex_14: 3902109336801883793
+      VFX_Move_Toxic_Hex_15: -8670965683963831498
+      VFX_Move_Toxic_Hex_16: -1526208582987858091
+      VFX_Move_Toxic_Hex_17: -1363044906862312088
+      VFX_Move_Toxic_Hex_18: -6757314544832806184
+      VFX_Move_Toxic_Hex_19: -7939693803234565293
+      VFX_Move_Toxic_Hex_2: -212853052770128207
+      VFX_Move_Toxic_Hex_3: 1559578049771742249
+      VFX_Move_Toxic_Hex_4: 3674459780894629884
+      VFX_Move_Toxic_Hex_5: 1481476666279164395
+      VFX_Move_Toxic_Hex_6: 5977968242531124204
+      VFX_Move_Toxic_Hex_7: 6507864420180813993
+      VFX_Move_Toxic_Hex_8: 7339393679571498623
+      VFX_Move_Toxic_Hex_9: 15799459309556123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 3a1392b149fa24a42845838eb2856255
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4349042404408365004
+    second: VFX_Move_Air_Slash_0
+  - first:
+      213: 129466491590424303
+    second: VFX_Move_Air_Slash_1
+  - first:
+      213: 1087483292641356062
+    second: VFX_Move_Air_Slash_2
+  - first:
+      213: -1901434883158622525
+    second: VFX_Move_Air_Slash_3
+  - first:
+      213: 2710713444857599389
+    second: VFX_Move_Air_Slash_4
+  - first:
+      213: -716806333988758576
+    second: VFX_Move_Air_Slash_5
+  - first:
+      213: -448048976650691244
+    second: VFX_Move_Air_Slash_6
+  - first:
+      213: 3385343600211290925
+    second: VFX_Move_Air_Slash_7
+  - first:
+      213: -1628294611313814403
+    second: VFX_Move_Air_Slash_8
+  - first:
+      213: 8966220473089879744
+    second: VFX_Move_Air_Slash_9
+  - first:
+      213: -4504169079231849665
+    second: VFX_Move_Air_Slash_10
+  - first:
+      213: -2716436987226635314
+    second: VFX_Move_Air_Slash_11
+  - first:
+      213: 1907226349155304453
+    second: VFX_Move_Air_Slash_12
+  - first:
+      213: -4029501217015844879
+    second: VFX_Move_Air_Slash_13
+  - first:
+      213: 5001102943188746593
+    second: VFX_Move_Air_Slash_14
+  - first:
+      213: -6410240911752142440
+    second: VFX_Move_Air_Slash_15
+  - first:
+      213: -6643667915205354977
+    second: VFX_Move_Air_Slash_16
+  - first:
+      213: -6793628683732257984
+    second: VFX_Move_Air_Slash_17
+  - first:
+      213: -3727073237933292425
+    second: VFX_Move_Air_Slash_18
+  - first:
+      213: 7217186618913479719
+    second: VFX_Move_Air_Slash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf0fdb4607ea5c30800000000000000
+      internalID: 4349042404408365004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe630919615fbc100800000000000000
+      internalID: 129466491590424303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e196f0dfa44871f00800000000000000
+      internalID: 1087483292641356062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce3bc94c0fbc95e0800000000000000
+      internalID: -1901434883158622525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95dc9024836e9520800000000000000
+      internalID: 2710713444857599389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db99d1ef646d06f0800000000000000
+      internalID: -716806333988758576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d12c064d538c9f0800000000000000
+      internalID: -448048976650691244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b6c3d61182bfe20800000000000000
+      internalID: 3385343600211290925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7415f69da22769e0800000000000000
+      internalID: -1628294611313814403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce6b54e30a6e6c70800000000000000
+      internalID: 8966220473089879744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b5618261afd71c0800000000000000
+      internalID: -4504169079231849665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3cf91d3f64d4ad0800000000000000
+      internalID: -2716436987226635314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504caa77244d77a10800000000000000
+      internalID: 1907226349155304453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff24c90ef55418c0800000000000000
+      internalID: -4029501217015844879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1610ded31ac776540800000000000000
+      internalID: 5001102943188746593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891665a8adf3a07a0800000000000000
+      internalID: -6410240911752142440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_16
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 0
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a56841b33fcc3a0800000000000000
+      internalID: -6643667915205354977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043fb32d4be28b1a0800000000000000
+      internalID: -6793628683732257984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7740f1113a6c64cc0800000000000000
+      internalID: -3727073237933292425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Air_Slash_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c5a0addf8982460800000000000000
+      internalID: 7217186618913479719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Air_Slash_0: 4349042404408365004
+      VFX_Move_Air_Slash_1: 129466491590424303
+      VFX_Move_Air_Slash_10: -4504169079231849665
+      VFX_Move_Air_Slash_11: -2716436987226635314
+      VFX_Move_Air_Slash_12: 1907226349155304453
+      VFX_Move_Air_Slash_13: -4029501217015844879
+      VFX_Move_Air_Slash_14: 5001102943188746593
+      VFX_Move_Air_Slash_15: -6410240911752142440
+      VFX_Move_Air_Slash_16: -6643667915205354977
+      VFX_Move_Air_Slash_17: -6793628683732257984
+      VFX_Move_Air_Slash_18: -3727073237933292425
+      VFX_Move_Air_Slash_19: 7217186618913479719
+      VFX_Move_Air_Slash_2: 1087483292641356062
+      VFX_Move_Air_Slash_3: -1901434883158622525
+      VFX_Move_Air_Slash_4: 2710713444857599389
+      VFX_Move_Air_Slash_5: -716806333988758576
+      VFX_Move_Air_Slash_6: -448048976650691244
+      VFX_Move_Air_Slash_7: 3385343600211290925
+      VFX_Move_Air_Slash_8: -1628294611313814403
+      VFX_Move_Air_Slash_9: 8966220473089879744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

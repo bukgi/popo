@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a20fcb63c95f87846b353b5bd9545326
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9044943503477533228
+    second: VFX_Move_Inferno_Detonate_0
+  - first:
+      213: 643032750441125372
+    second: VFX_Move_Inferno_Detonate_1
+  - first:
+      213: 7647535371532201787
+    second: VFX_Move_Inferno_Detonate_2
+  - first:
+      213: 9106246464213418160
+    second: VFX_Move_Inferno_Detonate_3
+  - first:
+      213: -466585653940151253
+    second: VFX_Move_Inferno_Detonate_4
+  - first:
+      213: 3411738429687701196
+    second: VFX_Move_Inferno_Detonate_5
+  - first:
+      213: 3290796425355452265
+    second: VFX_Move_Inferno_Detonate_6
+  - first:
+      213: 7741052118305324426
+    second: VFX_Move_Inferno_Detonate_7
+  - first:
+      213: 4111967504062704296
+    second: VFX_Move_Inferno_Detonate_8
+  - first:
+      213: -1862723836488555359
+    second: VFX_Move_Inferno_Detonate_9
+  - first:
+      213: 2562150833540230094
+    second: VFX_Move_Inferno_Detonate_10
+  - first:
+      213: 3770031840517933369
+    second: VFX_Move_Inferno_Detonate_11
+  - first:
+      213: -4684677888826563218
+    second: VFX_Move_Inferno_Detonate_12
+  - first:
+      213: 5313459422434050804
+    second: VFX_Move_Inferno_Detonate_13
+  - first:
+      213: -4500511789291240276
+    second: VFX_Move_Inferno_Detonate_14
+  - first:
+      213: -4813463378527860447
+    second: VFX_Move_Inferno_Detonate_15
+  - first:
+      213: -6683405906448460915
+    second: VFX_Move_Inferno_Detonate_16
+  - first:
+      213: -8201336084483491634
+    second: VFX_Move_Inferno_Detonate_17
+  - first:
+      213: -8953274214333790193
+    second: VFX_Move_Inferno_Detonate_18
+  - first:
+      213: -3864474768955517752
+    second: VFX_Move_Inferno_Detonate_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d59eb54ec7e97280800000000000000
+      internalID: -9044943503477533228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf55cfc21e28ce800800000000000000
+      internalID: 643032750441125372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f696be6e0812a60800000000000000
+      internalID: 7647535371532201787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0099889e2ef5e70800000000000000
+      internalID: 9106246464213418160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c9a9fd1da5689f0800000000000000
+      internalID: -466585653940151253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce9510960ee85f20800000000000000
+      internalID: 3411738429687701196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fdf69d9e14bad20800000000000000
+      internalID: 3290796425355452265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dbf5343edbd6b60800000000000000
+      internalID: 7741052118305324426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 10
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa6b97a8a4a01930800000000000000
+      internalID: 4111967504062704296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 10
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a462733a864626e0800000000000000
+      internalID: -1862723836488555359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 10
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe226bb969e8320800000000000000
+      internalID: 2562150833540230094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939cbf50cf7d15430800000000000000
+      internalID: 3770031840517933369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65ad55d74eacfeb0800000000000000
+      internalID: -4684677888826563218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f242aa51333db940800000000000000
+      internalID: 5313459422434050804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca486d35f58fa81c0800000000000000
+      internalID: -4500511789291240276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129ce7f5f84233db0800000000000000
+      internalID: -4813463378527860447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8354600db5cf33a0800000000000000
+      internalID: -6683405906448460915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8b4c0a8400f2e80800000000000000
+      internalID: -8201336084483491634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 7
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0848fdd9849fb380800000000000000
+      internalID: -8953274214333790193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Inferno_Detonate_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c452f82ca0ae5ac0800000000000000
+      internalID: -3864474768955517752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Inferno_Detonate_0: -9044943503477533228
+      VFX_Move_Inferno_Detonate_1: 643032750441125372
+      VFX_Move_Inferno_Detonate_10: 2562150833540230094
+      VFX_Move_Inferno_Detonate_11: 3770031840517933369
+      VFX_Move_Inferno_Detonate_12: -4684677888826563218
+      VFX_Move_Inferno_Detonate_13: 5313459422434050804
+      VFX_Move_Inferno_Detonate_14: -4500511789291240276
+      VFX_Move_Inferno_Detonate_15: -4813463378527860447
+      VFX_Move_Inferno_Detonate_16: -6683405906448460915
+      VFX_Move_Inferno_Detonate_17: -8201336084483491634
+      VFX_Move_Inferno_Detonate_18: -8953274214333790193
+      VFX_Move_Inferno_Detonate_19: -3864474768955517752
+      VFX_Move_Inferno_Detonate_2: 7647535371532201787
+      VFX_Move_Inferno_Detonate_3: 9106246464213418160
+      VFX_Move_Inferno_Detonate_4: -466585653940151253
+      VFX_Move_Inferno_Detonate_5: 3411738429687701196
+      VFX_Move_Inferno_Detonate_6: 3290796425355452265
+      VFX_Move_Inferno_Detonate_7: 7741052118305324426
+      VFX_Move_Inferno_Detonate_8: 4111967504062704296
+      VFX_Move_Inferno_Detonate_9: -1862723836488555359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

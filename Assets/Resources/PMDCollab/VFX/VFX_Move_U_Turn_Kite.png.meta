@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 7a5ef8e9e2d4e1249a1bd454a498b4c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3960667314859676457
+    second: VFX_Move_U_Turn_Kite_0
+  - first:
+      213: -7646487049142367684
+    second: VFX_Move_U_Turn_Kite_1
+  - first:
+      213: 4676678017628161058
+    second: VFX_Move_U_Turn_Kite_2
+  - first:
+      213: -7642257557023832830
+    second: VFX_Move_U_Turn_Kite_3
+  - first:
+      213: -1035444835185255442
+    second: VFX_Move_U_Turn_Kite_4
+  - first:
+      213: 427102753605361812
+    second: VFX_Move_U_Turn_Kite_5
+  - first:
+      213: 1561592097057808029
+    second: VFX_Move_U_Turn_Kite_6
+  - first:
+      213: -7486181484585892617
+    second: VFX_Move_U_Turn_Kite_7
+  - first:
+      213: -3088094601567050445
+    second: VFX_Move_U_Turn_Kite_8
+  - first:
+      213: -2560105682318724727
+    second: VFX_Move_U_Turn_Kite_9
+  - first:
+      213: 5529265522974836062
+    second: VFX_Move_U_Turn_Kite_10
+  - first:
+      213: 6750074248559057413
+    second: VFX_Move_U_Turn_Kite_11
+  - first:
+      213: -642160067770661217
+    second: VFX_Move_U_Turn_Kite_12
+  - first:
+      213: -4585583912977815144
+    second: VFX_Move_U_Turn_Kite_13
+  - first:
+      213: 3227133951294586957
+    second: VFX_Move_U_Turn_Kite_14
+  - first:
+      213: 288656351438349258
+    second: VFX_Move_U_Turn_Kite_15
+  - first:
+      213: -1542969064518535364
+    second: VFX_Move_U_Turn_Kite_16
+  - first:
+      213: -2506754891220857896
+    second: VFX_Move_U_Turn_Kite_17
+  - first:
+      213: 1269919851599099217
+    second: VFX_Move_U_Turn_Kite_18
+  - first:
+      213: 1044638413227362971
+    second: VFX_Move_U_Turn_Kite_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dce948cf02e809c0800000000000000
+      internalID: -3960667314859676457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a8e38aa8832e590800000000000000
+      internalID: -7646487049142367684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224ca9101e5e6e040800000000000000
+      internalID: 4676678017628161058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205cc870e3f31f590800000000000000
+      internalID: -7642257557023832830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb154e886c51a1f0800000000000000
+      internalID: -1035444835185255442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4902d3701bf5de500800000000000000
+      internalID: 427102753605361812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e10351db3eba510800000000000000
+      internalID: 1561592097057808029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4c62f6a9dbb1890800000000000000
+      internalID: -7486181484585892617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3356bc04252e425d0800000000000000
+      internalID: -3088094601567050445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981fee9227da87cd0800000000000000
+      internalID: -2560105682318724727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55cab5a2b5ebbc40800000000000000
+      internalID: 5529265522974836062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50adfd004c41dad50800000000000000
+      internalID: 6750074248559057413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96c69712d69617f0800000000000000
+      internalID: -642160067770661217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89926330abbbc50c0800000000000000
+      internalID: -4585583912977815144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4044890b3519cc20800000000000000
+      internalID: 3227133951294586957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3a4a91c63810400800000000000000
+      internalID: 288656351438349258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b4f19fc5469ae0800000000000000
+      internalID: -1542969064518535364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 6
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbcec135b7363dd0800000000000000
+      internalID: -2506754891220857896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f7cf6069af9110800000000000000
+      internalID: 1269919851599099217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_U_Turn_Kite_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a05232a1d4f7e00800000000000000
+      internalID: 1044638413227362971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_U_Turn_Kite_0: -3960667314859676457
+      VFX_Move_U_Turn_Kite_1: -7646487049142367684
+      VFX_Move_U_Turn_Kite_10: 5529265522974836062
+      VFX_Move_U_Turn_Kite_11: 6750074248559057413
+      VFX_Move_U_Turn_Kite_12: -642160067770661217
+      VFX_Move_U_Turn_Kite_13: -4585583912977815144
+      VFX_Move_U_Turn_Kite_14: 3227133951294586957
+      VFX_Move_U_Turn_Kite_15: 288656351438349258
+      VFX_Move_U_Turn_Kite_16: -1542969064518535364
+      VFX_Move_U_Turn_Kite_17: -2506754891220857896
+      VFX_Move_U_Turn_Kite_18: 1269919851599099217
+      VFX_Move_U_Turn_Kite_19: 1044638413227362971
+      VFX_Move_U_Turn_Kite_2: 4676678017628161058
+      VFX_Move_U_Turn_Kite_3: -7642257557023832830
+      VFX_Move_U_Turn_Kite_4: -1035444835185255442
+      VFX_Move_U_Turn_Kite_5: 427102753605361812
+      VFX_Move_U_Turn_Kite_6: 1561592097057808029
+      VFX_Move_U_Turn_Kite_7: -7486181484585892617
+      VFX_Move_U_Turn_Kite_8: -3088094601567050445
+      VFX_Move_U_Turn_Kite_9: -2560105682318724727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

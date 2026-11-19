@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 0cc4315b86857804fafb313b10b4f0fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6188791148340756860
+    second: Discharge.None_0
+  - first:
+      213: 4891909438311612048
+    second: Discharge.None_1
+  - first:
+      213: 270498499657765759
+    second: Discharge.None_2
+  - first:
+      213: 5909672674379280274
+    second: Discharge.None_3
+  - first:
+      213: 6824594905533064286
+    second: Discharge.None_4
+  - first:
+      213: -2353806798176014790
+    second: Discharge.None_5
+  - first:
+      213: 6377026465196721848
+    second: Discharge.None_6
+  - first:
+      213: -32343449552554052
+    second: Discharge.None_7
+  - first:
+      213: -1233563920604736775
+    second: Discharge.None_8
+  - first:
+      213: 6044106968915264804
+    second: Discharge.None_9
+  - first:
+      213: 7840022449589141257
+    second: Discharge.None_10
+  - first:
+      213: 491379210545477459
+    second: Discharge.None_11
+  - first:
+      213: 3791207096048385248
+    second: Discharge.None_12
+  - first:
+      213: -1260215177807488061
+    second: Discharge.None_13
+  - first:
+      213: -6559001382476434990
+    second: Discharge.None_14
+  - first:
+      213: -7568946710293953382
+    second: Discharge.None_15
+  - first:
+      213: 2095715635902563206
+    second: Discharge.None_16
+  - first:
+      213: 431751701382466250
+    second: Discharge.None_17
+  - first:
+      213: -2050219917943633686
+    second: Discharge.None_18
+  - first:
+      213: -1260602646650131644
+    second: Discharge.None_19
+  - first:
+      213: 7154656014058370434
+    second: Discharge.None_20
+  - first:
+      213: -6006598174204288137
+    second: Discharge.None_21
+  - first:
+      213: 6954361250671773156
+    second: Discharge.None_22
+  - first:
+      213: 4662911949580215113
+    second: Discharge.None_23
+  - first:
+      213: -5276777787408598185
+    second: Discharge.None_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Discharge.None_0
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 14
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e311e7d3ffc1aa0800000000000000
+      internalID: -6188791148340756860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_1
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 11
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb1f737bd83e340800000000000000
+      internalID: 4891909438311612048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_2
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 5
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f739068c3f001c300800000000000000
+      internalID: 270498499657765759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_3
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 102
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fa53f8cff530250800000000000000
+      internalID: 5909672674379280274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 28
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e542d3888e4d5be50800000000000000
+      internalID: 6824594905533064286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 20
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ea1d42039955fd0800000000000000
+      internalID: -2353806798176014790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_6
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 17
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6c05d78cfbf7850800000000000000
+      internalID: 6377026465196721848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_7
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7fb92ddc71d8ff0800000000000000
+      internalID: -32343449552554052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_8
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 75
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2dd90662081eee0800000000000000
+      internalID: -1233563920604736775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_9
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 81
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42548a2e34bf0e350800000000000000
+      internalID: 6044106968915264804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_10
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 74
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f39d231ea5dcc60800000000000000
+      internalID: 7840022449589141257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_11
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 84
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357339ed9cab1d600800000000000000
+      internalID: 491379210545477459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 47
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec77e564c21d9430800000000000000
+      internalID: 3791207096048385248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 38
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb9a3209f0d28ee0800000000000000
+      internalID: -1260215177807488061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 33
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d132346efeb9f4a0800000000000000
+      internalID: -6559001382476434990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_15
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 50
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a944119a113b5f690800000000000000
+      internalID: -7568946710293953382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_16
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 49
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683443c644a751d10800000000000000
+      internalID: 2095715635902563206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_17
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 50
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca821882e3edf500800000000000000
+      internalID: 431751701382466250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_18
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 49
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae80a8fd8d72c83e0800000000000000
+      internalID: -2050219917943633686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_19
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 50
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b60836290718ee0800000000000000
+      internalID: -1260602646650131644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_20
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 10
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285bf00ecb17a4360800000000000000
+      internalID: 7154656014058370434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_21
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 0
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7732b0ee8c644aca0800000000000000
+      internalID: -6006598174204288137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_22
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 6
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5480236bad28060800000000000000
+      internalID: 6954361250671773156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_23
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94327a586bdf5b040800000000000000
+      internalID: 4662911949580215113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Discharge.None_24
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 6
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bb6d65f8e15c6b0800000000000000
+      internalID: -5276777787408598185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Discharge.None_0: -6188791148340756860
+      Discharge.None_1: 4891909438311612048
+      Discharge.None_10: 7840022449589141257
+      Discharge.None_11: 491379210545477459
+      Discharge.None_12: 3791207096048385248
+      Discharge.None_13: -1260215177807488061
+      Discharge.None_14: -6559001382476434990
+      Discharge.None_15: -7568946710293953382
+      Discharge.None_16: 2095715635902563206
+      Discharge.None_17: 431751701382466250
+      Discharge.None_18: -2050219917943633686
+      Discharge.None_19: -1260602646650131644
+      Discharge.None_2: 270498499657765759
+      Discharge.None_20: 7154656014058370434
+      Discharge.None_21: -6006598174204288137
+      Discharge.None_22: 6954361250671773156
+      Discharge.None_23: 4662911949580215113
+      Discharge.None_24: -5276777787408598185
+      Discharge.None_3: 5909672674379280274
+      Discharge.None_4: 6824594905533064286
+      Discharge.None_5: -2353806798176014790
+      Discharge.None_6: 6377026465196721848
+      Discharge.None_7: -32343449552554052
+      Discharge.None_8: -1233563920604736775
+      Discharge.None_9: 6044106968915264804
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

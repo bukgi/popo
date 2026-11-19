@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: df4e9d933c890754a8b415d7c21dcabc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5333904119839637760
+    second: VFX_Move_Ice_Fang_Stun_0
+  - first:
+      213: -2115876819445512432
+    second: VFX_Move_Ice_Fang_Stun_1
+  - first:
+      213: 1727508917698909454
+    second: VFX_Move_Ice_Fang_Stun_2
+  - first:
+      213: -795813289348760144
+    second: VFX_Move_Ice_Fang_Stun_3
+  - first:
+      213: -5831913066679418219
+    second: VFX_Move_Ice_Fang_Stun_4
+  - first:
+      213: 3932583425315520188
+    second: VFX_Move_Ice_Fang_Stun_5
+  - first:
+      213: 5173235428979431211
+    second: VFX_Move_Ice_Fang_Stun_6
+  - first:
+      213: -103605661233616552
+    second: VFX_Move_Ice_Fang_Stun_7
+  - first:
+      213: 6025557526359053752
+    second: VFX_Move_Ice_Fang_Stun_8
+  - first:
+      213: 6360093480078757622
+    second: VFX_Move_Ice_Fang_Stun_9
+  - first:
+      213: -6562765940578057206
+    second: VFX_Move_Ice_Fang_Stun_10
+  - first:
+      213: -3415058402290862351
+    second: VFX_Move_Ice_Fang_Stun_11
+  - first:
+      213: 6717904238103985491
+    second: VFX_Move_Ice_Fang_Stun_12
+  - first:
+      213: 420025779795929731
+    second: VFX_Move_Ice_Fang_Stun_13
+  - first:
+      213: -6384709611131106733
+    second: VFX_Move_Ice_Fang_Stun_14
+  - first:
+      213: 49957028692943957
+    second: VFX_Move_Ice_Fang_Stun_15
+  - first:
+      213: -5110270367205463645
+    second: VFX_Move_Ice_Fang_Stun_16
+  - first:
+      213: 1026988155387968948
+    second: VFX_Move_Ice_Fang_Stun_17
+  - first:
+      213: 4926471278737471188
+    second: VFX_Move_Ice_Fang_Stun_18
+  - first:
+      213: -7540273089170629157
+    second: VFX_Move_Ice_Fang_Stun_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001c8096985d50a40800000000000000
+      internalID: 5333904119839637760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 7
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017877c3e35e2a2e0800000000000000
+      internalID: -2115876819445512432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0553c9353859f710800000000000000
+      internalID: 1727508917698909454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdf4dc9704b4f4f0800000000000000
+      internalID: -795813289348760144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5924d93f6f1e01fa0800000000000000
+      internalID: -5831913066679418219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe35832ac7539630800000000000000
+      internalID: 3932583425315520188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27d8c3b6360bc740800000000000000
+      internalID: 5173235428979431211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8596375333bef8ef0800000000000000
+      internalID: -103605661233616552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 0
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5105c35a41f9350800000000000000
+      internalID: 6025557526359053752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe4f5aa257934850800000000000000
+      internalID: 6360093480078757622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0400d7e52f5ce4a0800000000000000
+      internalID: -6562765940578057206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f67d341a764b90d0800000000000000
+      internalID: -3415058402290862351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d7743cf4aca3d50800000000000000
+      internalID: 6717904238103985491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a2e39a83b34d500800000000000000
+      internalID: 420025779795929731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a0282bf64f467a0800000000000000
+      internalID: -6384709611131106733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_15
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554e64527ab71b000800000000000000
+      internalID: 49957028692943957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a963882d2ca419b0800000000000000
+      internalID: -5110270367205463645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdfe6e3948904e00800000000000000
+      internalID: 1026988155387968948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6bf45c6875e5440800000000000000
+      internalID: 4926471278737471188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Fang_Stun_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd1c8253919b5790800000000000000
+      internalID: -7540273089170629157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Ice_Fang_Stun_0: 5333904119839637760
+      VFX_Move_Ice_Fang_Stun_1: -2115876819445512432
+      VFX_Move_Ice_Fang_Stun_10: -6562765940578057206
+      VFX_Move_Ice_Fang_Stun_11: -3415058402290862351
+      VFX_Move_Ice_Fang_Stun_12: 6717904238103985491
+      VFX_Move_Ice_Fang_Stun_13: 420025779795929731
+      VFX_Move_Ice_Fang_Stun_14: -6384709611131106733
+      VFX_Move_Ice_Fang_Stun_15: 49957028692943957
+      VFX_Move_Ice_Fang_Stun_16: -5110270367205463645
+      VFX_Move_Ice_Fang_Stun_17: 1026988155387968948
+      VFX_Move_Ice_Fang_Stun_18: 4926471278737471188
+      VFX_Move_Ice_Fang_Stun_19: -7540273089170629157
+      VFX_Move_Ice_Fang_Stun_2: 1727508917698909454
+      VFX_Move_Ice_Fang_Stun_3: -795813289348760144
+      VFX_Move_Ice_Fang_Stun_4: -5831913066679418219
+      VFX_Move_Ice_Fang_Stun_5: 3932583425315520188
+      VFX_Move_Ice_Fang_Stun_6: 5173235428979431211
+      VFX_Move_Ice_Fang_Stun_7: -103605661233616552
+      VFX_Move_Ice_Fang_Stun_8: 6025557526359053752
+      VFX_Move_Ice_Fang_Stun_9: 6360093480078757622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

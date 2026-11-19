@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 858d12adfbed3dc439bde7e60402a59b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6255480909534966630
+    second: VFX_Move_Speed_Boost_Form_0
+  - first:
+      213: -1016611945730237843
+    second: VFX_Move_Speed_Boost_Form_1
+  - first:
+      213: -4977709624178245786
+    second: VFX_Move_Speed_Boost_Form_2
+  - first:
+      213: 4137517522628033215
+    second: VFX_Move_Speed_Boost_Form_3
+  - first:
+      213: 1251650554472615221
+    second: VFX_Move_Speed_Boost_Form_4
+  - first:
+      213: -7102675169107495078
+    second: VFX_Move_Speed_Boost_Form_5
+  - first:
+      213: -70406039595767245
+    second: VFX_Move_Speed_Boost_Form_6
+  - first:
+      213: 4820069995397717579
+    second: VFX_Move_Speed_Boost_Form_7
+  - first:
+      213: -3432529397661829095
+    second: VFX_Move_Speed_Boost_Form_8
+  - first:
+      213: 4263610943125654130
+    second: VFX_Move_Speed_Boost_Form_9
+  - first:
+      213: -1447111708779097449
+    second: VFX_Move_Speed_Boost_Form_10
+  - first:
+      213: -2984574455311034142
+    second: VFX_Move_Speed_Boost_Form_11
+  - first:
+      213: 2934752767383489560
+    second: VFX_Move_Speed_Boost_Form_12
+  - first:
+      213: 2030741954501575949
+    second: VFX_Move_Speed_Boost_Form_13
+  - first:
+      213: -5574011923728295862
+    second: VFX_Move_Speed_Boost_Form_14
+  - first:
+      213: 8728240517760948715
+    second: VFX_Move_Speed_Boost_Form_15
+  - first:
+      213: 135260929513971029
+    second: VFX_Move_Speed_Boost_Form_16
+  - first:
+      213: 8398478621527808529
+    second: VFX_Move_Speed_Boost_Form_17
+  - first:
+      213: 959424115260354486
+    second: VFX_Move_Speed_Boost_Form_18
+  - first:
+      213: 9177781212518273333
+    second: VFX_Move_Speed_Boost_Form_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c4ee771411039a0800000000000000
+      internalID: -6255480909534966630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a945452d444e1f0800000000000000
+      internalID: -1016611945730237843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fffc7487f9beab0800000000000000
+      internalID: -4977709624178245786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbab23ce34a6b6930800000000000000
+      internalID: 4137517522628033215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dc24a3c81ce5110800000000000000
+      internalID: 1251650554472615221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 4
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a573c56b09a3e6d90800000000000000
+      internalID: -7102675169107495078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a2adb741ed50ff0800000000000000
+      internalID: -70406039595767245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 7
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e133c7f1454e240800000000000000
+      internalID: 4820069995397717579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 8
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918f74bf2b43d50d0800000000000000
+      internalID: -3432529397661829095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 8
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a097d20936b2b30800000000000000
+      internalID: 4263610943125654130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 8
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792d9e76193daebe0800000000000000
+      internalID: -1447111708779097449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 9
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e81b798859a496d0800000000000000
+      internalID: -2984574455311034142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 8
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ccc7bc7165ab820800000000000000
+      internalID: 2934752767383489560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_13
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 8
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d058c8c5c05ae2c10800000000000000
+      internalID: 2030741954501575949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 8
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48126010b125a2b0800000000000000
+      internalID: -5574011923728295862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 9
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be91057b180f02970800000000000000
+      internalID: 8728240517760948715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 10
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d5ba7491b80e100800000000000000
+      internalID: 135260929513971029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 11
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a90e92fc36d8470800000000000000
+      internalID: 8398478621527808529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 10
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf690b462f805d00800000000000000
+      internalID: 959424115260354486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Speed_Boost_Form_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 10
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531d76603670e5f70800000000000000
+      internalID: 9177781212518273333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Speed_Boost_Form_0: -6255480909534966630
+      VFX_Move_Speed_Boost_Form_1: -1016611945730237843
+      VFX_Move_Speed_Boost_Form_10: -1447111708779097449
+      VFX_Move_Speed_Boost_Form_11: -2984574455311034142
+      VFX_Move_Speed_Boost_Form_12: 2934752767383489560
+      VFX_Move_Speed_Boost_Form_13: 2030741954501575949
+      VFX_Move_Speed_Boost_Form_14: -5574011923728295862
+      VFX_Move_Speed_Boost_Form_15: 8728240517760948715
+      VFX_Move_Speed_Boost_Form_16: 135260929513971029
+      VFX_Move_Speed_Boost_Form_17: 8398478621527808529
+      VFX_Move_Speed_Boost_Form_18: 959424115260354486
+      VFX_Move_Speed_Boost_Form_19: 9177781212518273333
+      VFX_Move_Speed_Boost_Form_2: -4977709624178245786
+      VFX_Move_Speed_Boost_Form_3: 4137517522628033215
+      VFX_Move_Speed_Boost_Form_4: 1251650554472615221
+      VFX_Move_Speed_Boost_Form_5: -7102675169107495078
+      VFX_Move_Speed_Boost_Form_6: -70406039595767245
+      VFX_Move_Speed_Boost_Form_7: 4820069995397717579
+      VFX_Move_Speed_Boost_Form_8: -3432529397661829095
+      VFX_Move_Speed_Boost_Form_9: 4263610943125654130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

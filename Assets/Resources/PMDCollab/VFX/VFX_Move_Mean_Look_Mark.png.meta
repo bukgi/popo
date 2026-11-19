@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 63e26f58c37acfa40aa8174b0e46fcc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7676378135999987690
+    second: VFX_Move_Mean_Look_Mark_0
+  - first:
+      213: -6616782930983632941
+    second: VFX_Move_Mean_Look_Mark_1
+  - first:
+      213: 7317553379412028120
+    second: VFX_Move_Mean_Look_Mark_2
+  - first:
+      213: 466664438661890325
+    second: VFX_Move_Mean_Look_Mark_3
+  - first:
+      213: -59227444997177881
+    second: VFX_Move_Mean_Look_Mark_4
+  - first:
+      213: -4094186811570708114
+    second: VFX_Move_Mean_Look_Mark_5
+  - first:
+      213: 9064670261843684384
+    second: VFX_Move_Mean_Look_Mark_6
+  - first:
+      213: -1975787930277383459
+    second: VFX_Move_Mean_Look_Mark_7
+  - first:
+      213: -4592489292529373402
+    second: VFX_Move_Mean_Look_Mark_8
+  - first:
+      213: 7442419953485136580
+    second: VFX_Move_Mean_Look_Mark_9
+  - first:
+      213: 7314634019850795546
+    second: VFX_Move_Mean_Look_Mark_10
+  - first:
+      213: 2496364333862318658
+    second: VFX_Move_Mean_Look_Mark_11
+  - first:
+      213: 2901764109183566567
+    second: VFX_Move_Mean_Look_Mark_12
+  - first:
+      213: 8348500728483259684
+    second: VFX_Move_Mean_Look_Mark_13
+  - first:
+      213: 2808569360208134384
+    second: VFX_Move_Mean_Look_Mark_14
+  - first:
+      213: -7858745353959469321
+    second: VFX_Move_Mean_Look_Mark_15
+  - first:
+      213: -1955825353494929758
+    second: VFX_Move_Mean_Look_Mark_16
+  - first:
+      213: -6446011408287290866
+    second: VFX_Move_Mean_Look_Mark_17
+  - first:
+      213: -4270214609069509062
+    second: VFX_Move_Mean_Look_Mark_18
+  - first:
+      213: -5848032049441390178
+    second: VFX_Move_Mean_Look_Mark_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610452aa1c6087590800000000000000
+      internalID: -7676378135999987690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df3ad24bf67c24a0800000000000000
+      internalID: -6616782930983632941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da20dc470c2d8560800000000000000
+      internalID: 7317553379412028120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511cfbf95dce97600800000000000000
+      internalID: 466664438661890325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed3dfbd3f49d2ff0800000000000000
+      internalID: -59227444997177881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e612d3c69c68e27c0800000000000000
+      internalID: -4094186811570708114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c6d33939d2ccd70800000000000000
+      internalID: 9064670261843684384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2ff4878579494e0800000000000000
+      internalID: -1975787930277383459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f600c02533440c0800000000000000
+      internalID: -4592489292529373402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2c2cc1489c84760800000000000000
+      internalID: 7442419953485136580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ab13fe2ecc28560800000000000000
+      internalID: 7314634019850795546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24271d5a22ed4a220800000000000000
+      internalID: 2496364333862318658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 0
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e24dd54513254820800000000000000
+      internalID: 2901764109183566567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a5582e25dbd370800000000000000
+      internalID: 8348500728483259684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f08042e3fa0af620800000000000000
+      internalID: 2808569360208134384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_15
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe8efcecb020f290800000000000000
+      internalID: -7858745353959469321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae5b3214338bd4e0800000000000000
+      internalID: -1955825353494929758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aabeec6ca2b86a0800000000000000
+      internalID: -6446011408287290866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a367ab700762db4c0800000000000000
+      internalID: -4270214609069509062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mean_Look_Mark_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9142f1d5dd97dea0800000000000000
+      internalID: -5848032049441390178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Mean_Look_Mark_0: -7676378135999987690
+      VFX_Move_Mean_Look_Mark_1: -6616782930983632941
+      VFX_Move_Mean_Look_Mark_10: 7314634019850795546
+      VFX_Move_Mean_Look_Mark_11: 2496364333862318658
+      VFX_Move_Mean_Look_Mark_12: 2901764109183566567
+      VFX_Move_Mean_Look_Mark_13: 8348500728483259684
+      VFX_Move_Mean_Look_Mark_14: 2808569360208134384
+      VFX_Move_Mean_Look_Mark_15: -7858745353959469321
+      VFX_Move_Mean_Look_Mark_16: -1955825353494929758
+      VFX_Move_Mean_Look_Mark_17: -6446011408287290866
+      VFX_Move_Mean_Look_Mark_18: -4270214609069509062
+      VFX_Move_Mean_Look_Mark_19: -5848032049441390178
+      VFX_Move_Mean_Look_Mark_2: 7317553379412028120
+      VFX_Move_Mean_Look_Mark_3: 466664438661890325
+      VFX_Move_Mean_Look_Mark_4: -59227444997177881
+      VFX_Move_Mean_Look_Mark_5: -4094186811570708114
+      VFX_Move_Mean_Look_Mark_6: 9064670261843684384
+      VFX_Move_Mean_Look_Mark_7: -1975787930277383459
+      VFX_Move_Mean_Look_Mark_8: -4592489292529373402
+      VFX_Move_Mean_Look_Mark_9: 7442419953485136580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

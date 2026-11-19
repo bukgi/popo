@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 22b34f74b327ea0439af80f91e46772a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5453491190175995253
+    second: VFX_Move_Scorching_Pool_0
+  - first:
+      213: 4302760466541578614
+    second: VFX_Move_Scorching_Pool_1
+  - first:
+      213: 6794309758926585920
+    second: VFX_Move_Scorching_Pool_2
+  - first:
+      213: -6309367513450165986
+    second: VFX_Move_Scorching_Pool_3
+  - first:
+      213: -906301688489614503
+    second: VFX_Move_Scorching_Pool_4
+  - first:
+      213: 3668663690177269360
+    second: VFX_Move_Scorching_Pool_5
+  - first:
+      213: -305162956494065116
+    second: VFX_Move_Scorching_Pool_6
+  - first:
+      213: 854806176086746633
+    second: VFX_Move_Scorching_Pool_7
+  - first:
+      213: 7683821103869760763
+    second: VFX_Move_Scorching_Pool_8
+  - first:
+      213: -8762403379885059899
+    second: VFX_Move_Scorching_Pool_9
+  - first:
+      213: -2664450140584551538
+    second: VFX_Move_Scorching_Pool_10
+  - first:
+      213: -1833084405828154474
+    second: VFX_Move_Scorching_Pool_11
+  - first:
+      213: 3865080938783072539
+    second: VFX_Move_Scorching_Pool_12
+  - first:
+      213: -7839678063125905015
+    second: VFX_Move_Scorching_Pool_13
+  - first:
+      213: 6783077367039013553
+    second: VFX_Move_Scorching_Pool_14
+  - first:
+      213: -5877481229497914059
+    second: VFX_Move_Scorching_Pool_15
+  - first:
+      213: -4746246518827556648
+    second: VFX_Move_Scorching_Pool_16
+  - first:
+      213: 3497630927945739538
+    second: VFX_Move_Scorching_Pool_17
+  - first:
+      213: 5336229080237084953
+    second: VFX_Move_Scorching_Pool_18
+  - first:
+      213: -855189973099420027
+    second: VFX_Move_Scorching_Pool_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5759928f751beab40800000000000000
+      internalID: 5453491190175995253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6790ec9e8d976bb30800000000000000
+      internalID: 4302760466541578614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0400aca5abc3a4e50800000000000000
+      internalID: 6794309758926585920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19c96bccaf9078a0800000000000000
+      internalID: -6309367513450165986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9536d368a6b2c63f0800000000000000
+      internalID: -906301688489614503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ec3655036b9e230800000000000000
+      internalID: 3668663690177269360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422309b68e7d3cbf0800000000000000
+      internalID: -305162956494065116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906e57d20b1ecdb00800000000000000
+      internalID: 854806176086746633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf49ec5559a62aa60800000000000000
+      internalID: 7683821103869760763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 9
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0d44b1d80b56680800000000000000
+      internalID: -8762403379885059899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 9
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bd7b8c6b8f50bd0800000000000000
+      internalID: -2664450140584551538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b0e4be1739f86e0800000000000000
+      internalID: -1833084405828154474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b116c40c2a683a530800000000000000
+      internalID: 3865080938783072539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98145f5865ed33390800000000000000
+      internalID: -7839678063125905015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 8
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b23a525de4522e50800000000000000
+      internalID: 6783077367039013553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d20c546fdfe6ea0800000000000000
+      internalID: -5877481229497914059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d069d410f1f12eb0800000000000000
+      internalID: -4746246518827556648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 8
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d20a73cc41a8030800000000000000
+      internalID: 3497630927945739538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91114af63181e0a40800000000000000
+      internalID: 5336229080237084953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scorching_Pool_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586eeed1041c124f0800000000000000
+      internalID: -855189973099420027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Scorching_Pool_0: 5453491190175995253
+      VFX_Move_Scorching_Pool_1: 4302760466541578614
+      VFX_Move_Scorching_Pool_10: -2664450140584551538
+      VFX_Move_Scorching_Pool_11: -1833084405828154474
+      VFX_Move_Scorching_Pool_12: 3865080938783072539
+      VFX_Move_Scorching_Pool_13: -7839678063125905015
+      VFX_Move_Scorching_Pool_14: 6783077367039013553
+      VFX_Move_Scorching_Pool_15: -5877481229497914059
+      VFX_Move_Scorching_Pool_16: -4746246518827556648
+      VFX_Move_Scorching_Pool_17: 3497630927945739538
+      VFX_Move_Scorching_Pool_18: 5336229080237084953
+      VFX_Move_Scorching_Pool_19: -855189973099420027
+      VFX_Move_Scorching_Pool_2: 6794309758926585920
+      VFX_Move_Scorching_Pool_3: -6309367513450165986
+      VFX_Move_Scorching_Pool_4: -906301688489614503
+      VFX_Move_Scorching_Pool_5: 3668663690177269360
+      VFX_Move_Scorching_Pool_6: -305162956494065116
+      VFX_Move_Scorching_Pool_7: 854806176086746633
+      VFX_Move_Scorching_Pool_8: 7683821103869760763
+      VFX_Move_Scorching_Pool_9: -8762403379885059899
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

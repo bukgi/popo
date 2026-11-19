@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 340f5cdfe737bad44a9e0d0331187ef4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1176608185787700142
+    second: VFX_Move_Ozone_Hyper_Beam_0
+  - first:
+      213: -7927065088440173702
+    second: VFX_Move_Ozone_Hyper_Beam_1
+  - first:
+      213: -8406797770195341689
+    second: VFX_Move_Ozone_Hyper_Beam_2
+  - first:
+      213: -3666702538710249765
+    second: VFX_Move_Ozone_Hyper_Beam_3
+  - first:
+      213: 5713009965025258844
+    second: VFX_Move_Ozone_Hyper_Beam_4
+  - first:
+      213: 7126818134166101062
+    second: VFX_Move_Ozone_Hyper_Beam_5
+  - first:
+      213: -3747614395618211268
+    second: VFX_Move_Ozone_Hyper_Beam_6
+  - first:
+      213: 9157477900873470079
+    second: VFX_Move_Ozone_Hyper_Beam_7
+  - first:
+      213: -6463183266776279906
+    second: VFX_Move_Ozone_Hyper_Beam_8
+  - first:
+      213: 248073490564178672
+    second: VFX_Move_Ozone_Hyper_Beam_9
+  - first:
+      213: 2265852366786995505
+    second: VFX_Move_Ozone_Hyper_Beam_10
+  - first:
+      213: 1011654022278895299
+    second: VFX_Move_Ozone_Hyper_Beam_11
+  - first:
+      213: 2282408276212029791
+    second: VFX_Move_Ozone_Hyper_Beam_12
+  - first:
+      213: 803103340702512707
+    second: VFX_Move_Ozone_Hyper_Beam_13
+  - first:
+      213: -3730799282879022759
+    second: VFX_Move_Ozone_Hyper_Beam_14
+  - first:
+      213: -7216816095571364889
+    second: VFX_Move_Ozone_Hyper_Beam_15
+  - first:
+      213: 2884947481110893747
+    second: VFX_Move_Ozone_Hyper_Beam_16
+  - first:
+      213: -5461661185160842064
+    second: VFX_Move_Ozone_Hyper_Beam_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cae46c619dbafe0800000000000000
+      internalID: -1176608185787700142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 17
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b7f1c2d486df190800000000000000
+      internalID: -7927065088440173702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 15
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ee5f818fd055b80800000000000000
+      internalID: -8406797770195341689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde0723d7714d1dc0800000000000000
+      internalID: -3666702538710249765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5de89b5b40b84f40800000000000000
+      internalID: 5713009965025258844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c58c1655b87e260800000000000000
+      internalID: 7126818134166101062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a490a109ccdfbc0800000000000000
+      internalID: -3747614395618211268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f709d08e1a5e51f70800000000000000
+      internalID: 9157477900873470079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e941d81ff092e46a0800000000000000
+      internalID: -6463183266776279906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2e44b7685517300800000000000000
+      internalID: 248073490564178672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 15
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13521dbf8bce17f10800000000000000
+      internalID: 2265852366786995505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6578929fd1a0e00800000000000000
+      internalID: 1011654022278895299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 15
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5997080c3ebcaf10800000000000000
+      internalID: 2282408276212029791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346b08cbb32352b00800000000000000
+      internalID: 803103340702512707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959b6bf91d9893cc0800000000000000
+      internalID: -3730799282879022759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3b5265ff7b8db90800000000000000
+      internalID: -7216816095571364889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4d54fe274690820800000000000000
+      internalID: 2884947481110893747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ozone_Hyper_Beam_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 12
+        width: 145
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4f2f6d6184434b0800000000000000
+      internalID: -5461661185160842064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Ozone_Hyper_Beam_0: -1176608185787700142
+      VFX_Move_Ozone_Hyper_Beam_1: -7927065088440173702
+      VFX_Move_Ozone_Hyper_Beam_10: 2265852366786995505
+      VFX_Move_Ozone_Hyper_Beam_11: 1011654022278895299
+      VFX_Move_Ozone_Hyper_Beam_12: 2282408276212029791
+      VFX_Move_Ozone_Hyper_Beam_13: 803103340702512707
+      VFX_Move_Ozone_Hyper_Beam_14: -3730799282879022759
+      VFX_Move_Ozone_Hyper_Beam_15: -7216816095571364889
+      VFX_Move_Ozone_Hyper_Beam_16: 2884947481110893747
+      VFX_Move_Ozone_Hyper_Beam_17: -5461661185160842064
+      VFX_Move_Ozone_Hyper_Beam_2: -8406797770195341689
+      VFX_Move_Ozone_Hyper_Beam_3: -3666702538710249765
+      VFX_Move_Ozone_Hyper_Beam_4: 5713009965025258844
+      VFX_Move_Ozone_Hyper_Beam_5: 7126818134166101062
+      VFX_Move_Ozone_Hyper_Beam_6: -3747614395618211268
+      VFX_Move_Ozone_Hyper_Beam_7: 9157477900873470079
+      VFX_Move_Ozone_Hyper_Beam_8: -6463183266776279906
+      VFX_Move_Ozone_Hyper_Beam_9: 248073490564178672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

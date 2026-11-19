@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a50251725debb8a44a3f56d7b5eca8a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7382053626956620726
+    second: VFX_Move_Lava_Pool_0
+  - first:
+      213: 7104605981750523363
+    second: VFX_Move_Lava_Pool_1
+  - first:
+      213: 4566364929817341256
+    second: VFX_Move_Lava_Pool_2
+  - first:
+      213: 4707383835505857607
+    second: VFX_Move_Lava_Pool_3
+  - first:
+      213: -5201654615316947458
+    second: VFX_Move_Lava_Pool_4
+  - first:
+      213: 4745956504529976520
+    second: VFX_Move_Lava_Pool_5
+  - first:
+      213: -61174375098679723
+    second: VFX_Move_Lava_Pool_6
+  - first:
+      213: 3223381235145668215
+    second: VFX_Move_Lava_Pool_7
+  - first:
+      213: 1813776112599811226
+    second: VFX_Move_Lava_Pool_8
+  - first:
+      213: 8193203157453626123
+    second: VFX_Move_Lava_Pool_9
+  - first:
+      213: 1918532715412145982
+    second: VFX_Move_Lava_Pool_10
+  - first:
+      213: -7516347258236288381
+    second: VFX_Move_Lava_Pool_11
+  - first:
+      213: -7567014484296828473
+    second: VFX_Move_Lava_Pool_12
+  - first:
+      213: 7763463542708425648
+    second: VFX_Move_Lava_Pool_13
+  - first:
+      213: 5595971693959561097
+    second: VFX_Move_Lava_Pool_14
+  - first:
+      213: -7059929897939765410
+    second: VFX_Move_Lava_Pool_15
+  - first:
+      213: 496723668745947197
+    second: VFX_Move_Lava_Pool_16
+  - first:
+      213: -3019224304265599708
+    second: VFX_Move_Lava_Pool_17
+  - first:
+      213: 708488679489411900
+    second: VFX_Move_Lava_Pool_18
+  - first:
+      213: -353058237671549351
+    second: VFX_Move_Lava_Pool_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b322a379a2527660800000000000000
+      internalID: 7382053626956620726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 14
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5fa53af71a89260800000000000000
+      internalID: 7104605981750523363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d6094c5bcfe5f30800000000000000
+      internalID: 4566364929817341256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7441eb858acf35140800000000000000
+      internalID: 4707383835505857607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd13c9dfa200d7b0800000000000000
+      internalID: -5201654615316947458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccb6f3bb460dd140800000000000000
+      internalID: 4745956504529976520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ef2eeda3aa62ff0800000000000000
+      internalID: -61174375098679723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7767488b720cbbc20800000000000000
+      internalID: 3223381235145668215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94c99db3c3db2910800000000000000
+      internalID: 1813776112599811226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 11
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bd1acbcda14b170800000000000000
+      internalID: 8193203157453626123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e374b10075fff9a10800000000000000
+      internalID: 1918532715412145982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 12
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3824850fdf190b790800000000000000
+      internalID: -7516347258236288381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 11
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c970451b609cf690800000000000000
+      internalID: -7567014484296828473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 9
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3d4d1a5fc5dbb60800000000000000
+      internalID: 7763463542708425648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fb99f5b92e8ad40800000000000000
+      internalID: 5595971693959561097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57f326b927160e90800000000000000
+      internalID: -7059929897939765410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3881238b87b4e600800000000000000
+      internalID: 496723668745947197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425e507ed7f8916d0800000000000000
+      internalID: -3019224304265599708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b1a5443be05d900800000000000000
+      internalID: 708488679489411900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lava_Pool_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956df86476fa91bf0800000000000000
+      internalID: -353058237671549351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Lava_Pool_0: 7382053626956620726
+      VFX_Move_Lava_Pool_1: 7104605981750523363
+      VFX_Move_Lava_Pool_10: 1918532715412145982
+      VFX_Move_Lava_Pool_11: -7516347258236288381
+      VFX_Move_Lava_Pool_12: -7567014484296828473
+      VFX_Move_Lava_Pool_13: 7763463542708425648
+      VFX_Move_Lava_Pool_14: 5595971693959561097
+      VFX_Move_Lava_Pool_15: -7059929897939765410
+      VFX_Move_Lava_Pool_16: 496723668745947197
+      VFX_Move_Lava_Pool_17: -3019224304265599708
+      VFX_Move_Lava_Pool_18: 708488679489411900
+      VFX_Move_Lava_Pool_19: -353058237671549351
+      VFX_Move_Lava_Pool_2: 4566364929817341256
+      VFX_Move_Lava_Pool_3: 4707383835505857607
+      VFX_Move_Lava_Pool_4: -5201654615316947458
+      VFX_Move_Lava_Pool_5: 4745956504529976520
+      VFX_Move_Lava_Pool_6: -61174375098679723
+      VFX_Move_Lava_Pool_7: 3223381235145668215
+      VFX_Move_Lava_Pool_8: 1813776112599811226
+      VFX_Move_Lava_Pool_9: 8193203157453626123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

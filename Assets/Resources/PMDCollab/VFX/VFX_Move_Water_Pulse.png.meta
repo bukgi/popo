@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 8bd4e8fc062a1a34b9d005d4a0846612
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4107854028408006037
+    second: VFX_Move_Water_Pulse_0
+  - first:
+      213: -2867982156151399307
+    second: VFX_Move_Water_Pulse_1
+  - first:
+      213: -6248923237006079171
+    second: VFX_Move_Water_Pulse_2
+  - first:
+      213: -1774961519561801393
+    second: VFX_Move_Water_Pulse_3
+  - first:
+      213: 8001574508099976534
+    second: VFX_Move_Water_Pulse_4
+  - first:
+      213: 7130827562020906362
+    second: VFX_Move_Water_Pulse_5
+  - first:
+      213: -4284024502415317661
+    second: VFX_Move_Water_Pulse_6
+  - first:
+      213: 7117105680973484578
+    second: VFX_Move_Water_Pulse_7
+  - first:
+      213: -8179569917206932789
+    second: VFX_Move_Water_Pulse_8
+  - first:
+      213: -2931703178194164275
+    second: VFX_Move_Water_Pulse_9
+  - first:
+      213: -8191122394601073976
+    second: VFX_Move_Water_Pulse_10
+  - first:
+      213: -6017463244721242382
+    second: VFX_Move_Water_Pulse_11
+  - first:
+      213: 4259506554841193151
+    second: VFX_Move_Water_Pulse_12
+  - first:
+      213: -3559453153874853703
+    second: VFX_Move_Water_Pulse_13
+  - first:
+      213: -285731436872512825
+    second: VFX_Move_Water_Pulse_14
+  - first:
+      213: 758541516569172305
+    second: VFX_Move_Water_Pulse_15
+  - first:
+      213: -3111205984136446746
+    second: VFX_Move_Water_Pulse_16
+  - first:
+      213: 7492081712498461443
+    second: VFX_Move_Water_Pulse_17
+  - first:
+      213: 4732103775649116605
+    second: VFX_Move_Water_Pulse_18
+  - first:
+      213: -6713097805296607849
+    second: VFX_Move_Water_Pulse_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a55978688fdf6c0800000000000000
+      internalID: -4107854028408006037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 14
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cdf689c61e238d0800000000000000
+      internalID: -2867982156151399307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b81959c6d5749a0800000000000000
+      internalID: -6248923237006079171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f410880f6e11e57e0800000000000000
+      internalID: -1774961519561801393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dbe17fe9d4b0f60800000000000000
+      internalID: 8001574508099976534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7522dc03e9c5f260800000000000000
+      internalID: 7130827562020906362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365277ca9661c84c0800000000000000
+      internalID: -4284024502415317661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222d657a8e905c260800000000000000
+      internalID: 7117105680973484578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2d86d5f745c7e80800000000000000
+      internalID: -8179569917206932789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 11
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc56ad40e7f7057d0800000000000000
+      internalID: -2931703178194164275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c25e0e9499435e80800000000000000
+      internalID: -8191122394601073976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 12
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2febb619f0dad7ca0800000000000000
+      internalID: -6017463244721242382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 11
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbad1cfc4aecc1b30800000000000000
+      internalID: 4259506554841193151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 9
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b045a027384a9ec0800000000000000
+      internalID: -3559453153874853703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca4d04a5c0e80cf0800000000000000
+      internalID: -285731436872512825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159dd7a8d71e68a00800000000000000
+      internalID: 758541516569172305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec3a7c24a6c2d4d0800000000000000
+      internalID: -3111205984136446746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bcbad6f9839f760800000000000000
+      internalID: 7492081712498461443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1b9dbef4fcba140800000000000000
+      internalID: 4732103775649116605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Water_Pulse_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d57d41d1946d2a0800000000000000
+      internalID: -6713097805296607849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Water_Pulse_0: -4107854028408006037
+      VFX_Move_Water_Pulse_1: -2867982156151399307
+      VFX_Move_Water_Pulse_10: -8191122394601073976
+      VFX_Move_Water_Pulse_11: -6017463244721242382
+      VFX_Move_Water_Pulse_12: 4259506554841193151
+      VFX_Move_Water_Pulse_13: -3559453153874853703
+      VFX_Move_Water_Pulse_14: -285731436872512825
+      VFX_Move_Water_Pulse_15: 758541516569172305
+      VFX_Move_Water_Pulse_16: -3111205984136446746
+      VFX_Move_Water_Pulse_17: 7492081712498461443
+      VFX_Move_Water_Pulse_18: 4732103775649116605
+      VFX_Move_Water_Pulse_19: -6713097805296607849
+      VFX_Move_Water_Pulse_2: -6248923237006079171
+      VFX_Move_Water_Pulse_3: -1774961519561801393
+      VFX_Move_Water_Pulse_4: 8001574508099976534
+      VFX_Move_Water_Pulse_5: 7130827562020906362
+      VFX_Move_Water_Pulse_6: -4284024502415317661
+      VFX_Move_Water_Pulse_7: 7117105680973484578
+      VFX_Move_Water_Pulse_8: -8179569917206932789
+      VFX_Move_Water_Pulse_9: -2931703178194164275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

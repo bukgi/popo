@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 009c80d19f85fb641a46f3f05d53b5b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8148598235337281123
+    second: VFX_Move_Swift_Stars_0
+  - first:
+      213: -2162607652462230574
+    second: VFX_Move_Swift_Stars_1
+  - first:
+      213: -5923481535929172652
+    second: VFX_Move_Swift_Stars_2
+  - first:
+      213: 4384496363531825776
+    second: VFX_Move_Swift_Stars_3
+  - first:
+      213: -5799682644694939776
+    second: VFX_Move_Swift_Stars_4
+  - first:
+      213: -8704274444713583291
+    second: VFX_Move_Swift_Stars_5
+  - first:
+      213: -3422319515964971943
+    second: VFX_Move_Swift_Stars_6
+  - first:
+      213: 2992363650691466145
+    second: VFX_Move_Swift_Stars_7
+  - first:
+      213: 2534076200241893574
+    second: VFX_Move_Swift_Stars_8
+  - first:
+      213: 4220288041718546157
+    second: VFX_Move_Swift_Stars_9
+  - first:
+      213: -5969586870810362790
+    second: VFX_Move_Swift_Stars_10
+  - first:
+      213: -2197169314524611913
+    second: VFX_Move_Swift_Stars_11
+  - first:
+      213: 5501227661152628815
+    second: VFX_Move_Swift_Stars_12
+  - first:
+      213: 1954242801453008003
+    second: VFX_Move_Swift_Stars_13
+  - first:
+      213: 7590675413504016278
+    second: VFX_Move_Swift_Stars_14
+  - first:
+      213: 2354747868170392510
+    second: VFX_Move_Swift_Stars_15
+  - first:
+      213: 512335907391794080
+    second: VFX_Move_Swift_Stars_16
+  - first:
+      213: -8615938226076689229
+    second: VFX_Move_Swift_Stars_17
+  - first:
+      213: -8253855168651274288
+    second: VFX_Move_Swift_Stars_18
+  - first:
+      213: -3084002818860525828
+    second: VFX_Move_Swift_Stars_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e47a20ce2a51170800000000000000
+      internalID: 8148598235337281123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 11
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3827e4ccfdcf1e0800000000000000
+      internalID: -2162607652462230574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d3b515de09bcda0800000000000000
+      internalID: -5923481535929172652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0727e4b663cd8dc30800000000000000
+      internalID: 4384496363531825776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087c5f8dc53638fa0800000000000000
+      internalID: -5799682644694939776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 5
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d165f7284343780800000000000000
+      internalID: -8704274444713583291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954650f488a7180d0800000000000000
+      internalID: -3422319515964971943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a38146d2e2078920800000000000000
+      internalID: 2992363650691466145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 8
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c09035c0e8da2320800000000000000
+      internalID: 2534076200241893574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee76782d99719a30800000000000000
+      internalID: 4220288041718546157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 10
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c33858e54c72da0800000000000000
+      internalID: -5969586870810362790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 11
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba3f5846261281e0800000000000000
+      internalID: -2197169314524611913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 11
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f403e8b3969485c40800000000000000
+      internalID: 5501227661152628815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 12
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3848871597dde1b10800000000000000
+      internalID: 1954242801453008003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 12
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fb23b421f775960800000000000000
+      internalID: 7590675413504016278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 10
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb397e9c5bebda020800000000000000
+      internalID: 2354747868170392510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abe3c51bce2c1700800000000000000
+      internalID: 512335907391794080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 8
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc5df325d90e6880800000000000000
+      internalID: -8615938226076689229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 6
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7d405747a647d80800000000000000
+      internalID: -8253855168651274288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Swift_Stars_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6d387a6cb6335d0800000000000000
+      internalID: -3084002818860525828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Swift_Stars_0: 8148598235337281123
+      VFX_Move_Swift_Stars_1: -2162607652462230574
+      VFX_Move_Swift_Stars_10: -5969586870810362790
+      VFX_Move_Swift_Stars_11: -2197169314524611913
+      VFX_Move_Swift_Stars_12: 5501227661152628815
+      VFX_Move_Swift_Stars_13: 1954242801453008003
+      VFX_Move_Swift_Stars_14: 7590675413504016278
+      VFX_Move_Swift_Stars_15: 2354747868170392510
+      VFX_Move_Swift_Stars_16: 512335907391794080
+      VFX_Move_Swift_Stars_17: -8615938226076689229
+      VFX_Move_Swift_Stars_18: -8253855168651274288
+      VFX_Move_Swift_Stars_19: -3084002818860525828
+      VFX_Move_Swift_Stars_2: -5923481535929172652
+      VFX_Move_Swift_Stars_3: 4384496363531825776
+      VFX_Move_Swift_Stars_4: -5799682644694939776
+      VFX_Move_Swift_Stars_5: -8704274444713583291
+      VFX_Move_Swift_Stars_6: -3422319515964971943
+      VFX_Move_Swift_Stars_7: 2992363650691466145
+      VFX_Move_Swift_Stars_8: 2534076200241893574
+      VFX_Move_Swift_Stars_9: 4220288041718546157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

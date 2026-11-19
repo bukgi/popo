@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2542f2899f902d24682a45f274a7f052
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8970577922026987847
+    second: VFX_Move_Psychic_Snare_0
+  - first:
+      213: 398497312429831405
+    second: VFX_Move_Psychic_Snare_1
+  - first:
+      213: 4528243541241454410
+    second: VFX_Move_Psychic_Snare_2
+  - first:
+      213: 5009364346584856614
+    second: VFX_Move_Psychic_Snare_3
+  - first:
+      213: -6179123469761674022
+    second: VFX_Move_Psychic_Snare_4
+  - first:
+      213: 98892590808297941
+    second: VFX_Move_Psychic_Snare_5
+  - first:
+      213: -6999109813779427573
+    second: VFX_Move_Psychic_Snare_6
+  - first:
+      213: 1854584657529414911
+    second: VFX_Move_Psychic_Snare_7
+  - first:
+      213: -2687999360938919700
+    second: VFX_Move_Psychic_Snare_8
+  - first:
+      213: 8232772926850372081
+    second: VFX_Move_Psychic_Snare_9
+  - first:
+      213: -2566688110938768636
+    second: VFX_Move_Psychic_Snare_10
+  - first:
+      213: 3168054515337179339
+    second: VFX_Move_Psychic_Snare_11
+  - first:
+      213: -4599968002891538017
+    second: VFX_Move_Psychic_Snare_12
+  - first:
+      213: -790838187820673252
+    second: VFX_Move_Psychic_Snare_13
+  - first:
+      213: 9127970956257127708
+    second: VFX_Move_Psychic_Snare_14
+  - first:
+      213: -6161208869711362565
+    second: VFX_Move_Psychic_Snare_15
+  - first:
+      213: 3553808146160344677
+    second: VFX_Move_Psychic_Snare_16
+  - first:
+      213: -8318721904874832290
+    second: VFX_Move_Psychic_Snare_17
+  - first:
+      213: -2406873868616432374
+    second: VFX_Move_Psychic_Snare_18
+  - first:
+      213: -7101393066845597879
+    second: VFX_Move_Psychic_Snare_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74161688715ed7c70800000000000000
+      internalID: 8970577922026987847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4f35fb13fb78500800000000000000
+      internalID: 398497312429831405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f5724528d87de30800000000000000
+      internalID: 4528243541241454410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 10
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62872bc1556d48540800000000000000
+      internalID: 5009364346584856614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4839151f75f3aa0800000000000000
+      internalID: -6179123469761674022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1fb0299465f5100800000000000000
+      internalID: 98892590808297941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f0abd05ba2ede90800000000000000
+      internalID: -6999109813779427573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff42ee58beeccb910800000000000000
+      internalID: 1854584657529414911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce832c6a2de42bad0800000000000000
+      internalID: -2687999360938919700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f19e5d9b5fa04270800000000000000
+      internalID: 8232772926850372081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bb64213ca416cd0800000000000000
+      internalID: -2566688110938768636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0bebfebc037fb20800000000000000
+      internalID: 3168054515337179339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91ac791971a920c0800000000000000
+      internalID: -4599968002891538017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 9
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c179224bbd06605f0800000000000000
+      internalID: -790838187820673252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1de9cff8311dae70800000000000000
+      internalID: 9127970956257127708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf54edd2d2dfe7aa0800000000000000
+      internalID: -6161208869711362565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ed6c71ea9a15130800000000000000
+      internalID: 3553808146160344677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ebca28086fd8c80800000000000000
+      internalID: -8318721904874832290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0582f9f7f0199ed0800000000000000
+      internalID: -2406873868616432374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psychic_Snare_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f0f3861a8c27d90800000000000000
+      internalID: -7101393066845597879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Psychic_Snare_0: 8970577922026987847
+      VFX_Move_Psychic_Snare_1: 398497312429831405
+      VFX_Move_Psychic_Snare_10: -2566688110938768636
+      VFX_Move_Psychic_Snare_11: 3168054515337179339
+      VFX_Move_Psychic_Snare_12: -4599968002891538017
+      VFX_Move_Psychic_Snare_13: -790838187820673252
+      VFX_Move_Psychic_Snare_14: 9127970956257127708
+      VFX_Move_Psychic_Snare_15: -6161208869711362565
+      VFX_Move_Psychic_Snare_16: 3553808146160344677
+      VFX_Move_Psychic_Snare_17: -8318721904874832290
+      VFX_Move_Psychic_Snare_18: -2406873868616432374
+      VFX_Move_Psychic_Snare_19: -7101393066845597879
+      VFX_Move_Psychic_Snare_2: 4528243541241454410
+      VFX_Move_Psychic_Snare_3: 5009364346584856614
+      VFX_Move_Psychic_Snare_4: -6179123469761674022
+      VFX_Move_Psychic_Snare_5: 98892590808297941
+      VFX_Move_Psychic_Snare_6: -6999109813779427573
+      VFX_Move_Psychic_Snare_7: 1854584657529414911
+      VFX_Move_Psychic_Snare_8: -2687999360938919700
+      VFX_Move_Psychic_Snare_9: 8232772926850372081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

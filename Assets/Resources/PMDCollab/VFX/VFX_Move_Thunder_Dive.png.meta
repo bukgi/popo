@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: db30c0bdcea572e46b2aef34b5b2ab82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4675435806858782201
+    second: VFX_Move_Thunder_Dive_0
+  - first:
+      213: 4820891954555623618
+    second: VFX_Move_Thunder_Dive_1
+  - first:
+      213: 8543874103330278079
+    second: VFX_Move_Thunder_Dive_2
+  - first:
+      213: -1254849322908645266
+    second: VFX_Move_Thunder_Dive_3
+  - first:
+      213: -5422576677792834665
+    second: VFX_Move_Thunder_Dive_4
+  - first:
+      213: -1258820112393721468
+    second: VFX_Move_Thunder_Dive_5
+  - first:
+      213: -2917863503136202316
+    second: VFX_Move_Thunder_Dive_6
+  - first:
+      213: 4364727656452455445
+    second: VFX_Move_Thunder_Dive_7
+  - first:
+      213: 4673699568403930534
+    second: VFX_Move_Thunder_Dive_8
+  - first:
+      213: 1830577042405922028
+    second: VFX_Move_Thunder_Dive_9
+  - first:
+      213: -2030981420022219150
+    second: VFX_Move_Thunder_Dive_10
+  - first:
+      213: 3891414747042645635
+    second: VFX_Move_Thunder_Dive_11
+  - first:
+      213: -7307654733013272395
+    second: VFX_Move_Thunder_Dive_12
+  - first:
+      213: -5483034402592747442
+    second: VFX_Move_Thunder_Dive_13
+  - first:
+      213: 3736642080232443290
+    second: VFX_Move_Thunder_Dive_14
+  - first:
+      213: 5272128524011399792
+    second: VFX_Move_Thunder_Dive_15
+  - first:
+      213: 4837474873310446182
+    second: VFX_Move_Thunder_Dive_16
+  - first:
+      213: -4933489881813592444
+    second: VFX_Move_Thunder_Dive_17
+  - first:
+      213: -4248018624382735839
+    second: VFX_Move_Thunder_Dive_18
+  - first:
+      213: 3013452952239481234
+    second: VFX_Move_Thunder_Dive_19
+  - first:
+      213: 8843809423328201093
+    second: VFX_Move_Thunder_Dive_20
+  - first:
+      213: -8541636974842407207
+    second: VFX_Move_Thunder_Dive_21
+  - first:
+      213: -6026926627248062627
+    second: VFX_Move_Thunder_Dive_22
+  - first:
+      213: -2392373344235252270
+    second: VFX_Move_Thunder_Dive_23
+  - first:
+      213: -8384036578060693662
+    second: VFX_Move_Thunder_Dive_24
+  - first:
+      213: 1615474749168452472
+    second: VFX_Move_Thunder_Dive_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5a5f5481c72e040800000000000000
+      internalID: 4675435806858782201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c893d3c0bf37e240800000000000000
+      internalID: 4820891954555623618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba09a6ca30f19670800000000000000
+      internalID: 8543874103330278079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 15
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6804657031e59ee0800000000000000
+      internalID: -1254849322908645266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b17d8dd332fb4b0800000000000000
+      internalID: -5422576677792834665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489a7acf6c5c78ee0800000000000000
+      internalID: -1258820112393721468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b16d787a9aa187d0800000000000000
+      internalID: -2917863503136202316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cfb20ada0a29c30800000000000000
+      internalID: 4364727656452455445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 9
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6addc91cef05cd040800000000000000
+      internalID: 4673699568403930534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 15
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4179a0f14876910800000000000000
+      internalID: 1830577042405922028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 10
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e382ab82180d3e0800000000000000
+      internalID: -2030981420022219150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 15
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38681374815110630800000000000000
+      internalID: 3891414747042645635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 9
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8ba89ecbef59a90800000000000000
+      internalID: -7307654733013272395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40963ed24958e3b0800000000000000
+      internalID: -5483034402592747442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 8
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d0805ac283bd330800000000000000
+      internalID: 3736642080232443290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a67eba5fc5a2940800000000000000
+      internalID: 5272128524011399792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6620c8964c9222340800000000000000
+      internalID: 4837474873310446182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 14
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486548b5719b88bb0800000000000000
+      internalID: -4933489881813592444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a6c6e61910c05c0800000000000000
+      internalID: -4248018624382735839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 22
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291269d7e7fe1d920800000000000000
+      internalID: 3013452952239481234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_20
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 14
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589cab260d58bba70800000000000000
+      internalID: 8843809423328201093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_21
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 16
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d61d2a4d62067980800000000000000
+      internalID: -8541636974842407207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_22
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 22
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f398f1a2e0c5ca0800000000000000
+      internalID: -6026926627248062627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_23
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 14
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d59eb66e159cced0800000000000000
+      internalID: -2392373344235252270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_24
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 22
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f8fcc172be5ab80800000000000000
+      internalID: -8384036578060693662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Dive_25
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 14
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8738cc7a9b15b6610800000000000000
+      internalID: 1615474749168452472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Thunder_Dive_0: 4675435806858782201
+      VFX_Move_Thunder_Dive_1: 4820891954555623618
+      VFX_Move_Thunder_Dive_10: -2030981420022219150
+      VFX_Move_Thunder_Dive_11: 3891414747042645635
+      VFX_Move_Thunder_Dive_12: -7307654733013272395
+      VFX_Move_Thunder_Dive_13: -5483034402592747442
+      VFX_Move_Thunder_Dive_14: 3736642080232443290
+      VFX_Move_Thunder_Dive_15: 5272128524011399792
+      VFX_Move_Thunder_Dive_16: 4837474873310446182
+      VFX_Move_Thunder_Dive_17: -4933489881813592444
+      VFX_Move_Thunder_Dive_18: -4248018624382735839
+      VFX_Move_Thunder_Dive_19: 3013452952239481234
+      VFX_Move_Thunder_Dive_2: 8543874103330278079
+      VFX_Move_Thunder_Dive_20: 8843809423328201093
+      VFX_Move_Thunder_Dive_21: -8541636974842407207
+      VFX_Move_Thunder_Dive_22: -6026926627248062627
+      VFX_Move_Thunder_Dive_23: -2392373344235252270
+      VFX_Move_Thunder_Dive_24: -8384036578060693662
+      VFX_Move_Thunder_Dive_25: 1615474749168452472
+      VFX_Move_Thunder_Dive_3: -1254849322908645266
+      VFX_Move_Thunder_Dive_4: -5422576677792834665
+      VFX_Move_Thunder_Dive_5: -1258820112393721468
+      VFX_Move_Thunder_Dive_6: -2917863503136202316
+      VFX_Move_Thunder_Dive_7: 4364727656452455445
+      VFX_Move_Thunder_Dive_8: 4673699568403930534
+      VFX_Move_Thunder_Dive_9: 1830577042405922028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

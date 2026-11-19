@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 39ae854d91990db4ab0ae70920952d14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7846099628110950328
+    second: VFX_Move_Aura_Cannon_0
+  - first:
+      213: -2287785711916919105
+    second: VFX_Move_Aura_Cannon_1
+  - first:
+      213: -6724526963820774717
+    second: VFX_Move_Aura_Cannon_2
+  - first:
+      213: -8087969830663619215
+    second: VFX_Move_Aura_Cannon_3
+  - first:
+      213: 8363481926621908465
+    second: VFX_Move_Aura_Cannon_4
+  - first:
+      213: -3580466395186605782
+    second: VFX_Move_Aura_Cannon_5
+  - first:
+      213: -7368764089197694746
+    second: VFX_Move_Aura_Cannon_6
+  - first:
+      213: 7522475614855049567
+    second: VFX_Move_Aura_Cannon_7
+  - first:
+      213: -872091085413692228
+    second: VFX_Move_Aura_Cannon_8
+  - first:
+      213: -176978094843245009
+    second: VFX_Move_Aura_Cannon_9
+  - first:
+      213: -568062947046143830
+    second: VFX_Move_Aura_Cannon_10
+  - first:
+      213: -2758926630885460806
+    second: VFX_Move_Aura_Cannon_11
+  - first:
+      213: 5296718162554682079
+    second: VFX_Move_Aura_Cannon_12
+  - first:
+      213: 1301662559484386476
+    second: VFX_Move_Aura_Cannon_13
+  - first:
+      213: 3362949636511194602
+    second: VFX_Move_Aura_Cannon_14
+  - first:
+      213: -3808966034329944251
+    second: VFX_Move_Aura_Cannon_15
+  - first:
+      213: 2913566673704482448
+    second: VFX_Move_Aura_Cannon_16
+  - first:
+      213: 768582968405003764
+    second: VFX_Move_Aura_Cannon_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 19
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfa0e59a02f2ec60800000000000000
+      internalID: 7846099628110950328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 17
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb65af624072040e0800000000000000
+      internalID: -2287785711916919105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 15
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca3deeba5eada2a0800000000000000
+      internalID: -6724526963820774717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17df7397a42c1cf80800000000000000
+      internalID: -8087969830663619215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdc2b9208e011470800000000000000
+      internalID: 8363481926621908465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21dda0a8c0af4ec0800000000000000
+      internalID: -3580466395186605782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e077bd2a14ecb990800000000000000
+      internalID: -7368764089197694746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 14
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5139f647b3356860800000000000000
+      internalID: 7522475614855049567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcc12247c5b5e3f0800000000000000
+      internalID: -872091085413692228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ec7d34c5f3b8df0800000000000000
+      internalID: -176978094843245009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 15
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8c04762c5dd18f0800000000000000
+      internalID: -568062947046143830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4f4bcb8d256b9d0800000000000000
+      internalID: -2758926630885460806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 15
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda7e6a0b19b18940800000000000000
+      internalID: 5296718162554682079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac1e7b833f601210800000000000000
+      internalID: 1301662559484386476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed57c170e89bae20800000000000000
+      internalID: 3362949636511194602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f3c329295d32bc0800000000000000
+      internalID: -3808966034329944251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 14
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0967297f3711f6820800000000000000
+      internalID: 2913566673704482448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aura_Cannon_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 12
+        width: 145
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd023c332e8aaa00800000000000000
+      internalID: 768582968405003764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Aura_Cannon_0: 7846099628110950328
+      VFX_Move_Aura_Cannon_1: -2287785711916919105
+      VFX_Move_Aura_Cannon_10: -568062947046143830
+      VFX_Move_Aura_Cannon_11: -2758926630885460806
+      VFX_Move_Aura_Cannon_12: 5296718162554682079
+      VFX_Move_Aura_Cannon_13: 1301662559484386476
+      VFX_Move_Aura_Cannon_14: 3362949636511194602
+      VFX_Move_Aura_Cannon_15: -3808966034329944251
+      VFX_Move_Aura_Cannon_16: 2913566673704482448
+      VFX_Move_Aura_Cannon_17: 768582968405003764
+      VFX_Move_Aura_Cannon_2: -6724526963820774717
+      VFX_Move_Aura_Cannon_3: -8087969830663619215
+      VFX_Move_Aura_Cannon_4: 8363481926621908465
+      VFX_Move_Aura_Cannon_5: -3580466395186605782
+      VFX_Move_Aura_Cannon_6: -7368764089197694746
+      VFX_Move_Aura_Cannon_7: 7522475614855049567
+      VFX_Move_Aura_Cannon_8: -872091085413692228
+      VFX_Move_Aura_Cannon_9: -176978094843245009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

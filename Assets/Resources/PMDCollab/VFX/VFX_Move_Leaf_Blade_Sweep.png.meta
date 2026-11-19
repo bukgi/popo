@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 1c2cbfb0d0336d040986a6a3b4528a5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2897928041924470137
+    second: VFX_Move_Leaf_Blade_Sweep_0
+  - first:
+      213: 5360986428017429725
+    second: VFX_Move_Leaf_Blade_Sweep_1
+  - first:
+      213: -8545320163961066458
+    second: VFX_Move_Leaf_Blade_Sweep_2
+  - first:
+      213: -1296647381385199574
+    second: VFX_Move_Leaf_Blade_Sweep_3
+  - first:
+      213: -210076468143584953
+    second: VFX_Move_Leaf_Blade_Sweep_4
+  - first:
+      213: -592752156510823726
+    second: VFX_Move_Leaf_Blade_Sweep_5
+  - first:
+      213: 1741785213522291845
+    second: VFX_Move_Leaf_Blade_Sweep_6
+  - first:
+      213: 4526546104786670370
+    second: VFX_Move_Leaf_Blade_Sweep_7
+  - first:
+      213: 2564518262543979028
+    second: VFX_Move_Leaf_Blade_Sweep_8
+  - first:
+      213: 8760089879028273745
+    second: VFX_Move_Leaf_Blade_Sweep_9
+  - first:
+      213: 3651960363466653058
+    second: VFX_Move_Leaf_Blade_Sweep_10
+  - first:
+      213: 8106526157558293527
+    second: VFX_Move_Leaf_Blade_Sweep_11
+  - first:
+      213: 6035815917582867453
+    second: VFX_Move_Leaf_Blade_Sweep_12
+  - first:
+      213: -1123949956481502905
+    second: VFX_Move_Leaf_Blade_Sweep_13
+  - first:
+      213: 5111780639710690240
+    second: VFX_Move_Leaf_Blade_Sweep_14
+  - first:
+      213: -9197155923830808555
+    second: VFX_Move_Leaf_Blade_Sweep_15
+  - first:
+      213: -2981193666168349638
+    second: VFX_Move_Leaf_Blade_Sweep_16
+  - first:
+      213: -5815684312353278129
+    second: VFX_Move_Leaf_Blade_Sweep_17
+  - first:
+      213: 1277249912382219136
+    second: VFX_Move_Leaf_Blade_Sweep_18
+  - first:
+      213: -2001663519468392866
+    second: VFX_Move_Leaf_Blade_Sweep_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ad27cbccd78c7d0800000000000000
+      internalID: -2897928041924470137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc4ba7a0cc066a40800000000000000
+      internalID: 5360986428017429725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c2e1ff59ce86980800000000000000
+      internalID: -8545320163961066458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2048999312610ee0800000000000000
+      internalID: -1296647381385199574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74902a4b098a51df0800000000000000
+      internalID: -210076468143584953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da535fdd0f16c7f0800000000000000
+      internalID: -592752156510823726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c260f5c601c2810800000000000000
+      internalID: 1741785213522291845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 5
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223dc3b13b581de30800000000000000
+      internalID: 4526546104786670370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 6
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4129feab5cff69320800000000000000
+      internalID: 2564518262543979028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 8
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15299fff457129970800000000000000
+      internalID: 8760089879028273745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 9
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d7c360a9e5ea230800000000000000
+      internalID: 3651960363466653058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 9
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714acaf079a208070800000000000000
+      internalID: 8106526157558293527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 9
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbdc21199683c350800000000000000
+      internalID: 6035815917582867453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 10
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741ba92387de660f0800000000000000
+      internalID: -1123949956481502905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 10
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbbcaf8861b0f640800000000000000
+      internalID: 5111780639710690240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 11
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5106f287a632d5080800000000000000
+      internalID: -9197155923830808555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 11
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c1469d72ca0a6d0800000000000000
+      internalID: -2981193666168349638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 11
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47fe544ee98a4fa0800000000000000
+      internalID: -5815684312353278129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 10
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083e0f43704b9b110800000000000000
+      internalID: 1277249912382219136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Leaf_Blade_Sweep_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 8
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e6a3262a9a834e0800000000000000
+      internalID: -2001663519468392866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Leaf_Blade_Sweep_0: -2897928041924470137
+      VFX_Move_Leaf_Blade_Sweep_1: 5360986428017429725
+      VFX_Move_Leaf_Blade_Sweep_10: 3651960363466653058
+      VFX_Move_Leaf_Blade_Sweep_11: 8106526157558293527
+      VFX_Move_Leaf_Blade_Sweep_12: 6035815917582867453
+      VFX_Move_Leaf_Blade_Sweep_13: -1123949956481502905
+      VFX_Move_Leaf_Blade_Sweep_14: 5111780639710690240
+      VFX_Move_Leaf_Blade_Sweep_15: -9197155923830808555
+      VFX_Move_Leaf_Blade_Sweep_16: -2981193666168349638
+      VFX_Move_Leaf_Blade_Sweep_17: -5815684312353278129
+      VFX_Move_Leaf_Blade_Sweep_18: 1277249912382219136
+      VFX_Move_Leaf_Blade_Sweep_19: -2001663519468392866
+      VFX_Move_Leaf_Blade_Sweep_2: -8545320163961066458
+      VFX_Move_Leaf_Blade_Sweep_3: -1296647381385199574
+      VFX_Move_Leaf_Blade_Sweep_4: -210076468143584953
+      VFX_Move_Leaf_Blade_Sweep_5: -592752156510823726
+      VFX_Move_Leaf_Blade_Sweep_6: 1741785213522291845
+      VFX_Move_Leaf_Blade_Sweep_7: 4526546104786670370
+      VFX_Move_Leaf_Blade_Sweep_8: 2564518262543979028
+      VFX_Move_Leaf_Blade_Sweep_9: 8760089879028273745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

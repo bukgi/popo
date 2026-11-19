@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a4b30ef4a8e35ef4c8fc984e69ab74f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6833947273410944416
+    second: VFX_Move_Fire_Claw_0
+  - first:
+      213: -8482084199660816608
+    second: VFX_Move_Fire_Claw_1
+  - first:
+      213: -4605783025806129620
+    second: VFX_Move_Fire_Claw_2
+  - first:
+      213: 9182228647026986143
+    second: VFX_Move_Fire_Claw_3
+  - first:
+      213: 6850937178049465195
+    second: VFX_Move_Fire_Claw_4
+  - first:
+      213: -3464704850996597348
+    second: VFX_Move_Fire_Claw_5
+  - first:
+      213: -7177199325293215253
+    second: VFX_Move_Fire_Claw_6
+  - first:
+      213: 6055599355776669134
+    second: VFX_Move_Fire_Claw_7
+  - first:
+      213: 4013590667221327281
+    second: VFX_Move_Fire_Claw_8
+  - first:
+      213: 578128684415858120
+    second: VFX_Move_Fire_Claw_9
+  - first:
+      213: -989662613538812883
+    second: VFX_Move_Fire_Claw_10
+  - first:
+      213: 4286839306289705954
+    second: VFX_Move_Fire_Claw_11
+  - first:
+      213: -2331884236080061310
+    second: VFX_Move_Fire_Claw_12
+  - first:
+      213: 22102480341705681
+    second: VFX_Move_Fire_Claw_13
+  - first:
+      213: 5404939996815723460
+    second: VFX_Move_Fire_Claw_14
+  - first:
+      213: -1980801716271156446
+    second: VFX_Move_Fire_Claw_15
+  - first:
+      213: 3123262694232990196
+    second: VFX_Move_Fire_Claw_16
+  - first:
+      213: -3471430113888684407
+    second: VFX_Move_Fire_Claw_17
+  - first:
+      213: 6616539103332603067
+    second: VFX_Move_Fire_Claw_18
+  - first:
+      213: 2823155721658817479
+    second: VFX_Move_Fire_Claw_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad986d56de07de50800000000000000
+      internalID: 6833947273410944416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02773444c55994a80800000000000000
+      internalID: -8482084199660816608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c264d429db8f410c0800000000000000
+      internalID: -4605783025806129620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c85701e44dd6f70800000000000000
+      internalID: 9182228647026986143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bc72cc01b631f50800000000000000
+      internalID: 6850937178049465195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d66c87b45eaefc0800000000000000
+      internalID: -3464704850996597348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be189b57d37756c90800000000000000
+      internalID: -7177199325293215253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec51727b78fc90450800000000000000
+      internalID: 6055599355776669134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bddc89627323b730800000000000000
+      internalID: 4013590667221327281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c53215b9fce50800800000000000000
+      internalID: 578128684415858120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cc880b8130442f0800000000000000
+      internalID: -989662613538812883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3749ce2a9ed7b30800000000000000
+      internalID: 4286839306289705954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 4
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2846d1364ab73afd0800000000000000
+      internalID: -2331884236080061310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 5
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d32c69b6168e4000800000000000000
+      internalID: 22102480341705681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 7
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb808e5a44320b40800000000000000
+      internalID: 5404939996815723460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_15
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 8
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2237c237557c284e0800000000000000
+      internalID: -1980801716271156446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 7
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1acf56fde085b20800000000000000
+      internalID: 3123262694232990196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 6
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986321f24b003dfc0800000000000000
+      internalID: -3471430113888684407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_18
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 4
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb41f90324ba2db50800000000000000
+      internalID: 6616539103332603067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Claw_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbd51fcb2ddd2720800000000000000
+      internalID: 2823155721658817479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Fire_Claw_0: 6833947273410944416
+      VFX_Move_Fire_Claw_1: -8482084199660816608
+      VFX_Move_Fire_Claw_10: -989662613538812883
+      VFX_Move_Fire_Claw_11: 4286839306289705954
+      VFX_Move_Fire_Claw_12: -2331884236080061310
+      VFX_Move_Fire_Claw_13: 22102480341705681
+      VFX_Move_Fire_Claw_14: 5404939996815723460
+      VFX_Move_Fire_Claw_15: -1980801716271156446
+      VFX_Move_Fire_Claw_16: 3123262694232990196
+      VFX_Move_Fire_Claw_17: -3471430113888684407
+      VFX_Move_Fire_Claw_18: 6616539103332603067
+      VFX_Move_Fire_Claw_19: 2823155721658817479
+      VFX_Move_Fire_Claw_2: -4605783025806129620
+      VFX_Move_Fire_Claw_3: 9182228647026986143
+      VFX_Move_Fire_Claw_4: 6850937178049465195
+      VFX_Move_Fire_Claw_5: -3464704850996597348
+      VFX_Move_Fire_Claw_6: -7177199325293215253
+      VFX_Move_Fire_Claw_7: 6055599355776669134
+      VFX_Move_Fire_Claw_8: 4013590667221327281
+      VFX_Move_Fire_Claw_9: 578128684415858120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a1ad6c22a0c63734bbaaf1215be98852
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6971439469348877306
+    second: VFX_Move_Shadow_Ambush_0
+  - first:
+      213: -2002620619677969547
+    second: VFX_Move_Shadow_Ambush_1
+  - first:
+      213: 3238602257815399261
+    second: VFX_Move_Shadow_Ambush_2
+  - first:
+      213: 3739671658430984541
+    second: VFX_Move_Shadow_Ambush_3
+  - first:
+      213: -7993271894836438322
+    second: VFX_Move_Shadow_Ambush_4
+  - first:
+      213: -3358917198532332496
+    second: VFX_Move_Shadow_Ambush_5
+  - first:
+      213: -8957442730582051943
+    second: VFX_Move_Shadow_Ambush_6
+  - first:
+      213: 584212647601961515
+    second: VFX_Move_Shadow_Ambush_7
+  - first:
+      213: 6854671997880780640
+    second: VFX_Move_Shadow_Ambush_8
+  - first:
+      213: 7007806254591405133
+    second: VFX_Move_Shadow_Ambush_9
+  - first:
+      213: -3751883148117171308
+    second: VFX_Move_Shadow_Ambush_10
+  - first:
+      213: 6519792789329882231
+    second: VFX_Move_Shadow_Ambush_11
+  - first:
+      213: 6477775088339353566
+    second: VFX_Move_Shadow_Ambush_12
+  - first:
+      213: 5983839107816217959
+    second: VFX_Move_Shadow_Ambush_13
+  - first:
+      213: -6607753450579983539
+    second: VFX_Move_Shadow_Ambush_14
+  - first:
+      213: 5102058305301919487
+    second: VFX_Move_Shadow_Ambush_15
+  - first:
+      213: -8645790631388360138
+    second: VFX_Move_Shadow_Ambush_16
+  - first:
+      213: -2818562153746784819
+    second: VFX_Move_Shadow_Ambush_17
+  - first:
+      213: 8990035014481045953
+    second: VFX_Move_Shadow_Ambush_18
+  - first:
+      213: 5955470612435686040
+    second: VFX_Move_Shadow_Ambush_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af37da7d2478fb060800000000000000
+      internalID: 6971439469348877306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573d83028234534e0800000000000000
+      internalID: -2002620619677969547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b6dd93893d1fc20800000000000000
+      internalID: 3238602257815399261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51ff594f8bf5e330800000000000000
+      internalID: 3739671658430984541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca1923df81321190800000000000000
+      internalID: -7993271894836438322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034b78faa9ab261d0800000000000000
+      internalID: -3358917198532332496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 7
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99370cb8b45c0b380800000000000000
+      internalID: -8957442730582051943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2afa95ce4a8b1800800000000000000
+      internalID: 584212647601961515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067408d4ddfa02f50800000000000000
+      internalID: 6854671997880780640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c6eabd8aab04160800000000000000
+      internalID: 7007806254591405133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493a3b5b722aeebc0800000000000000
+      internalID: -3751883148117171308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c2921aff4fa7a50800000000000000
+      internalID: 6519792789329882231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf77534f1ea5e950800000000000000
+      internalID: 6477775088339353566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dd97ef6fdda0350800000000000000
+      internalID: 5983839107816217959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_14
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4381defe3b8c44a0800000000000000
+      internalID: -6607753450579983539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 7
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff63ade2ff62ec640800000000000000
+      internalID: 5102058305301919487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_16
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63252b56a3bf30880800000000000000
+      internalID: -8645790631388360138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 6
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd109097a472e8d0800000000000000
+      internalID: -2818562153746784819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 5
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c96774e63503cc70800000000000000
+      internalID: 8990035014481045953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Ambush_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892d184f7f416a250800000000000000
+      internalID: 5955470612435686040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Shadow_Ambush_0: 6971439469348877306
+      VFX_Move_Shadow_Ambush_1: -2002620619677969547
+      VFX_Move_Shadow_Ambush_10: -3751883148117171308
+      VFX_Move_Shadow_Ambush_11: 6519792789329882231
+      VFX_Move_Shadow_Ambush_12: 6477775088339353566
+      VFX_Move_Shadow_Ambush_13: 5983839107816217959
+      VFX_Move_Shadow_Ambush_14: -6607753450579983539
+      VFX_Move_Shadow_Ambush_15: 5102058305301919487
+      VFX_Move_Shadow_Ambush_16: -8645790631388360138
+      VFX_Move_Shadow_Ambush_17: -2818562153746784819
+      VFX_Move_Shadow_Ambush_18: 8990035014481045953
+      VFX_Move_Shadow_Ambush_19: 5955470612435686040
+      VFX_Move_Shadow_Ambush_2: 3238602257815399261
+      VFX_Move_Shadow_Ambush_3: 3739671658430984541
+      VFX_Move_Shadow_Ambush_4: -7993271894836438322
+      VFX_Move_Shadow_Ambush_5: -3358917198532332496
+      VFX_Move_Shadow_Ambush_6: -8957442730582051943
+      VFX_Move_Shadow_Ambush_7: 584212647601961515
+      VFX_Move_Shadow_Ambush_8: 6854671997880780640
+      VFX_Move_Shadow_Ambush_9: 7007806254591405133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

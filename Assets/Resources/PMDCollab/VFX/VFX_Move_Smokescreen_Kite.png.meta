@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: afae0d0e9a7b58646ba2f09cf5117133
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7837691529371745985
+    second: VFX_Move_Smokescreen_Kite_0
+  - first:
+      213: -8928286170555492246
+    second: VFX_Move_Smokescreen_Kite_1
+  - first:
+      213: 5779055277958751894
+    second: VFX_Move_Smokescreen_Kite_2
+  - first:
+      213: -5994742518971943686
+    second: VFX_Move_Smokescreen_Kite_3
+  - first:
+      213: -7701657268961400276
+    second: VFX_Move_Smokescreen_Kite_4
+  - first:
+      213: 5525866334233210526
+    second: VFX_Move_Smokescreen_Kite_5
+  - first:
+      213: -5773162977738646782
+    second: VFX_Move_Smokescreen_Kite_6
+  - first:
+      213: 3084565853702564238
+    second: VFX_Move_Smokescreen_Kite_7
+  - first:
+      213: -2601297398779766012
+    second: VFX_Move_Smokescreen_Kite_8
+  - first:
+      213: -3953746661388939126
+    second: VFX_Move_Smokescreen_Kite_9
+  - first:
+      213: 8340268715261039716
+    second: VFX_Move_Smokescreen_Kite_10
+  - first:
+      213: 5295790084950705039
+    second: VFX_Move_Smokescreen_Kite_11
+  - first:
+      213: 1960698275012524137
+    second: VFX_Move_Smokescreen_Kite_12
+  - first:
+      213: -2871681142338422371
+    second: VFX_Move_Smokescreen_Kite_13
+  - first:
+      213: 2528294932130328144
+    second: VFX_Move_Smokescreen_Kite_14
+  - first:
+      213: -4053076944710067640
+    second: VFX_Move_Smokescreen_Kite_15
+  - first:
+      213: -7210536488883570370
+    second: VFX_Move_Smokescreen_Kite_16
+  - first:
+      213: 1661136505216415180
+    second: VFX_Move_Smokescreen_Kite_17
+  - first:
+      213: 6994130052240997162
+    second: VFX_Move_Smokescreen_Kite_18
+  - first:
+      213: 5911465277366621397
+    second: VFX_Move_Smokescreen_Kite_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3185b4741dea3390800000000000000
+      internalID: -7837691529371745985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68d10f280b581480800000000000000
+      internalID: -8928286170555492246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696e3141824533050800000000000000
+      internalID: 5779055277958751894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af43fb4c0756ecca0800000000000000
+      internalID: -5994742518971943686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a20cdd4873e1590800000000000000
+      internalID: -7701657268961400276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ea2485722dfac40800000000000000
+      internalID: 5525866334233210526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b9379fbda91efa0800000000000000
+      internalID: -5773162977738646782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89ad3c1d449eca20800000000000000
+      internalID: 3084565853702564238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 11
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b959e4cc556ebd0800000000000000
+      internalID: -2601297398779766012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 11
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80960cfb587129c0800000000000000
+      internalID: -3953746661388939126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464107835369eb370800000000000000
+      internalID: 8340268715261039716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83c582260d6e7940800000000000000
+      internalID: 5295790084950705039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b7d161bcc53b10800000000000000
+      internalID: 1960698275012524137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99fab2473db528d0800000000000000
+      internalID: -2871681142338422371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e6c0568de461320800000000000000
+      internalID: 2528294932130328144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a1b3f2ef390c7c0800000000000000
+      internalID: -4053076944710067640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e393a1434470feb90800000000000000
+      internalID: -7210536488883570370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5bbd4b9da8d0710800000000000000
+      internalID: 1661136505216415180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b75bcd934201160800000000000000
+      internalID: 6994130052240997162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Smokescreen_Kite_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d45e77795eb90250800000000000000
+      internalID: 5911465277366621397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Smokescreen_Kite_0: -7837691529371745985
+      VFX_Move_Smokescreen_Kite_1: -8928286170555492246
+      VFX_Move_Smokescreen_Kite_10: 8340268715261039716
+      VFX_Move_Smokescreen_Kite_11: 5295790084950705039
+      VFX_Move_Smokescreen_Kite_12: 1960698275012524137
+      VFX_Move_Smokescreen_Kite_13: -2871681142338422371
+      VFX_Move_Smokescreen_Kite_14: 2528294932130328144
+      VFX_Move_Smokescreen_Kite_15: -4053076944710067640
+      VFX_Move_Smokescreen_Kite_16: -7210536488883570370
+      VFX_Move_Smokescreen_Kite_17: 1661136505216415180
+      VFX_Move_Smokescreen_Kite_18: 6994130052240997162
+      VFX_Move_Smokescreen_Kite_19: 5911465277366621397
+      VFX_Move_Smokescreen_Kite_2: 5779055277958751894
+      VFX_Move_Smokescreen_Kite_3: -5994742518971943686
+      VFX_Move_Smokescreen_Kite_4: -7701657268961400276
+      VFX_Move_Smokescreen_Kite_5: 5525866334233210526
+      VFX_Move_Smokescreen_Kite_6: -5773162977738646782
+      VFX_Move_Smokescreen_Kite_7: 3084565853702564238
+      VFX_Move_Smokescreen_Kite_8: -2601297398779766012
+      VFX_Move_Smokescreen_Kite_9: -3953746661388939126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

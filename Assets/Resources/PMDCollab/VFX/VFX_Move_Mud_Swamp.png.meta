@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 782bd36224cd21f408e7994d7a3c9e96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7898545858834219211
+    second: VFX_Move_Mud_Swamp_0
+  - first:
+      213: -7203339199909742817
+    second: VFX_Move_Mud_Swamp_1
+  - first:
+      213: -8997473939306816897
+    second: VFX_Move_Mud_Swamp_2
+  - first:
+      213: 6855909154602832094
+    second: VFX_Move_Mud_Swamp_3
+  - first:
+      213: 7802051268785377568
+    second: VFX_Move_Mud_Swamp_4
+  - first:
+      213: -7593414411330488255
+    second: VFX_Move_Mud_Swamp_5
+  - first:
+      213: 184379706845114338
+    second: VFX_Move_Mud_Swamp_6
+  - first:
+      213: -1762974452255056781
+    second: VFX_Move_Mud_Swamp_7
+  - first:
+      213: 4379422960795675615
+    second: VFX_Move_Mud_Swamp_8
+  - first:
+      213: 4960348599626226822
+    second: VFX_Move_Mud_Swamp_9
+  - first:
+      213: -7698461426431174567
+    second: VFX_Move_Mud_Swamp_10
+  - first:
+      213: 4924200897726148576
+    second: VFX_Move_Mud_Swamp_11
+  - first:
+      213: 7254125982954379065
+    second: VFX_Move_Mud_Swamp_12
+  - first:
+      213: -8044550379439796754
+    second: VFX_Move_Mud_Swamp_13
+  - first:
+      213: 9219756975434336549
+    second: VFX_Move_Mud_Swamp_14
+  - first:
+      213: 8530281669682893951
+    second: VFX_Move_Mud_Swamp_15
+  - first:
+      213: 7840528884068253900
+    second: VFX_Move_Mud_Swamp_16
+  - first:
+      213: 3508504487852641558
+    second: VFX_Move_Mud_Swamp_17
+  - first:
+      213: -7923332409125506308
+    second: VFX_Move_Mud_Swamp_18
+  - first:
+      213: 5008310355269739306
+    second: VFX_Move_Mud_Swamp_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fbd02c36ab26290800000000000000
+      internalID: -7898545858834219211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17bbb0a929980c90800000000000000
+      internalID: -7203339199909742817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a58c37f1d822380800000000000000
+      internalID: -8997473939306816897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0537c4d05152f50800000000000000
+      internalID: 6855909154602832094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021965bba44764c60800000000000000
+      internalID: 7802051268785377568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148705413d5ce9690800000000000000
+      internalID: -7593414411330488255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef2b42dd5c0f8200800000000000000
+      internalID: 184379706845114338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c9f398318a887e0800000000000000
+      internalID: -1762974452255056781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb6a6bcaf5d6cc30800000000000000
+      internalID: 4379422960795675615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cd3d235c2b6d440800000000000000
+      internalID: 4960348599626226822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958d580fe12992590800000000000000
+      internalID: -7698461426431174567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef60af70a6465440800000000000000
+      internalID: 4924200897726148576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9375de1c525dba460800000000000000
+      internalID: 7254125982954379065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedc1cf3d040c5090800000000000000
+      internalID: -8044550379439796754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529813cee1823ff70800000000000000
+      internalID: 9219756975434336549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f749973bbf5a16670800000000000000
+      internalID: 8530281669682893951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0041aaa772fcc60800000000000000
+      internalID: 7840528884068253900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 6
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d025b2e36b0b030800000000000000
+      internalID: 3508504487852641558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2fbbc472baa0290800000000000000
+      internalID: -7923332409125506308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Swamp_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2363c2abb7118540800000000000000
+      internalID: 5008310355269739306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Mud_Swamp_0: -7898545858834219211
+      VFX_Move_Mud_Swamp_1: -7203339199909742817
+      VFX_Move_Mud_Swamp_10: -7698461426431174567
+      VFX_Move_Mud_Swamp_11: 4924200897726148576
+      VFX_Move_Mud_Swamp_12: 7254125982954379065
+      VFX_Move_Mud_Swamp_13: -8044550379439796754
+      VFX_Move_Mud_Swamp_14: 9219756975434336549
+      VFX_Move_Mud_Swamp_15: 8530281669682893951
+      VFX_Move_Mud_Swamp_16: 7840528884068253900
+      VFX_Move_Mud_Swamp_17: 3508504487852641558
+      VFX_Move_Mud_Swamp_18: -7923332409125506308
+      VFX_Move_Mud_Swamp_19: 5008310355269739306
+      VFX_Move_Mud_Swamp_2: -8997473939306816897
+      VFX_Move_Mud_Swamp_3: 6855909154602832094
+      VFX_Move_Mud_Swamp_4: 7802051268785377568
+      VFX_Move_Mud_Swamp_5: -7593414411330488255
+      VFX_Move_Mud_Swamp_6: 184379706845114338
+      VFX_Move_Mud_Swamp_7: -1762974452255056781
+      VFX_Move_Mud_Swamp_8: 4379422960795675615
+      VFX_Move_Mud_Swamp_9: 4960348599626226822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

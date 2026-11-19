@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 7d4c62ff3c4783f4e911aca0855549fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7127421557112120226
+    second: VFX_Move_Flame_Burst_0
+  - first:
+      213: 7341368767218074307
+    second: VFX_Move_Flame_Burst_1
+  - first:
+      213: -6286016024842487876
+    second: VFX_Move_Flame_Burst_2
+  - first:
+      213: -3628023628102007020
+    second: VFX_Move_Flame_Burst_3
+  - first:
+      213: -1875696166524438080
+    second: VFX_Move_Flame_Burst_4
+  - first:
+      213: -2017652667827062688
+    second: VFX_Move_Flame_Burst_5
+  - first:
+      213: 3070808604566739091
+    second: VFX_Move_Flame_Burst_6
+  - first:
+      213: -2689111867575553103
+    second: VFX_Move_Flame_Burst_7
+  - first:
+      213: -4716012042885992229
+    second: VFX_Move_Flame_Burst_8
+  - first:
+      213: -8233467949153080669
+    second: VFX_Move_Flame_Burst_9
+  - first:
+      213: 636442842955050800
+    second: VFX_Move_Flame_Burst_10
+  - first:
+      213: 1116672333036046740
+    second: VFX_Move_Flame_Burst_11
+  - first:
+      213: -5524174479096635957
+    second: VFX_Move_Flame_Burst_12
+  - first:
+      213: -1917557550143558877
+    second: VFX_Move_Flame_Burst_13
+  - first:
+      213: -5952477825952458943
+    second: VFX_Move_Flame_Burst_14
+  - first:
+      213: 6800937064098147285
+    second: VFX_Move_Flame_Burst_15
+  - first:
+      213: 3525320643746537225
+    second: VFX_Move_Flame_Burst_16
+  - first:
+      213: -8637186191704660603
+    second: VFX_Move_Flame_Burst_17
+  - first:
+      213: 8400831095700997133
+    second: VFX_Move_Flame_Burst_18
+  - first:
+      213: -6192703553937162821
+    second: VFX_Move_Flame_Burst_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3212cb420b9e260800000000000000
+      internalID: 7127421557112120226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c24e2f5ff7c1e560800000000000000
+      internalID: 7341368767218074307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7b9daeab593c8a0800000000000000
+      internalID: -6286016024842487876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417814a7bbba6adc0800000000000000
+      internalID: -3628023628102007020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9bfbf364038f5e0800000000000000
+      internalID: -1875696166524438080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0687c0ea69bdff3e0800000000000000
+      internalID: -2017652667827062688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398d960f724bd9a20800000000000000
+      internalID: 3070808604566739091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b33fd3010b5eaad0800000000000000
+      internalID: -2689111867575553103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0f053980c5d8eb0800000000000000
+      internalID: -4716012042885992229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 9
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaaa25e588dcbd80800000000000000
+      internalID: -8233467949153080669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fec26c46915d800800000000000000
+      internalID: 636442842955050800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499ce1d02973f7f00800000000000000
+      internalID: 1116672333036046740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd9a2064903653b0800000000000000
+      internalID: -5524174479096635957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b235b51977365e0800000000000000
+      internalID: -1917557550143558877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147d6b274fc846da0800000000000000
+      internalID: -5952477825952458943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbab551a38c16e50800000000000000
+      internalID: 6800937064098147285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f1dd192747ce030800000000000000
+      internalID: 3525320643746537225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 8
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585e880abec822880800000000000000
+      internalID: -8637186191704660603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 7
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04405d3f5fb59470800000000000000
+      internalID: 8400831095700997133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Burst_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 6
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdb6449de81f0aa0800000000000000
+      internalID: -6192703553937162821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Flame_Burst_0: 7127421557112120226
+      VFX_Move_Flame_Burst_1: 7341368767218074307
+      VFX_Move_Flame_Burst_10: 636442842955050800
+      VFX_Move_Flame_Burst_11: 1116672333036046740
+      VFX_Move_Flame_Burst_12: -5524174479096635957
+      VFX_Move_Flame_Burst_13: -1917557550143558877
+      VFX_Move_Flame_Burst_14: -5952477825952458943
+      VFX_Move_Flame_Burst_15: 6800937064098147285
+      VFX_Move_Flame_Burst_16: 3525320643746537225
+      VFX_Move_Flame_Burst_17: -8637186191704660603
+      VFX_Move_Flame_Burst_18: 8400831095700997133
+      VFX_Move_Flame_Burst_19: -6192703553937162821
+      VFX_Move_Flame_Burst_2: -6286016024842487876
+      VFX_Move_Flame_Burst_3: -3628023628102007020
+      VFX_Move_Flame_Burst_4: -1875696166524438080
+      VFX_Move_Flame_Burst_5: -2017652667827062688
+      VFX_Move_Flame_Burst_6: 3070808604566739091
+      VFX_Move_Flame_Burst_7: -2689111867575553103
+      VFX_Move_Flame_Burst_8: -4716012042885992229
+      VFX_Move_Flame_Burst_9: -8233467949153080669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

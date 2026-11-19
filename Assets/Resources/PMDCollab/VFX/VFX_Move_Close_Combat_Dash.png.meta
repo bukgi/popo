@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: ff27e36eaab472443b1649125d15b8b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6743378349399505758
+    second: VFX_Move_Close_Combat_Dash_0
+  - first:
+      213: 2375418293930519793
+    second: VFX_Move_Close_Combat_Dash_1
+  - first:
+      213: -7998222739445555693
+    second: VFX_Move_Close_Combat_Dash_2
+  - first:
+      213: 3002150522171564335
+    second: VFX_Move_Close_Combat_Dash_3
+  - first:
+      213: -6408375181634698851
+    second: VFX_Move_Close_Combat_Dash_4
+  - first:
+      213: 7560688865586696714
+    second: VFX_Move_Close_Combat_Dash_5
+  - first:
+      213: 7015099423709110387
+    second: VFX_Move_Close_Combat_Dash_6
+  - first:
+      213: 2061992642037287438
+    second: VFX_Move_Close_Combat_Dash_7
+  - first:
+      213: -7355346677918776401
+    second: VFX_Move_Close_Combat_Dash_8
+  - first:
+      213: 1810843331986555187
+    second: VFX_Move_Close_Combat_Dash_9
+  - first:
+      213: 4090684424618155532
+    second: VFX_Move_Close_Combat_Dash_10
+  - first:
+      213: 7396821903436263684
+    second: VFX_Move_Close_Combat_Dash_11
+  - first:
+      213: -3473380370060564833
+    second: VFX_Move_Close_Combat_Dash_12
+  - first:
+      213: 3246134393370413579
+    second: VFX_Move_Close_Combat_Dash_13
+  - first:
+      213: 7377761356716966990
+    second: VFX_Move_Close_Combat_Dash_14
+  - first:
+      213: -6240985098854338910
+    second: VFX_Move_Close_Combat_Dash_15
+  - first:
+      213: 6611699201286573257
+    second: VFX_Move_Close_Combat_Dash_16
+  - first:
+      213: 6302561948098516964
+    second: VFX_Move_Close_Combat_Dash_17
+  - first:
+      213: 7241843692752824665
+    second: VFX_Move_Close_Combat_Dash_18
+  - first:
+      213: -3189948982211953739
+    second: VFX_Move_Close_Combat_Dash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a48bf18e15ba62a0800000000000000
+      internalID: -6743378349399505758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc61b25a5e27f020800000000000000
+      internalID: 2375418293930519793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e55ec7bca900190800000000000000
+      internalID: -7998222739445555693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 5
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f212a4c6ef7c9a920800000000000000
+      internalID: 3002150522171564335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 6
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d910c3fa9b0e017a0800000000000000
+      internalID: -6408375181634698851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 7
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02db8a0776fce860800000000000000
+      internalID: 7560688865586696714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 8
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370aa3e12c3aa5160800000000000000
+      internalID: 7015099423709110387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 9
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a0a1e026bad9c10800000000000000
+      internalID: 2061992642037287438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 11
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa34dceaa2f8ce990800000000000000
+      internalID: -7355346677918776401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 13
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33181fa8a68612910800000000000000
+      internalID: 1810843331986555187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 14
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e96919fc705c830800000000000000
+      internalID: 4090684424618155532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 14
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401b525c45ac6a660800000000000000
+      internalID: 7396821903436263684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 14
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96a9b8c4f21ccfc0800000000000000
+      internalID: -3473380370060564833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 14
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a850238069c0d20800000000000000
+      internalID: 3246134393370413579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 13
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4408b86dd2136660800000000000000
+      internalID: 7377761356716966990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 13
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aee7466e119369a0800000000000000
+      internalID: -6240985098854338910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 13
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc8b6ea46971cb50800000000000000
+      internalID: 6611699201286573257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 12
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e75e4b03b2377750800000000000000
+      internalID: 6302561948098516964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 10
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9596f693872308460800000000000000
+      internalID: 7241843692752824665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Close_Combat_Dash_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 10
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb33af3d460bb3d0800000000000000
+      internalID: -3189948982211953739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Close_Combat_Dash_0: -6743378349399505758
+      VFX_Move_Close_Combat_Dash_1: 2375418293930519793
+      VFX_Move_Close_Combat_Dash_10: 4090684424618155532
+      VFX_Move_Close_Combat_Dash_11: 7396821903436263684
+      VFX_Move_Close_Combat_Dash_12: -3473380370060564833
+      VFX_Move_Close_Combat_Dash_13: 3246134393370413579
+      VFX_Move_Close_Combat_Dash_14: 7377761356716966990
+      VFX_Move_Close_Combat_Dash_15: -6240985098854338910
+      VFX_Move_Close_Combat_Dash_16: 6611699201286573257
+      VFX_Move_Close_Combat_Dash_17: 6302561948098516964
+      VFX_Move_Close_Combat_Dash_18: 7241843692752824665
+      VFX_Move_Close_Combat_Dash_19: -3189948982211953739
+      VFX_Move_Close_Combat_Dash_2: -7998222739445555693
+      VFX_Move_Close_Combat_Dash_3: 3002150522171564335
+      VFX_Move_Close_Combat_Dash_4: -6408375181634698851
+      VFX_Move_Close_Combat_Dash_5: 7560688865586696714
+      VFX_Move_Close_Combat_Dash_6: 7015099423709110387
+      VFX_Move_Close_Combat_Dash_7: 2061992642037287438
+      VFX_Move_Close_Combat_Dash_8: -7355346677918776401
+      VFX_Move_Close_Combat_Dash_9: 1810843331986555187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

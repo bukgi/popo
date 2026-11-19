@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 9f5b9043345eb9643be24510b415c93e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2426782564096140876
+    second: VFX_Move_Whirlpool_Trap_0
+  - first:
+      213: 1712663153564303691
+    second: VFX_Move_Whirlpool_Trap_1
+  - first:
+      213: -7293115484101607779
+    second: VFX_Move_Whirlpool_Trap_2
+  - first:
+      213: -4310774643189659133
+    second: VFX_Move_Whirlpool_Trap_3
+  - first:
+      213: 5516098988464899032
+    second: VFX_Move_Whirlpool_Trap_4
+  - first:
+      213: 391412783201215999
+    second: VFX_Move_Whirlpool_Trap_5
+  - first:
+      213: 7766136394717584561
+    second: VFX_Move_Whirlpool_Trap_6
+  - first:
+      213: 7716960156506135008
+    second: VFX_Move_Whirlpool_Trap_7
+  - first:
+      213: -3409719704208167711
+    second: VFX_Move_Whirlpool_Trap_8
+  - first:
+      213: -4810183647181812946
+    second: VFX_Move_Whirlpool_Trap_9
+  - first:
+      213: -4607716751330569231
+    second: VFX_Move_Whirlpool_Trap_10
+  - first:
+      213: 3978970083551033005
+    second: VFX_Move_Whirlpool_Trap_11
+  - first:
+      213: 3168590059016426771
+    second: VFX_Move_Whirlpool_Trap_12
+  - first:
+      213: -8559493939183919802
+    second: VFX_Move_Whirlpool_Trap_13
+  - first:
+      213: -4816701904093183495
+    second: VFX_Move_Whirlpool_Trap_14
+  - first:
+      213: 5916661325764902231
+    second: VFX_Move_Whirlpool_Trap_15
+  - first:
+      213: -9140629377154776223
+    second: VFX_Move_Whirlpool_Trap_16
+  - first:
+      213: 2930255286770640356
+    second: VFX_Move_Whirlpool_Trap_17
+  - first:
+      213: 7112588242013760646
+    second: VFX_Move_Whirlpool_Trap_18
+  - first:
+      213: -510186394955291027
+    second: VFX_Move_Whirlpool_Trap_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46ef0862e9ada120800000000000000
+      internalID: 2426782564096140876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41c918601a94c710800000000000000
+      internalID: 1712663153564303691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ef8389b16a9ca90800000000000000
+      internalID: -7293115484101607779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a4bed2d4d0d24c0800000000000000
+      internalID: -4310774643189659133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d38751fdce1d8c40800000000000000
+      internalID: 5516098988464899032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5614f3ad39e6500800000000000000
+      internalID: 391412783201215999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcdf5c77ebd6cb60800000000000000
+      internalID: 7766136394717584561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9146a4066281b60800000000000000
+      internalID: 7716960156506135008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eca5079efd3ea0d0800000000000000
+      internalID: -3409719704208167711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bc555557bce3db0800000000000000
+      internalID: -4810183647181812946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 6
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f31353070a1e00c0800000000000000
+      internalID: -4607716751330569231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 5
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da637f1a534283730800000000000000
+      internalID: 3978970083551033005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 4
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315128aeed719fb20800000000000000
+      internalID: 3168590059016426771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d55d9cc91963980800000000000000
+      internalID: -8559493939183919802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f104916323a72db0800000000000000
+      internalID: -4816701904093183495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d3282c0243c1250800000000000000
+      internalID: 5916661325764902231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1638037b206f52180800000000000000
+      internalID: -9140629377154776223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5ac2d78ab5aa820800000000000000
+      internalID: 2930255286770640356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ca9de625df4b260800000000000000
+      internalID: 7112588242013760646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Whirlpool_Trap_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66e3774d247be8f0800000000000000
+      internalID: -510186394955291027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Whirlpool_Trap_0: 2426782564096140876
+      VFX_Move_Whirlpool_Trap_1: 1712663153564303691
+      VFX_Move_Whirlpool_Trap_10: -4607716751330569231
+      VFX_Move_Whirlpool_Trap_11: 3978970083551033005
+      VFX_Move_Whirlpool_Trap_12: 3168590059016426771
+      VFX_Move_Whirlpool_Trap_13: -8559493939183919802
+      VFX_Move_Whirlpool_Trap_14: -4816701904093183495
+      VFX_Move_Whirlpool_Trap_15: 5916661325764902231
+      VFX_Move_Whirlpool_Trap_16: -9140629377154776223
+      VFX_Move_Whirlpool_Trap_17: 2930255286770640356
+      VFX_Move_Whirlpool_Trap_18: 7112588242013760646
+      VFX_Move_Whirlpool_Trap_19: -510186394955291027
+      VFX_Move_Whirlpool_Trap_2: -7293115484101607779
+      VFX_Move_Whirlpool_Trap_3: -4310774643189659133
+      VFX_Move_Whirlpool_Trap_4: 5516098988464899032
+      VFX_Move_Whirlpool_Trap_5: 391412783201215999
+      VFX_Move_Whirlpool_Trap_6: 7766136394717584561
+      VFX_Move_Whirlpool_Trap_7: 7716960156506135008
+      VFX_Move_Whirlpool_Trap_8: -3409719704208167711
+      VFX_Move_Whirlpool_Trap_9: -4810183647181812946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e49212676e60acf4e8a7768183613d27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4045928666984586624
+    second: VFX_Move_Razor_Boomerang_0
+  - first:
+      213: -3768699576625774324
+    second: VFX_Move_Razor_Boomerang_1
+  - first:
+      213: 8717836883810166472
+    second: VFX_Move_Razor_Boomerang_2
+  - first:
+      213: -3082276179220204214
+    second: VFX_Move_Razor_Boomerang_3
+  - first:
+      213: -6081458033072552076
+    second: VFX_Move_Razor_Boomerang_4
+  - first:
+      213: -683148086549073371
+    second: VFX_Move_Razor_Boomerang_5
+  - first:
+      213: 1306237402802360213
+    second: VFX_Move_Razor_Boomerang_6
+  - first:
+      213: 2539571714440995852
+    second: VFX_Move_Razor_Boomerang_7
+  - first:
+      213: 1022116314203054402
+    second: VFX_Move_Razor_Boomerang_8
+  - first:
+      213: -3341407882529691287
+    second: VFX_Move_Razor_Boomerang_9
+  - first:
+      213: -4656577300214877834
+    second: VFX_Move_Razor_Boomerang_10
+  - first:
+      213: 3811718555226217451
+    second: VFX_Move_Razor_Boomerang_11
+  - first:
+      213: -7398215737402715671
+    second: VFX_Move_Razor_Boomerang_12
+  - first:
+      213: -8589504090891321299
+    second: VFX_Move_Razor_Boomerang_13
+  - first:
+      213: -513196108883267573
+    second: VFX_Move_Razor_Boomerang_14
+  - first:
+      213: -5757643496898868885
+    second: VFX_Move_Razor_Boomerang_15
+  - first:
+      213: -8233368100798641956
+    second: VFX_Move_Razor_Boomerang_16
+  - first:
+      213: -4884656932370058211
+    second: VFX_Move_Razor_Boomerang_17
+  - first:
+      213: 9047581230885886321
+    second: VFX_Move_Razor_Boomerang_18
+  - first:
+      213: 2092757670265325665
+    second: VFX_Move_Razor_Boomerang_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d9f26bfa6062830800000000000000
+      internalID: 4045928666984586624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 14
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c014e06d3b3e2bbc0800000000000000
+      internalID: -3768699576625774324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6ad4de47afbf870800000000000000
+      internalID: 8717836883810166472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a457ee5452e8935d0800000000000000
+      internalID: -3082276179220204214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477c34ec3225a9ba0800000000000000
+      internalID: -6081458033072552076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522314c4f68f486f0800000000000000
+      internalID: -683148086549073371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f0d524fffa02210800000000000000
+      internalID: 1306237402802360213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04a2e0e40f5e3320800000000000000
+      internalID: 2539571714440995852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24164335f594f2e00800000000000000
+      internalID: 1022116314203054402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 11
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969a0200c3fe0a1d0800000000000000
+      internalID: -3341407882529691287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6717b87fd93806fb0800000000000000
+      internalID: -4656577300214877834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 12
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb1604a4d1f5e430800000000000000
+      internalID: 3811718555226217451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 11
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e11868fbf1445990800000000000000
+      internalID: -7398215737402715671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 9
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2088a9d983fbc880800000000000000
+      internalID: -8589504090891321299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0076e5abd2c0e8f0800000000000000
+      internalID: -513196108883267573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b694100bebdb810b0800000000000000
+      internalID: -5757643496898868885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd84dd6a5533dbd80800000000000000
+      internalID: -8233368100798641956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14fe686666363cb0800000000000000
+      internalID: -4884656932370058211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179d17f71377f8d70800000000000000
+      internalID: 9047581230885886321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Razor_Boomerang_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16883216308fa0d10800000000000000
+      internalID: 2092757670265325665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Razor_Boomerang_0: 4045928666984586624
+      VFX_Move_Razor_Boomerang_1: -3768699576625774324
+      VFX_Move_Razor_Boomerang_10: -4656577300214877834
+      VFX_Move_Razor_Boomerang_11: 3811718555226217451
+      VFX_Move_Razor_Boomerang_12: -7398215737402715671
+      VFX_Move_Razor_Boomerang_13: -8589504090891321299
+      VFX_Move_Razor_Boomerang_14: -513196108883267573
+      VFX_Move_Razor_Boomerang_15: -5757643496898868885
+      VFX_Move_Razor_Boomerang_16: -8233368100798641956
+      VFX_Move_Razor_Boomerang_17: -4884656932370058211
+      VFX_Move_Razor_Boomerang_18: 9047581230885886321
+      VFX_Move_Razor_Boomerang_19: 2092757670265325665
+      VFX_Move_Razor_Boomerang_2: 8717836883810166472
+      VFX_Move_Razor_Boomerang_3: -3082276179220204214
+      VFX_Move_Razor_Boomerang_4: -6081458033072552076
+      VFX_Move_Razor_Boomerang_5: -683148086549073371
+      VFX_Move_Razor_Boomerang_6: 1306237402802360213
+      VFX_Move_Razor_Boomerang_7: 2539571714440995852
+      VFX_Move_Razor_Boomerang_8: 1022116314203054402
+      VFX_Move_Razor_Boomerang_9: -3341407882529691287
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

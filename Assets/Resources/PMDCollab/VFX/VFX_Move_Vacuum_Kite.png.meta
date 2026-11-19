@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 73f28f758ec45c14ba4a9d8acf5db0d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7487967580937987921
+    second: VFX_Move_Vacuum_Kite_0
+  - first:
+      213: -3884619277897234121
+    second: VFX_Move_Vacuum_Kite_1
+  - first:
+      213: 2091321932763667041
+    second: VFX_Move_Vacuum_Kite_2
+  - first:
+      213: 8840540355659868056
+    second: VFX_Move_Vacuum_Kite_3
+  - first:
+      213: -7117754894257468026
+    second: VFX_Move_Vacuum_Kite_4
+  - first:
+      213: -6144338413938181289
+    second: VFX_Move_Vacuum_Kite_5
+  - first:
+      213: -7798303574864890027
+    second: VFX_Move_Vacuum_Kite_6
+  - first:
+      213: -3041868409654688157
+    second: VFX_Move_Vacuum_Kite_7
+  - first:
+      213: -5137329318032522467
+    second: VFX_Move_Vacuum_Kite_8
+  - first:
+      213: 3397442456995842301
+    second: VFX_Move_Vacuum_Kite_9
+  - first:
+      213: 4038311340281686415
+    second: VFX_Move_Vacuum_Kite_10
+  - first:
+      213: 1135319475641297172
+    second: VFX_Move_Vacuum_Kite_11
+  - first:
+      213: 3717335332935361725
+    second: VFX_Move_Vacuum_Kite_12
+  - first:
+      213: 2377345858846160761
+    second: VFX_Move_Vacuum_Kite_13
+  - first:
+      213: -4151121354962342348
+    second: VFX_Move_Vacuum_Kite_14
+  - first:
+      213: 1190168266579546582
+    second: VFX_Move_Vacuum_Kite_15
+  - first:
+      213: 2697802456951496145
+    second: VFX_Move_Vacuum_Kite_16
+  - first:
+      213: 2262047627252078889
+    second: VFX_Move_Vacuum_Kite_17
+  - first:
+      213: 8404312096293026162
+    second: VFX_Move_Vacuum_Kite_18
+  - first:
+      213: -2303397270684458217
+    second: VFX_Move_Vacuum_Kite_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8dc887825651890800000000000000
+      internalID: -7487967580937987921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7390d4d295f071ac0800000000000000
+      internalID: -3884619277897234121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a9c51b73ed50d10800000000000000
+      internalID: 2091321932763667041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897ac914d98efaa70800000000000000
+      internalID: 8840540355659868056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d4c7992a7a83d90800000000000000
+      internalID: -7117754894257468026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b7d6144cceabaa0800000000000000
+      internalID: -6144338413938181289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557f481473cd6c390800000000000000
+      internalID: -7798303574864890027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366cc054ccc19c5d0800000000000000
+      internalID: -3041868409654688157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c878343a84b8b0800000000000000
+      internalID: -5137329318032522467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 9
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8411a0ae3262f20800000000000000
+      internalID: 3397442456995842301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 9
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89ebe1a4c6fa0830800000000000000
+      internalID: 4038311340281686415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419ae244c0771cf00800000000000000
+      internalID: 1135319475641297172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4ee9e3ac0a69330800000000000000
+      internalID: 3717335332935361725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97775c086770ef020800000000000000
+      internalID: 2377345858846160761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 8
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e6ee90f114466c0800000000000000
+      internalID: -4151121354962342348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d19a609bb3548010800000000000000
+      internalID: 1190168266579546582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd15c08a05807520800000000000000
+      internalID: 2697802456951496145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 8
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92910670558646f10800000000000000
+      internalID: 2262047627252078889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2797019d25d12a470800000000000000
+      internalID: 8404312096293026162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Vacuum_Kite_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713af30e260b800e0800000000000000
+      internalID: -2303397270684458217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Vacuum_Kite_0: -7487967580937987921
+      VFX_Move_Vacuum_Kite_1: -3884619277897234121
+      VFX_Move_Vacuum_Kite_10: 4038311340281686415
+      VFX_Move_Vacuum_Kite_11: 1135319475641297172
+      VFX_Move_Vacuum_Kite_12: 3717335332935361725
+      VFX_Move_Vacuum_Kite_13: 2377345858846160761
+      VFX_Move_Vacuum_Kite_14: -4151121354962342348
+      VFX_Move_Vacuum_Kite_15: 1190168266579546582
+      VFX_Move_Vacuum_Kite_16: 2697802456951496145
+      VFX_Move_Vacuum_Kite_17: 2262047627252078889
+      VFX_Move_Vacuum_Kite_18: 8404312096293026162
+      VFX_Move_Vacuum_Kite_19: -2303397270684458217
+      VFX_Move_Vacuum_Kite_2: 2091321932763667041
+      VFX_Move_Vacuum_Kite_3: 8840540355659868056
+      VFX_Move_Vacuum_Kite_4: -7117754894257468026
+      VFX_Move_Vacuum_Kite_5: -6144338413938181289
+      VFX_Move_Vacuum_Kite_6: -7798303574864890027
+      VFX_Move_Vacuum_Kite_7: -3041868409654688157
+      VFX_Move_Vacuum_Kite_8: -5137329318032522467
+      VFX_Move_Vacuum_Kite_9: 3397442456995842301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

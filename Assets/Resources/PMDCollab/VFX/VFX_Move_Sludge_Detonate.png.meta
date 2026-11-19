@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 684c3b50634288949be631541809f8cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -687924871947850229
+    second: VFX_Move_Sludge_Detonate_0
+  - first:
+      213: 6606520653517768146
+    second: VFX_Move_Sludge_Detonate_1
+  - first:
+      213: -4839099270478358001
+    second: VFX_Move_Sludge_Detonate_2
+  - first:
+      213: 7113554788876285815
+    second: VFX_Move_Sludge_Detonate_3
+  - first:
+      213: 1057752146274814831
+    second: VFX_Move_Sludge_Detonate_4
+  - first:
+      213: -1305959354143895675
+    second: VFX_Move_Sludge_Detonate_5
+  - first:
+      213: 2516690439770984723
+    second: VFX_Move_Sludge_Detonate_6
+  - first:
+      213: -767981504453263819
+    second: VFX_Move_Sludge_Detonate_7
+  - first:
+      213: -705645926269743764
+    second: VFX_Move_Sludge_Detonate_8
+  - first:
+      213: -4175047936434130959
+    second: VFX_Move_Sludge_Detonate_9
+  - first:
+      213: 1168074692932631410
+    second: VFX_Move_Sludge_Detonate_10
+  - first:
+      213: 5830302355469001532
+    second: VFX_Move_Sludge_Detonate_11
+  - first:
+      213: -1381243777507600967
+    second: VFX_Move_Sludge_Detonate_12
+  - first:
+      213: 2373588976866201366
+    second: VFX_Move_Sludge_Detonate_13
+  - first:
+      213: -6988638113664554126
+    second: VFX_Move_Sludge_Detonate_14
+  - first:
+      213: 5176786899525777568
+    second: VFX_Move_Sludge_Detonate_15
+  - first:
+      213: -6635572432720193545
+    second: VFX_Move_Sludge_Detonate_16
+  - first:
+      213: 5222646112949902657
+    second: VFX_Move_Sludge_Detonate_17
+  - first:
+      213: 4628893741928980766
+    second: VFX_Move_Sludge_Detonate_18
+  - first:
+      213: -3656254454955344496
+    second: VFX_Move_Sludge_Detonate_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e646749fff376f0800000000000000
+      internalID: -687924871947850229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5453218831fab50800000000000000
+      internalID: 6606520653517768146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a19462ad018dcb0800000000000000
+      internalID: -4839099270478358001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 10
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777ff39246c68b260800000000000000
+      internalID: 7113554788876285815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b0e1b09f3edae00800000000000000
+      internalID: 1057752146274814831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f872df2ec40ede0800000000000000
+      internalID: -1305959354143895675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311db28fe941de220800000000000000
+      internalID: 2516690439770984723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e3ef004e49755f0800000000000000
+      internalID: -767981504453263819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d8d7bc4ca0536f0800000000000000
+      internalID: -705645926269743764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffad9ca5004f06c0800000000000000
+      internalID: -4175047936434130959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b7f579eb5d53010800000000000000
+      internalID: 1168074692932631410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c336ade1a1569e050800000000000000
+      internalID: 5830302355469001532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5d07d3a16d4dce0800000000000000
+      internalID: -1381243777507600967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 9
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f84e0499ea0f020800000000000000
+      internalID: 2373588976866201366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ba44bb9ae530f90800000000000000
+      internalID: -6988638113664554126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a83120e144a7d740800000000000000
+      internalID: 5176786899525777568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7965a7706b9e3a0800000000000000
+      internalID: -6635572432720193545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d14fd08f09a7840800000000000000
+      internalID: 5222646112949902657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11a4b655522d3040800000000000000
+      internalID: 4628893741928980766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sludge_Detonate_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d72f3e1ff524dc0800000000000000
+      internalID: -3656254454955344496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Sludge_Detonate_0: -687924871947850229
+      VFX_Move_Sludge_Detonate_1: 6606520653517768146
+      VFX_Move_Sludge_Detonate_10: 1168074692932631410
+      VFX_Move_Sludge_Detonate_11: 5830302355469001532
+      VFX_Move_Sludge_Detonate_12: -1381243777507600967
+      VFX_Move_Sludge_Detonate_13: 2373588976866201366
+      VFX_Move_Sludge_Detonate_14: -6988638113664554126
+      VFX_Move_Sludge_Detonate_15: 5176786899525777568
+      VFX_Move_Sludge_Detonate_16: -6635572432720193545
+      VFX_Move_Sludge_Detonate_17: 5222646112949902657
+      VFX_Move_Sludge_Detonate_18: 4628893741928980766
+      VFX_Move_Sludge_Detonate_19: -3656254454955344496
+      VFX_Move_Sludge_Detonate_2: -4839099270478358001
+      VFX_Move_Sludge_Detonate_3: 7113554788876285815
+      VFX_Move_Sludge_Detonate_4: 1057752146274814831
+      VFX_Move_Sludge_Detonate_5: -1305959354143895675
+      VFX_Move_Sludge_Detonate_6: 2516690439770984723
+      VFX_Move_Sludge_Detonate_7: -767981504453263819
+      VFX_Move_Sludge_Detonate_8: -705645926269743764
+      VFX_Move_Sludge_Detonate_9: -4175047936434130959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

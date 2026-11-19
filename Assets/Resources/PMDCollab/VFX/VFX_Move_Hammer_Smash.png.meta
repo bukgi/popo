@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 6cdb3f3388d80cb4895c4423522cb3bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1932941219153333971
+    second: VFX_Move_Hammer_Smash_0
+  - first:
+      213: -8873596045842508636
+    second: VFX_Move_Hammer_Smash_1
+  - first:
+      213: 4479666247673880376
+    second: VFX_Move_Hammer_Smash_2
+  - first:
+      213: -5183156000064186266
+    second: VFX_Move_Hammer_Smash_3
+  - first:
+      213: -6076466757043032477
+    second: VFX_Move_Hammer_Smash_4
+  - first:
+      213: -1254889318036464547
+    second: VFX_Move_Hammer_Smash_5
+  - first:
+      213: -8328151374722874078
+    second: VFX_Move_Hammer_Smash_6
+  - first:
+      213: -4046887852187084473
+    second: VFX_Move_Hammer_Smash_7
+  - first:
+      213: -1345087891248820372
+    second: VFX_Move_Hammer_Smash_8
+  - first:
+      213: 944786308475713481
+    second: VFX_Move_Hammer_Smash_9
+  - first:
+      213: -6728859682159150974
+    second: VFX_Move_Hammer_Smash_10
+  - first:
+      213: -6734415690876840045
+    second: VFX_Move_Hammer_Smash_11
+  - first:
+      213: 7008093358864081804
+    second: VFX_Move_Hammer_Smash_12
+  - first:
+      213: -8516009376331487200
+    second: VFX_Move_Hammer_Smash_13
+  - first:
+      213: 5719662284326451602
+    second: VFX_Move_Hammer_Smash_14
+  - first:
+      213: 7022259509673540953
+    second: VFX_Move_Hammer_Smash_15
+  - first:
+      213: 7434854270789923158
+    second: VFX_Move_Hammer_Smash_16
+  - first:
+      213: -6941069415267734632
+    second: VFX_Move_Hammer_Smash_17
+  - first:
+      213: 5833017469763679976
+    second: VFX_Move_Hammer_Smash_18
+  - first:
+      213: -9110780449461492922
+    second: VFX_Move_Hammer_Smash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21b7acc330dc25e0800000000000000
+      internalID: -1932941219153333971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a41f3f1967aad480800000000000000
+      internalID: -8873596045842508636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f98ecc7b8fa2e30800000000000000
+      internalID: 4479666247673880376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6685db8541bb118b0800000000000000
+      internalID: -5183156000064186266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eeaf0ddad0caba0800000000000000
+      internalID: -6076466757043032477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c110e50dcb59ee0800000000000000
+      internalID: -1254889318036464547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22546f9f2767c6c80800000000000000
+      internalID: -8328151374722874078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7499b8490f096d7c0800000000000000
+      internalID: -4046887852187084473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f4f6280b9455de0800000000000000
+      internalID: -1345087891248820372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7f851542e8c1d00800000000000000
+      internalID: 944786308475713481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288b47525c94e92a0800000000000000
+      internalID: -6728859682159150974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397187f0c9c8a82a0800000000000000
+      internalID: -6734415690876840045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c832ed787cfb14160800000000000000
+      internalID: 7008093358864081804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028addb879e01d980800000000000000
+      internalID: -8516009376331487200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2993a742b82506f40800000000000000
+      internalID: 5719662284326451602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d33ba81d3147160800000000000000
+      internalID: 7022259509673540953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651ba375198ed2760800000000000000
+      internalID: 7434854270789923158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b63a5642e5caf90800000000000000
+      internalID: -6941069415267734632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_18
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e679edeb7a03f050800000000000000
+      internalID: 5833017469763679976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Smash_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6432643c371009180800000000000000
+      internalID: -9110780449461492922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Hammer_Smash_0: -1932941219153333971
+      VFX_Move_Hammer_Smash_1: -8873596045842508636
+      VFX_Move_Hammer_Smash_10: -6728859682159150974
+      VFX_Move_Hammer_Smash_11: -6734415690876840045
+      VFX_Move_Hammer_Smash_12: 7008093358864081804
+      VFX_Move_Hammer_Smash_13: -8516009376331487200
+      VFX_Move_Hammer_Smash_14: 5719662284326451602
+      VFX_Move_Hammer_Smash_15: 7022259509673540953
+      VFX_Move_Hammer_Smash_16: 7434854270789923158
+      VFX_Move_Hammer_Smash_17: -6941069415267734632
+      VFX_Move_Hammer_Smash_18: 5833017469763679976
+      VFX_Move_Hammer_Smash_19: -9110780449461492922
+      VFX_Move_Hammer_Smash_2: 4479666247673880376
+      VFX_Move_Hammer_Smash_3: -5183156000064186266
+      VFX_Move_Hammer_Smash_4: -6076466757043032477
+      VFX_Move_Hammer_Smash_5: -1254889318036464547
+      VFX_Move_Hammer_Smash_6: -8328151374722874078
+      VFX_Move_Hammer_Smash_7: -4046887852187084473
+      VFX_Move_Hammer_Smash_8: -1345087891248820372
+      VFX_Move_Hammer_Smash_9: 944786308475713481
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

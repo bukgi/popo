@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 7d2bd0bc0ad7c1f4fa26431226924a5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5763642737112515570
+    second: VFX_Move_Head_Smash_0
+  - first:
+      213: -9204834306675318120
+    second: VFX_Move_Head_Smash_1
+  - first:
+      213: -6298935090350934467
+    second: VFX_Move_Head_Smash_2
+  - first:
+      213: -1303912312911779038
+    second: VFX_Move_Head_Smash_3
+  - first:
+      213: -2909891330537113899
+    second: VFX_Move_Head_Smash_4
+  - first:
+      213: -7018612694264100622
+    second: VFX_Move_Head_Smash_5
+  - first:
+      213: -4982066438050051770
+    second: VFX_Move_Head_Smash_6
+  - first:
+      213: -1116445993489961967
+    second: VFX_Move_Head_Smash_7
+  - first:
+      213: -3690715949098336514
+    second: VFX_Move_Head_Smash_8
+  - first:
+      213: -7032291703007055981
+    second: VFX_Move_Head_Smash_9
+  - first:
+      213: 1154847830362018439
+    second: VFX_Move_Head_Smash_10
+  - first:
+      213: 7295934784867586635
+    second: VFX_Move_Head_Smash_11
+  - first:
+      213: 9158790873734637338
+    second: VFX_Move_Head_Smash_12
+  - first:
+      213: 6848430886679654595
+    second: VFX_Move_Head_Smash_13
+  - first:
+      213: 5997782926353419671
+    second: VFX_Move_Head_Smash_14
+  - first:
+      213: -1812311301995989844
+    second: VFX_Move_Head_Smash_15
+  - first:
+      213: 1359316097485807693
+    second: VFX_Move_Head_Smash_16
+  - first:
+      213: -3470875353868716993
+    second: VFX_Move_Head_Smash_17
+  - first:
+      213: 4188175573462867133
+    second: VFX_Move_Head_Smash_18
+  - first:
+      213: -4491767439348410340
+    second: VFX_Move_Head_Smash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f30ad548829cff40800000000000000
+      internalID: 5763642737112515570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 14
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892e946a7fbd14080800000000000000
+      internalID: -9204834306675318120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36b36498efa598a0800000000000000
+      internalID: -6298935090350934467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ba2aae8a297ede0800000000000000
+      internalID: -1303912312911779038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6b85c804dfd97d0800000000000000
+      internalID: -2909891330537113899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f84756d0f0e89e90800000000000000
+      internalID: -7018612694264100622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64981a088f42cdab0800000000000000
+      internalID: -4982066438050051770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c6f1bb8469180f0800000000000000
+      internalID: -1116445993489961967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeff170661f7ccc0800000000000000
+      internalID: -3690715949098336514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 11
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f665d64f7486e90800000000000000
+      internalID: -7032291703007055981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782db5aabf7d60010800000000000000
+      internalID: 1154847830362018439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 12
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42d274080e504560800000000000000
+      internalID: 7295934784867586635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 11
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17ea0936cf8a1f70800000000000000
+      internalID: 9158790873734637338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 9
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0ba5d5b938a0f50800000000000000
+      internalID: 6848430886679654595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dc23d3bc76c3350800000000000000
+      internalID: 5997782926353419671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47a1e097069d6e0800000000000000
+      internalID: -1812311301995989844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40ac18e9c24dd210800000000000000
+      internalID: 1359316097485807693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f343ff05149f4dfc0800000000000000
+      internalID: -3470875353868716993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcd8318e736f1a30800000000000000
+      internalID: 4188175573462867133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Head_Smash_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18d8f3ff490aa1c0800000000000000
+      internalID: -4491767439348410340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Head_Smash_0: 5763642737112515570
+      VFX_Move_Head_Smash_1: -9204834306675318120
+      VFX_Move_Head_Smash_10: 1154847830362018439
+      VFX_Move_Head_Smash_11: 7295934784867586635
+      VFX_Move_Head_Smash_12: 9158790873734637338
+      VFX_Move_Head_Smash_13: 6848430886679654595
+      VFX_Move_Head_Smash_14: 5997782926353419671
+      VFX_Move_Head_Smash_15: -1812311301995989844
+      VFX_Move_Head_Smash_16: 1359316097485807693
+      VFX_Move_Head_Smash_17: -3470875353868716993
+      VFX_Move_Head_Smash_18: 4188175573462867133
+      VFX_Move_Head_Smash_19: -4491767439348410340
+      VFX_Move_Head_Smash_2: -6298935090350934467
+      VFX_Move_Head_Smash_3: -1303912312911779038
+      VFX_Move_Head_Smash_4: -2909891330537113899
+      VFX_Move_Head_Smash_5: -7018612694264100622
+      VFX_Move_Head_Smash_6: -4982066438050051770
+      VFX_Move_Head_Smash_7: -1116445993489961967
+      VFX_Move_Head_Smash_8: -3690715949098336514
+      VFX_Move_Head_Smash_9: -7032291703007055981
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

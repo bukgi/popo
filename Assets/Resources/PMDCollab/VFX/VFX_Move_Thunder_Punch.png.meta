@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 95fad7d331c091444a68e50edc8ae247
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6779108225810574534
+    second: VFX_Move_Thunder_Punch_0
+  - first:
+      213: 2650430464710048315
+    second: VFX_Move_Thunder_Punch_1
+  - first:
+      213: -3222371198381748715
+    second: VFX_Move_Thunder_Punch_2
+  - first:
+      213: -7357664289298355727
+    second: VFX_Move_Thunder_Punch_3
+  - first:
+      213: 6560992879133125551
+    second: VFX_Move_Thunder_Punch_4
+  - first:
+      213: 1834280909111829999
+    second: VFX_Move_Thunder_Punch_5
+  - first:
+      213: -2200082030246744954
+    second: VFX_Move_Thunder_Punch_6
+  - first:
+      213: -817586152791192858
+    second: VFX_Move_Thunder_Punch_7
+  - first:
+      213: -4862403008226581391
+    second: VFX_Move_Thunder_Punch_8
+  - first:
+      213: 5342058508446138854
+    second: VFX_Move_Thunder_Punch_9
+  - first:
+      213: 6541134695182521872
+    second: VFX_Move_Thunder_Punch_10
+  - first:
+      213: 1301992031571583390
+    second: VFX_Move_Thunder_Punch_11
+  - first:
+      213: -5991168705372981197
+    second: VFX_Move_Thunder_Punch_12
+  - first:
+      213: 2947947786480947519
+    second: VFX_Move_Thunder_Punch_13
+  - first:
+      213: 5232492552067453262
+    second: VFX_Move_Thunder_Punch_14
+  - first:
+      213: 4780951634898445278
+    second: VFX_Move_Thunder_Punch_15
+  - first:
+      213: 3483326135307202046
+    second: VFX_Move_Thunder_Punch_16
+  - first:
+      213: 7886003714549143503
+    second: VFX_Move_Thunder_Punch_17
+  - first:
+      213: -7358573573905713141
+    second: VFX_Move_Thunder_Punch_18
+  - first:
+      213: -416257408810820384
+    second: VFX_Move_Thunder_Punch_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc2e5d930b341e50800000000000000
+      internalID: 6779108225810574534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a7aee077838c420800000000000000
+      internalID: 2650430464710048315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e810ac776d743d0800000000000000
+      internalID: -3222371198381748715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f96bcbbf4354e990800000000000000
+      internalID: -7357664289298355727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabe89e03445d0b50800000000000000
+      internalID: 6560992879133125551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe524e5b4cca47910800000000000000
+      internalID: 1834280909111829999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c2c6ecc0db771e0800000000000000
+      internalID: -2200082030246744954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea4a9dc9b957a4f0800000000000000
+      internalID: -817586152791192858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1742dd3e936458cb0800000000000000
+      internalID: -4862403008226581391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e10945f8edc22a40800000000000000
+      internalID: 5342058508446138854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016565e4957c6ca50800000000000000
+      internalID: 6541134695182521872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a63ebada911210800000000000000
+      internalID: 1301992031571583390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3387ec61ec71bdca0800000000000000
+      internalID: -5991168705372981197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31989594e639e820800000000000000
+      internalID: 2947947786480947519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e419bdfc04c8d9840800000000000000
+      internalID: 5232492552067453262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 4
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3e17e6e2a595240800000000000000
+      internalID: 4780951634898445278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde1d32aa2475030800000000000000
+      internalID: 3483326135307202046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 5
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7dc17b896b07d60800000000000000
+      internalID: 7886003714549143503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_18
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 4
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08f5c9625811e990800000000000000
+      internalID: -7358573573905713141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Punch_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecd4b49718293af0800000000000000
+      internalID: -416257408810820384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Thunder_Punch_0: 6779108225810574534
+      VFX_Move_Thunder_Punch_1: 2650430464710048315
+      VFX_Move_Thunder_Punch_10: 6541134695182521872
+      VFX_Move_Thunder_Punch_11: 1301992031571583390
+      VFX_Move_Thunder_Punch_12: -5991168705372981197
+      VFX_Move_Thunder_Punch_13: 2947947786480947519
+      VFX_Move_Thunder_Punch_14: 5232492552067453262
+      VFX_Move_Thunder_Punch_15: 4780951634898445278
+      VFX_Move_Thunder_Punch_16: 3483326135307202046
+      VFX_Move_Thunder_Punch_17: 7886003714549143503
+      VFX_Move_Thunder_Punch_18: -7358573573905713141
+      VFX_Move_Thunder_Punch_19: -416257408810820384
+      VFX_Move_Thunder_Punch_2: -3222371198381748715
+      VFX_Move_Thunder_Punch_3: -7357664289298355727
+      VFX_Move_Thunder_Punch_4: 6560992879133125551
+      VFX_Move_Thunder_Punch_5: 1834280909111829999
+      VFX_Move_Thunder_Punch_6: -2200082030246744954
+      VFX_Move_Thunder_Punch_7: -817586152791192858
+      VFX_Move_Thunder_Punch_8: -4862403008226581391
+      VFX_Move_Thunder_Punch_9: 5342058508446138854
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

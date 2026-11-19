@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 2091c8ad26a45f14ea21c055e31b318a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3960958590114142251
+    second: VFX_Move_Psyshock_Mark_0
+  - first:
+      213: -5820482631108101934
+    second: VFX_Move_Psyshock_Mark_1
+  - first:
+      213: -3445798624100032915
+    second: VFX_Move_Psyshock_Mark_2
+  - first:
+      213: 7674059416223430173
+    second: VFX_Move_Psyshock_Mark_3
+  - first:
+      213: -1894157763033736554
+    second: VFX_Move_Psyshock_Mark_4
+  - first:
+      213: 5136277793850597836
+    second: VFX_Move_Psyshock_Mark_5
+  - first:
+      213: -694566531877912905
+    second: VFX_Move_Psyshock_Mark_6
+  - first:
+      213: -9204610506689282692
+    second: VFX_Move_Psyshock_Mark_7
+  - first:
+      213: 5107611041560089503
+    second: VFX_Move_Psyshock_Mark_8
+  - first:
+      213: -796734124814239253
+    second: VFX_Move_Psyshock_Mark_9
+  - first:
+      213: 2860410006797508785
+    second: VFX_Move_Psyshock_Mark_10
+  - first:
+      213: 3053449303434064634
+    second: VFX_Move_Psyshock_Mark_11
+  - first:
+      213: -8878978215536176738
+    second: VFX_Move_Psyshock_Mark_12
+  - first:
+      213: -2795888504388433858
+    second: VFX_Move_Psyshock_Mark_13
+  - first:
+      213: -2860286155278902858
+    second: VFX_Move_Psyshock_Mark_14
+  - first:
+      213: -3937745911576271456
+    second: VFX_Move_Psyshock_Mark_15
+  - first:
+      213: 1433639909529335274
+    second: VFX_Move_Psyshock_Mark_16
+  - first:
+      213: 3147565547572055011
+    second: VFX_Move_Psyshock_Mark_17
+  - first:
+      213: -4072572523534781712
+    second: VFX_Move_Psyshock_Mark_18
+  - first:
+      213: 3415703006353864096
+    second: VFX_Move_Psyshock_Mark_19
+  - first:
+      213: -6861862320259145043
+    second: VFX_Move_Psyshock_Mark_20
+  - first:
+      213: -3721588786954541004
+    second: VFX_Move_Psyshock_Mark_21
+  - first:
+      213: 4868654937613224898
+    second: VFX_Move_Psyshock_Mark_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7e63af529d709c0800000000000000
+      internalID: -3960958590114142251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8787f92ed793fa0800000000000000
+      internalID: -5820482631108101934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6edcf278601e20d0800000000000000
+      internalID: -3445798624100032915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 15
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d163d31516cbf7a60800000000000000
+      internalID: 7674059416223430173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a53d9dc8996b5e0800000000000000
+      internalID: -1894157763033736554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 14
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1213ab079b74740800000000000000
+      internalID: 5136277793850597836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beba825b676c56f0800000000000000
+      internalID: -694566531877912905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7df4f42387a24080800000000000000
+      internalID: -9204610506689282692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 9
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f935d075e21e1e640800000000000000
+      internalID: 5107611041560089503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 15
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9f306e88e61f4f0800000000000000
+      internalID: -796734124814239253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 10
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0632ffeb732b720800000000000000
+      internalID: 2860410006797508785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 15
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2f9dea6f7006a20800000000000000
+      internalID: 3053449303434064634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 9
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91d8861b5887c480800000000000000
+      internalID: -8878978215536176738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e384450f7320339d0800000000000000
+      internalID: -2795888504388433858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 8
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b912ae65e83e48d0800000000000000
+      internalID: -2860286155278902858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 14
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5efbcd4f05a59c0800000000000000
+      internalID: -3937745911576271456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5b157e6ef45e310800000000000000
+      internalID: 1433639909529335274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 14
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb4a4260366eab20800000000000000
+      internalID: 3147565547572055011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f271b40ed05b77c0800000000000000
+      internalID: -4072572523534781712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 14
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5b4ff79c3076f20800000000000000
+      internalID: 3415703006353864096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_20
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 14
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2e05f4394c5c0a0800000000000000
+      internalID: -6861862320259145043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_21
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 14
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4386f7157b24a5cc0800000000000000
+      internalID: -3721588786954541004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Psyshock_Mark_22
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 14
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb436adedfe09340800000000000000
+      internalID: 4868654937613224898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Psyshock_Mark_0: -3960958590114142251
+      VFX_Move_Psyshock_Mark_1: -5820482631108101934
+      VFX_Move_Psyshock_Mark_10: 2860410006797508785
+      VFX_Move_Psyshock_Mark_11: 3053449303434064634
+      VFX_Move_Psyshock_Mark_12: -8878978215536176738
+      VFX_Move_Psyshock_Mark_13: -2795888504388433858
+      VFX_Move_Psyshock_Mark_14: -2860286155278902858
+      VFX_Move_Psyshock_Mark_15: -3937745911576271456
+      VFX_Move_Psyshock_Mark_16: 1433639909529335274
+      VFX_Move_Psyshock_Mark_17: 3147565547572055011
+      VFX_Move_Psyshock_Mark_18: -4072572523534781712
+      VFX_Move_Psyshock_Mark_19: 3415703006353864096
+      VFX_Move_Psyshock_Mark_2: -3445798624100032915
+      VFX_Move_Psyshock_Mark_20: -6861862320259145043
+      VFX_Move_Psyshock_Mark_21: -3721588786954541004
+      VFX_Move_Psyshock_Mark_22: 4868654937613224898
+      VFX_Move_Psyshock_Mark_3: 7674059416223430173
+      VFX_Move_Psyshock_Mark_4: -1894157763033736554
+      VFX_Move_Psyshock_Mark_5: 5136277793850597836
+      VFX_Move_Psyshock_Mark_6: -694566531877912905
+      VFX_Move_Psyshock_Mark_7: -9204610506689282692
+      VFX_Move_Psyshock_Mark_8: 5107611041560089503
+      VFX_Move_Psyshock_Mark_9: -796734124814239253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

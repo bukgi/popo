@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: b07a15a09b0b0094dbfb6aac28727972
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4032201353588647
+    second: VFX_Move_Shell_Smash_0
+  - first:
+      213: 2202251085023072400
+    second: VFX_Move_Shell_Smash_1
+  - first:
+      213: -1154752055444154505
+    second: VFX_Move_Shell_Smash_2
+  - first:
+      213: 8214123920058113540
+    second: VFX_Move_Shell_Smash_3
+  - first:
+      213: 6134071379691177798
+    second: VFX_Move_Shell_Smash_4
+  - first:
+      213: 5645178189304662648
+    second: VFX_Move_Shell_Smash_5
+  - first:
+      213: -4294367037797928173
+    second: VFX_Move_Shell_Smash_6
+  - first:
+      213: -3761075248576257076
+    second: VFX_Move_Shell_Smash_7
+  - first:
+      213: 6863968428459266461
+    second: VFX_Move_Shell_Smash_8
+  - first:
+      213: -1853214303689870913
+    second: VFX_Move_Shell_Smash_9
+  - first:
+      213: -633062261334671432
+    second: VFX_Move_Shell_Smash_10
+  - first:
+      213: 8900832299111324546
+    second: VFX_Move_Shell_Smash_11
+  - first:
+      213: 5081319588490103594
+    second: VFX_Move_Shell_Smash_12
+  - first:
+      213: 6253532206870659129
+    second: VFX_Move_Shell_Smash_13
+  - first:
+      213: -3167711272159785089
+    second: VFX_Move_Shell_Smash_14
+  - first:
+      213: -8829094322972892540
+    second: VFX_Move_Shell_Smash_15
+  - first:
+      213: 8605631590049761486
+    second: VFX_Move_Shell_Smash_16
+  - first:
+      213: 914831928351076228
+    second: VFX_Move_Shell_Smash_17
+  - first:
+      213: -8431369426724957006
+    second: VFX_Move_Shell_Smash_18
+  - first:
+      213: -3919178295328902974
+    second: VFX_Move_Shell_Smash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afe75904435e0000800000000000000
+      internalID: 4032201353588647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090d40d91b7ff8e10800000000000000
+      internalID: 2202251085023072400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777599baf1f79ffe0800000000000000
+      internalID: -1154752055444154505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e5a1c5f2e6ef170800000000000000
+      internalID: 8214123920058113540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647026d8b69902550800000000000000
+      internalID: 6134071379691177798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a894b57a3b75e40800000000000000
+      internalID: 5645178189304662648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31378e08ee75764c0800000000000000
+      internalID: -4294367037797928173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3291b0df9fdcbc0800000000000000
+      internalID: -3761075248576257076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 6
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d919fc73be6b14f50800000000000000
+      internalID: 6863968428459266461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 8
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb174e7d86f0846e0800000000000000
+      internalID: -1853214303689870913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 9
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bff0783a39e637f0800000000000000
+      internalID: -633062261334671432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 9
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b9ad141db168b70800000000000000
+      internalID: 8900832299111324546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 9
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bcf266e39748640800000000000000
+      internalID: 5081319588490103594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 9
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9308df5d86209c650800000000000000
+      internalID: 6253532206870659129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 10
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f4ae791670a04d0800000000000000
+      internalID: -3167711272159785089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 11
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48268c6ed71c87580800000000000000
+      internalID: -8829094322972892540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 11
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8cbc826585d6770800000000000000
+      internalID: 8605631590049761486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 11
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f2d86bac222bc00800000000000000
+      internalID: 914831928351076228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 10
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b458fd7d22cdfa80800000000000000
+      internalID: -8431369426724957006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shell_Smash_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 8
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0ff77ea184c99c0800000000000000
+      internalID: -3919178295328902974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Shell_Smash_0: 4032201353588647
+      VFX_Move_Shell_Smash_1: 2202251085023072400
+      VFX_Move_Shell_Smash_10: -633062261334671432
+      VFX_Move_Shell_Smash_11: 8900832299111324546
+      VFX_Move_Shell_Smash_12: 5081319588490103594
+      VFX_Move_Shell_Smash_13: 6253532206870659129
+      VFX_Move_Shell_Smash_14: -3167711272159785089
+      VFX_Move_Shell_Smash_15: -8829094322972892540
+      VFX_Move_Shell_Smash_16: 8605631590049761486
+      VFX_Move_Shell_Smash_17: 914831928351076228
+      VFX_Move_Shell_Smash_18: -8431369426724957006
+      VFX_Move_Shell_Smash_19: -3919178295328902974
+      VFX_Move_Shell_Smash_2: -1154752055444154505
+      VFX_Move_Shell_Smash_3: 8214123920058113540
+      VFX_Move_Shell_Smash_4: 6134071379691177798
+      VFX_Move_Shell_Smash_5: 5645178189304662648
+      VFX_Move_Shell_Smash_6: -4294367037797928173
+      VFX_Move_Shell_Smash_7: -3761075248576257076
+      VFX_Move_Shell_Smash_8: 6863968428459266461
+      VFX_Move_Shell_Smash_9: -1853214303689870913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: b6cf47e0e6864814fa0b680b27d771b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5553286664061607163
+    second: VFX_Move_Rapid_Spin_0
+  - first:
+      213: 8948670019569778956
+    second: VFX_Move_Rapid_Spin_1
+  - first:
+      213: 965623311528471751
+    second: VFX_Move_Rapid_Spin_2
+  - first:
+      213: 3812236983777572694
+    second: VFX_Move_Rapid_Spin_3
+  - first:
+      213: 2966055950105177842
+    second: VFX_Move_Rapid_Spin_4
+  - first:
+      213: 3247819942258566184
+    second: VFX_Move_Rapid_Spin_5
+  - first:
+      213: -2230540025354749827
+    second: VFX_Move_Rapid_Spin_6
+  - first:
+      213: 7171497311924708416
+    second: VFX_Move_Rapid_Spin_7
+  - first:
+      213: -1931820218322799883
+    second: VFX_Move_Rapid_Spin_8
+  - first:
+      213: -26187568401699698
+    second: VFX_Move_Rapid_Spin_9
+  - first:
+      213: -5063502531786681972
+    second: VFX_Move_Rapid_Spin_10
+  - first:
+      213: 8860707537269851596
+    second: VFX_Move_Rapid_Spin_11
+  - first:
+      213: -3881106478906445282
+    second: VFX_Move_Rapid_Spin_12
+  - first:
+      213: 1712939598204965391
+    second: VFX_Move_Rapid_Spin_13
+  - first:
+      213: 1792837572320116051
+    second: VFX_Move_Rapid_Spin_14
+  - first:
+      213: -7313755486631510468
+    second: VFX_Move_Rapid_Spin_15
+  - first:
+      213: -6121892948966365904
+    second: VFX_Move_Rapid_Spin_16
+  - first:
+      213: 3618085059212508762
+    second: VFX_Move_Rapid_Spin_17
+  - first:
+      213: -3239414376396505453
+    second: VFX_Move_Rapid_Spin_18
+  - first:
+      213: -392720054466873075
+    second: VFX_Move_Rapid_Spin_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503a1bc9333cee2b0800000000000000
+      internalID: -5553286664061607163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 14
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0105a088ff003c70800000000000000
+      internalID: 8948670019569778956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccad762945966d00800000000000000
+      internalID: 965623311528471751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6573ba1b659c7e430800000000000000
+      internalID: 3812236983777572694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fee3f9fb2c892920800000000000000
+      internalID: 2966055950105177842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82460c0a703921d20800000000000000
+      internalID: 3247819942258566184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7870733aa78b01e0800000000000000
+      internalID: -2230540025354749827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044e0f81fc6468360800000000000000
+      internalID: 7171497311924708416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b3f42fbbc035e0800000000000000
+      internalID: -1931820218322799883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 11
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ca2e79b86f2aff0800000000000000
+      internalID: -26187568401699698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8150916643dab9b0800000000000000
+      internalID: -5063502531786681972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 12
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc588912f8e87fa70800000000000000
+      internalID: 8860707537269851596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 11
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12705d683a832ac0800000000000000
+      internalID: -3881106478906445282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 9
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0215b03d7595c710800000000000000
+      internalID: 1712939598204965391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d3d1ee54071e810800000000000000
+      internalID: 1792837572320116051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 7
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eb3458222508a90800000000000000
+      internalID: -7313755486631510468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03524ef4ccaaa0ba0800000000000000
+      internalID: -6121892948966365904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e72812135063230800000000000000
+      internalID: 3618085059212508762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 6
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eb79ea9c94b03d0800000000000000
+      internalID: -3239414376396505453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Rapid_Spin_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d097451f037cc8af0800000000000000
+      internalID: -392720054466873075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Rapid_Spin_0: -5553286664061607163
+      VFX_Move_Rapid_Spin_1: 8948670019569778956
+      VFX_Move_Rapid_Spin_10: -5063502531786681972
+      VFX_Move_Rapid_Spin_11: 8860707537269851596
+      VFX_Move_Rapid_Spin_12: -3881106478906445282
+      VFX_Move_Rapid_Spin_13: 1712939598204965391
+      VFX_Move_Rapid_Spin_14: 1792837572320116051
+      VFX_Move_Rapid_Spin_15: -7313755486631510468
+      VFX_Move_Rapid_Spin_16: -6121892948966365904
+      VFX_Move_Rapid_Spin_17: 3618085059212508762
+      VFX_Move_Rapid_Spin_18: -3239414376396505453
+      VFX_Move_Rapid_Spin_19: -392720054466873075
+      VFX_Move_Rapid_Spin_2: 965623311528471751
+      VFX_Move_Rapid_Spin_3: 3812236983777572694
+      VFX_Move_Rapid_Spin_4: 2966055950105177842
+      VFX_Move_Rapid_Spin_5: 3247819942258566184
+      VFX_Move_Rapid_Spin_6: -2230540025354749827
+      VFX_Move_Rapid_Spin_7: 7171497311924708416
+      VFX_Move_Rapid_Spin_8: -1931820218322799883
+      VFX_Move_Rapid_Spin_9: -26187568401699698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

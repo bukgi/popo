@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 422e0e84a66a53d4989e75d17adcc5f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -39004835765325920
+    second: VFX_Move_Tri_Attack_0
+  - first:
+      213: 590160999913587928
+    second: VFX_Move_Tri_Attack_1
+  - first:
+      213: 5588428668528206065
+    second: VFX_Move_Tri_Attack_2
+  - first:
+      213: -94219928348916042
+    second: VFX_Move_Tri_Attack_3
+  - first:
+      213: 3424205793960388494
+    second: VFX_Move_Tri_Attack_4
+  - first:
+      213: 7432856796078125896
+    second: VFX_Move_Tri_Attack_5
+  - first:
+      213: 8024614046234215177
+    second: VFX_Move_Tri_Attack_6
+  - first:
+      213: 7335189671592637233
+    second: VFX_Move_Tri_Attack_7
+  - first:
+      213: -7869538436204756375
+    second: VFX_Move_Tri_Attack_8
+  - first:
+      213: -1384821165143224919
+    second: VFX_Move_Tri_Attack_9
+  - first:
+      213: -7909413690998077381
+    second: VFX_Move_Tri_Attack_10
+  - first:
+      213: -919627876602012627
+    second: VFX_Move_Tri_Attack_11
+  - first:
+      213: -4847616218915172763
+    second: VFX_Move_Tri_Attack_12
+  - first:
+      213: -1953452303720595472
+    second: VFX_Move_Tri_Attack_13
+  - first:
+      213: 8798403849644871685
+    second: VFX_Move_Tri_Attack_14
+  - first:
+      213: -2494852638508739187
+    second: VFX_Move_Tri_Attack_15
+  - first:
+      213: 415798125793542646
+    second: VFX_Move_Tri_Attack_16
+  - first:
+      213: -3626446921379874297
+    second: VFX_Move_Tri_Attack_17
+  - first:
+      213: -4895937677026647026
+    second: VFX_Move_Tri_Attack_18
+  - first:
+      213: -6686516224922814298
+    second: VFX_Move_Tri_Attack_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af6fabfe4d657ff0800000000000000
+      internalID: -39004835765325920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d483287d4ca03800800000000000000
+      internalID: 590160999913587928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0ab38e3461e8d40800000000000000
+      internalID: 5588428668528206065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b60000797341bef0800000000000000
+      internalID: -94219928348916042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87e7d20709358f20800000000000000
+      internalID: 3424205793960388494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843b59400efc62760800000000000000
+      internalID: 7432856796078125896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903866575f72d5f60800000000000000
+      internalID: 8024614046234215177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133b46f8424dbc560800000000000000
+      internalID: 7335189671592637233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9628bb3ac78c9c290800000000000000
+      internalID: -7869538436204756375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad0236cc7028cce0800000000000000
+      internalID: -1384821165143224919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38c276672e1c3290800000000000000
+      internalID: -7909413690998077381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c17919153dc33f0800000000000000
+      internalID: -919627876602012627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e83209bbec9bcb0800000000000000
+      internalID: -4847616218915172763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffb017ca71f3e4e0800000000000000
+      internalID: -1953452303720595472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50013807fa53a1a70800000000000000
+      internalID: 8798403849644871685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d859dba5eb0806dd0800000000000000
+      internalID: -2494852638508739187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f18232413635c500800000000000000
+      internalID: 415798125793542646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70af75e1db54cadc0800000000000000
+      internalID: -3626446921379874297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04206e5f922e0cb0800000000000000
+      internalID: -4895937677026647026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Tri_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8f69c8be8b433a0800000000000000
+      internalID: -6686516224922814298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Tri_Attack_0: -39004835765325920
+      VFX_Move_Tri_Attack_1: 590160999913587928
+      VFX_Move_Tri_Attack_10: -7909413690998077381
+      VFX_Move_Tri_Attack_11: -919627876602012627
+      VFX_Move_Tri_Attack_12: -4847616218915172763
+      VFX_Move_Tri_Attack_13: -1953452303720595472
+      VFX_Move_Tri_Attack_14: 8798403849644871685
+      VFX_Move_Tri_Attack_15: -2494852638508739187
+      VFX_Move_Tri_Attack_16: 415798125793542646
+      VFX_Move_Tri_Attack_17: -3626446921379874297
+      VFX_Move_Tri_Attack_18: -4895937677026647026
+      VFX_Move_Tri_Attack_19: -6686516224922814298
+      VFX_Move_Tri_Attack_2: 5588428668528206065
+      VFX_Move_Tri_Attack_3: -94219928348916042
+      VFX_Move_Tri_Attack_4: 3424205793960388494
+      VFX_Move_Tri_Attack_5: 7432856796078125896
+      VFX_Move_Tri_Attack_6: 8024614046234215177
+      VFX_Move_Tri_Attack_7: 7335189671592637233
+      VFX_Move_Tri_Attack_8: -7869538436204756375
+      VFX_Move_Tri_Attack_9: -1384821165143224919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

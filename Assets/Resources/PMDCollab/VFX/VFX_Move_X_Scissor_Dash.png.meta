@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: b7df855a2e9bbd944b9bd849598ece76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7280793732736130978
+    second: VFX_Move_X_Scissor_Dash_0
+  - first:
+      213: 6428638802991083322
+    second: VFX_Move_X_Scissor_Dash_1
+  - first:
+      213: 6057305220243909785
+    second: VFX_Move_X_Scissor_Dash_2
+  - first:
+      213: -8540693377670431385
+    second: VFX_Move_X_Scissor_Dash_3
+  - first:
+      213: 3840330093778505507
+    second: VFX_Move_X_Scissor_Dash_4
+  - first:
+      213: 5791088364795435342
+    second: VFX_Move_X_Scissor_Dash_5
+  - first:
+      213: 1494119481763377340
+    second: VFX_Move_X_Scissor_Dash_6
+  - first:
+      213: 9164587786005251128
+    second: VFX_Move_X_Scissor_Dash_7
+  - first:
+      213: -2609829492686583836
+    second: VFX_Move_X_Scissor_Dash_8
+  - first:
+      213: -7007539434675579817
+    second: VFX_Move_X_Scissor_Dash_9
+  - first:
+      213: -1134054518870236932
+    second: VFX_Move_X_Scissor_Dash_10
+  - first:
+      213: -8117606147277895408
+    second: VFX_Move_X_Scissor_Dash_11
+  - first:
+      213: 782454289314944730
+    second: VFX_Move_X_Scissor_Dash_12
+  - first:
+      213: 3353546835772949124
+    second: VFX_Move_X_Scissor_Dash_13
+  - first:
+      213: 2240404285833134905
+    second: VFX_Move_X_Scissor_Dash_14
+  - first:
+      213: -7075565894961254858
+    second: VFX_Move_X_Scissor_Dash_15
+  - first:
+      213: -1919858625791868797
+    second: VFX_Move_X_Scissor_Dash_16
+  - first:
+      213: -5962396838356562890
+    second: VFX_Move_X_Scissor_Dash_17
+  - first:
+      213: 7164087360096021704
+    second: VFX_Move_X_Scissor_Dash_18
+  - first:
+      213: -3037258453178080422
+    second: VFX_Move_X_Scissor_Dash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e506f55ecac65fa90800000000000000
+      internalID: -7280793732736130978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f63915eec173950800000000000000
+      internalID: 6428638802991083322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ce1cc310fdf0450800000000000000
+      internalID: 6057305220243909785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d3c60af9c597980800000000000000
+      internalID: -8540693377670431385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f09e39fd79b4530800000000000000
+      internalID: 3840330093778505507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49978e6f241e5050800000000000000
+      internalID: 5791088364795435342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb03f72a0cd2cb410800000000000000
+      internalID: 1494119481763377340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8340ab909082f2f70800000000000000
+      internalID: 9164587786005251128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 4
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7041467e508cbd0800000000000000
+      internalID: -2609829492686583836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 5
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754de9ef20830ce90800000000000000
+      internalID: -7007539434675579817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf020de6c670340f0800000000000000
+      internalID: -1134054518870236932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01949fcc738785f80800000000000000
+      internalID: -8117606147277895408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6199fc706dbda00800000000000000
+      internalID: 782454289314944730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c1eb44113a8e20800000000000000
+      internalID: 3353546835772949124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933c85ae3d3871f10800000000000000
+      internalID: 2240404285833134905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e27f57e4a8ecd90800000000000000
+      internalID: -7075565894961254858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380c4be60ca4b55e0800000000000000
+      internalID: -1919858625791868797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c48d76aaf414da0800000000000000
+      internalID: -5962396838356562890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cca36e3f73fb6360800000000000000
+      internalID: 7164087360096021704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_X_Scissor_Dash_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53a447678d79d5d0800000000000000
+      internalID: -3037258453178080422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_X_Scissor_Dash_0: -7280793732736130978
+      VFX_Move_X_Scissor_Dash_1: 6428638802991083322
+      VFX_Move_X_Scissor_Dash_10: -1134054518870236932
+      VFX_Move_X_Scissor_Dash_11: -8117606147277895408
+      VFX_Move_X_Scissor_Dash_12: 782454289314944730
+      VFX_Move_X_Scissor_Dash_13: 3353546835772949124
+      VFX_Move_X_Scissor_Dash_14: 2240404285833134905
+      VFX_Move_X_Scissor_Dash_15: -7075565894961254858
+      VFX_Move_X_Scissor_Dash_16: -1919858625791868797
+      VFX_Move_X_Scissor_Dash_17: -5962396838356562890
+      VFX_Move_X_Scissor_Dash_18: 7164087360096021704
+      VFX_Move_X_Scissor_Dash_19: -3037258453178080422
+      VFX_Move_X_Scissor_Dash_2: 6057305220243909785
+      VFX_Move_X_Scissor_Dash_3: -8540693377670431385
+      VFX_Move_X_Scissor_Dash_4: 3840330093778505507
+      VFX_Move_X_Scissor_Dash_5: 5791088364795435342
+      VFX_Move_X_Scissor_Dash_6: 1494119481763377340
+      VFX_Move_X_Scissor_Dash_7: 9164587786005251128
+      VFX_Move_X_Scissor_Dash_8: -2609829492686583836
+      VFX_Move_X_Scissor_Dash_9: -7007539434675579817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

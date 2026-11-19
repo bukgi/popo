@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 7331e775f07b1fe42870e4cf1f7b21e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4448707088351901425
+    second: VFX_Move_Heavy_Slam_0
+  - first:
+      213: -8308501839217653165
+    second: VFX_Move_Heavy_Slam_1
+  - first:
+      213: -5962329549068574114
+    second: VFX_Move_Heavy_Slam_2
+  - first:
+      213: -5872011885864276072
+    second: VFX_Move_Heavy_Slam_3
+  - first:
+      213: -3379209276053402117
+    second: VFX_Move_Heavy_Slam_4
+  - first:
+      213: -4021035583130157294
+    second: VFX_Move_Heavy_Slam_5
+  - first:
+      213: 3400403461352307125
+    second: VFX_Move_Heavy_Slam_6
+  - first:
+      213: 1666622143568117976
+    second: VFX_Move_Heavy_Slam_7
+  - first:
+      213: 2195642993259199068
+    second: VFX_Move_Heavy_Slam_8
+  - first:
+      213: -6414366513762952928
+    second: VFX_Move_Heavy_Slam_9
+  - first:
+      213: 3821041016069254374
+    second: VFX_Move_Heavy_Slam_10
+  - first:
+      213: -5103748194207554133
+    second: VFX_Move_Heavy_Slam_11
+  - first:
+      213: 3157008943523247037
+    second: VFX_Move_Heavy_Slam_12
+  - first:
+      213: -961496668058518000
+    second: VFX_Move_Heavy_Slam_13
+  - first:
+      213: -5136341152600643653
+    second: VFX_Move_Heavy_Slam_14
+  - first:
+      213: 8454697564678991596
+    second: VFX_Move_Heavy_Slam_15
+  - first:
+      213: 5244235607001589002
+    second: VFX_Move_Heavy_Slam_16
+  - first:
+      213: -5746607069217245708
+    second: VFX_Move_Heavy_Slam_17
+  - first:
+      213: -5856608764511600801
+    second: VFX_Move_Heavy_Slam_18
+  - first:
+      213: 1888902125346532423
+    second: VFX_Move_Heavy_Slam_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09c50139740342c0800000000000000
+      internalID: -4448707088351901425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a80c9f89542bc80800000000000000
+      internalID: -8308501839217653165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52e3f96ddc814da0800000000000000
+      internalID: -5962329549068574114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f20321d4c628ea0800000000000000
+      internalID: -5872011885864276072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdc1273113aa11d0800000000000000
+      internalID: -3379209276053402117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f325601796238c0800000000000000
+      internalID: -4021035583130157294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9b9e69ee8a03f20800000000000000
+      internalID: 3400403461352307125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d08d2a6208012710800000000000000
+      internalID: 1666622143568117976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a3aca5bad787e10800000000000000
+      internalID: 2195642993259199068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0299ff7f3a79bf6a0800000000000000
+      internalID: -6414366513762952928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec61033f80170530800000000000000
+      internalID: 3821041016069254374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5a735ee08db29b0800000000000000
+      internalID: -5103748194207554133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db33f6758e2ffcb20800000000000000
+      internalID: 3157008943523247037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e76a7efd318a2f0800000000000000
+      internalID: -961496668058518000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7a40a6fec08b8b0800000000000000
+      internalID: -5136341152600643653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee2d02e3ae155570800000000000000
+      internalID: 8454697564678991596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05e8c9df7447c840800000000000000
+      internalID: 5244235607001589002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 6
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5be8f3153ff30b0800000000000000
+      internalID: -5746607069217245708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fb8dabb5529bea0800000000000000
+      internalID: -5856608764511600801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Heavy_Slam_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ca2c4a97ab63a10800000000000000
+      internalID: 1888902125346532423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Heavy_Slam_0: -4448707088351901425
+      VFX_Move_Heavy_Slam_1: -8308501839217653165
+      VFX_Move_Heavy_Slam_10: 3821041016069254374
+      VFX_Move_Heavy_Slam_11: -5103748194207554133
+      VFX_Move_Heavy_Slam_12: 3157008943523247037
+      VFX_Move_Heavy_Slam_13: -961496668058518000
+      VFX_Move_Heavy_Slam_14: -5136341152600643653
+      VFX_Move_Heavy_Slam_15: 8454697564678991596
+      VFX_Move_Heavy_Slam_16: 5244235607001589002
+      VFX_Move_Heavy_Slam_17: -5746607069217245708
+      VFX_Move_Heavy_Slam_18: -5856608764511600801
+      VFX_Move_Heavy_Slam_19: 1888902125346532423
+      VFX_Move_Heavy_Slam_2: -5962329549068574114
+      VFX_Move_Heavy_Slam_3: -5872011885864276072
+      VFX_Move_Heavy_Slam_4: -3379209276053402117
+      VFX_Move_Heavy_Slam_5: -4021035583130157294
+      VFX_Move_Heavy_Slam_6: 3400403461352307125
+      VFX_Move_Heavy_Slam_7: 1666622143568117976
+      VFX_Move_Heavy_Slam_8: 2195642993259199068
+      VFX_Move_Heavy_Slam_9: -6414366513762952928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

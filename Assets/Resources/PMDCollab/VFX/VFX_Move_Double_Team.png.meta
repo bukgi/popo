@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0f00bf25cb63ec54887499de6f1574bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4631506234642389825
+    second: VFX_Move_Double_Team_0
+  - first:
+      213: 3558342599623243109
+    second: VFX_Move_Double_Team_1
+  - first:
+      213: -6023267924232603213
+    second: VFX_Move_Double_Team_2
+  - first:
+      213: 5920935080623001580
+    second: VFX_Move_Double_Team_3
+  - first:
+      213: 3896685224002843343
+    second: VFX_Move_Double_Team_4
+  - first:
+      213: -7893247790545907163
+    second: VFX_Move_Double_Team_5
+  - first:
+      213: -5731075006225926524
+    second: VFX_Move_Double_Team_6
+  - first:
+      213: 4394766098365448457
+    second: VFX_Move_Double_Team_7
+  - first:
+      213: -8721033116795324204
+    second: VFX_Move_Double_Team_8
+  - first:
+      213: 8433817976567367527
+    second: VFX_Move_Double_Team_9
+  - first:
+      213: -4838587148802211657
+    second: VFX_Move_Double_Team_10
+  - first:
+      213: -2808179438617611518
+    second: VFX_Move_Double_Team_11
+  - first:
+      213: 4611413716050374361
+    second: VFX_Move_Double_Team_12
+  - first:
+      213: -5078474036046759858
+    second: VFX_Move_Double_Team_13
+  - first:
+      213: 1230767283679645210
+    second: VFX_Move_Double_Team_14
+  - first:
+      213: -4486303064350594843
+    second: VFX_Move_Double_Team_15
+  - first:
+      213: -169389468748721904
+    second: VFX_Move_Double_Team_16
+  - first:
+      213: 7320832236818822415
+    second: VFX_Move_Double_Team_17
+  - first:
+      213: -1668453489666174371
+    second: VFX_Move_Double_Team_18
+  - first:
+      213: -144261476658199802
+    second: VFX_Move_Double_Team_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bddd2b16a664040800000000000000
+      internalID: 4631506234642389825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565feafcdb5c16130800000000000000
+      internalID: 3558342599623243109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b97c1d4cbd096ca0800000000000000
+      internalID: -6023267924232603213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefceaad5136b2250800000000000000
+      internalID: 5920935080623001580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f332d09ec31630800000000000000
+      internalID: 3896685224002843343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522df5864fc857290800000000000000
+      internalID: -7893247790545907163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b8c875a12770b0800000000000000
+      internalID: -5731075006225926524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90180046b785dfc30800000000000000
+      internalID: 4394766098365448457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d83ff6169aa8f680800000000000000
+      internalID: -8721033116795324204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7670a91f3c0fa0570800000000000000
+      internalID: 8433817976567367527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0cfd4cf92e9dcb0800000000000000
+      internalID: -4838587148802211657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 9
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20334afcda75709d0800000000000000
+      internalID: -2808179438617611518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deeb89a7580fff30800000000000000
+      internalID: 4611413716050374361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48736865c2a589b0800000000000000
+      internalID: -5078474036046759858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 7
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ec5e8d250941110800000000000000
+      internalID: 1230767283679645210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8e2a6e1237db1c0800000000000000
+      internalID: -4486303064350594843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0115a86fc2536adf0800000000000000
+      internalID: -169389468748721904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 6
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0570d7c122d89560800000000000000
+      internalID: 7320832236818822415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_18
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52df28146678d8e0800000000000000
+      internalID: -1668453489666174371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Double_Team_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603c30983fa7ffdf0800000000000000
+      internalID: -144261476658199802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Double_Team_0: 4631506234642389825
+      VFX_Move_Double_Team_1: 3558342599623243109
+      VFX_Move_Double_Team_10: -4838587148802211657
+      VFX_Move_Double_Team_11: -2808179438617611518
+      VFX_Move_Double_Team_12: 4611413716050374361
+      VFX_Move_Double_Team_13: -5078474036046759858
+      VFX_Move_Double_Team_14: 1230767283679645210
+      VFX_Move_Double_Team_15: -4486303064350594843
+      VFX_Move_Double_Team_16: -169389468748721904
+      VFX_Move_Double_Team_17: 7320832236818822415
+      VFX_Move_Double_Team_18: -1668453489666174371
+      VFX_Move_Double_Team_19: -144261476658199802
+      VFX_Move_Double_Team_2: -6023267924232603213
+      VFX_Move_Double_Team_3: 5920935080623001580
+      VFX_Move_Double_Team_4: 3896685224002843343
+      VFX_Move_Double_Team_5: -7893247790545907163
+      VFX_Move_Double_Team_6: -5731075006225926524
+      VFX_Move_Double_Team_7: 4394766098365448457
+      VFX_Move_Double_Team_8: -8721033116795324204
+      VFX_Move_Double_Team_9: 8433817976567367527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

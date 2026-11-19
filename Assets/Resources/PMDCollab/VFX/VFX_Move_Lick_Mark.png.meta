@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: b03b79c4933d909489734f4b3c05bf63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1244171909900487173
+    second: VFX_Move_Lick_Mark_0
+  - first:
+      213: 6103114250895427511
+    second: VFX_Move_Lick_Mark_1
+  - first:
+      213: 3011547653384773750
+    second: VFX_Move_Lick_Mark_2
+  - first:
+      213: 2640155912505594600
+    second: VFX_Move_Lick_Mark_3
+  - first:
+      213: -2655922165781197805
+    second: VFX_Move_Lick_Mark_4
+  - first:
+      213: 1812183848582280973
+    second: VFX_Move_Lick_Mark_5
+  - first:
+      213: -2930366193811135668
+    second: VFX_Move_Lick_Mark_6
+  - first:
+      213: -7825346513601013783
+    second: VFX_Move_Lick_Mark_7
+  - first:
+      213: 9148675375365320096
+    second: VFX_Move_Lick_Mark_8
+  - first:
+      213: -8694226561253837288
+    second: VFX_Move_Lick_Mark_9
+  - first:
+      213: -8754419955975608823
+    second: VFX_Move_Lick_Mark_10
+  - first:
+      213: -531152515195017941
+    second: VFX_Move_Lick_Mark_11
+  - first:
+      213: 5092301101060187915
+    second: VFX_Move_Lick_Mark_12
+  - first:
+      213: -7205214914225057944
+    second: VFX_Move_Lick_Mark_13
+  - first:
+      213: -883754567857206325
+    second: VFX_Move_Lick_Mark_14
+  - first:
+      213: -7228670637893076242
+    second: VFX_Move_Lick_Mark_15
+  - first:
+      213: 3730725941987633119
+    second: VFX_Move_Lick_Mark_16
+  - first:
+      213: 1749693757157539079
+    second: VFX_Move_Lick_Mark_17
+  - first:
+      213: -4509354564305165309
+    second: VFX_Move_Lick_Mark_18
+  - first:
+      213: 6225237411396313639
+    second: VFX_Move_Lick_Mark_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5bcd66d30dbbee0800000000000000
+      internalID: -1244171909900487173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b70f34531e92b450800000000000000
+      internalID: 6103114250895427511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670292882aa2bc920800000000000000
+      internalID: 3011547653384773750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e21b8470d7b3a420800000000000000
+      internalID: 2640155912505594600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c8685acd4442bd0800000000000000
+      internalID: -2655922165781197805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d077272eb9b262910800000000000000
+      internalID: 1812183848582280973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43e214f87f3557d0800000000000000
+      internalID: -2930366193811135668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 6
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7587c6ec8c66390800000000000000
+      internalID: -7825346513601013783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 8
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad630a38cf96fe70800000000000000
+      internalID: 9148675375365320096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 9
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816f2bba107e75780800000000000000
+      internalID: -8694226561253837288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 8
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906ab75de6d028680800000000000000
+      internalID: -8754419955975608823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 8
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25ee320a97f0a8f0800000000000000
+      internalID: -531152515195017941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 8
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07e50a0fdc7ba640800000000000000
+      internalID: 5092301101060187915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 8
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fc44bd53fe10c90800000000000000
+      internalID: -7205214914225057944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 8
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb0e3227e54cb3f0800000000000000
+      internalID: -883754567857206325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 9
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea361e9a5a9eab90800000000000000
+      internalID: -7228670637893076242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 10
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e18e5a7336c330800000000000000
+      internalID: 3730725941987633119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 10
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70df71da339284810800000000000000
+      internalID: 1749693757157539079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 10
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304ed445aed8b61c0800000000000000
+      internalID: -4509354564305165309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Lick_Mark_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 10
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722efb4617c746650800000000000000
+      internalID: 6225237411396313639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Lick_Mark_0: -1244171909900487173
+      VFX_Move_Lick_Mark_1: 6103114250895427511
+      VFX_Move_Lick_Mark_10: -8754419955975608823
+      VFX_Move_Lick_Mark_11: -531152515195017941
+      VFX_Move_Lick_Mark_12: 5092301101060187915
+      VFX_Move_Lick_Mark_13: -7205214914225057944
+      VFX_Move_Lick_Mark_14: -883754567857206325
+      VFX_Move_Lick_Mark_15: -7228670637893076242
+      VFX_Move_Lick_Mark_16: 3730725941987633119
+      VFX_Move_Lick_Mark_17: 1749693757157539079
+      VFX_Move_Lick_Mark_18: -4509354564305165309
+      VFX_Move_Lick_Mark_19: 6225237411396313639
+      VFX_Move_Lick_Mark_2: 3011547653384773750
+      VFX_Move_Lick_Mark_3: 2640155912505594600
+      VFX_Move_Lick_Mark_4: -2655922165781197805
+      VFX_Move_Lick_Mark_5: 1812183848582280973
+      VFX_Move_Lick_Mark_6: -2930366193811135668
+      VFX_Move_Lick_Mark_7: -7825346513601013783
+      VFX_Move_Lick_Mark_8: 9148675375365320096
+      VFX_Move_Lick_Mark_9: -8694226561253837288
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

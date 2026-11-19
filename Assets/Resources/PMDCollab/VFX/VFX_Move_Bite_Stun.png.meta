@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d75af462c4c1f9148aa69d284c540de3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 333744543884032468
+    second: VFX_Move_Bite_Stun_0
+  - first:
+      213: -1636645793985366776
+    second: VFX_Move_Bite_Stun_1
+  - first:
+      213: -6571605490590239992
+    second: VFX_Move_Bite_Stun_2
+  - first:
+      213: 6843147601332168895
+    second: VFX_Move_Bite_Stun_3
+  - first:
+      213: 6999490784435561573
+    second: VFX_Move_Bite_Stun_4
+  - first:
+      213: 2938828193572945384
+    second: VFX_Move_Bite_Stun_5
+  - first:
+      213: -8190000208372940532
+    second: VFX_Move_Bite_Stun_6
+  - first:
+      213: -4050034740767109885
+    second: VFX_Move_Bite_Stun_7
+  - first:
+      213: -1476556708184112465
+    second: VFX_Move_Bite_Stun_8
+  - first:
+      213: 1904256441183898671
+    second: VFX_Move_Bite_Stun_9
+  - first:
+      213: 4601026079194177890
+    second: VFX_Move_Bite_Stun_10
+  - first:
+      213: -4637686977067635830
+    second: VFX_Move_Bite_Stun_11
+  - first:
+      213: 8782800139820025907
+    second: VFX_Move_Bite_Stun_12
+  - first:
+      213: -6253337942873306701
+    second: VFX_Move_Bite_Stun_13
+  - first:
+      213: 3175330967132530782
+    second: VFX_Move_Bite_Stun_14
+  - first:
+      213: 5577931368098313252
+    second: VFX_Move_Bite_Stun_15
+  - first:
+      213: -3666659426394812084
+    second: VFX_Move_Bite_Stun_16
+  - first:
+      213: -4246437363241746585
+    second: VFX_Move_Bite_Stun_17
+  - first:
+      213: 2227549441783372605
+    second: VFX_Move_Bite_Stun_18
+  - first:
+      213: -6299318771828447285
+    second: VFX_Move_Bite_Stun_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9bee7f4e2b1a400800000000000000
+      internalID: 333744543884032468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8057d5a52577949e0800000000000000
+      internalID: -1636645793985366776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803bc59cf97fcc4a0800000000000000
+      internalID: -6571605490590239992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb868f2ac7eb7fe50800000000000000
+      internalID: 6843147601332168895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564e6e698cf232160800000000000000
+      internalID: 6999490784435561573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed71d5eba0d8c820800000000000000
+      internalID: 2938828193572945384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c014e85f336475e80800000000000000
+      internalID: -8190000208372940532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dc59c7cd26bc7c0800000000000000
+      internalID: -4050034740767109885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa247fd3f77328be0800000000000000
+      internalID: -1476556708184112465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c0402e4274d6a10800000000000000
+      internalID: 1904256441183898671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2616dac77d02adf30800000000000000
+      internalID: 4601026079194177890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bad601440a3afb0800000000000000
+      internalID: -4637686977067635830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3384933a136c2e970800000000000000
+      internalID: 8782800139820025907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b98096c54ea739a0800000000000000
+      internalID: -6253337942873306701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e586b34e0ba011c20800000000000000
+      internalID: 3175330967132530782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4243201b60bc86d40800000000000000
+      internalID: 5577931368098313252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c415661bda86d1dc0800000000000000
+      internalID: -3666659426394812084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f770b77bf9115c0800000000000000
+      internalID: -4246437363241746585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b1e1d4a68d9ee10800000000000000
+      internalID: 2227549441783372605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bite_Stun_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc72736c3f25498a0800000000000000
+      internalID: -6299318771828447285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Bite_Stun_0: 333744543884032468
+      VFX_Move_Bite_Stun_1: -1636645793985366776
+      VFX_Move_Bite_Stun_10: 4601026079194177890
+      VFX_Move_Bite_Stun_11: -4637686977067635830
+      VFX_Move_Bite_Stun_12: 8782800139820025907
+      VFX_Move_Bite_Stun_13: -6253337942873306701
+      VFX_Move_Bite_Stun_14: 3175330967132530782
+      VFX_Move_Bite_Stun_15: 5577931368098313252
+      VFX_Move_Bite_Stun_16: -3666659426394812084
+      VFX_Move_Bite_Stun_17: -4246437363241746585
+      VFX_Move_Bite_Stun_18: 2227549441783372605
+      VFX_Move_Bite_Stun_19: -6299318771828447285
+      VFX_Move_Bite_Stun_2: -6571605490590239992
+      VFX_Move_Bite_Stun_3: 6843147601332168895
+      VFX_Move_Bite_Stun_4: 6999490784435561573
+      VFX_Move_Bite_Stun_5: 2938828193572945384
+      VFX_Move_Bite_Stun_6: -8190000208372940532
+      VFX_Move_Bite_Stun_7: -4050034740767109885
+      VFX_Move_Bite_Stun_8: -1476556708184112465
+      VFX_Move_Bite_Stun_9: 1904256441183898671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

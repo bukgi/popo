@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0fc85dafb9dadc0459bd7753fd73cfaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6007722496731018721
+    second: VFX_Move_Scratch_Sweep_0
+  - first:
+      213: 6658180743146047929
+    second: VFX_Move_Scratch_Sweep_1
+  - first:
+      213: -3269638414497243111
+    second: VFX_Move_Scratch_Sweep_2
+  - first:
+      213: 8414320175851058463
+    second: VFX_Move_Scratch_Sweep_3
+  - first:
+      213: 3252699169676387452
+    second: VFX_Move_Scratch_Sweep_4
+  - first:
+      213: 7176795514177466082
+    second: VFX_Move_Scratch_Sweep_5
+  - first:
+      213: 561116020047695938
+    second: VFX_Move_Scratch_Sweep_6
+  - first:
+      213: 6261485209522920212
+    second: VFX_Move_Scratch_Sweep_7
+  - first:
+      213: -7818194289633510851
+    second: VFX_Move_Scratch_Sweep_8
+  - first:
+      213: 1645283021025017632
+    second: VFX_Move_Scratch_Sweep_9
+  - first:
+      213: 1845825751334086600
+    second: VFX_Move_Scratch_Sweep_10
+  - first:
+      213: -8227342733025333522
+    second: VFX_Move_Scratch_Sweep_11
+  - first:
+      213: -791055442142372375
+    second: VFX_Move_Scratch_Sweep_12
+  - first:
+      213: 890240354544024186
+    second: VFX_Move_Scratch_Sweep_13
+  - first:
+      213: -3615862863016898345
+    second: VFX_Move_Scratch_Sweep_14
+  - first:
+      213: 3307906440570770148
+    second: VFX_Move_Scratch_Sweep_15
+  - first:
+      213: -7778072346721236825
+    second: VFX_Move_Scratch_Sweep_16
+  - first:
+      213: -6140297965691308721
+    second: VFX_Move_Scratch_Sweep_17
+  - first:
+      213: 2023396690070077246
+    second: VFX_Move_Scratch_Sweep_18
+  - first:
+      213: 1208822448773528216
+    second: VFX_Move_Scratch_Sweep_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e576cec7c7bf5350800000000000000
+      internalID: 6007722496731018721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9019dfb1c966c50800000000000000
+      internalID: 6658180743146047929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910abef6f29ef92d0800000000000000
+      internalID: -3269638414497243111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1531047e9ba5c470800000000000000
+      internalID: 8414320175851058463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74e4c949a8e32d20800000000000000
+      internalID: 3252699169676387452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee2a20fe79199360800000000000000
+      internalID: 7176795514177466082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24059bc1c0c79c700800000000000000
+      internalID: 561116020047695938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bd9ff8f9345e650800000000000000
+      internalID: 6261485209522920212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a386557b1308390800000000000000
+      internalID: -7818194289633510851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7d27c03835d610800000000000000
+      internalID: 1645283021025017632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c76981cdb0bd9910800000000000000
+      internalID: 1845825751334086600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee22a8ef5b92dd80800000000000000
+      internalID: -8227342733025333522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edd67d344b9505f0800000000000000
+      internalID: -791055442142372375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 3
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a7051c2e4ca5c00800000000000000
+      internalID: 890240354544024186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0d95d32efd1ddc0800000000000000
+      internalID: -3615862863016898345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 4
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e29274b16b08ed20800000000000000
+      internalID: 3307906440570770148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 5
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a84460296cbe0490800000000000000
+      internalID: -7778072346721236825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f457aeb688749caa0800000000000000
+      internalID: -6140297965691308721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 4
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ff357b19c841c10800000000000000
+      internalID: 2023396690070077246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Scratch_Sweep_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89af9afcc9996c010800000000000000
+      internalID: 1208822448773528216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Scratch_Sweep_0: 6007722496731018721
+      VFX_Move_Scratch_Sweep_1: 6658180743146047929
+      VFX_Move_Scratch_Sweep_10: 1845825751334086600
+      VFX_Move_Scratch_Sweep_11: -8227342733025333522
+      VFX_Move_Scratch_Sweep_12: -791055442142372375
+      VFX_Move_Scratch_Sweep_13: 890240354544024186
+      VFX_Move_Scratch_Sweep_14: -3615862863016898345
+      VFX_Move_Scratch_Sweep_15: 3307906440570770148
+      VFX_Move_Scratch_Sweep_16: -7778072346721236825
+      VFX_Move_Scratch_Sweep_17: -6140297965691308721
+      VFX_Move_Scratch_Sweep_18: 2023396690070077246
+      VFX_Move_Scratch_Sweep_19: 1208822448773528216
+      VFX_Move_Scratch_Sweep_2: -3269638414497243111
+      VFX_Move_Scratch_Sweep_3: 8414320175851058463
+      VFX_Move_Scratch_Sweep_4: 3252699169676387452
+      VFX_Move_Scratch_Sweep_5: 7176795514177466082
+      VFX_Move_Scratch_Sweep_6: 561116020047695938
+      VFX_Move_Scratch_Sweep_7: 6261485209522920212
+      VFX_Move_Scratch_Sweep_8: -7818194289633510851
+      VFX_Move_Scratch_Sweep_9: 1645283021025017632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

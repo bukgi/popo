@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 7dd574fd1ab5f9e4ab9dc87f161d08d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -233303082612592326
+    second: VFX_Move_Sand_Kite_0
+  - first:
+      213: 6629076175234220609
+    second: VFX_Move_Sand_Kite_1
+  - first:
+      213: -3914495466430418277
+    second: VFX_Move_Sand_Kite_2
+  - first:
+      213: -1780610111960889028
+    second: VFX_Move_Sand_Kite_3
+  - first:
+      213: -1464551595577044633
+    second: VFX_Move_Sand_Kite_4
+  - first:
+      213: 4647707448400578563
+    second: VFX_Move_Sand_Kite_5
+  - first:
+      213: -5780478772869675441
+    second: VFX_Move_Sand_Kite_6
+  - first:
+      213: 9100026660580587953
+    second: VFX_Move_Sand_Kite_7
+  - first:
+      213: 5790100620217530427
+    second: VFX_Move_Sand_Kite_8
+  - first:
+      213: 8831122932362927747
+    second: VFX_Move_Sand_Kite_9
+  - first:
+      213: 6183560919313202829
+    second: VFX_Move_Sand_Kite_10
+  - first:
+      213: -2566774663095229396
+    second: VFX_Move_Sand_Kite_11
+  - first:
+      213: -2640723065674273260
+    second: VFX_Move_Sand_Kite_12
+  - first:
+      213: -7551270704769561160
+    second: VFX_Move_Sand_Kite_13
+  - first:
+      213: 102207048029624239
+    second: VFX_Move_Sand_Kite_14
+  - first:
+      213: 4843675052890961685
+    second: VFX_Move_Sand_Kite_15
+  - first:
+      213: 9172447470131958587
+    second: VFX_Move_Sand_Kite_16
+  - first:
+      213: -2718584329030044392
+    second: VFX_Move_Sand_Kite_17
+  - first:
+      213: -1067960693984501750
+    second: VFX_Move_Sand_Kite_18
+  - first:
+      213: 6639608809163784426
+    second: VFX_Move_Sand_Kite_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a317fdb151423ccf0800000000000000
+      internalID: -233303082612592326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14247d5b8a53ffb50800000000000000
+      internalID: 6629076175234220609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92b988fc1beca9c0800000000000000
+      internalID: -3914495466430418277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c394a1989800a47e0800000000000000
+      internalID: -1780610111960889028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7611666551edcabe0800000000000000
+      internalID: -1464551595577044633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3088ad9bc49ff7040800000000000000
+      internalID: 4647707448400578563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46ca6fae2d97cfa0800000000000000
+      internalID: -5780478772869675441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b97d76a80ac94e70800000000000000
+      internalID: 9100026660580587953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38b5d936d19a5050800000000000000
+      internalID: 5790100620217530427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 9
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e5c4784837e8a70800000000000000
+      internalID: 8831122932362927747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 9
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eb6aae4eb60d550800000000000000
+      internalID: 6183560919313202829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c246cb31b0cf06cd0800000000000000
+      internalID: -2566774663095229396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eed48ec544a5bd0800000000000000
+      internalID: -2640723065674273260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd85676d4f743790800000000000000
+      internalID: -7551270704769561160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 8
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7d857c4cc1b6100800000000000000
+      internalID: 102207048029624239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517bcf63cc0383340800000000000000
+      internalID: 4843675052890961685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33552a50641b4f70800000000000000
+      internalID: 9172447470131958587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 8
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8157838d4f5a54ad0800000000000000
+      internalID: -2718584329030044392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 7
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0069f83867dd21f0800000000000000
+      internalID: -1067960693984501750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Kite_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 6
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae003c5a801a42c50800000000000000
+      internalID: 6639608809163784426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Sand_Kite_0: -233303082612592326
+      VFX_Move_Sand_Kite_1: 6629076175234220609
+      VFX_Move_Sand_Kite_10: 6183560919313202829
+      VFX_Move_Sand_Kite_11: -2566774663095229396
+      VFX_Move_Sand_Kite_12: -2640723065674273260
+      VFX_Move_Sand_Kite_13: -7551270704769561160
+      VFX_Move_Sand_Kite_14: 102207048029624239
+      VFX_Move_Sand_Kite_15: 4843675052890961685
+      VFX_Move_Sand_Kite_16: 9172447470131958587
+      VFX_Move_Sand_Kite_17: -2718584329030044392
+      VFX_Move_Sand_Kite_18: -1067960693984501750
+      VFX_Move_Sand_Kite_19: 6639608809163784426
+      VFX_Move_Sand_Kite_2: -3914495466430418277
+      VFX_Move_Sand_Kite_3: -1780610111960889028
+      VFX_Move_Sand_Kite_4: -1464551595577044633
+      VFX_Move_Sand_Kite_5: 4647707448400578563
+      VFX_Move_Sand_Kite_6: -5780478772869675441
+      VFX_Move_Sand_Kite_7: 9100026660580587953
+      VFX_Move_Sand_Kite_8: 5790100620217530427
+      VFX_Move_Sand_Kite_9: 8831122932362927747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

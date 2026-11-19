@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 3286873a47ffe564db4aba687e3915f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5923697975029144727
+    second: VFX_Move_Dark_Void_Stasis_0
+  - first:
+      213: -5561900264462796834
+    second: VFX_Move_Dark_Void_Stasis_1
+  - first:
+      213: -8855863958117896534
+    second: VFX_Move_Dark_Void_Stasis_2
+  - first:
+      213: -4530406145485459143
+    second: VFX_Move_Dark_Void_Stasis_3
+  - first:
+      213: -6753137580432575208
+    second: VFX_Move_Dark_Void_Stasis_4
+  - first:
+      213: -6045345944915290678
+    second: VFX_Move_Dark_Void_Stasis_5
+  - first:
+      213: -11795057955625301
+    second: VFX_Move_Dark_Void_Stasis_6
+  - first:
+      213: -8724874635489236377
+    second: VFX_Move_Dark_Void_Stasis_7
+  - first:
+      213: 8082655447527422417
+    second: VFX_Move_Dark_Void_Stasis_8
+  - first:
+      213: 952028953802782337
+    second: VFX_Move_Dark_Void_Stasis_9
+  - first:
+      213: -6416687486910501781
+    second: VFX_Move_Dark_Void_Stasis_10
+  - first:
+      213: -2715057196577502286
+    second: VFX_Move_Dark_Void_Stasis_11
+  - first:
+      213: -5948940168565906172
+    second: VFX_Move_Dark_Void_Stasis_12
+  - first:
+      213: -5774559993685619240
+    second: VFX_Move_Dark_Void_Stasis_13
+  - first:
+      213: -901218012850771514
+    second: VFX_Move_Dark_Void_Stasis_14
+  - first:
+      213: -6667624072269602226
+    second: VFX_Move_Dark_Void_Stasis_15
+  - first:
+      213: 350184540496803529
+    second: VFX_Move_Dark_Void_Stasis_16
+  - first:
+      213: 6424360137056031549
+    second: VFX_Move_Dark_Void_Stasis_17
+  - first:
+      213: 2794200211160648358
+    second: VFX_Move_Dark_Void_Stasis_18
+  - first:
+      213: 3981886069410540156
+    second: VFX_Move_Dark_Void_Stasis_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c10565ce3353250800000000000000
+      internalID: 5923697975029144727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed73b8c7d2920d2b0800000000000000
+      internalID: -5561900264462796834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaea23586a6a91580800000000000000
+      internalID: -8855863958117896534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b7122d93c021c0800000000000000
+      internalID: -4530406145485459143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815b9f676290842a0800000000000000
+      internalID: -6753137580432575208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5d9f884ed9a1ca0800000000000000
+      internalID: -6045345944915290678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba62370157816dff0800000000000000
+      internalID: -11795057955625301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a29d1deb40be680800000000000000
+      internalID: -8724874635489236377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d97fb74e4c5b2070800000000000000
+      internalID: 8082655447527422417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1863d471a49463d00800000000000000
+      internalID: 952028953802782337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 8
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c610c4ab853f6a0800000000000000
+      internalID: -6416687486910501781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 6
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb412d5ddd225ad0800000000000000
+      internalID: -2715057196577502286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 4
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405a39e7f6e117da0800000000000000
+      internalID: -5948940168565906172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddcf2ad744acdfa0800000000000000
+      internalID: -5774559993685619240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9a8defdfa3e73f0800000000000000
+      internalID: -901218012850771514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42e68c9b37d773a0800000000000000
+      internalID: -6667624072269602226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c63526fbfa1cd400800000000000000
+      internalID: 350184540496803529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d339766c189e72950800000000000000
+      internalID: 6424360137056031549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa4d89a94ef6c620800000000000000
+      internalID: 2794200211160648358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_Stasis_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aaa4f7840824730800000000000000
+      internalID: 3981886069410540156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dark_Void_Stasis_0: 5923697975029144727
+      VFX_Move_Dark_Void_Stasis_1: -5561900264462796834
+      VFX_Move_Dark_Void_Stasis_10: -6416687486910501781
+      VFX_Move_Dark_Void_Stasis_11: -2715057196577502286
+      VFX_Move_Dark_Void_Stasis_12: -5948940168565906172
+      VFX_Move_Dark_Void_Stasis_13: -5774559993685619240
+      VFX_Move_Dark_Void_Stasis_14: -901218012850771514
+      VFX_Move_Dark_Void_Stasis_15: -6667624072269602226
+      VFX_Move_Dark_Void_Stasis_16: 350184540496803529
+      VFX_Move_Dark_Void_Stasis_17: 6424360137056031549
+      VFX_Move_Dark_Void_Stasis_18: 2794200211160648358
+      VFX_Move_Dark_Void_Stasis_19: 3981886069410540156
+      VFX_Move_Dark_Void_Stasis_2: -8855863958117896534
+      VFX_Move_Dark_Void_Stasis_3: -4530406145485459143
+      VFX_Move_Dark_Void_Stasis_4: -6753137580432575208
+      VFX_Move_Dark_Void_Stasis_5: -6045345944915290678
+      VFX_Move_Dark_Void_Stasis_6: -11795057955625301
+      VFX_Move_Dark_Void_Stasis_7: -8724874635489236377
+      VFX_Move_Dark_Void_Stasis_8: 8082655447527422417
+      VFX_Move_Dark_Void_Stasis_9: 952028953802782337
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

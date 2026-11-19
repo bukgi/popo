@@ -1,0 +1,2405 @@
+fileFormatVersion: 2
+guid: b5908f24f234cdb488723124be64b03c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1989731151668294689
+    second: Shake-Anim_0
+  - first:
+      213: -6993977722287740241
+    second: Shake-Anim_1
+  - first:
+      213: 8668809593388060694
+    second: Shake-Anim_2
+  - first:
+      213: 1350821067979168130
+    second: Shake-Anim_3
+  - first:
+      213: 1555674744927094430
+    second: Shake-Anim_4
+  - first:
+      213: -5654407560507191932
+    second: Shake-Anim_5
+  - first:
+      213: -916639853666584687
+    second: Shake-Anim_6
+  - first:
+      213: -467196922549222262
+    second: Shake-Anim_7
+  - first:
+      213: -8640858398575378595
+    second: Shake-Anim_8
+  - first:
+      213: -4780174663317123103
+    second: Shake-Anim_9
+  - first:
+      213: 5695167014879583816
+    second: Shake-Anim_10
+  - first:
+      213: 8190022228554239783
+    second: Shake-Anim_11
+  - first:
+      213: 1569645000077639624
+    second: Shake-Anim_12
+  - first:
+      213: 3725609161442979372
+    second: Shake-Anim_13
+  - first:
+      213: -348923224660930637
+    second: Shake-Anim_14
+  - first:
+      213: 4467501464271836692
+    second: Shake-Anim_15
+  - first:
+      213: 4492584768490059632
+    second: Shake-Anim_16
+  - first:
+      213: -9093995178444378007
+    second: Shake-Anim_17
+  - first:
+      213: -2461163327002409016
+    second: Shake-Anim_18
+  - first:
+      213: -7102695519254056062
+    second: Shake-Anim_19
+  - first:
+      213: -7803195665250865414
+    second: Shake-Anim_20
+  - first:
+      213: -6288998100413904270
+    second: Shake-Anim_21
+  - first:
+      213: -4505488481004960182
+    second: Shake-Anim_22
+  - first:
+      213: 9045746795427861051
+    second: Shake-Anim_23
+  - first:
+      213: -4657276879811755546
+    second: Shake-Anim_24
+  - first:
+      213: 4862548359782058037
+    second: Shake-Anim_25
+  - first:
+      213: -9150969522871403575
+    second: Shake-Anim_26
+  - first:
+      213: -4354191082321883538
+    second: Shake-Anim_27
+  - first:
+      213: -743289040972563191
+    second: Shake-Anim_28
+  - first:
+      213: -8248418784275646118
+    second: Shake-Anim_29
+  - first:
+      213: -3659729913423478249
+    second: Shake-Anim_30
+  - first:
+      213: 6711830819875655441
+    second: Shake-Anim_31
+  - first:
+      213: -7352778698774941292
+    second: Shake-Anim_32
+  - first:
+      213: -3769073293579046119
+    second: Shake-Anim_33
+  - first:
+      213: 4301260346950885591
+    second: Shake-Anim_34
+  - first:
+      213: 2109520319155339618
+    second: Shake-Anim_35
+  - first:
+      213: -8409072280128518814
+    second: Shake-Anim_36
+  - first:
+      213: -6639127465155544031
+    second: Shake-Anim_37
+  - first:
+      213: 2821830083446215745
+    second: Shake-Anim_38
+  - first:
+      213: -2621804617771870683
+    second: Shake-Anim_39
+  - first:
+      213: 5016070141434735593
+    second: Shake-Anim_40
+  - first:
+      213: 3763273484868147929
+    second: Shake-Anim_41
+  - first:
+      213: 686298014587154687
+    second: Shake-Anim_42
+  - first:
+      213: -3597892675367593932
+    second: Shake-Anim_43
+  - first:
+      213: 3628509571547723844
+    second: Shake-Anim_44
+  - first:
+      213: -101199239396189762
+    second: Shake-Anim_45
+  - first:
+      213: 2421948103312201090
+    second: Shake-Anim_46
+  - first:
+      213: -4314652871050504467
+    second: Shake-Anim_47
+  - first:
+      213: -2035286139067866722
+    second: Shake-Anim_48
+  - first:
+      213: -306274104161543760
+    second: Shake-Anim_49
+  - first:
+      213: 2178158466495146072
+    second: Shake-Anim_50
+  - first:
+      213: 460564036685789727
+    second: Shake-Anim_51
+  - first:
+      213: -2891087211505611757
+    second: Shake-Anim_52
+  - first:
+      213: -7165302364193368025
+    second: Shake-Anim_53
+  - first:
+      213: 2918587685647135683
+    second: Shake-Anim_54
+  - first:
+      213: 677276044916456852
+    second: Shake-Anim_55
+  - first:
+      213: 7904277889520233501
+    second: Shake-Anim_56
+  - first:
+      213: -599062976740078638
+    second: Shake-Anim_57
+  - first:
+      213: 3780499733817673793
+    second: Shake-Anim_58
+  - first:
+      213: -4669430838967872218
+    second: Shake-Anim_59
+  - first:
+      213: -795688479987762070
+    second: Shake-Anim_60
+  - first:
+      213: 6877812221985061230
+    second: Shake-Anim_61
+  - first:
+      213: 2366607083895780593
+    second: Shake-Anim_62
+  - first:
+      213: -1369342071306128545
+    second: Shake-Anim_63
+  - first:
+      213: -4870727113474120692
+    second: Shake-Anim_64
+  - first:
+      213: -6287160695801293057
+    second: Shake-Anim_65
+  - first:
+      213: -5872705542897895021
+    second: Shake-Anim_66
+  - first:
+      213: -4226806095465655719
+    second: Shake-Anim_67
+  - first:
+      213: -5061386917173084602
+    second: Shake-Anim_68
+  - first:
+      213: 4884728314260185771
+    second: Shake-Anim_69
+  - first:
+      213: 2088031348894127439
+    second: Shake-Anim_70
+  - first:
+      213: -5512217642534345820
+    second: Shake-Anim_71
+  - first:
+      213: 7953233156742102186
+    second: Shake-Anim_72
+  - first:
+      213: 3991262079962950797
+    second: Shake-Anim_73
+  - first:
+      213: 4394122698790362791
+    second: Shake-Anim_74
+  - first:
+      213: 6626725318515147429
+    second: Shake-Anim_75
+  - first:
+      213: 2647089018320961298
+    second: Shake-Anim_76
+  - first:
+      213: 3960270537275967036
+    second: Shake-Anim_77
+  - first:
+      213: 9139249034715203402
+    second: Shake-Anim_78
+  - first:
+      213: 6172306970254163779
+    second: Shake-Anim_79
+  - first:
+      213: 4138158148358212535
+    second: Shake-Anim_80
+  - first:
+      213: -613794690313490385
+    second: Shake-Anim_81
+  - first:
+      213: -2973604247289896858
+    second: Shake-Anim_82
+  - first:
+      213: 3624858261263242162
+    second: Shake-Anim_83
+  - first:
+      213: 7022242929213448267
+    second: Shake-Anim_84
+  - first:
+      213: -7875910043236212918
+    second: Shake-Anim_85
+  - first:
+      213: -2284124241851086257
+    second: Shake-Anim_86
+  - first:
+      213: -6513265608613568863
+    second: Shake-Anim_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shake-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 476
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb48424f0e0364e0800000000000000
+      internalID: -1989731151668294689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 478
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa2b08315660fe90800000000000000
+      internalID: -6993977722287740241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 479
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d467556ccd4870800000000000000
+      internalID: 8668809593388060694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 480
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2891308ba941fb210800000000000000
+      internalID: 1350821067979168130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 481
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e960d6d20fdd69510800000000000000
+      internalID: 1555674744927094430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 481
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d8fa438428781b0800000000000000
+      internalID: -5654407560507191932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 481
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197bc3fd8e07743f0800000000000000
+      internalID: -916639853666584687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 481
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a844c4fcfde2489f0800000000000000
+      internalID: -467196922549222262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 481
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fb6765111851880800000000000000
+      internalID: -8640858398575378595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 479
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef09ac587869adb0800000000000000
+      internalID: -4780174663317123103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 477
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e5b6ac93c490f40800000000000000
+      internalID: 5695167014879583816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f478303ddc8a170800000000000000
+      internalID: 8190022228554239783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 414
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf781dafcf78c510800000000000000
+      internalID: 1569645000077639624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 415
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eefbf0bc504b330800000000000000
+      internalID: 3725609161442979372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 416
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf83340d20682bf0800000000000000
+      internalID: -348923224660930637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 417
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416d57379e0cffd30800000000000000
+      internalID: 4467501464271836692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 417
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0773e215b0ed85e30800000000000000
+      internalID: 4492584768490059632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 417
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96035b73193abc180800000000000000
+      internalID: -9093995178444378007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 417
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c78dcf6ef038ddd0800000000000000
+      internalID: -2461163327002409016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 417
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2837a139e082e6d90800000000000000
+      internalID: -7102695519254056062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 415
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeaad3b2ea75b390800000000000000
+      internalID: -7803195665250865414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 413
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a09b75c8df8b8a0800000000000000
+      internalID: -6288998100413904270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 348
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46c51ef81a4971c0800000000000000
+      internalID: -4505488481004960182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 350
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b321b95b8c2f88d70800000000000000
+      internalID: 9045746795427861051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 351
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e14e266a570e5fb0800000000000000
+      internalID: -4657276879811755546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 352
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538c7f768fd3b7340800000000000000
+      internalID: 4862548359782058037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 353
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbf2dee3b9310180800000000000000
+      internalID: -9150969522871403575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 353
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ec706b74ec293c0800000000000000
+      internalID: -4354191082321883538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 353
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90db36b2e8e4fa5f0800000000000000
+      internalID: -743289040972563191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 353
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59379451dab78d80800000000000000
+      internalID: -8248418784275646118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 353
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712c588a807063dc0800000000000000
+      internalID: -3659729913423478249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 351
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f0533e196352d50800000000000000
+      internalID: 6711830819875655441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 349
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491f57beabea5f990800000000000000
+      internalID: -7352778698774941292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 284
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9133fc31fcf81bbc0800000000000000
+      internalID: -3769073293579046119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 286
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02b7a1f7521bb30800000000000000
+      internalID: 4301260346950885591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 287
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26109b5bd85864d10800000000000000
+      internalID: 2109520319155339618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 288
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2650b5c7059fc4b80800000000000000
+      internalID: -8409072280128518814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 289
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c3ddcfeb41dd3a0800000000000000
+      internalID: -6639127465155544031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 289
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144925c9287292720800000000000000
+      internalID: 2821830083446215745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 289
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5269a3f479a7d9bd0800000000000000
+      internalID: -2621804617771870683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 289
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb29a4a739ac9540800000000000000
+      internalID: 5016070141434735593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 289
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da563abb45d93430800000000000000
+      internalID: 3763273484868147929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 287
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0f5897868368900800000000000000
+      internalID: 686298014587154687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 285
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4381cb89ca7b11ec0800000000000000
+      internalID: -3597892675367593932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448f43c0b3e0b5230800000000000000
+      internalID: 3628509571547723844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 222
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb91044f3d7789ef0800000000000000
+      internalID: -101199239396189762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285da5ac7fc7c9120800000000000000
+      internalID: 2421948103312201090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 224
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de65ae3e2164f14c0800000000000000
+      internalID: -4314652871050504467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9165983a0631c3e0800000000000000
+      internalID: -2035286139067866722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 225
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9dc813355efbbf0800000000000000
+      internalID: -306274104161543760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858e3fbb59f5a3e10800000000000000
+      internalID: 2178158466495146072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 225
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1af9fa1d80446600800000000000000
+      internalID: 460564036685789727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 225
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c888faf7bc0e7d0800000000000000
+      internalID: -2891087211505611757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 223
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728dcf1967bbf8c90800000000000000
+      internalID: -7165302364193368025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 221
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b3d86908e08820800000000000000
+      internalID: 2918587685647135683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 156
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d702879fa266900800000000000000
+      internalID: 677276044916456852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 158
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ce3d2acd2a1bd60800000000000000
+      internalID: 7904277889520233501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 159
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbc1598563bfa7f0800000000000000
+      internalID: -599062976740078638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 160
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14849ab5a78077430800000000000000
+      internalID: 3780499733817673793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 161
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625d0144469d23fb0800000000000000
+      internalID: -4669430838967872218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 161
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c757e0b8525f4f0800000000000000
+      internalID: -795688479987762070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 161
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69724396c5e27f50800000000000000
+      internalID: 6877812221985061230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 161
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4f78e9a90e7d020800000000000000
+      internalID: 2366607083895780593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 161
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53fcc724ae1ffce0800000000000000
+      internalID: -1369342071306128545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 159
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04e28b1f73b76cb0800000000000000
+      internalID: -4870727113474120692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 157
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff657f078a48fb8a0800000000000000
+      internalID: -6287160695801293057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3997a157c65ff7ea0800000000000000
+      internalID: -5872705542897895021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 94
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9525051304e5755c0800000000000000
+      internalID: -4226806095465655719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 95
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eb61b4a6752c9b0800000000000000
+      internalID: -5061386917173084602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba265cb758a0ac340800000000000000
+      internalID: 4884728314260185771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 97
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45d6bee27d2afc10800000000000000
+      internalID: 2088031348894127439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 97
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a36914524ba083b0800000000000000
+      internalID: -5512217642534345820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 97
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacb8730b6f8f5e60800000000000000
+      internalID: 7953233156742102186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 97
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cada117bfc36730800000000000000
+      internalID: 3991262079962950797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 97
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae51e0405f0bfc30800000000000000
+      internalID: 4394122698790362791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 95
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2ce2a319bd6fb50800000000000000
+      internalID: 6626725318515147429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 93
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fbbd1ff695cb420800000000000000
+      internalID: 2647089018320961298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 28
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3687cc3215b5f630800000000000000
+      internalID: 3960270537275967036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 30
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a470804439225de70800000000000000
+      internalID: 9139249034715203402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fbaa6bc7078a550800000000000000
+      internalID: 6172306970254163779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 32
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb874939e0bd6930800000000000000
+      internalID: 4138158148358212535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 33
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20f7de2bfc5b77f0800000000000000
+      internalID: -613794690313490385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66061b121b2abb6d0800000000000000
+      internalID: -2973604247289896858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_83
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 33
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b35cbf12651e4230800000000000000
+      internalID: 3624858261263242162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_84
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 33
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40244a1db4047160800000000000000
+      internalID: 7022242929213448267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_85
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 33
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f59f54b8523b290800000000000000
+      internalID: -7875910043236212918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_86
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 31
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a8b959a192d40e0800000000000000
+      internalID: -2284124241851086257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shake-Anim_87
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 29
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aed1de007b3c95a0800000000000000
+      internalID: -6513265608613568863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shake-Anim_0: -1989731151668294689
+      Shake-Anim_1: -6993977722287740241
+      Shake-Anim_10: 5695167014879583816
+      Shake-Anim_11: 8190022228554239783
+      Shake-Anim_12: 1569645000077639624
+      Shake-Anim_13: 3725609161442979372
+      Shake-Anim_14: -348923224660930637
+      Shake-Anim_15: 4467501464271836692
+      Shake-Anim_16: 4492584768490059632
+      Shake-Anim_17: -9093995178444378007
+      Shake-Anim_18: -2461163327002409016
+      Shake-Anim_19: -7102695519254056062
+      Shake-Anim_2: 8668809593388060694
+      Shake-Anim_20: -7803195665250865414
+      Shake-Anim_21: -6288998100413904270
+      Shake-Anim_22: -4505488481004960182
+      Shake-Anim_23: 9045746795427861051
+      Shake-Anim_24: -4657276879811755546
+      Shake-Anim_25: 4862548359782058037
+      Shake-Anim_26: -9150969522871403575
+      Shake-Anim_27: -4354191082321883538
+      Shake-Anim_28: -743289040972563191
+      Shake-Anim_29: -8248418784275646118
+      Shake-Anim_3: 1350821067979168130
+      Shake-Anim_30: -3659729913423478249
+      Shake-Anim_31: 6711830819875655441
+      Shake-Anim_32: -7352778698774941292
+      Shake-Anim_33: -3769073293579046119
+      Shake-Anim_34: 4301260346950885591
+      Shake-Anim_35: 2109520319155339618
+      Shake-Anim_36: -8409072280128518814
+      Shake-Anim_37: -6639127465155544031
+      Shake-Anim_38: 2821830083446215745
+      Shake-Anim_39: -2621804617771870683
+      Shake-Anim_4: 1555674744927094430
+      Shake-Anim_40: 5016070141434735593
+      Shake-Anim_41: 3763273484868147929
+      Shake-Anim_42: 686298014587154687
+      Shake-Anim_43: -3597892675367593932
+      Shake-Anim_44: 3628509571547723844
+      Shake-Anim_45: -101199239396189762
+      Shake-Anim_46: 2421948103312201090
+      Shake-Anim_47: -4314652871050504467
+      Shake-Anim_48: -2035286139067866722
+      Shake-Anim_49: -306274104161543760
+      Shake-Anim_5: -5654407560507191932
+      Shake-Anim_50: 2178158466495146072
+      Shake-Anim_51: 460564036685789727
+      Shake-Anim_52: -2891087211505611757
+      Shake-Anim_53: -7165302364193368025
+      Shake-Anim_54: 2918587685647135683
+      Shake-Anim_55: 677276044916456852
+      Shake-Anim_56: 7904277889520233501
+      Shake-Anim_57: -599062976740078638
+      Shake-Anim_58: 3780499733817673793
+      Shake-Anim_59: -4669430838967872218
+      Shake-Anim_6: -916639853666584687
+      Shake-Anim_60: -795688479987762070
+      Shake-Anim_61: 6877812221985061230
+      Shake-Anim_62: 2366607083895780593
+      Shake-Anim_63: -1369342071306128545
+      Shake-Anim_64: -4870727113474120692
+      Shake-Anim_65: -6287160695801293057
+      Shake-Anim_66: -5872705542897895021
+      Shake-Anim_67: -4226806095465655719
+      Shake-Anim_68: -5061386917173084602
+      Shake-Anim_69: 4884728314260185771
+      Shake-Anim_7: -467196922549222262
+      Shake-Anim_70: 2088031348894127439
+      Shake-Anim_71: -5512217642534345820
+      Shake-Anim_72: 7953233156742102186
+      Shake-Anim_73: 3991262079962950797
+      Shake-Anim_74: 4394122698790362791
+      Shake-Anim_75: 6626725318515147429
+      Shake-Anim_76: 2647089018320961298
+      Shake-Anim_77: 3960270537275967036
+      Shake-Anim_78: 9139249034715203402
+      Shake-Anim_79: 6172306970254163779
+      Shake-Anim_8: -8640858398575378595
+      Shake-Anim_80: 4138158148358212535
+      Shake-Anim_81: -613794690313490385
+      Shake-Anim_82: -2973604247289896858
+      Shake-Anim_83: 3624858261263242162
+      Shake-Anim_84: 7022242929213448267
+      Shake-Anim_85: -7875910043236212918
+      Shake-Anim_86: -2284124241851086257
+      Shake-Anim_87: -6513265608613568863
+      Shake-Anim_9: -4780174663317123103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

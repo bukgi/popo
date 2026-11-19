@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: fa519c22c356de2499fbea01857028c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1890997728102835343
+    second: VFX_Move_Crunch_Jump_0
+  - first:
+      213: 374007892646342180
+    second: VFX_Move_Crunch_Jump_1
+  - first:
+      213: -7552988352866907872
+    second: VFX_Move_Crunch_Jump_2
+  - first:
+      213: -6179096958075977828
+    second: VFX_Move_Crunch_Jump_3
+  - first:
+      213: 5967516717158713788
+    second: VFX_Move_Crunch_Jump_4
+  - first:
+      213: -1272783832509493977
+    second: VFX_Move_Crunch_Jump_5
+  - first:
+      213: 7293619569677178564
+    second: VFX_Move_Crunch_Jump_6
+  - first:
+      213: -1698752091497669998
+    second: VFX_Move_Crunch_Jump_7
+  - first:
+      213: 4548259563278322047
+    second: VFX_Move_Crunch_Jump_8
+  - first:
+      213: -4098237397524526253
+    second: VFX_Move_Crunch_Jump_9
+  - first:
+      213: -2092505608779830213
+    second: VFX_Move_Crunch_Jump_10
+  - first:
+      213: 7231935305131750555
+    second: VFX_Move_Crunch_Jump_11
+  - first:
+      213: -686141352007468474
+    second: VFX_Move_Crunch_Jump_12
+  - first:
+      213: 1610491430030868407
+    second: VFX_Move_Crunch_Jump_13
+  - first:
+      213: 7115647903336515456
+    second: VFX_Move_Crunch_Jump_14
+  - first:
+      213: 8647995902392625448
+    second: VFX_Move_Crunch_Jump_15
+  - first:
+      213: -5777644882024898082
+    second: VFX_Move_Crunch_Jump_16
+  - first:
+      213: 8640307396174656090
+    second: VFX_Move_Crunch_Jump_17
+  - first:
+      213: 3818608088186761696
+    second: VFX_Move_Crunch_Jump_18
+  - first:
+      213: 3780595666667322900
+    second: VFX_Move_Crunch_Jump_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b1c51d593d1c5e0800000000000000
+      internalID: -1890997728102835343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ea060623eb03500800000000000000
+      internalID: 374007892646342180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02984ba4c156e2790800000000000000
+      internalID: -7552988352866907872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f3f2d0e007f3aa0800000000000000
+      internalID: -6179096958075977828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9437546d0e0d250800000000000000
+      internalID: 5967516717158713788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d496b09d9265ee0800000000000000
+      internalID: -1272783832509493977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61279fa54283560800000000000000
+      internalID: 7293619569677178564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a54d029f1dc68e0800000000000000
+      internalID: -1698752091497669998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f794a7f99f9ae1f30800000000000000
+      internalID: 4548259563278322047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b4453ecc22027c0800000000000000
+      internalID: -4098237397524526253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c6a224c3de5f2e0800000000000000
+      internalID: -2092505608779830213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94fbf4f7defc5460800000000000000
+      internalID: 7231935305131750555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a73ef53165a76f0800000000000000
+      internalID: -686141352007468474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bffcc04c6d995610800000000000000
+      internalID: 1610491430030868407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0874029511cdfb260800000000000000
+      internalID: 7115647903336515456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8296525447ad30870800000000000000
+      internalID: 8647995902392625448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed16d80579ea1dfa0800000000000000
+      internalID: -5777644882024898082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52bb2b6cc988e770800000000000000
+      internalID: 8640307396174656090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 5
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e13ec803db6ef430800000000000000
+      internalID: 3818608088186761696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Crunch_Jump_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e36177abf577430800000000000000
+      internalID: 3780595666667322900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Crunch_Jump_0: -1890997728102835343
+      VFX_Move_Crunch_Jump_1: 374007892646342180
+      VFX_Move_Crunch_Jump_10: -2092505608779830213
+      VFX_Move_Crunch_Jump_11: 7231935305131750555
+      VFX_Move_Crunch_Jump_12: -686141352007468474
+      VFX_Move_Crunch_Jump_13: 1610491430030868407
+      VFX_Move_Crunch_Jump_14: 7115647903336515456
+      VFX_Move_Crunch_Jump_15: 8647995902392625448
+      VFX_Move_Crunch_Jump_16: -5777644882024898082
+      VFX_Move_Crunch_Jump_17: 8640307396174656090
+      VFX_Move_Crunch_Jump_18: 3818608088186761696
+      VFX_Move_Crunch_Jump_19: 3780595666667322900
+      VFX_Move_Crunch_Jump_2: -7552988352866907872
+      VFX_Move_Crunch_Jump_3: -6179096958075977828
+      VFX_Move_Crunch_Jump_4: 5967516717158713788
+      VFX_Move_Crunch_Jump_5: -1272783832509493977
+      VFX_Move_Crunch_Jump_6: 7293619569677178564
+      VFX_Move_Crunch_Jump_7: -1698752091497669998
+      VFX_Move_Crunch_Jump_8: 4548259563278322047
+      VFX_Move_Crunch_Jump_9: -4098237397524526253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

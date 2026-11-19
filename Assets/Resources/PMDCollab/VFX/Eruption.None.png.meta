@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 2a0ad6925f7f88f4a96ad1c198feaaca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2429893510154530343
+    second: Eruption.None_0
+  - first:
+      213: -5817546001890635960
+    second: Eruption.None_1
+  - first:
+      213: 6493223667909703986
+    second: Eruption.None_2
+  - first:
+      213: 4095224660947841178
+    second: Eruption.None_3
+  - first:
+      213: 7014120938294515912
+    second: Eruption.None_4
+  - first:
+      213: -2748760524747823149
+    second: Eruption.None_5
+  - first:
+      213: -4793930789844421519
+    second: Eruption.None_6
+  - first:
+      213: 4533898438422930608
+    second: Eruption.None_7
+  - first:
+      213: -1359922393540200824
+    second: Eruption.None_8
+  - first:
+      213: -3751523414499630315
+    second: Eruption.None_9
+  - first:
+      213: 2774569346298506976
+    second: Eruption.None_10
+  - first:
+      213: 3471838145670385122
+    second: Eruption.None_11
+  - first:
+      213: -3311930511051632343
+    second: Eruption.None_12
+  - first:
+      213: -6548736275181852272
+    second: Eruption.None_13
+  - first:
+      213: 6529889094576133596
+    second: Eruption.None_14
+  - first:
+      213: 6025522089666573386
+    second: Eruption.None_15
+  - first:
+      213: 8013043958340463404
+    second: Eruption.None_16
+  - first:
+      213: 469931265082493684
+    second: Eruption.None_17
+  - first:
+      213: -6197723364979509391
+    second: Eruption.None_18
+  - first:
+      213: 5344243268250893712
+    second: Eruption.None_19
+  - first:
+      213: 6686809093482065591
+    second: Eruption.None_20
+  - first:
+      213: -6803576258962214615
+    second: Eruption.None_21
+  - first:
+      213: 4930309690939660569
+    second: Eruption.None_22
+  - first:
+      213: -5249273885722128350
+    second: Eruption.None_23
+  - first:
+      213: 867552698123649539
+    second: Eruption.None_24
+  - first:
+      213: 4376279260545458670
+    second: Eruption.None_25
+  - first:
+      213: -1420126399184067465
+    second: Eruption.None_26
+  - first:
+      213: 7561122475782395409
+    second: Eruption.None_27
+  - first:
+      213: -7670897199997911007
+    second: Eruption.None_28
+  - first:
+      213: 4397598350150475705
+    second: Eruption.None_29
+  - first:
+      213: -3106687309803222403
+    second: Eruption.None_30
+  - first:
+      213: 2121087558882180400
+    second: Eruption.None_31
+  - first:
+      213: 3300892364292360485
+    second: Eruption.None_32
+  - first:
+      213: -2948402638944467247
+    second: Eruption.None_33
+  - first:
+      213: -5564267741312720071
+    second: Eruption.None_34
+  - first:
+      213: -5065157476171924316
+    second: Eruption.None_35
+  - first:
+      213: 322963314064011710
+    second: Eruption.None_36
+  - first:
+      213: 7160196010421460934
+    second: Eruption.None_37
+  - first:
+      213: -4356965125686016350
+    second: Eruption.None_38
+  - first:
+      213: 3158096255167921766
+    second: Eruption.None_39
+  - first:
+      213: 6534914323095562453
+    second: Eruption.None_40
+  - first:
+      213: 7502984167790577001
+    second: Eruption.None_41
+  - first:
+      213: 3846817359195133766
+    second: Eruption.None_42
+  - first:
+      213: 2060691878723693512
+    second: Eruption.None_43
+  - first:
+      213: 8341791921081924233
+    second: Eruption.None_44
+  - first:
+      213: -501230461451067274
+    second: Eruption.None_45
+  - first:
+      213: 1898306616502656050
+    second: Eruption.None_46
+  - first:
+      213: 4207947563478505868
+    second: Eruption.None_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eruption.None_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 21
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ea9caf547b8b120800000000000000
+      internalID: 2429893510154530343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 25
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f80d4ebbce34fa0800000000000000
+      internalID: -5817546001890635960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 22
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239baecf5809c1a50800000000000000
+      internalID: 6493223667909703986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 19
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a903737b12925d830800000000000000
+      internalID: 4095224660947841178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 16
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c89caab4d9275160800000000000000
+      internalID: 7014120938294515912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_5
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 15
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d72ac5cdd07ad9d0800000000000000
+      internalID: -2748760524747823149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 38
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174f3819859887db0800000000000000
+      internalID: -4793930789844421519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_7
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 31
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4a5edab94abee30800000000000000
+      internalID: 4533898438422930608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_8
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 40
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886ffeac9c5902de0800000000000000
+      internalID: -1359922393540200824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_9
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 46
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5136038b459efebc0800000000000000
+      internalID: -3751523414499630315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 43
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee6fc2ce10418620800000000000000
+      internalID: 2774569346298506976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_11
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 49
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed855e16627e2030800000000000000
+      internalID: 3471838145670385122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 32
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215dff5fb8a902d0800000000000000
+      internalID: -3311930511051632343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_13
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 38
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099221eed073e15a0800000000000000
+      internalID: -6548736275181852272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 47
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd558e0e883de9a50800000000000000
+      internalID: 6529889094576133596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_15
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 40
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4478dc7a64fe9350800000000000000
+      internalID: 6025522089666573386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_16
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 50
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b2972760d043f60800000000000000
+      internalID: 8013043958340463404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 40
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa871ceef7858600800000000000000
+      internalID: 469931265082493684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_18
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 44
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177f14ebf634df9a0800000000000000
+      internalID: -6197723364979509391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dfd5dffe09a2a40800000000000000
+      internalID: 5344243268250893712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_20
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 32
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bea9d931715ccc50800000000000000
+      internalID: 6686809093482065591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_21
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921b64a7077d491a0800000000000000
+      internalID: -6803576258962214615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_22
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 32
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919df11ca8afb6440800000000000000
+      internalID: 4930309690939660569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_23
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 40
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2205cc87635d627b0800000000000000
+      internalID: -5249273885722128350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_24
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 50
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302879b159a2a0c00800000000000000
+      internalID: 867552698123649539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_25
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 40
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1a8ba0dcaabbc30800000000000000
+      internalID: 4376279260545458670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_26
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 37
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774aa786092ba4ce0800000000000000
+      internalID: -1420126399184067465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_27
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1165b38c4d08ee860800000000000000
+      internalID: 7561122475782395409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 24
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120069583af7b8590800000000000000
+      internalID: -7670897199997911007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 24
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf10956668670d30800000000000000
+      internalID: 4397598350150475705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_30
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 21
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a07f60a54d2e4d0800000000000000
+      internalID: -3106687309803222403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_31
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 15
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d3ca495ed9f6d10800000000000000
+      internalID: 2121087558882180400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_32
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 20
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529027fcd102fcd20800000000000000
+      internalID: 3300892364292360485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_33
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 26
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d604e2db6b2517d0800000000000000
+      internalID: -2948402638944467247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_34
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 14
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933e3e358ffb7c2b0800000000000000
+      internalID: -5564267741312720071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_35
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 20
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acbb5d9c12f4b9b0800000000000000
+      internalID: -5065157476171924316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_36
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1b44a4c656b7400800000000000000
+      internalID: 322963314064011710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_37
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 18
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf175bc5502e5360800000000000000
+      internalID: 7160196010421460934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_38
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 28
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a648b86d43f883c0800000000000000
+      internalID: -4356965125686016350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_39
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 18
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e76cfcfcfc3db20800000000000000
+      internalID: 3158096255167921766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_40
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d829b114fda0ba50800000000000000
+      internalID: 6534914323095562453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_41
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965898c1954ff1860800000000000000
+      internalID: 7502984167790577001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_42
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 13
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647d1a2c104a26530800000000000000
+      internalID: 3846817359195133766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_43
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 19
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbabde785c099c10800000000000000
+      internalID: 2060691878723693512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_44
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98abf463e8ff3c370800000000000000
+      internalID: 8341791921081924233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_45
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 13
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670aa9a0d854b09f0800000000000000
+      internalID: -501230461451067274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_46
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 23
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c1a6f5fc3285a10800000000000000
+      internalID: 1898306616502656050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eruption.None_47
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 13
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c895b9aa302a56a30800000000000000
+      internalID: 4207947563478505868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eruption.None_0: 2429893510154530343
+      Eruption.None_1: -5817546001890635960
+      Eruption.None_10: 2774569346298506976
+      Eruption.None_11: 3471838145670385122
+      Eruption.None_12: -3311930511051632343
+      Eruption.None_13: -6548736275181852272
+      Eruption.None_14: 6529889094576133596
+      Eruption.None_15: 6025522089666573386
+      Eruption.None_16: 8013043958340463404
+      Eruption.None_17: 469931265082493684
+      Eruption.None_18: -6197723364979509391
+      Eruption.None_19: 5344243268250893712
+      Eruption.None_2: 6493223667909703986
+      Eruption.None_20: 6686809093482065591
+      Eruption.None_21: -6803576258962214615
+      Eruption.None_22: 4930309690939660569
+      Eruption.None_23: -5249273885722128350
+      Eruption.None_24: 867552698123649539
+      Eruption.None_25: 4376279260545458670
+      Eruption.None_26: -1420126399184067465
+      Eruption.None_27: 7561122475782395409
+      Eruption.None_28: -7670897199997911007
+      Eruption.None_29: 4397598350150475705
+      Eruption.None_3: 4095224660947841178
+      Eruption.None_30: -3106687309803222403
+      Eruption.None_31: 2121087558882180400
+      Eruption.None_32: 3300892364292360485
+      Eruption.None_33: -2948402638944467247
+      Eruption.None_34: -5564267741312720071
+      Eruption.None_35: -5065157476171924316
+      Eruption.None_36: 322963314064011710
+      Eruption.None_37: 7160196010421460934
+      Eruption.None_38: -4356965125686016350
+      Eruption.None_39: 3158096255167921766
+      Eruption.None_4: 7014120938294515912
+      Eruption.None_40: 6534914323095562453
+      Eruption.None_41: 7502984167790577001
+      Eruption.None_42: 3846817359195133766
+      Eruption.None_43: 2060691878723693512
+      Eruption.None_44: 8341791921081924233
+      Eruption.None_45: -501230461451067274
+      Eruption.None_46: 1898306616502656050
+      Eruption.None_47: 4207947563478505868
+      Eruption.None_5: -2748760524747823149
+      Eruption.None_6: -4793930789844421519
+      Eruption.None_7: 4533898438422930608
+      Eruption.None_8: -1359922393540200824
+      Eruption.None_9: -3751523414499630315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

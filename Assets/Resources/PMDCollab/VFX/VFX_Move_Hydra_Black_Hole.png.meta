@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: cb405e3bf553bb842b35592e3fc29959
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5584332201391642126
+    second: VFX_Move_Hydra_Black_Hole_0
+  - first:
+      213: -7466294200102292091
+    second: VFX_Move_Hydra_Black_Hole_1
+  - first:
+      213: 5365864666756087772
+    second: VFX_Move_Hydra_Black_Hole_2
+  - first:
+      213: 5180325682085963584
+    second: VFX_Move_Hydra_Black_Hole_3
+  - first:
+      213: -2728756749508218201
+    second: VFX_Move_Hydra_Black_Hole_4
+  - first:
+      213: -4670979528376956901
+    second: VFX_Move_Hydra_Black_Hole_5
+  - first:
+      213: 7767384814991065677
+    second: VFX_Move_Hydra_Black_Hole_6
+  - first:
+      213: -3490080391391512758
+    second: VFX_Move_Hydra_Black_Hole_7
+  - first:
+      213: -3131842882616473180
+    second: VFX_Move_Hydra_Black_Hole_8
+  - first:
+      213: -5991697780920771328
+    second: VFX_Move_Hydra_Black_Hole_9
+  - first:
+      213: -4121992534884189405
+    second: VFX_Move_Hydra_Black_Hole_10
+  - first:
+      213: 4253073666798652312
+    second: VFX_Move_Hydra_Black_Hole_11
+  - first:
+      213: -6914739858119471343
+    second: VFX_Move_Hydra_Black_Hole_12
+  - first:
+      213: -5261911263200806370
+    second: VFX_Move_Hydra_Black_Hole_13
+  - first:
+      213: 6024859311158073822
+    second: VFX_Move_Hydra_Black_Hole_14
+  - first:
+      213: 3184306411943072631
+    second: VFX_Move_Hydra_Black_Hole_15
+  - first:
+      213: -5995476894685651088
+    second: VFX_Move_Hydra_Black_Hole_16
+  - first:
+      213: 2104442087644862169
+    second: VFX_Move_Hydra_Black_Hole_17
+  - first:
+      213: 4285458027461361271
+    second: VFX_Move_Hydra_Black_Hole_18
+  - first:
+      213: -6735577293348793421
+    second: VFX_Move_Hydra_Black_Hole_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9a64c23777082b0800000000000000
+      internalID: -5584332201391642126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585f75eabf4626890800000000000000
+      internalID: -7466294200102292091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdff0de1c71677a40800000000000000
+      internalID: 5365864666756087772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0472195e2c634e740800000000000000
+      internalID: 5180325682085963584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2fc13a132812ad0800000000000000
+      internalID: -2728756749508218201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1848f9edd85d2fb0800000000000000
+      internalID: -4670979528376956901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d424e4bf55b4bcb60800000000000000
+      internalID: 7767384814991065677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a477d81106eb09fc0800000000000000
+      internalID: -3490080391391512758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 4
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a94f41dd757984d0800000000000000
+      internalID: -3131842882616473180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d98b61d9639dca0800000000000000
+      internalID: -5991697780920771328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 8
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b7a67f0adbbc6c0800000000000000
+      internalID: -4121992534884189405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 6
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b0a1957f3f50b30800000000000000
+      internalID: 4253073666798652312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 4
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fcd822cb8e900a0800000000000000
+      internalID: -6914739858119471343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1af94db59fe9f6b0800000000000000
+      internalID: -5261911263200806370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed918475f999c9350800000000000000
+      internalID: 6024859311158073822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7739ddb7fcde03c20800000000000000
+      internalID: 3184306411943072631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f13399789cbcca0800000000000000
+      internalID: -5995476894685651088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6147ccdea743d10800000000000000
+      internalID: 2104442087644862169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e3ea2ee51097b30800000000000000
+      internalID: 4285458027461361271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hydra_Black_Hole_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b312c8632c6682a0800000000000000
+      internalID: -6735577293348793421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Hydra_Black_Hole_0: -5584332201391642126
+      VFX_Move_Hydra_Black_Hole_1: -7466294200102292091
+      VFX_Move_Hydra_Black_Hole_10: -4121992534884189405
+      VFX_Move_Hydra_Black_Hole_11: 4253073666798652312
+      VFX_Move_Hydra_Black_Hole_12: -6914739858119471343
+      VFX_Move_Hydra_Black_Hole_13: -5261911263200806370
+      VFX_Move_Hydra_Black_Hole_14: 6024859311158073822
+      VFX_Move_Hydra_Black_Hole_15: 3184306411943072631
+      VFX_Move_Hydra_Black_Hole_16: -5995476894685651088
+      VFX_Move_Hydra_Black_Hole_17: 2104442087644862169
+      VFX_Move_Hydra_Black_Hole_18: 4285458027461361271
+      VFX_Move_Hydra_Black_Hole_19: -6735577293348793421
+      VFX_Move_Hydra_Black_Hole_2: 5365864666756087772
+      VFX_Move_Hydra_Black_Hole_3: 5180325682085963584
+      VFX_Move_Hydra_Black_Hole_4: -2728756749508218201
+      VFX_Move_Hydra_Black_Hole_5: -4670979528376956901
+      VFX_Move_Hydra_Black_Hole_6: 7767384814991065677
+      VFX_Move_Hydra_Black_Hole_7: -3490080391391512758
+      VFX_Move_Hydra_Black_Hole_8: -3131842882616473180
+      VFX_Move_Hydra_Black_Hole_9: -5991697780920771328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

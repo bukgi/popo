@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: ced9ad9a4a1248043925c788df2540e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 581041638297047759
+    second: VFX_Move_Multitype_Form_0
+  - first:
+      213: -2499131309795800844
+    second: VFX_Move_Multitype_Form_1
+  - first:
+      213: 3308914416471970593
+    second: VFX_Move_Multitype_Form_2
+  - first:
+      213: 2446356130185665105
+    second: VFX_Move_Multitype_Form_3
+  - first:
+      213: 7085407457878186330
+    second: VFX_Move_Multitype_Form_4
+  - first:
+      213: 6010808355946447445
+    second: VFX_Move_Multitype_Form_5
+  - first:
+      213: -6347188550833745145
+    second: VFX_Move_Multitype_Form_6
+  - first:
+      213: 462287165329587716
+    second: VFX_Move_Multitype_Form_7
+  - first:
+      213: -939347708492486304
+    second: VFX_Move_Multitype_Form_8
+  - first:
+      213: 4522238647241151607
+    second: VFX_Move_Multitype_Form_9
+  - first:
+      213: -7367620953048226489
+    second: VFX_Move_Multitype_Form_10
+  - first:
+      213: 5285518458714926134
+    second: VFX_Move_Multitype_Form_11
+  - first:
+      213: 5648653387219134198
+    second: VFX_Move_Multitype_Form_12
+  - first:
+      213: 5330386325781864609
+    second: VFX_Move_Multitype_Form_13
+  - first:
+      213: -6484354262309915783
+    second: VFX_Move_Multitype_Form_14
+  - first:
+      213: 6264195506037375933
+    second: VFX_Move_Multitype_Form_15
+  - first:
+      213: 2685916070704865524
+    second: VFX_Move_Multitype_Form_16
+  - first:
+      213: -7394673990512722260
+    second: VFX_Move_Multitype_Form_17
+  - first:
+      213: 3634578949645376165
+    second: VFX_Move_Multitype_Form_18
+  - first:
+      213: 940768088079168437
+    second: VFX_Move_Multitype_Form_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc21862aa46401800800000000000000
+      internalID: 581041638297047759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f88090905d415dd0800000000000000
+      internalID: -2499131309795800844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1231bf16120abed20800000000000000
+      internalID: 3308914416471970593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ad0d560f333f120800000000000000
+      internalID: 2446356130185665105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a599bb7fa8c645260800000000000000
+      internalID: 7085407457878186330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55243256a5eaa6350800000000000000
+      internalID: 6010808355946447445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703d02154a14ae7a0800000000000000
+      internalID: -6347188550833745145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e31b14abf5a6600800000000000000
+      internalID: 462287165329587716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0696aba6c34c6f2f0800000000000000
+      internalID: -939347708492486304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7741a5ef61832ce30800000000000000
+      internalID: 4522238647241151607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745e5dd47c3f0c990800000000000000
+      internalID: -7367620953048226489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c2979c80fe95940800000000000000
+      internalID: 5285518458714926134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6e08ce35c046e40800000000000000
+      internalID: 5648653387219134198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0e3d72f1659f940800000000000000
+      internalID: 5330386325781864609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9733a3d6722f206a0800000000000000
+      internalID: -6484354262309915783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 6
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3c4f4af94eee650800000000000000
+      internalID: 6264195506037375933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 8
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f060ea8f6a464520800000000000000
+      internalID: 2685916070704865524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 8
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae3bad2f27d06990800000000000000
+      internalID: -7394673990512722260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 8
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa99b14c4e907230800000000000000
+      internalID: 3634578949645376165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Multitype_Form_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 6
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b37bf977974e0d00800000000000000
+      internalID: 940768088079168437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Multitype_Form_0: 581041638297047759
+      VFX_Move_Multitype_Form_1: -2499131309795800844
+      VFX_Move_Multitype_Form_10: -7367620953048226489
+      VFX_Move_Multitype_Form_11: 5285518458714926134
+      VFX_Move_Multitype_Form_12: 5648653387219134198
+      VFX_Move_Multitype_Form_13: 5330386325781864609
+      VFX_Move_Multitype_Form_14: -6484354262309915783
+      VFX_Move_Multitype_Form_15: 6264195506037375933
+      VFX_Move_Multitype_Form_16: 2685916070704865524
+      VFX_Move_Multitype_Form_17: -7394673990512722260
+      VFX_Move_Multitype_Form_18: 3634578949645376165
+      VFX_Move_Multitype_Form_19: 940768088079168437
+      VFX_Move_Multitype_Form_2: 3308914416471970593
+      VFX_Move_Multitype_Form_3: 2446356130185665105
+      VFX_Move_Multitype_Form_4: 7085407457878186330
+      VFX_Move_Multitype_Form_5: 6010808355946447445
+      VFX_Move_Multitype_Form_6: -6347188550833745145
+      VFX_Move_Multitype_Form_7: 462287165329587716
+      VFX_Move_Multitype_Form_8: -939347708492486304
+      VFX_Move_Multitype_Form_9: 4522238647241151607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

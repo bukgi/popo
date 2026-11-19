@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: ae139126bc780be4da361f65d57bfb7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1541685618679126640
+    second: VFX_Move_Ice_Shard_0
+  - first:
+      213: -422057367358822325
+    second: VFX_Move_Ice_Shard_1
+  - first:
+      213: -7866018962024325929
+    second: VFX_Move_Ice_Shard_2
+  - first:
+      213: -5129120732621237236
+    second: VFX_Move_Ice_Shard_3
+  - first:
+      213: -5091884199854238438
+    second: VFX_Move_Ice_Shard_4
+  - first:
+      213: 2143948023103712547
+    second: VFX_Move_Ice_Shard_5
+  - first:
+      213: 8000045966607673982
+    second: VFX_Move_Ice_Shard_6
+  - first:
+      213: 1119784666549906378
+    second: VFX_Move_Ice_Shard_7
+  - first:
+      213: -5141731114584632665
+    second: VFX_Move_Ice_Shard_8
+  - first:
+      213: -7075397917347567275
+    second: VFX_Move_Ice_Shard_9
+  - first:
+      213: 5382925592435945148
+    second: VFX_Move_Ice_Shard_10
+  - first:
+      213: -6871031377219550640
+    second: VFX_Move_Ice_Shard_11
+  - first:
+      213: -7507081699863086422
+    second: VFX_Move_Ice_Shard_12
+  - first:
+      213: -5647052983854346709
+    second: VFX_Move_Ice_Shard_13
+  - first:
+      213: -7500794190588095594
+    second: VFX_Move_Ice_Shard_14
+  - first:
+      213: -4843269742329676064
+    second: VFX_Move_Ice_Shard_15
+  - first:
+      213: 3147704601097565614
+    second: VFX_Move_Ice_Shard_16
+  - first:
+      213: 6207351254965208622
+    second: VFX_Move_Ice_Shard_17
+  - first:
+      213: -6175202990258671292
+    second: VFX_Move_Ice_Shard_18
+  - first:
+      213: -1989657035416155967
+    second: VFX_Move_Ice_Shard_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a92b8e6ea256510800000000000000
+      internalID: 1541685618679126640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48adbf7f0d842af0800000000000000
+      internalID: -422057367358822325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc9d041e6946d290800000000000000
+      internalID: -7866018962024325929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0415027ed3b1d8b0800000000000000
+      internalID: -5129120732621237236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1593465c4ef559b0800000000000000
+      internalID: -5091884199854238438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d6ffd2e55d0cd10800000000000000
+      internalID: 2143948023103712547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a627aab6fd50f60800000000000000
+      internalID: 8000045966607673982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbe2aaa8364a8f00800000000000000
+      internalID: 1119784666549906378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a21c981bc6e4a8b0800000000000000
+      internalID: -5141731114584632665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559a5fbc4132fcd90800000000000000
+      internalID: -7075397917347567275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 3
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbee08d6e4ef3ba40800000000000000
+      internalID: 5382925592435945148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 3
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0520440ed5135a0a0800000000000000
+      internalID: -6871031377219550640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_12
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa33dbd7fc71d790800000000000000
+      internalID: -7507081699863086422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_13
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e4d850b33a1a1b0800000000000000
+      internalID: -5647052983854346709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693dea0bc63d7e790800000000000000
+      internalID: -7500794190588095594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeba0184df39ccb0800000000000000
+      internalID: -4843269742329676064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5784e48a4eeab20800000000000000
+      internalID: 3147704601097565614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26c6441411f42650800000000000000
+      internalID: 6207351254965208622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441b3b519954d4aa0800000000000000
+      internalID: -6175202990258671292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Ice_Shard_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8c92bc7715364e0800000000000000
+      internalID: -1989657035416155967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Ice_Shard_0: 1541685618679126640
+      VFX_Move_Ice_Shard_1: -422057367358822325
+      VFX_Move_Ice_Shard_10: 5382925592435945148
+      VFX_Move_Ice_Shard_11: -6871031377219550640
+      VFX_Move_Ice_Shard_12: -7507081699863086422
+      VFX_Move_Ice_Shard_13: -5647052983854346709
+      VFX_Move_Ice_Shard_14: -7500794190588095594
+      VFX_Move_Ice_Shard_15: -4843269742329676064
+      VFX_Move_Ice_Shard_16: 3147704601097565614
+      VFX_Move_Ice_Shard_17: 6207351254965208622
+      VFX_Move_Ice_Shard_18: -6175202990258671292
+      VFX_Move_Ice_Shard_19: -1989657035416155967
+      VFX_Move_Ice_Shard_2: -7866018962024325929
+      VFX_Move_Ice_Shard_3: -5129120732621237236
+      VFX_Move_Ice_Shard_4: -5091884199854238438
+      VFX_Move_Ice_Shard_5: 2143948023103712547
+      VFX_Move_Ice_Shard_6: 8000045966607673982
+      VFX_Move_Ice_Shard_7: 1119784666549906378
+      VFX_Move_Ice_Shard_8: -5141731114584632665
+      VFX_Move_Ice_Shard_9: -7075397917347567275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

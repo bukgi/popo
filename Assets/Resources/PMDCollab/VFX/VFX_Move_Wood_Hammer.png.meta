@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d2492a476897da84fa6e2173fe20b1f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7713957076263398900
+    second: VFX_Move_Wood_Hammer_0
+  - first:
+      213: -4890022009653269424
+    second: VFX_Move_Wood_Hammer_1
+  - first:
+      213: 1556254282865185408
+    second: VFX_Move_Wood_Hammer_2
+  - first:
+      213: 169084701117768055
+    second: VFX_Move_Wood_Hammer_3
+  - first:
+      213: -307868490758246072
+    second: VFX_Move_Wood_Hammer_4
+  - first:
+      213: -5903980532928979915
+    second: VFX_Move_Wood_Hammer_5
+  - first:
+      213: 1328581396124897628
+    second: VFX_Move_Wood_Hammer_6
+  - first:
+      213: -3479316604391024402
+    second: VFX_Move_Wood_Hammer_7
+  - first:
+      213: -992691286876252627
+    second: VFX_Move_Wood_Hammer_8
+  - first:
+      213: -3598502420572438229
+    second: VFX_Move_Wood_Hammer_9
+  - first:
+      213: -5639859061675262645
+    second: VFX_Move_Wood_Hammer_10
+  - first:
+      213: 5490496995333381987
+    second: VFX_Move_Wood_Hammer_11
+  - first:
+      213: 7474933575971956279
+    second: VFX_Move_Wood_Hammer_12
+  - first:
+      213: -8639880942961275443
+    second: VFX_Move_Wood_Hammer_13
+  - first:
+      213: 5776090883857499753
+    second: VFX_Move_Wood_Hammer_14
+  - first:
+      213: -3314243575930609276
+    second: VFX_Move_Wood_Hammer_15
+  - first:
+      213: -4622499115023129464
+    second: VFX_Move_Wood_Hammer_16
+  - first:
+      213: -281027432364743981
+    second: VFX_Move_Wood_Hammer_17
+  - first:
+      213: 7987541249164205067
+    second: VFX_Move_Wood_Hammer_18
+  - first:
+      213: 1548826970674442401
+    second: VFX_Move_Wood_Hammer_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd6a4f271b7d0b60800000000000000
+      internalID: 7713957076263398900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c66c204e6232cb0800000000000000
+      internalID: -4890022009653269424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0821c5e560de89510800000000000000
+      internalID: 1556254282865185408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771e31bc3a5b85200800000000000000
+      internalID: 169084701117768055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841b1d22d3b3abbf0800000000000000
+      internalID: -307868490758246072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c52f56cf8d01ea0800000000000000
+      internalID: -5903980532928979915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51973b9db1107210800000000000000
+      internalID: 1328581396124897628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee897268bfbf6bfc0800000000000000
+      internalID: -3479316604391024402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d269d1ab8804932f0800000000000000
+      internalID: -992691286876252627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21856a3d1d8f0ec0800000000000000
+      internalID: -3598502420572438229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 5
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4df39d80123bb1b0800000000000000
+      internalID: -5639859061675262645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 5
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f12376de9223c40800000000000000
+      internalID: 5490496995333381987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 6
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736e273cb7c4cb760800000000000000
+      internalID: 7474933575971956279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 6
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd4025fe0af81880800000000000000
+      internalID: -8639880942961275443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 7
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966c2ba4e0cc82050800000000000000
+      internalID: 5776090883857499753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 5
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481298df6017102d0800000000000000
+      internalID: -3314243575930609276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 6
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8842d72cb8599dfb0800000000000000
+      internalID: -4622499115023129464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d262c90a07991cf0800000000000000
+      internalID: -281027432364743981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c5631427279de60800000000000000
+      internalID: 7987541249164205067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wood_Hammer_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 0
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0389d7ce98e7510800000000000000
+      internalID: 1548826970674442401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Wood_Hammer_0: 7713957076263398900
+      VFX_Move_Wood_Hammer_1: -4890022009653269424
+      VFX_Move_Wood_Hammer_10: -5639859061675262645
+      VFX_Move_Wood_Hammer_11: 5490496995333381987
+      VFX_Move_Wood_Hammer_12: 7474933575971956279
+      VFX_Move_Wood_Hammer_13: -8639880942961275443
+      VFX_Move_Wood_Hammer_14: 5776090883857499753
+      VFX_Move_Wood_Hammer_15: -3314243575930609276
+      VFX_Move_Wood_Hammer_16: -4622499115023129464
+      VFX_Move_Wood_Hammer_17: -281027432364743981
+      VFX_Move_Wood_Hammer_18: 7987541249164205067
+      VFX_Move_Wood_Hammer_19: 1548826970674442401
+      VFX_Move_Wood_Hammer_2: 1556254282865185408
+      VFX_Move_Wood_Hammer_3: 169084701117768055
+      VFX_Move_Wood_Hammer_4: -307868490758246072
+      VFX_Move_Wood_Hammer_5: -5903980532928979915
+      VFX_Move_Wood_Hammer_6: 1328581396124897628
+      VFX_Move_Wood_Hammer_7: -3479316604391024402
+      VFX_Move_Wood_Hammer_8: -992691286876252627
+      VFX_Move_Wood_Hammer_9: -3598502420572438229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

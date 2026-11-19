@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 4415b96efc4e29648be88b3ccd5ce84c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6397326229943421742
+    second: VFX_Move_Fire_Spin_Push_0
+  - first:
+      213: 4959654845150238700
+    second: VFX_Move_Fire_Spin_Push_1
+  - first:
+      213: -3541406911749950652
+    second: VFX_Move_Fire_Spin_Push_2
+  - first:
+      213: -9114323684693183625
+    second: VFX_Move_Fire_Spin_Push_3
+  - first:
+      213: -5476394430558820361
+    second: VFX_Move_Fire_Spin_Push_4
+  - first:
+      213: -5930979344732511286
+    second: VFX_Move_Fire_Spin_Push_5
+  - first:
+      213: 7250638204420856712
+    second: VFX_Move_Fire_Spin_Push_6
+  - first:
+      213: 8983319341877847644
+    second: VFX_Move_Fire_Spin_Push_7
+  - first:
+      213: 8104589956102012987
+    second: VFX_Move_Fire_Spin_Push_8
+  - first:
+      213: -5257459002028824940
+    second: VFX_Move_Fire_Spin_Push_9
+  - first:
+      213: 2692785566890987905
+    second: VFX_Move_Fire_Spin_Push_10
+  - first:
+      213: 3585798380906274803
+    second: VFX_Move_Fire_Spin_Push_11
+  - first:
+      213: -5337586133736788093
+    second: VFX_Move_Fire_Spin_Push_12
+  - first:
+      213: -3389077380454322281
+    second: VFX_Move_Fire_Spin_Push_13
+  - first:
+      213: 3800233312276734096
+    second: VFX_Move_Fire_Spin_Push_14
+  - first:
+      213: 1979580384053614848
+    second: VFX_Move_Fire_Spin_Push_15
+  - first:
+      213: -2045942127964558713
+    second: VFX_Move_Fire_Spin_Push_16
+  - first:
+      213: -1280793942429072790
+    second: VFX_Move_Fire_Spin_Push_17
+  - first:
+      213: -8600286286648308303
+    second: VFX_Move_Fire_Spin_Push_18
+  - first:
+      213: -7933716263803959087
+    second: VFX_Move_Fire_Spin_Push_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b0118cf4ed7c850800000000000000
+      internalID: 6397326229943421742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce799b5edcb34d440800000000000000
+      internalID: 4959654845150238700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443f70c4d256adec0800000000000000
+      internalID: -3541406911749950652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773fee506ea638180800000000000000
+      internalID: -9114323684693183625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f72d94d740fff3b0800000000000000
+      internalID: -5476394430558820361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac32a0ba5bde0bda0800000000000000
+      internalID: -5930979344732511286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b916908017f9460800000000000000
+      internalID: 7250638204420856712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56668488592bac70800000000000000
+      internalID: 8983319341877847644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c8a700a9497070800000000000000
+      internalID: 8104589956102012987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 5
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49664e294e0c907b0800000000000000
+      internalID: -5257459002028824940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 7
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18116d2c432be5520800000000000000
+      internalID: 2692785566890987905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 7
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffd61a01a053c130800000000000000
+      internalID: 3585798380906274803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 7
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f619ce0b51de5b0800000000000000
+      internalID: -5337586133736788093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 7
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f65bd141497f0d0800000000000000
+      internalID: -3389077380454322281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 7
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0906cd120142db430800000000000000
+      internalID: 3800233312276734096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 7
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009d8dbfed1e87b10800000000000000
+      internalID: 1979580384053614848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 8
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a6aa7797a5b93e0800000000000000
+      internalID: -2045942127964558713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 7
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a620b0ff1b4b93ee0800000000000000
+      internalID: -1280793942429072790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 7
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0aa54035a5a880800000000000000
+      internalID: -8600286286648308303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Fire_Spin_Push_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 8
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8c93bb717c5e190800000000000000
+      internalID: -7933716263803959087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Fire_Spin_Push_0: 6397326229943421742
+      VFX_Move_Fire_Spin_Push_1: 4959654845150238700
+      VFX_Move_Fire_Spin_Push_10: 2692785566890987905
+      VFX_Move_Fire_Spin_Push_11: 3585798380906274803
+      VFX_Move_Fire_Spin_Push_12: -5337586133736788093
+      VFX_Move_Fire_Spin_Push_13: -3389077380454322281
+      VFX_Move_Fire_Spin_Push_14: 3800233312276734096
+      VFX_Move_Fire_Spin_Push_15: 1979580384053614848
+      VFX_Move_Fire_Spin_Push_16: -2045942127964558713
+      VFX_Move_Fire_Spin_Push_17: -1280793942429072790
+      VFX_Move_Fire_Spin_Push_18: -8600286286648308303
+      VFX_Move_Fire_Spin_Push_19: -7933716263803959087
+      VFX_Move_Fire_Spin_Push_2: -3541406911749950652
+      VFX_Move_Fire_Spin_Push_3: -9114323684693183625
+      VFX_Move_Fire_Spin_Push_4: -5476394430558820361
+      VFX_Move_Fire_Spin_Push_5: -5930979344732511286
+      VFX_Move_Fire_Spin_Push_6: 7250638204420856712
+      VFX_Move_Fire_Spin_Push_7: 8983319341877847644
+      VFX_Move_Fire_Spin_Push_8: 8104589956102012987
+      VFX_Move_Fire_Spin_Push_9: -5257459002028824940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

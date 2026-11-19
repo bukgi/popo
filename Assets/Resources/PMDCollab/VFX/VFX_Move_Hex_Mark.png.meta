@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: b4797ab2fb4435b468c3737f4a453fb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6371917738080829970
+    second: VFX_Move_Hex_Mark_0
+  - first:
+      213: -3983083871383027978
+    second: VFX_Move_Hex_Mark_1
+  - first:
+      213: 3183896836008605874
+    second: VFX_Move_Hex_Mark_2
+  - first:
+      213: 5903632526577116207
+    second: VFX_Move_Hex_Mark_3
+  - first:
+      213: -3724409118011787867
+    second: VFX_Move_Hex_Mark_4
+  - first:
+      213: 5086033078866044913
+    second: VFX_Move_Hex_Mark_5
+  - first:
+      213: 5699655472417663672
+    second: VFX_Move_Hex_Mark_6
+  - first:
+      213: 312994537176447912
+    second: VFX_Move_Hex_Mark_7
+  - first:
+      213: -5422178021213282998
+    second: VFX_Move_Hex_Mark_8
+  - first:
+      213: -2892115784599936097
+    second: VFX_Move_Hex_Mark_9
+  - first:
+      213: -8707224313488185229
+    second: VFX_Move_Hex_Mark_10
+  - first:
+      213: -695119958651933155
+    second: VFX_Move_Hex_Mark_11
+  - first:
+      213: 2839206416431952877
+    second: VFX_Move_Hex_Mark_12
+  - first:
+      213: -4261587059462833536
+    second: VFX_Move_Hex_Mark_13
+  - first:
+      213: -4583309830740817094
+    second: VFX_Move_Hex_Mark_14
+  - first:
+      213: 6332886454961074431
+    second: VFX_Move_Hex_Mark_15
+  - first:
+      213: -6410437150775106644
+    second: VFX_Move_Hex_Mark_16
+  - first:
+      213: -694890515506268097
+    second: VFX_Move_Hex_Mark_17
+  - first:
+      213: 2945082733655210459
+    second: VFX_Move_Hex_Mark_18
+  - first:
+      213: 1627352244661794590
+    second: VFX_Move_Hex_Mark_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21281544c699d6850800000000000000
+      internalID: 6371917738080829970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe70af725e39b8c0800000000000000
+      internalID: -3983083871383027978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b878c7ad497f2c20800000000000000
+      internalID: 3183896836008605874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24221f018aede150800000000000000
+      internalID: 5903632526577116207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a57ea2d3ad305cc0800000000000000
+      internalID: -3724409118011787867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f762b56328359640800000000000000
+      internalID: 5086033078866044913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bae09f347e391f40800000000000000
+      internalID: 5699655472417663672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab3a0d8fdaf75400800000000000000
+      internalID: 312994537176447912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dd6a051dd80c4b0800000000000000
+      internalID: -5422178021213282998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93ee9954042dd7d0800000000000000
+      internalID: -2892115784599936097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37864e6ae99b92780800000000000000
+      internalID: -8707224313488185229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e644c94107a56f0800000000000000
+      internalID: -695119958651933155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3bf676133e66720800000000000000
+      internalID: 2839206416431952877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08af055f52dcbd4c0800000000000000
+      internalID: -4261587059462833536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b432b0effc460c0800000000000000
+      internalID: -4583309830740817094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff076de7daee2e750800000000000000
+      internalID: 6332886454961074431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca32515106d8907a0800000000000000
+      internalID: -6410437150775106644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38f57102c04b56f0800000000000000
+      internalID: -694890515506268097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_18
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9b7ad74290fd820800000000000000
+      internalID: 2945082733655210459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hex_Mark_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1730839e34859610800000000000000
+      internalID: 1627352244661794590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Hex_Mark_0: 6371917738080829970
+      VFX_Move_Hex_Mark_1: -3983083871383027978
+      VFX_Move_Hex_Mark_10: -8707224313488185229
+      VFX_Move_Hex_Mark_11: -695119958651933155
+      VFX_Move_Hex_Mark_12: 2839206416431952877
+      VFX_Move_Hex_Mark_13: -4261587059462833536
+      VFX_Move_Hex_Mark_14: -4583309830740817094
+      VFX_Move_Hex_Mark_15: 6332886454961074431
+      VFX_Move_Hex_Mark_16: -6410437150775106644
+      VFX_Move_Hex_Mark_17: -694890515506268097
+      VFX_Move_Hex_Mark_18: 2945082733655210459
+      VFX_Move_Hex_Mark_19: 1627352244661794590
+      VFX_Move_Hex_Mark_2: 3183896836008605874
+      VFX_Move_Hex_Mark_3: 5903632526577116207
+      VFX_Move_Hex_Mark_4: -3724409118011787867
+      VFX_Move_Hex_Mark_5: 5086033078866044913
+      VFX_Move_Hex_Mark_6: 5699655472417663672
+      VFX_Move_Hex_Mark_7: 312994537176447912
+      VFX_Move_Hex_Mark_8: -5422178021213282998
+      VFX_Move_Hex_Mark_9: -2892115784599936097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

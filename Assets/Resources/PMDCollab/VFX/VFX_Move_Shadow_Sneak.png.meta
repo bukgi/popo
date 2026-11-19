@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e4c7233da0468d442a0cb3afd2330258
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2420010463984820886
+    second: VFX_Move_Shadow_Sneak_0
+  - first:
+      213: 1887249846392951943
+    second: VFX_Move_Shadow_Sneak_1
+  - first:
+      213: -8654309481238585690
+    second: VFX_Move_Shadow_Sneak_2
+  - first:
+      213: -435862661868727863
+    second: VFX_Move_Shadow_Sneak_3
+  - first:
+      213: 3993570063872445522
+    second: VFX_Move_Shadow_Sneak_4
+  - first:
+      213: -898205297625424214
+    second: VFX_Move_Shadow_Sneak_5
+  - first:
+      213: -853033045488207315
+    second: VFX_Move_Shadow_Sneak_6
+  - first:
+      213: 414881081016565697
+    second: VFX_Move_Shadow_Sneak_7
+  - first:
+      213: 36479525784566806
+    second: VFX_Move_Shadow_Sneak_8
+  - first:
+      213: -3730571231353968235
+    second: VFX_Move_Shadow_Sneak_9
+  - first:
+      213: -1085671690168651401
+    second: VFX_Move_Shadow_Sneak_10
+  - first:
+      213: 2359503936432264563
+    second: VFX_Move_Shadow_Sneak_11
+  - first:
+      213: 8853972739506714482
+    second: VFX_Move_Shadow_Sneak_12
+  - first:
+      213: -3799184997474495724
+    second: VFX_Move_Shadow_Sneak_13
+  - first:
+      213: 588404984502607904
+    second: VFX_Move_Shadow_Sneak_14
+  - first:
+      213: -4755437888838365373
+    second: VFX_Move_Shadow_Sneak_15
+  - first:
+      213: -1548061582954394253
+    second: VFX_Move_Shadow_Sneak_16
+  - first:
+      213: -2087375164934351405
+    second: VFX_Move_Shadow_Sneak_17
+  - first:
+      213: -6364767610506021108
+    second: VFX_Move_Shadow_Sneak_18
+  - first:
+      213: -6471545336155491110
+    second: VFX_Move_Shadow_Sneak_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dd4750e456a6ed0800000000000000
+      internalID: -2420010463984820886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78499a87cbbd03a10800000000000000
+      internalID: 1887249846392951943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae9a7a1167b5e780800000000000000
+      internalID: -8654309481238585690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c15574e73183f9f0800000000000000
+      internalID: -435862661868727863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c40c270d20c6730800000000000000
+      internalID: 3993570063872445522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae99ab6a0fe883f0800000000000000
+      internalID: -898205297625424214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a7106f6fa6924f0800000000000000
+      internalID: -853033045488207315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfb5022524f1c500800000000000000
+      internalID: 414881081016565697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 8
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb6f77fe9918000800000000000000
+      internalID: 36479525784566806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599ead10b395a3cc0800000000000000
+      internalID: -3730571231353968235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771bcc4995beee0f0800000000000000
+      internalID: -1085671690168651401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3755e293454aeb020800000000000000
+      internalID: 2359503936432264563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2773a45db41afda70800000000000000
+      internalID: 8853972739506714482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_13
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4131a8daf55964bc0800000000000000
+      internalID: -3799184997474495724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_14
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e855473f6a2800800000000000000
+      internalID: 588404984502607904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 7
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f0b5c7f6a410eb0800000000000000
+      internalID: -4755437888838365373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_16
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d0399313e248ae0800000000000000
+      internalID: -1548061582954394253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 6
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d59d1dc8572803e0800000000000000
+      internalID: -2087375164934351405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0770e9849dcba7a0800000000000000
+      internalID: -6364767610506021108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Shadow_Sneak_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4bd92fdc37036a0800000000000000
+      internalID: -6471545336155491110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Shadow_Sneak_0: -2420010463984820886
+      VFX_Move_Shadow_Sneak_1: 1887249846392951943
+      VFX_Move_Shadow_Sneak_10: -1085671690168651401
+      VFX_Move_Shadow_Sneak_11: 2359503936432264563
+      VFX_Move_Shadow_Sneak_12: 8853972739506714482
+      VFX_Move_Shadow_Sneak_13: -3799184997474495724
+      VFX_Move_Shadow_Sneak_14: 588404984502607904
+      VFX_Move_Shadow_Sneak_15: -4755437888838365373
+      VFX_Move_Shadow_Sneak_16: -1548061582954394253
+      VFX_Move_Shadow_Sneak_17: -2087375164934351405
+      VFX_Move_Shadow_Sneak_18: -6364767610506021108
+      VFX_Move_Shadow_Sneak_19: -6471545336155491110
+      VFX_Move_Shadow_Sneak_2: -8654309481238585690
+      VFX_Move_Shadow_Sneak_3: -435862661868727863
+      VFX_Move_Shadow_Sneak_4: 3993570063872445522
+      VFX_Move_Shadow_Sneak_5: -898205297625424214
+      VFX_Move_Shadow_Sneak_6: -853033045488207315
+      VFX_Move_Shadow_Sneak_7: 414881081016565697
+      VFX_Move_Shadow_Sneak_8: 36479525784566806
+      VFX_Move_Shadow_Sneak_9: -3730571231353968235
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

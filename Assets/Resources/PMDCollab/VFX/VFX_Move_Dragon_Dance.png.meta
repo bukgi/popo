@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e6f8f42d260a04e41adc77323b2f84b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8004968645103261531
+    second: VFX_Move_Dragon_Dance_0
+  - first:
+      213: 5107998970237623725
+    second: VFX_Move_Dragon_Dance_1
+  - first:
+      213: -4262421685464178923
+    second: VFX_Move_Dragon_Dance_2
+  - first:
+      213: -5855012767337246597
+    second: VFX_Move_Dragon_Dance_3
+  - first:
+      213: -77054174800672730
+    second: VFX_Move_Dragon_Dance_4
+  - first:
+      213: 8048866497165971071
+    second: VFX_Move_Dragon_Dance_5
+  - first:
+      213: -8937114756427161572
+    second: VFX_Move_Dragon_Dance_6
+  - first:
+      213: 2912102042727255334
+    second: VFX_Move_Dragon_Dance_7
+  - first:
+      213: 6344883489839749204
+    second: VFX_Move_Dragon_Dance_8
+  - first:
+      213: 3611951441911740276
+    second: VFX_Move_Dragon_Dance_9
+  - first:
+      213: -3250590244844181155
+    second: VFX_Move_Dragon_Dance_10
+  - first:
+      213: -179859113115275408
+    second: VFX_Move_Dragon_Dance_11
+  - first:
+      213: -1495450231403092839
+    second: VFX_Move_Dragon_Dance_12
+  - first:
+      213: 5193372870640885850
+    second: VFX_Move_Dragon_Dance_13
+  - first:
+      213: 1012527708593187729
+    second: VFX_Move_Dragon_Dance_14
+  - first:
+      213: 1278551686202773869
+    second: VFX_Move_Dragon_Dance_15
+  - first:
+      213: 3482710725978205749
+    second: VFX_Move_Dragon_Dance_16
+  - first:
+      213: 7810329488744731490
+    second: VFX_Move_Dragon_Dance_17
+  - first:
+      213: -3485322660437893352
+    second: VFX_Move_Dragon_Dance_18
+  - first:
+      213: -2257320250504906172
+    second: VFX_Move_Dragon_Dance_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8ea7eed63a8e090800000000000000
+      internalID: -8004968645103261531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad1316000243e640800000000000000
+      internalID: 5107998970237623725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f5cf27f06d8d4c0800000000000000
+      internalID: -4262421685464178923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b709c77c8e0debea0800000000000000
+      internalID: -5855012767337246597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6288b82e2af3eeef0800000000000000
+      internalID: -77054174800672730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ece183f6153bf60800000000000000
+      internalID: 8048866497165971071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10e14ada7df8f380800000000000000
+      internalID: -8937114756427161572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d827ef06dd96820800000000000000
+      internalID: 2912102042727255334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4589329daed8d0850800000000000000
+      internalID: 6344883489839749204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477fb1113ba302230800000000000000
+      internalID: 3611951441911740276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 6
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5966b9056593e2d0800000000000000
+      internalID: -3250590244844181155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 6
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fa52de613018df0800000000000000
+      internalID: -179859113115275408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 6
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99461f110f71f3be0800000000000000
+      internalID: -1495450231403092839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 6
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5063b43c11921840800000000000000
+      internalID: 5193372870640885850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 6
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19befeb16983d0e00800000000000000
+      internalID: 1012527708593187729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 7
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61d71b0cf35eb110800000000000000
+      internalID: 1278551686202773869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 8
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eaf5df3f2155030800000000000000
+      internalID: 3482710725978205749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 8
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26353630a4dd36c60800000000000000
+      internalID: 7810329488744731490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 8
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fdaf0a185a1afc0800000000000000
+      internalID: -3485322660437893352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Dance_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 8
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44afb5421336ca0e0800000000000000
+      internalID: -2257320250504906172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dragon_Dance_0: -8004968645103261531
+      VFX_Move_Dragon_Dance_1: 5107998970237623725
+      VFX_Move_Dragon_Dance_10: -3250590244844181155
+      VFX_Move_Dragon_Dance_11: -179859113115275408
+      VFX_Move_Dragon_Dance_12: -1495450231403092839
+      VFX_Move_Dragon_Dance_13: 5193372870640885850
+      VFX_Move_Dragon_Dance_14: 1012527708593187729
+      VFX_Move_Dragon_Dance_15: 1278551686202773869
+      VFX_Move_Dragon_Dance_16: 3482710725978205749
+      VFX_Move_Dragon_Dance_17: 7810329488744731490
+      VFX_Move_Dragon_Dance_18: -3485322660437893352
+      VFX_Move_Dragon_Dance_19: -2257320250504906172
+      VFX_Move_Dragon_Dance_2: -4262421685464178923
+      VFX_Move_Dragon_Dance_3: -5855012767337246597
+      VFX_Move_Dragon_Dance_4: -77054174800672730
+      VFX_Move_Dragon_Dance_5: 8048866497165971071
+      VFX_Move_Dragon_Dance_6: -8937114756427161572
+      VFX_Move_Dragon_Dance_7: 2912102042727255334
+      VFX_Move_Dragon_Dance_8: 6344883489839749204
+      VFX_Move_Dragon_Dance_9: 3611951441911740276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

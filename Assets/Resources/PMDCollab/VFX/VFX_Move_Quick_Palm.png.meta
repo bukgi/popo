@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a0e924a4d9751b7498d452d194fabdbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9166677766493037380
+    second: VFX_Move_Quick_Palm_0
+  - first:
+      213: 3021263211322417442
+    second: VFX_Move_Quick_Palm_1
+  - first:
+      213: 4079675178200520851
+    second: VFX_Move_Quick_Palm_2
+  - first:
+      213: -9147006305932557665
+    second: VFX_Move_Quick_Palm_3
+  - first:
+      213: 1990777645387236155
+    second: VFX_Move_Quick_Palm_4
+  - first:
+      213: 3617399899682382964
+    second: VFX_Move_Quick_Palm_5
+  - first:
+      213: -3675298636241500045
+    second: VFX_Move_Quick_Palm_6
+  - first:
+      213: 8675971891046107630
+    second: VFX_Move_Quick_Palm_7
+  - first:
+      213: 123951737171594863
+    second: VFX_Move_Quick_Palm_8
+  - first:
+      213: -7049965023136479113
+    second: VFX_Move_Quick_Palm_9
+  - first:
+      213: 8865761932037354949
+    second: VFX_Move_Quick_Palm_10
+  - first:
+      213: 7992267838818325199
+    second: VFX_Move_Quick_Palm_11
+  - first:
+      213: -2847405795526052688
+    second: VFX_Move_Quick_Palm_12
+  - first:
+      213: -8558654597893845323
+    second: VFX_Move_Quick_Palm_13
+  - first:
+      213: -4169707753923034348
+    second: VFX_Move_Quick_Palm_14
+  - first:
+      213: -4797929211166120099
+    second: VFX_Move_Quick_Palm_15
+  - first:
+      213: -3312764940891592754
+    second: VFX_Move_Quick_Palm_16
+  - first:
+      213: -1043335872089355884
+    second: VFX_Move_Quick_Palm_17
+  - first:
+      213: 3309247325066101539
+    second: VFX_Move_Quick_Palm_18
+  - first:
+      213: 2595005520079443745
+    second: VFX_Move_Quick_Palm_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443e94a8cd4963f70800000000000000
+      internalID: 9166677766493037380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22124d322eeade920800000000000000
+      internalID: 3021263211322417442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398de93a5faed9830800000000000000
+      internalID: 4079675178200520851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92c1a84a3e4f0180800000000000000
+      internalID: -9147006305932557665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33481c88b9a0ab10800000000000000
+      internalID: 1990777645387236155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4742a1ffa06933230800000000000000
+      internalID: 3617399899682382964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3780957ec57befcc0800000000000000
+      internalID: -3675298636241500045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9c317b77e376870800000000000000
+      internalID: 8675971891046107630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ec76fb27d58b100800000000000000
+      internalID: 123951737171594863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 5
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778850de92e792e90800000000000000
+      internalID: -7049965023136479113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 5
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5744e1183890b70800000000000000
+      internalID: 8865761932037354949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 4
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc29b8a214d3aee60800000000000000
+      internalID: 7992267838818325199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4f742e38bfb78d0800000000000000
+      internalID: -2847405795526052688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be06492dfc893980800000000000000
+      internalID: -8558654597893845323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413c93ec3e83226c0800000000000000
+      internalID: -4169707753923034348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5729fe8dc45a6db0800000000000000
+      internalID: -4797929211166120099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7e9c986d1b602d0800000000000000
+      internalID: -3312764940891592754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_17
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49901ba5d835581f0800000000000000
+      internalID: -1043335872089355884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_18
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3230a74b8eecced20800000000000000
+      internalID: 3309247325066101539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Quick_Palm_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127538685cf430420800000000000000
+      internalID: 2595005520079443745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Quick_Palm_0: 9166677766493037380
+      VFX_Move_Quick_Palm_1: 3021263211322417442
+      VFX_Move_Quick_Palm_10: 8865761932037354949
+      VFX_Move_Quick_Palm_11: 7992267838818325199
+      VFX_Move_Quick_Palm_12: -2847405795526052688
+      VFX_Move_Quick_Palm_13: -8558654597893845323
+      VFX_Move_Quick_Palm_14: -4169707753923034348
+      VFX_Move_Quick_Palm_15: -4797929211166120099
+      VFX_Move_Quick_Palm_16: -3312764940891592754
+      VFX_Move_Quick_Palm_17: -1043335872089355884
+      VFX_Move_Quick_Palm_18: 3309247325066101539
+      VFX_Move_Quick_Palm_19: 2595005520079443745
+      VFX_Move_Quick_Palm_2: 4079675178200520851
+      VFX_Move_Quick_Palm_3: -9147006305932557665
+      VFX_Move_Quick_Palm_4: 1990777645387236155
+      VFX_Move_Quick_Palm_5: 3617399899682382964
+      VFX_Move_Quick_Palm_6: -3675298636241500045
+      VFX_Move_Quick_Palm_7: 8675971891046107630
+      VFX_Move_Quick_Palm_8: 123951737171594863
+      VFX_Move_Quick_Palm_9: -7049965023136479113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

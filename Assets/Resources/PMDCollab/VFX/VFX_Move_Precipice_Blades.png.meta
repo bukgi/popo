@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: fb961c73b472d524fb7d5be7f4ebf562
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3561576317766880203
+    second: VFX_Move_Precipice_Blades_0
+  - first:
+      213: 7082649140449514887
+    second: VFX_Move_Precipice_Blades_1
+  - first:
+      213: 5619516770163019916
+    second: VFX_Move_Precipice_Blades_2
+  - first:
+      213: 4205687342611945662
+    second: VFX_Move_Precipice_Blades_3
+  - first:
+      213: -6881565043824175118
+    second: VFX_Move_Precipice_Blades_4
+  - first:
+      213: -1781260131946241168
+    second: VFX_Move_Precipice_Blades_5
+  - first:
+      213: 6047698939112707650
+    second: VFX_Move_Precipice_Blades_6
+  - first:
+      213: -5970869141475264460
+    second: VFX_Move_Precipice_Blades_7
+  - first:
+      213: 7795320184725449361
+    second: VFX_Move_Precipice_Blades_8
+  - first:
+      213: -1230464138404189345
+    second: VFX_Move_Precipice_Blades_9
+  - first:
+      213: -5415806641758779770
+    second: VFX_Move_Precipice_Blades_10
+  - first:
+      213: 5436032827188518195
+    second: VFX_Move_Precipice_Blades_11
+  - first:
+      213: -1626215936668844475
+    second: VFX_Move_Precipice_Blades_12
+  - first:
+      213: 3262727690349949895
+    second: VFX_Move_Precipice_Blades_13
+  - first:
+      213: 111508672625549618
+    second: VFX_Move_Precipice_Blades_14
+  - first:
+      213: -5575383150722083907
+    second: VFX_Move_Precipice_Blades_15
+  - first:
+      213: -5181190810314289839
+    second: VFX_Move_Precipice_Blades_16
+  - first:
+      213: -1485141443178551097
+    second: VFX_Move_Precipice_Blades_17
+  - first:
+      213: 1942162690482518038
+    second: VFX_Move_Precipice_Blades_18
+  - first:
+      213: -4692354819037797586
+    second: VFX_Move_Precipice_Blades_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb40fc7ac24d6130800000000000000
+      internalID: 3561576317766880203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78518352edf9a4260800000000000000
+      internalID: 7082649140449514887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80daee9ab88cfd40800000000000000
+      internalID: 5619516770163019916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8ddbcfa5a9d5a30800000000000000
+      internalID: 4205687342611945662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f75d108d05cf70a0800000000000000
+      internalID: -6881565043824175118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07367c6f851b747e0800000000000000
+      internalID: -1781260131946241168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246d15e942ebde350800000000000000
+      internalID: 6047698939112707650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438760e9626332da0800000000000000
+      internalID: -5970869141475264460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a2ef8186a8e2c60800000000000000
+      internalID: 7795320184725449361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5baf89a2638ceee0800000000000000
+      internalID: -1230464138404189345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68644c1bd8037d4b0800000000000000
+      internalID: -5415806641758779770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d1fe31e0ba07b40800000000000000
+      internalID: 5436032827188518195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e36ceb8358e69e0800000000000000
+      internalID: -1626215936668844475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3b3263c89874d20800000000000000
+      internalID: 3262727690349949895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231a8350c882c8100800000000000000
+      internalID: 111508672625549618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db31386609240a2b0800000000000000
+      internalID: -5575383150722083907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_16
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 0
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dc2bdb866b818b0800000000000000
+      internalID: -5181190810314289839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8a12ed9b7b36be0800000000000000
+      internalID: -1485141443178551097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6183a3e4da2f3fa10800000000000000
+      internalID: 1942162690482518038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Precipice_Blades_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23e82b372861eeb0800000000000000
+      internalID: -4692354819037797586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Precipice_Blades_0: 3561576317766880203
+      VFX_Move_Precipice_Blades_1: 7082649140449514887
+      VFX_Move_Precipice_Blades_10: -5415806641758779770
+      VFX_Move_Precipice_Blades_11: 5436032827188518195
+      VFX_Move_Precipice_Blades_12: -1626215936668844475
+      VFX_Move_Precipice_Blades_13: 3262727690349949895
+      VFX_Move_Precipice_Blades_14: 111508672625549618
+      VFX_Move_Precipice_Blades_15: -5575383150722083907
+      VFX_Move_Precipice_Blades_16: -5181190810314289839
+      VFX_Move_Precipice_Blades_17: -1485141443178551097
+      VFX_Move_Precipice_Blades_18: 1942162690482518038
+      VFX_Move_Precipice_Blades_19: -4692354819037797586
+      VFX_Move_Precipice_Blades_2: 5619516770163019916
+      VFX_Move_Precipice_Blades_3: 4205687342611945662
+      VFX_Move_Precipice_Blades_4: -6881565043824175118
+      VFX_Move_Precipice_Blades_5: -1781260131946241168
+      VFX_Move_Precipice_Blades_6: 6047698939112707650
+      VFX_Move_Precipice_Blades_7: -5970869141475264460
+      VFX_Move_Precipice_Blades_8: 7795320184725449361
+      VFX_Move_Precipice_Blades_9: -1230464138404189345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

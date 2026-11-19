@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: ce2344cd742ff9442a31ccbab511b080
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3957055534272089049
+    second: VFX_Move_Acid_Armor_0
+  - first:
+      213: -6519834227327261881
+    second: VFX_Move_Acid_Armor_1
+  - first:
+      213: -6648052824512839251
+    second: VFX_Move_Acid_Armor_2
+  - first:
+      213: 161548169893385880
+    second: VFX_Move_Acid_Armor_3
+  - first:
+      213: -4955384082877845308
+    second: VFX_Move_Acid_Armor_4
+  - first:
+      213: -7347203617550294294
+    second: VFX_Move_Acid_Armor_5
+  - first:
+      213: 2301512962047981749
+    second: VFX_Move_Acid_Armor_6
+  - first:
+      213: 3787775015932928963
+    second: VFX_Move_Acid_Armor_7
+  - first:
+      213: -1435613308912052893
+    second: VFX_Move_Acid_Armor_8
+  - first:
+      213: -6071610511004533824
+    second: VFX_Move_Acid_Armor_9
+  - first:
+      213: -7042022055206376700
+    second: VFX_Move_Acid_Armor_10
+  - first:
+      213: 8831908674449495206
+    second: VFX_Move_Acid_Armor_11
+  - first:
+      213: -1679154917883673583
+    second: VFX_Move_Acid_Armor_12
+  - first:
+      213: 917481084574329107
+    second: VFX_Move_Acid_Armor_13
+  - first:
+      213: -6758893839712365768
+    second: VFX_Move_Acid_Armor_14
+  - first:
+      213: -3849783454008380733
+    second: VFX_Move_Acid_Armor_15
+  - first:
+      213: -4288352468469532321
+    second: VFX_Move_Acid_Armor_16
+  - first:
+      213: -2198785598488944152
+    second: VFX_Move_Acid_Armor_17
+  - first:
+      213: 3636558619151304006
+    second: VFX_Move_Acid_Armor_18
+  - first:
+      213: -3668820901482132369
+    second: VFX_Move_Acid_Armor_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db08c40b094ae630800000000000000
+      internalID: 3957055534272089049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743a9b55055e485a0800000000000000
+      internalID: -6519834227327261881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da141e2dd2f5db3a0800000000000000
+      internalID: -6648052824512839251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8961c90643fed3200800000000000000
+      internalID: 161548169893385880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0f07e6e60fa3bb0800000000000000
+      internalID: -4955384082877845308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2237bac3d790a90800000000000000
+      internalID: -7347203617550294294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8b3d458dd90ff10800000000000000
+      internalID: 2301512962047981749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c328c9fe41e09430800000000000000
+      internalID: 3787775015932928963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365597f3d4da31ce0800000000000000
+      internalID: -1435613308912052893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbfb05b86e4dbba0800000000000000
+      internalID: -6071610511004533824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b25f24046b54e90800000000000000
+      internalID: -7042022055206376700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4d04d552e319a70800000000000000
+      internalID: 8831908674449495206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11481bcaf7172b8e0800000000000000
+      internalID: -1679154917883673583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 3
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31961367f2c8bbc00800000000000000
+      internalID: 917481084574329107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8335e59ecd59332a0800000000000000
+      internalID: -6758893839712365768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 4
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c277a97852d29ac0800000000000000
+      internalID: -3849783454008380733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 5
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59343d8626bc74c0800000000000000
+      internalID: -4288352468469532321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e162d8d5285c71e0800000000000000
+      internalID: -2198785598488944152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 4
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645066bfbc6a77230800000000000000
+      internalID: 3636558619151304006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Acid_Armor_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c01ae04dab51dc0800000000000000
+      internalID: -3668820901482132369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Acid_Armor_0: 3957055534272089049
+      VFX_Move_Acid_Armor_1: -6519834227327261881
+      VFX_Move_Acid_Armor_10: -7042022055206376700
+      VFX_Move_Acid_Armor_11: 8831908674449495206
+      VFX_Move_Acid_Armor_12: -1679154917883673583
+      VFX_Move_Acid_Armor_13: 917481084574329107
+      VFX_Move_Acid_Armor_14: -6758893839712365768
+      VFX_Move_Acid_Armor_15: -3849783454008380733
+      VFX_Move_Acid_Armor_16: -4288352468469532321
+      VFX_Move_Acid_Armor_17: -2198785598488944152
+      VFX_Move_Acid_Armor_18: 3636558619151304006
+      VFX_Move_Acid_Armor_19: -3668820901482132369
+      VFX_Move_Acid_Armor_2: -6648052824512839251
+      VFX_Move_Acid_Armor_3: 161548169893385880
+      VFX_Move_Acid_Armor_4: -4955384082877845308
+      VFX_Move_Acid_Armor_5: -7347203617550294294
+      VFX_Move_Acid_Armor_6: 2301512962047981749
+      VFX_Move_Acid_Armor_7: 3787775015932928963
+      VFX_Move_Acid_Armor_8: -1435613308912052893
+      VFX_Move_Acid_Armor_9: -6071610511004533824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

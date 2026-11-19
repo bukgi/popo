@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 67d6a3a8c941a0949985ae5cd8dd321e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2064861626133991652
+    second: VFX_Move_Phantom_Snipe_0
+  - first:
+      213: 3573741329905970858
+    second: VFX_Move_Phantom_Snipe_1
+  - first:
+      213: -4175364144244466406
+    second: VFX_Move_Phantom_Snipe_2
+  - first:
+      213: 885421473980113265
+    second: VFX_Move_Phantom_Snipe_3
+  - first:
+      213: -8162130718469677498
+    second: VFX_Move_Phantom_Snipe_4
+  - first:
+      213: 820887627642550091
+    second: VFX_Move_Phantom_Snipe_5
+  - first:
+      213: -8364745417076106521
+    second: VFX_Move_Phantom_Snipe_6
+  - first:
+      213: -2469824633966294266
+    second: VFX_Move_Phantom_Snipe_7
+  - first:
+      213: -4955531767073992555
+    second: VFX_Move_Phantom_Snipe_8
+  - first:
+      213: 5371856262912288382
+    second: VFX_Move_Phantom_Snipe_9
+  - first:
+      213: 1206620982446658448
+    second: VFX_Move_Phantom_Snipe_10
+  - first:
+      213: -4913048455401263788
+    second: VFX_Move_Phantom_Snipe_11
+  - first:
+      213: 7876019243410917196
+    second: VFX_Move_Phantom_Snipe_12
+  - first:
+      213: 5021679272054785350
+    second: VFX_Move_Phantom_Snipe_13
+  - first:
+      213: 1426598051367486381
+    second: VFX_Move_Phantom_Snipe_14
+  - first:
+      213: 1759512452617033136
+    second: VFX_Move_Phantom_Snipe_15
+  - first:
+      213: 353600544060985327
+    second: VFX_Move_Phantom_Snipe_16
+  - first:
+      213: 9178561354290215442
+    second: VFX_Move_Phantom_Snipe_17
+  - first:
+      213: -746207994243737986
+    second: VFX_Move_Phantom_Snipe_18
+  - first:
+      213: -3140267628685438425
+    second: VFX_Move_Phantom_Snipe_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fa2f78a432853e0800000000000000
+      internalID: -2064861626133991652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae6d281eca789130800000000000000
+      internalID: 3573741329905970858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dd76ece602e06c0800000000000000
+      internalID: -4175364144244466406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1716611b326a94c00800000000000000
+      internalID: 885421473980113265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e9f4b3b594abe80800000000000000
+      internalID: -8162130718469677498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47b526b2f0646b00800000000000000
+      internalID: 820887627642550091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea1a9a8c547aeb80800000000000000
+      internalID: -8364745417076106521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b0ee2c49b69bdd0800000000000000
+      internalID: -2469824633966294266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59014660d1a6a3bb0800000000000000
+      internalID: -4955531767073992555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 6
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76285f4fcaac8a40800000000000000
+      internalID: 5371856262912288382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 7
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093144df367ceb010800000000000000
+      internalID: 1206620982446658448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 7
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45da683d57851dbb0800000000000000
+      internalID: -4913048455401263788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 7
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4706afd5cd3d4d60800000000000000
+      internalID: 7876019243410917196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 7
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64584c221b690b540800000000000000
+      internalID: 5021679272054785350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 7
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da306098e5b4cc310800000000000000
+      internalID: 1426598051367486381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 8
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b55d1cd04b0b6810800000000000000
+      internalID: 1759512452617033136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 8
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefc32542dd38e400800000000000000
+      internalID: 353600544060985327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 8
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ab89febecc06f70800000000000000
+      internalID: 9178561354290215442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 8
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e769b8668cfe4a5f0800000000000000
+      internalID: -746207994243737986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Phantom_Snipe_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 8
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722db84ca378b64d0800000000000000
+      internalID: -3140267628685438425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Phantom_Snipe_0: -2064861626133991652
+      VFX_Move_Phantom_Snipe_1: 3573741329905970858
+      VFX_Move_Phantom_Snipe_10: 1206620982446658448
+      VFX_Move_Phantom_Snipe_11: -4913048455401263788
+      VFX_Move_Phantom_Snipe_12: 7876019243410917196
+      VFX_Move_Phantom_Snipe_13: 5021679272054785350
+      VFX_Move_Phantom_Snipe_14: 1426598051367486381
+      VFX_Move_Phantom_Snipe_15: 1759512452617033136
+      VFX_Move_Phantom_Snipe_16: 353600544060985327
+      VFX_Move_Phantom_Snipe_17: 9178561354290215442
+      VFX_Move_Phantom_Snipe_18: -746207994243737986
+      VFX_Move_Phantom_Snipe_19: -3140267628685438425
+      VFX_Move_Phantom_Snipe_2: -4175364144244466406
+      VFX_Move_Phantom_Snipe_3: 885421473980113265
+      VFX_Move_Phantom_Snipe_4: -8162130718469677498
+      VFX_Move_Phantom_Snipe_5: 820887627642550091
+      VFX_Move_Phantom_Snipe_6: -8364745417076106521
+      VFX_Move_Phantom_Snipe_7: -2469824633966294266
+      VFX_Move_Phantom_Snipe_8: -4955531767073992555
+      VFX_Move_Phantom_Snipe_9: 5371856262912288382
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

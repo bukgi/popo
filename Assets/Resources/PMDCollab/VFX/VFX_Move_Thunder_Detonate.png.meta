@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: a8826cc33da51d741bf34c0a458e27bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1429240623215636005
+    second: VFX_Move_Thunder_Detonate_0
+  - first:
+      213: 7957763948086969178
+    second: VFX_Move_Thunder_Detonate_1
+  - first:
+      213: -5513764417518825590
+    second: VFX_Move_Thunder_Detonate_2
+  - first:
+      213: -2232343655886560327
+    second: VFX_Move_Thunder_Detonate_3
+  - first:
+      213: -7096086411129273413
+    second: VFX_Move_Thunder_Detonate_4
+  - first:
+      213: 1404518750191086131
+    second: VFX_Move_Thunder_Detonate_5
+  - first:
+      213: 4793100124832819101
+    second: VFX_Move_Thunder_Detonate_6
+  - first:
+      213: -6036868910789647391
+    second: VFX_Move_Thunder_Detonate_7
+  - first:
+      213: -5207290925284513544
+    second: VFX_Move_Thunder_Detonate_8
+  - first:
+      213: 4464494002749855545
+    second: VFX_Move_Thunder_Detonate_9
+  - first:
+      213: -2118976782326198031
+    second: VFX_Move_Thunder_Detonate_10
+  - first:
+      213: -5026988859133220673
+    second: VFX_Move_Thunder_Detonate_11
+  - first:
+      213: -9076177797509511880
+    second: VFX_Move_Thunder_Detonate_12
+  - first:
+      213: -8688866958706426567
+    second: VFX_Move_Thunder_Detonate_13
+  - first:
+      213: -8958809180462379170
+    second: VFX_Move_Thunder_Detonate_14
+  - first:
+      213: -9006299620931224500
+    second: VFX_Move_Thunder_Detonate_15
+  - first:
+      213: -7810249292452664587
+    second: VFX_Move_Thunder_Detonate_16
+  - first:
+      213: -6681116513601383892
+    second: VFX_Move_Thunder_Detonate_17
+  - first:
+      213: -5451073490953144338
+    second: VFX_Move_Thunder_Detonate_18
+  - first:
+      213: 3455712090182488353
+    second: VFX_Move_Thunder_Detonate_19
+  - first:
+      213: 5680875488555560665
+    second: VFX_Move_Thunder_Detonate_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd19ca2c9315a2ce0800000000000000
+      internalID: -1429240623215636005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5342241628af6e60800000000000000
+      internalID: 7957763948086969178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f0a96b97c2b73b0800000000000000
+      internalID: -5513764417518825590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 15
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3e84eb54f1501e0800000000000000
+      internalID: -2232343655886560327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3c9297103a58d90800000000000000
+      internalID: -7096086411129273413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 14
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ae381ac5add7310800000000000000
+      internalID: 1404518750191086131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d976a892b23848240800000000000000
+      internalID: 4793100124832819101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3a8c8d5bbb83ca0800000000000000
+      internalID: -6036868910789647391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 9
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f82d4c2e7cfbb7b0800000000000000
+      internalID: -5207290925284513544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 15
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93754cf34a115fd30800000000000000
+      internalID: 4464494002749855545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 10
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f09522e7d1e792e0800000000000000
+      internalID: -2118976782326198031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 15
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8a489444c8c3ab0800000000000000
+      internalID: -5026988859133220673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 9
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835882d7160fa0280800000000000000
+      internalID: -9076177797509511880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 15
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dbca16981fa6780800000000000000
+      internalID: -8688866958706426567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 8
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f0804248aeba380800000000000000
+      internalID: -8958809180462379170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 14
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cb8a15632330380800000000000000
+      internalID: -9006299620931224500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 8
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faec1426ab6c9390800000000000000
+      internalID: -7810249292452664587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 14
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c221bcfcde7e743a0800000000000000
+      internalID: -6681116513601383892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7703f7a85e954b0800000000000000
+      internalID: -5451073490953144338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 14
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121995d36d725ff20800000000000000
+      internalID: 3455712090182488353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Thunder_Detonate_20
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 14
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dee394882686de40800000000000000
+      internalID: 5680875488555560665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Thunder_Detonate_0: -1429240623215636005
+      VFX_Move_Thunder_Detonate_1: 7957763948086969178
+      VFX_Move_Thunder_Detonate_10: -2118976782326198031
+      VFX_Move_Thunder_Detonate_11: -5026988859133220673
+      VFX_Move_Thunder_Detonate_12: -9076177797509511880
+      VFX_Move_Thunder_Detonate_13: -8688866958706426567
+      VFX_Move_Thunder_Detonate_14: -8958809180462379170
+      VFX_Move_Thunder_Detonate_15: -9006299620931224500
+      VFX_Move_Thunder_Detonate_16: -7810249292452664587
+      VFX_Move_Thunder_Detonate_17: -6681116513601383892
+      VFX_Move_Thunder_Detonate_18: -5451073490953144338
+      VFX_Move_Thunder_Detonate_19: 3455712090182488353
+      VFX_Move_Thunder_Detonate_2: -5513764417518825590
+      VFX_Move_Thunder_Detonate_20: 5680875488555560665
+      VFX_Move_Thunder_Detonate_3: -2232343655886560327
+      VFX_Move_Thunder_Detonate_4: -7096086411129273413
+      VFX_Move_Thunder_Detonate_5: 1404518750191086131
+      VFX_Move_Thunder_Detonate_6: 4793100124832819101
+      VFX_Move_Thunder_Detonate_7: -6036868910789647391
+      VFX_Move_Thunder_Detonate_8: -5207290925284513544
+      VFX_Move_Thunder_Detonate_9: 4464494002749855545
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

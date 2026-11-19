@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 84de1b4975394e84f9dc6cd9cae59050
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7330044084681524491
+    second: VFX_Move_Flame_Backstep_0
+  - first:
+      213: 7343644877586649588
+    second: VFX_Move_Flame_Backstep_1
+  - first:
+      213: 7082423134422851798
+    second: VFX_Move_Flame_Backstep_2
+  - first:
+      213: 535335441157372001
+    second: VFX_Move_Flame_Backstep_3
+  - first:
+      213: -1581707691662722175
+    second: VFX_Move_Flame_Backstep_4
+  - first:
+      213: -1861527801708250586
+    second: VFX_Move_Flame_Backstep_5
+  - first:
+      213: -6471794548594899569
+    second: VFX_Move_Flame_Backstep_6
+  - first:
+      213: 7927191018531307030
+    second: VFX_Move_Flame_Backstep_7
+  - first:
+      213: 6519948982573404763
+    second: VFX_Move_Flame_Backstep_8
+  - first:
+      213: 8888632766277485278
+    second: VFX_Move_Flame_Backstep_9
+  - first:
+      213: 7627604089227129545
+    second: VFX_Move_Flame_Backstep_10
+  - first:
+      213: -8555622160992231877
+    second: VFX_Move_Flame_Backstep_11
+  - first:
+      213: 6769331004954283934
+    second: VFX_Move_Flame_Backstep_12
+  - first:
+      213: 7492478705977050384
+    second: VFX_Move_Flame_Backstep_13
+  - first:
+      213: -2684832669735216192
+    second: VFX_Move_Flame_Backstep_14
+  - first:
+      213: 2061602501090272137
+    second: VFX_Move_Flame_Backstep_15
+  - first:
+      213: -7876344740136369403
+    second: VFX_Move_Flame_Backstep_16
+  - first:
+      213: 2918771653978138840
+    second: VFX_Move_Flame_Backstep_17
+  - first:
+      213: 8282623292602737691
+    second: VFX_Move_Flame_Backstep_18
+  - first:
+      213: -7926214225043413052
+    second: VFX_Move_Flame_Backstep_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05456f324c89b560800000000000000
+      internalID: 7330044084681524491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f15b2d9b1ed9e560800000000000000
+      internalID: 7343644877586649588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d068440152d94260800000000000000
+      internalID: 7082423134422851798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168bcd55fb4ed6700800000000000000
+      internalID: 535335441157372001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bb0f31c35ac0ae0800000000000000
+      internalID: -1581707691662722175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a7aafb3568a26e0800000000000000
+      internalID: -1861527801708250586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8501b7a5219f26a0800000000000000
+      internalID: -6471794548594899569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 9
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eb9363b3a030e60800000000000000
+      internalID: 7927191018531307030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5215f33e038b7a50800000000000000
+      internalID: 6519948982573404763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 9
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed20edc2864ca5b70800000000000000
+      internalID: 8888632766277485278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 9
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c233b1a181bad960800000000000000
+      internalID: 7627604089227129545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e199569f2544980800000000000000
+      internalID: -8555622160992231877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f865dfeae71fd50800000000000000
+      internalID: 6769331004954283934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015c0fcafa1aaf760800000000000000
+      internalID: 7492478705977050384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 8
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb911769ee8dbad0800000000000000
+      internalID: -2684832669735216192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 9
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983ea894d884c9c10800000000000000
+      internalID: 2061602501090272137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 9
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503c7a3803a91b290800000000000000
+      internalID: -7876344740136369403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 8
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8a8dfda5f818820800000000000000
+      internalID: 2918771653978138840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1466fb500ac1f270800000000000000
+      internalID: 8282623292602737691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Flame_Backstep_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7a3ae382e600290800000000000000
+      internalID: -7926214225043413052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Flame_Backstep_0: 7330044084681524491
+      VFX_Move_Flame_Backstep_1: 7343644877586649588
+      VFX_Move_Flame_Backstep_10: 7627604089227129545
+      VFX_Move_Flame_Backstep_11: -8555622160992231877
+      VFX_Move_Flame_Backstep_12: 6769331004954283934
+      VFX_Move_Flame_Backstep_13: 7492478705977050384
+      VFX_Move_Flame_Backstep_14: -2684832669735216192
+      VFX_Move_Flame_Backstep_15: 2061602501090272137
+      VFX_Move_Flame_Backstep_16: -7876344740136369403
+      VFX_Move_Flame_Backstep_17: 2918771653978138840
+      VFX_Move_Flame_Backstep_18: 8282623292602737691
+      VFX_Move_Flame_Backstep_19: -7926214225043413052
+      VFX_Move_Flame_Backstep_2: 7082423134422851798
+      VFX_Move_Flame_Backstep_3: 535335441157372001
+      VFX_Move_Flame_Backstep_4: -1581707691662722175
+      VFX_Move_Flame_Backstep_5: -1861527801708250586
+      VFX_Move_Flame_Backstep_6: -6471794548594899569
+      VFX_Move_Flame_Backstep_7: 7927191018531307030
+      VFX_Move_Flame_Backstep_8: 6519948982573404763
+      VFX_Move_Flame_Backstep_9: 8888632766277485278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

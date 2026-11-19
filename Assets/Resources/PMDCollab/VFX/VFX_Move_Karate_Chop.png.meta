@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0b17bf2cf1910f2439817ffa990ab2dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5129752033622028505
+    second: VFX_Move_Karate_Chop_0
+  - first:
+      213: 5740852963350762276
+    second: VFX_Move_Karate_Chop_1
+  - first:
+      213: 4391556097950959573
+    second: VFX_Move_Karate_Chop_2
+  - first:
+      213: 1936319373436294227
+    second: VFX_Move_Karate_Chop_3
+  - first:
+      213: 5398355167426100519
+    second: VFX_Move_Karate_Chop_4
+  - first:
+      213: 2890716335387976422
+    second: VFX_Move_Karate_Chop_5
+  - first:
+      213: 763744382575125967
+    second: VFX_Move_Karate_Chop_6
+  - first:
+      213: -1594763789719373567
+    second: VFX_Move_Karate_Chop_7
+  - first:
+      213: 1695550421101347027
+    second: VFX_Move_Karate_Chop_8
+  - first:
+      213: -5663724103529424810
+    second: VFX_Move_Karate_Chop_9
+  - first:
+      213: 3333171774954968278
+    second: VFX_Move_Karate_Chop_10
+  - first:
+      213: -7176406757854178629
+    second: VFX_Move_Karate_Chop_11
+  - first:
+      213: -8569261842211954382
+    second: VFX_Move_Karate_Chop_12
+  - first:
+      213: -2250196290399310007
+    second: VFX_Move_Karate_Chop_13
+  - first:
+      213: 7231058685756058483
+    second: VFX_Move_Karate_Chop_14
+  - first:
+      213: 8444601931658419817
+    second: VFX_Move_Karate_Chop_15
+  - first:
+      213: -801734640889394122
+    second: VFX_Move_Karate_Chop_16
+  - first:
+      213: -4367728475169727392
+    second: VFX_Move_Karate_Chop_17
+  - first:
+      213: -1050942423277058729
+    second: VFX_Move_Karate_Chop_18
+  - first:
+      213: -1222997286394377733
+    second: VFX_Move_Karate_Chop_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0f0e5cb4a803740800000000000000
+      internalID: 5129752033622028505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 6
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42355449a5b9baf40800000000000000
+      internalID: 5740852963350762276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7419de001f1fc30800000000000000
+      internalID: 4391556097950959573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354906906303fda10800000000000000
+      internalID: 1936319373436294227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72db3dd4c6fcaea40800000000000000
+      internalID: 5398355167426100519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2283df033ed1820800000000000000
+      internalID: 2890716335387976422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5279e287d599a00800000000000000
+      internalID: 763744382575125967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109fe1d58c24ed9e0800000000000000
+      internalID: -1594763789719373567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d08284ef1ec78710800000000000000
+      internalID: 1695550421101347027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6589f4f7fe86661b0800000000000000
+      internalID: -5663724103529424810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d49c85c11ec14e20800000000000000
+      internalID: 3333171774954968278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb293627318486c90800000000000000
+      internalID: -7176406757854178629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231a5a3a1cdd31980800000000000000
+      internalID: -8569261842211954382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe8db5562b5c0e0800000000000000
+      internalID: -2250196290399310007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b2e7a1091e95460800000000000000
+      internalID: 7231058685756058483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_15
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ed31627b0413570800000000000000
+      internalID: 8444601931658419817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c89a5879aafd4f0800000000000000
+      internalID: -801734640889394122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c5622d716b263c0800000000000000
+      internalID: -4367728475169727392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_18
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755ce252f6d4a61f0800000000000000
+      internalID: -1050942423277058729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Karate_Chop_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9423f927a070fe0800000000000000
+      internalID: -1222997286394377733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Karate_Chop_0: 5129752033622028505
+      VFX_Move_Karate_Chop_1: 5740852963350762276
+      VFX_Move_Karate_Chop_10: 3333171774954968278
+      VFX_Move_Karate_Chop_11: -7176406757854178629
+      VFX_Move_Karate_Chop_12: -8569261842211954382
+      VFX_Move_Karate_Chop_13: -2250196290399310007
+      VFX_Move_Karate_Chop_14: 7231058685756058483
+      VFX_Move_Karate_Chop_15: 8444601931658419817
+      VFX_Move_Karate_Chop_16: -801734640889394122
+      VFX_Move_Karate_Chop_17: -4367728475169727392
+      VFX_Move_Karate_Chop_18: -1050942423277058729
+      VFX_Move_Karate_Chop_19: -1222997286394377733
+      VFX_Move_Karate_Chop_2: 4391556097950959573
+      VFX_Move_Karate_Chop_3: 1936319373436294227
+      VFX_Move_Karate_Chop_4: 5398355167426100519
+      VFX_Move_Karate_Chop_5: 2890716335387976422
+      VFX_Move_Karate_Chop_6: 763744382575125967
+      VFX_Move_Karate_Chop_7: -1594763789719373567
+      VFX_Move_Karate_Chop_8: 1695550421101347027
+      VFX_Move_Karate_Chop_9: -5663724103529424810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

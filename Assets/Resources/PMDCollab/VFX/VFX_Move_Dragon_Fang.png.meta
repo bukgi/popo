@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 6270a69edf38eb74ca3676b48e1037e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3910806725767613526
+    second: VFX_Move_Dragon_Fang_0
+  - first:
+      213: 6334261978287573046
+    second: VFX_Move_Dragon_Fang_1
+  - first:
+      213: -3045063846239650305
+    second: VFX_Move_Dragon_Fang_2
+  - first:
+      213: 3167489285733981595
+    second: VFX_Move_Dragon_Fang_3
+  - first:
+      213: -6044033881733449967
+    second: VFX_Move_Dragon_Fang_4
+  - first:
+      213: -6767707017035531475
+    second: VFX_Move_Dragon_Fang_5
+  - first:
+      213: -3076811413463922424
+    second: VFX_Move_Dragon_Fang_6
+  - first:
+      213: 967359382587287047
+    second: VFX_Move_Dragon_Fang_7
+  - first:
+      213: -4446054761825379264
+    second: VFX_Move_Dragon_Fang_8
+  - first:
+      213: 2053065219910558735
+    second: VFX_Move_Dragon_Fang_9
+  - first:
+      213: 8850089260266351890
+    second: VFX_Move_Dragon_Fang_10
+  - first:
+      213: -170267085907381326
+    second: VFX_Move_Dragon_Fang_11
+  - first:
+      213: -2372825389132949210
+    second: VFX_Move_Dragon_Fang_12
+  - first:
+      213: 4730474945380968742
+    second: VFX_Move_Dragon_Fang_13
+  - first:
+      213: -1166022464537319438
+    second: VFX_Move_Dragon_Fang_14
+  - first:
+      213: -5012959308482560133
+    second: VFX_Move_Dragon_Fang_15
+  - first:
+      213: -7012865922489857385
+    second: VFX_Move_Dragon_Fang_16
+  - first:
+      213: -20247695519006483
+    second: VFX_Move_Dragon_Fang_17
+  - first:
+      213: 8625056060503619074
+    second: VFX_Move_Dragon_Fang_18
+  - first:
+      213: 1707085262890353122
+    second: VFX_Move_Dragon_Fang_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c469a2ff9f54630800000000000000
+      internalID: 3910806725767613526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638081a75b1d7e750800000000000000
+      internalID: 6334261978287573046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd3086b092cdb5d0800000000000000
+      internalID: -3045063846239650305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d970a29be25fb20800000000000000
+      internalID: 3167489285733981595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1173adc05374f1ca0800000000000000
+      internalID: -6044033881733449967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bbda923564412a0800000000000000
+      internalID: -6767707017035531475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8098d933258fc45d0800000000000000
+      internalID: -3076811413463922424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706a141bb30cc6d00800000000000000
+      internalID: 967359382587287047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cd67510c07c42c0800000000000000
+      internalID: -4446054761825379264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f046a7d90f3fd7c10800000000000000
+      internalID: 2053065219910558735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21decacda45d1da70800000000000000
+      internalID: 8850089260266351890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3bc8bccf613adf0800000000000000
+      internalID: -170267085907381326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629d3be51e7021fd0800000000000000
+      internalID: -2372825389132949210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629615256e506a140800000000000000
+      internalID: 4730474945380968742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7a0211fb471dfe0800000000000000
+      internalID: -1166022464537319438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fb86891146e6ab0800000000000000
+      internalID: -5012959308482560133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_16
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 0
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79acc88699b4dae90800000000000000
+      internalID: -7012865922489857385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0c11504d018bff0800000000000000
+      internalID: -20247695519006483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206f52e1aca52b770800000000000000
+      internalID: 8625056060503619074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Fang_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e142e78009c0b710800000000000000
+      internalID: 1707085262890353122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dragon_Fang_0: 3910806725767613526
+      VFX_Move_Dragon_Fang_1: 6334261978287573046
+      VFX_Move_Dragon_Fang_10: 8850089260266351890
+      VFX_Move_Dragon_Fang_11: -170267085907381326
+      VFX_Move_Dragon_Fang_12: -2372825389132949210
+      VFX_Move_Dragon_Fang_13: 4730474945380968742
+      VFX_Move_Dragon_Fang_14: -1166022464537319438
+      VFX_Move_Dragon_Fang_15: -5012959308482560133
+      VFX_Move_Dragon_Fang_16: -7012865922489857385
+      VFX_Move_Dragon_Fang_17: -20247695519006483
+      VFX_Move_Dragon_Fang_18: 8625056060503619074
+      VFX_Move_Dragon_Fang_19: 1707085262890353122
+      VFX_Move_Dragon_Fang_2: -3045063846239650305
+      VFX_Move_Dragon_Fang_3: 3167489285733981595
+      VFX_Move_Dragon_Fang_4: -6044033881733449967
+      VFX_Move_Dragon_Fang_5: -6767707017035531475
+      VFX_Move_Dragon_Fang_6: -3076811413463922424
+      VFX_Move_Dragon_Fang_7: 967359382587287047
+      VFX_Move_Dragon_Fang_8: -4446054761825379264
+      VFX_Move_Dragon_Fang_9: 2053065219910558735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

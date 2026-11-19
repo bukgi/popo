@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d9662267fe10d4a46939dff3e63ce6d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6105005686269834833
+    second: VFX_Move_Dazzling_Gleam_0
+  - first:
+      213: 3784247758866349562
+    second: VFX_Move_Dazzling_Gleam_1
+  - first:
+      213: 2636311344035470181
+    second: VFX_Move_Dazzling_Gleam_2
+  - first:
+      213: 297201777797038310
+    second: VFX_Move_Dazzling_Gleam_3
+  - first:
+      213: 5854514527255701768
+    second: VFX_Move_Dazzling_Gleam_4
+  - first:
+      213: 6807186764332467791
+    second: VFX_Move_Dazzling_Gleam_5
+  - first:
+      213: -6891922833280789431
+    second: VFX_Move_Dazzling_Gleam_6
+  - first:
+      213: -8532025638636258815
+    second: VFX_Move_Dazzling_Gleam_7
+  - first:
+      213: 6431618112489533910
+    second: VFX_Move_Dazzling_Gleam_8
+  - first:
+      213: 9187245321589684255
+    second: VFX_Move_Dazzling_Gleam_9
+  - first:
+      213: 6879112144290404418
+    second: VFX_Move_Dazzling_Gleam_10
+  - first:
+      213: 6903244060825515831
+    second: VFX_Move_Dazzling_Gleam_11
+  - first:
+      213: 9050286678265380933
+    second: VFX_Move_Dazzling_Gleam_12
+  - first:
+      213: -3925436376756751533
+    second: VFX_Move_Dazzling_Gleam_13
+  - first:
+      213: -7740834869999740440
+    second: VFX_Move_Dazzling_Gleam_14
+  - first:
+      213: 7191429453061807923
+    second: VFX_Move_Dazzling_Gleam_15
+  - first:
+      213: -5061570095004745059
+    second: VFX_Move_Dazzling_Gleam_16
+  - first:
+      213: 2158285134815069831
+    second: VFX_Move_Dazzling_Gleam_17
+  - first:
+      213: -4963051208682036014
+    second: VFX_Move_Dazzling_Gleam_18
+  - first:
+      213: 7270568379081359697
+    second: VFX_Move_Dazzling_Gleam_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9852e8ca9a64ba0800000000000000
+      internalID: -6105005686269834833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 13
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdfb417949548430800000000000000
+      internalID: 3784247758866349562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b119a133f069420800000000000000
+      internalID: 2636311344035470181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 11
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e00538317fdf1400800000000000000
+      internalID: 297201777797038310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809a079a1f96f3150800000000000000
+      internalID: 5854514527255701768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4607cfcb4cf77e50800000000000000
+      internalID: 6807186764332467791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94415e6b2b8fa50a0800000000000000
+      internalID: -6891922833280789431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a7f82e2e7289980800000000000000
+      internalID: -8532025638636258815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d138edd892b14950800000000000000
+      internalID: 6431618112489533910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18f8b1a1f6af7f70800000000000000
+      internalID: 9187245321589684255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_10
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24851825c04877f50800000000000000
+      internalID: 6879112144290404418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_11
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737745bf5ef3dcf50800000000000000
+      internalID: 6903244060825515831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540457d88c3199d70800000000000000
+      internalID: 9050286678265380933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3537407c96c0689c0800000000000000
+      internalID: -3925436376756751533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 10
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e955bcc2b7039490800000000000000
+      internalID: -7740834869999740440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fd7095cf61dc360800000000000000
+      internalID: 7191429453061807923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d928081e0d0b1c9b0800000000000000
+      internalID: -5061570095004745059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78688a025e4c3fd10800000000000000
+      internalID: 2158285134815069831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d42f689833bf1bb0800000000000000
+      internalID: -4963051208682036014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dazzling_Gleam_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151055e6b6f36e460800000000000000
+      internalID: 7270568379081359697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dazzling_Gleam_0: -6105005686269834833
+      VFX_Move_Dazzling_Gleam_1: 3784247758866349562
+      VFX_Move_Dazzling_Gleam_10: 6879112144290404418
+      VFX_Move_Dazzling_Gleam_11: 6903244060825515831
+      VFX_Move_Dazzling_Gleam_12: 9050286678265380933
+      VFX_Move_Dazzling_Gleam_13: -3925436376756751533
+      VFX_Move_Dazzling_Gleam_14: -7740834869999740440
+      VFX_Move_Dazzling_Gleam_15: 7191429453061807923
+      VFX_Move_Dazzling_Gleam_16: -5061570095004745059
+      VFX_Move_Dazzling_Gleam_17: 2158285134815069831
+      VFX_Move_Dazzling_Gleam_18: -4963051208682036014
+      VFX_Move_Dazzling_Gleam_19: 7270568379081359697
+      VFX_Move_Dazzling_Gleam_2: 2636311344035470181
+      VFX_Move_Dazzling_Gleam_3: 297201777797038310
+      VFX_Move_Dazzling_Gleam_4: 5854514527255701768
+      VFX_Move_Dazzling_Gleam_5: 6807186764332467791
+      VFX_Move_Dazzling_Gleam_6: -6891922833280789431
+      VFX_Move_Dazzling_Gleam_7: -8532025638636258815
+      VFX_Move_Dazzling_Gleam_8: 6431618112489533910
+      VFX_Move_Dazzling_Gleam_9: 9187245321589684255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

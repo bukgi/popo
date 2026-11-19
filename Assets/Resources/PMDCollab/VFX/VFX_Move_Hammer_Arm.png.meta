@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 4797fd541758c0b4a8f2d9028adeb1ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5608664864289994518
+    second: VFX_Move_Hammer_Arm_0
+  - first:
+      213: 3972937746609285066
+    second: VFX_Move_Hammer_Arm_1
+  - first:
+      213: 8179362183212285360
+    second: VFX_Move_Hammer_Arm_2
+  - first:
+      213: 3729325426950093196
+    second: VFX_Move_Hammer_Arm_3
+  - first:
+      213: -1694345052330815662
+    second: VFX_Move_Hammer_Arm_4
+  - first:
+      213: 4903727207072486600
+    second: VFX_Move_Hammer_Arm_5
+  - first:
+      213: 8756822482442942567
+    second: VFX_Move_Hammer_Arm_6
+  - first:
+      213: 4014752589337907359
+    second: VFX_Move_Hammer_Arm_7
+  - first:
+      213: 5920234333642402303
+    second: VFX_Move_Hammer_Arm_8
+  - first:
+      213: -5406449603562071629
+    second: VFX_Move_Hammer_Arm_9
+  - first:
+      213: 3306607540840326125
+    second: VFX_Move_Hammer_Arm_10
+  - first:
+      213: 8782786610552216673
+    second: VFX_Move_Hammer_Arm_11
+  - first:
+      213: -4305690907711544349
+    second: VFX_Move_Hammer_Arm_12
+  - first:
+      213: -4700624006077508998
+    second: VFX_Move_Hammer_Arm_13
+  - first:
+      213: 914256467116836953
+    second: VFX_Move_Hammer_Arm_14
+  - first:
+      213: -6116892010808459071
+    second: VFX_Move_Hammer_Arm_15
+  - first:
+      213: 8444255774718038230
+    second: VFX_Move_Hammer_Arm_16
+  - first:
+      213: -402281936274750825
+    second: VFX_Move_Hammer_Arm_17
+  - first:
+      213: -8309447932897983191
+    second: VFX_Move_Hammer_Arm_18
+  - first:
+      213: 7784632264100387923
+    second: VFX_Move_Hammer_Arm_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8c7cb95050a22b0800000000000000
+      internalID: -5608664864289994518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7236db4d5b22730800000000000000
+      internalID: 3972937746609285066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdb1abc19ee28170800000000000000
+      internalID: 8179362183212285360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89313d87b931c330800000000000000
+      internalID: 3729325426950093196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f81e4e62a7c78e0800000000000000
+      internalID: -1694345052330815662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c459fce9e98d0440800000000000000
+      internalID: 4903727207072486600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7687a23f6ab768970800000000000000
+      internalID: 8756822482442942567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90d09c753447b730800000000000000
+      internalID: 4014752589337907359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9a3db72c5e82250800000000000000
+      internalID: 5920234333642402303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b991abeabe68f4b0800000000000000
+      internalID: -5406449603562071629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de36a6b0a0e63ed20800000000000000
+      internalID: 3306607540840326125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c950c93e9b2e970800000000000000
+      internalID: 8782786610552216673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e369359eec1f34c0800000000000000
+      internalID: -4305690907711544349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7293171f5704ceb0800000000000000
+      internalID: -4700624006077508998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9584a14b96710bc00800000000000000
+      internalID: 914256467116836953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 5
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c04656ff1f6c1ba0800000000000000
+      internalID: -6116892010808459071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d01c9433e5003570800000000000000
+      internalID: 8444255774718038230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 5
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79289c8d5beca6af0800000000000000
+      internalID: -402281936274750825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 4
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92503006129eeac80800000000000000
+      internalID: -8309447932897983191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Hammer_Arm_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 4
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c9fb8acc1980c60800000000000000
+      internalID: 7784632264100387923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Hammer_Arm_0: -5608664864289994518
+      VFX_Move_Hammer_Arm_1: 3972937746609285066
+      VFX_Move_Hammer_Arm_10: 3306607540840326125
+      VFX_Move_Hammer_Arm_11: 8782786610552216673
+      VFX_Move_Hammer_Arm_12: -4305690907711544349
+      VFX_Move_Hammer_Arm_13: -4700624006077508998
+      VFX_Move_Hammer_Arm_14: 914256467116836953
+      VFX_Move_Hammer_Arm_15: -6116892010808459071
+      VFX_Move_Hammer_Arm_16: 8444255774718038230
+      VFX_Move_Hammer_Arm_17: -402281936274750825
+      VFX_Move_Hammer_Arm_18: -8309447932897983191
+      VFX_Move_Hammer_Arm_19: 7784632264100387923
+      VFX_Move_Hammer_Arm_2: 8179362183212285360
+      VFX_Move_Hammer_Arm_3: 3729325426950093196
+      VFX_Move_Hammer_Arm_4: -1694345052330815662
+      VFX_Move_Hammer_Arm_5: 4903727207072486600
+      VFX_Move_Hammer_Arm_6: 8756822482442942567
+      VFX_Move_Hammer_Arm_7: 4014752589337907359
+      VFX_Move_Hammer_Arm_8: 5920234333642402303
+      VFX_Move_Hammer_Arm_9: -5406449603562071629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

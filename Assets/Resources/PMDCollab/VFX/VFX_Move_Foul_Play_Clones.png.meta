@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: eada4b92883b0bd489d6352b41291620
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8847311685234232538
+    second: VFX_Move_Foul_Play_Clones_0
+  - first:
+      213: -2503413119563367156
+    second: VFX_Move_Foul_Play_Clones_1
+  - first:
+      213: 3120547102815136957
+    second: VFX_Move_Foul_Play_Clones_2
+  - first:
+      213: -4897857298973180493
+    second: VFX_Move_Foul_Play_Clones_3
+  - first:
+      213: 4194673338513061359
+    second: VFX_Move_Foul_Play_Clones_4
+  - first:
+      213: 1143519063652223409
+    second: VFX_Move_Foul_Play_Clones_5
+  - first:
+      213: -8210339890130372089
+    second: VFX_Move_Foul_Play_Clones_6
+  - first:
+      213: -832521937974599234
+    second: VFX_Move_Foul_Play_Clones_7
+  - first:
+      213: 7652947827133321845
+    second: VFX_Move_Foul_Play_Clones_8
+  - first:
+      213: -6849190669119215127
+    second: VFX_Move_Foul_Play_Clones_9
+  - first:
+      213: 6447665477217774430
+    second: VFX_Move_Foul_Play_Clones_10
+  - first:
+      213: 7138264689362529972
+    second: VFX_Move_Foul_Play_Clones_11
+  - first:
+      213: 6074306432905654973
+    second: VFX_Move_Foul_Play_Clones_12
+  - first:
+      213: -9142348326855316272
+    second: VFX_Move_Foul_Play_Clones_13
+  - first:
+      213: 4534079470146510890
+    second: VFX_Move_Foul_Play_Clones_14
+  - first:
+      213: -9043270031541379761
+    second: VFX_Move_Foul_Play_Clones_15
+  - first:
+      213: 78069377791950957
+    second: VFX_Move_Foul_Play_Clones_16
+  - first:
+      213: -5665619684792557811
+    second: VFX_Move_Foul_Play_Clones_17
+  - first:
+      213: 8246157579667965896
+    second: VFX_Move_Foul_Play_Clones_18
+  - first:
+      213: -8829524453977657211
+    second: VFX_Move_Foul_Play_Clones_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc8c874a17f7ca70800000000000000
+      internalID: 8847311685234232538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d7f5a0807124dd0800000000000000
+      internalID: -2503413119563367156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcab208e096e4b20800000000000000
+      internalID: 3120547102815136957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd362e8cb0570cb0800000000000000
+      internalID: -4897857298973180493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe57fd25d29763a30800000000000000
+      internalID: 4194673338513061359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9c0ee97889edf00800000000000000
+      internalID: 1143519063652223409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a3f83ce530f0e80800000000000000
+      internalID: -8210339890130372089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1ed4355b94274f0800000000000000
+      internalID: -832521937974599234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57211e0708bb43a60800000000000000
+      internalID: 7652947827133321845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9aa300069c2f0a0800000000000000
+      internalID: -6849190669119215127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6d102795ba7950800000000000000
+      internalID: 6447665477217774430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 9
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beea223ae5301360800000000000000
+      internalID: 7138264689362529972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2363684854c4450800000000000000
+      internalID: 6074306432905654973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dce6ec82aadf1180800000000000000
+      internalID: -9142348326855316272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20697961494cee30800000000000000
+      internalID: 4534079470146510890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d5a02d1d9df7280800000000000000
+      internalID: -9043270031541379761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60002b7fab551100800000000000000
+      internalID: 78069377791950957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_17
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f9a771aecaf51b0800000000000000
+      internalID: -5665619684792557811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_18
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c70102f0ac307270800000000000000
+      internalID: 8246157579667965896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Foul_Play_Clones_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58079093a4a377580800000000000000
+      internalID: -8829524453977657211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Foul_Play_Clones_0: 8847311685234232538
+      VFX_Move_Foul_Play_Clones_1: -2503413119563367156
+      VFX_Move_Foul_Play_Clones_10: 6447665477217774430
+      VFX_Move_Foul_Play_Clones_11: 7138264689362529972
+      VFX_Move_Foul_Play_Clones_12: 6074306432905654973
+      VFX_Move_Foul_Play_Clones_13: -9142348326855316272
+      VFX_Move_Foul_Play_Clones_14: 4534079470146510890
+      VFX_Move_Foul_Play_Clones_15: -9043270031541379761
+      VFX_Move_Foul_Play_Clones_16: 78069377791950957
+      VFX_Move_Foul_Play_Clones_17: -5665619684792557811
+      VFX_Move_Foul_Play_Clones_18: 8246157579667965896
+      VFX_Move_Foul_Play_Clones_19: -8829524453977657211
+      VFX_Move_Foul_Play_Clones_2: 3120547102815136957
+      VFX_Move_Foul_Play_Clones_3: -4897857298973180493
+      VFX_Move_Foul_Play_Clones_4: 4194673338513061359
+      VFX_Move_Foul_Play_Clones_5: 1143519063652223409
+      VFX_Move_Foul_Play_Clones_6: -8210339890130372089
+      VFX_Move_Foul_Play_Clones_7: -832521937974599234
+      VFX_Move_Foul_Play_Clones_8: 7652947827133321845
+      VFX_Move_Foul_Play_Clones_9: -6849190669119215127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

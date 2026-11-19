@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e520fb4ef73c33b48aa829d72a24bf70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -795705125989696663
+    second: VFX_Move_Dream_Eater_0
+  - first:
+      213: -6540694442156614922
+    second: VFX_Move_Dream_Eater_1
+  - first:
+      213: -8599342851085796056
+    second: VFX_Move_Dream_Eater_2
+  - first:
+      213: -3576087797801676591
+    second: VFX_Move_Dream_Eater_3
+  - first:
+      213: -4969107528876932662
+    second: VFX_Move_Dream_Eater_4
+  - first:
+      213: -8368267062954936190
+    second: VFX_Move_Dream_Eater_5
+  - first:
+      213: 168280133761129413
+    second: VFX_Move_Dream_Eater_6
+  - first:
+      213: -3097681421694686098
+    second: VFX_Move_Dream_Eater_7
+  - first:
+      213: -5777777157578671459
+    second: VFX_Move_Dream_Eater_8
+  - first:
+      213: 8105278831913909704
+    second: VFX_Move_Dream_Eater_9
+  - first:
+      213: 7693670510096190696
+    second: VFX_Move_Dream_Eater_10
+  - first:
+      213: -7908596057799427440
+    second: VFX_Move_Dream_Eater_11
+  - first:
+      213: -2246107217890944251
+    second: VFX_Move_Dream_Eater_12
+  - first:
+      213: -4449642252981973973
+    second: VFX_Move_Dream_Eater_13
+  - first:
+      213: -3771516344240360577
+    second: VFX_Move_Dream_Eater_14
+  - first:
+      213: 5093140371295321905
+    second: VFX_Move_Dream_Eater_15
+  - first:
+      213: 6792842721850204844
+    second: VFX_Move_Dream_Eater_16
+  - first:
+      213: 8314719098331116441
+    second: VFX_Move_Dream_Eater_17
+  - first:
+      213: 3537477933794555735
+    second: VFX_Move_Dream_Eater_18
+  - first:
+      213: 1644277251578575528
+    second: VFX_Move_Dream_Eater_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b3d6b576615f4f0800000000000000
+      internalID: -795705125989696663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 10
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa12e61f09ca35a0800000000000000
+      internalID: -6540694442156614922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 6
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d7c3bfc3ff8a880800000000000000
+      internalID: -8599342851085796056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d01c66481f2f5ec0800000000000000
+      internalID: -3576087797801676591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 6
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1429aa70f2a0bb0800000000000000
+      internalID: -4969107528876932662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 5
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28838f67171fddb80800000000000000
+      internalID: -8368267062954936190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 6
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb569bd3e9d55200800000000000000
+      internalID: 168280133761129413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 6
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6caf80c823d205d0800000000000000
+      internalID: -3097681421694686098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a3823894631dfa0800000000000000
+      internalID: -5777777157578671459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 9
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdb8bd672cbb7070800000000000000
+      internalID: 8105278831913909704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec8e2de09865ca60800000000000000
+      internalID: 7693670510096190696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 10
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a7fc679c50f3290800000000000000
+      internalID: -7908596057799427440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 9
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b5b2eb26934d0e0800000000000000
+      internalID: -2246107217890944251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 10
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cc07532f1bf32c0800000000000000
+      internalID: -4449642252981973973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 10
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7339f40ed1e8abc0800000000000000
+      internalID: -3771516344240360577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 11
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f324ede287ea640800000000000000
+      internalID: 5093140371295321905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 13
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2aafa2776054e50800000000000000
+      internalID: 6792842721850204844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 12
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993be2777f0d36370800000000000000
+      internalID: 8314719098331116441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 10
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7577b9c3075a71130800000000000000
+      internalID: 3537477933794555735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dream_Eater_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 10
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aab894d275a1d610800000000000000
+      internalID: 1644277251578575528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dream_Eater_0: -795705125989696663
+      VFX_Move_Dream_Eater_1: -6540694442156614922
+      VFX_Move_Dream_Eater_10: 7693670510096190696
+      VFX_Move_Dream_Eater_11: -7908596057799427440
+      VFX_Move_Dream_Eater_12: -2246107217890944251
+      VFX_Move_Dream_Eater_13: -4449642252981973973
+      VFX_Move_Dream_Eater_14: -3771516344240360577
+      VFX_Move_Dream_Eater_15: 5093140371295321905
+      VFX_Move_Dream_Eater_16: 6792842721850204844
+      VFX_Move_Dream_Eater_17: 8314719098331116441
+      VFX_Move_Dream_Eater_18: 3537477933794555735
+      VFX_Move_Dream_Eater_19: 1644277251578575528
+      VFX_Move_Dream_Eater_2: -8599342851085796056
+      VFX_Move_Dream_Eater_3: -3576087797801676591
+      VFX_Move_Dream_Eater_4: -4969107528876932662
+      VFX_Move_Dream_Eater_5: -8368267062954936190
+      VFX_Move_Dream_Eater_6: 168280133761129413
+      VFX_Move_Dream_Eater_7: -3097681421694686098
+      VFX_Move_Dream_Eater_8: -5777777157578671459
+      VFX_Move_Dream_Eater_9: 8105278831913909704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 1ee6b8f4c0688f54eb13f843b34d02ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8052556923860327844
+    second: VFX_Move_Sheer_Cold_Spikes_0
+  - first:
+      213: -4371550612199014703
+    second: VFX_Move_Sheer_Cold_Spikes_1
+  - first:
+      213: -1630395392150197083
+    second: VFX_Move_Sheer_Cold_Spikes_2
+  - first:
+      213: 3604769048366656880
+    second: VFX_Move_Sheer_Cold_Spikes_3
+  - first:
+      213: -3480184605817688978
+    second: VFX_Move_Sheer_Cold_Spikes_4
+  - first:
+      213: 4319000617179606690
+    second: VFX_Move_Sheer_Cold_Spikes_5
+  - first:
+      213: -227572181844626836
+    second: VFX_Move_Sheer_Cold_Spikes_6
+  - first:
+      213: -5472738527170978524
+    second: VFX_Move_Sheer_Cold_Spikes_7
+  - first:
+      213: -3687799335942935779
+    second: VFX_Move_Sheer_Cold_Spikes_8
+  - first:
+      213: -8150361396480372376
+    second: VFX_Move_Sheer_Cold_Spikes_9
+  - first:
+      213: -8063225425186614588
+    second: VFX_Move_Sheer_Cold_Spikes_10
+  - first:
+      213: -8493281682984907068
+    second: VFX_Move_Sheer_Cold_Spikes_11
+  - first:
+      213: 473344981589013563
+    second: VFX_Move_Sheer_Cold_Spikes_12
+  - first:
+      213: 4915615780323429701
+    second: VFX_Move_Sheer_Cold_Spikes_13
+  - first:
+      213: -6568216999792460693
+    second: VFX_Move_Sheer_Cold_Spikes_14
+  - first:
+      213: 8080750743379812570
+    second: VFX_Move_Sheer_Cold_Spikes_15
+  - first:
+      213: -6263094810758590103
+    second: VFX_Move_Sheer_Cold_Spikes_16
+  - first:
+      213: 2480908192516065890
+    second: VFX_Move_Sheer_Cold_Spikes_17
+  - first:
+      213: 3571216651332748443
+    second: VFX_Move_Sheer_Cold_Spikes_18
+  - first:
+      213: -4734026527788456954
+    second: VFX_Move_Sheer_Cold_Spikes_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5261bb54229f3090800000000000000
+      internalID: -8052556923860327844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de7c3231e12553c0800000000000000
+      internalID: -4371550612199014703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac247f670caf59e0800000000000000
+      internalID: -1630395392150197083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07da731c956b60230800000000000000
+      internalID: 3604769048366656880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c24713a86e3bfc0800000000000000
+      internalID: -3480184605817688978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeeea3ad2c20fb30800000000000000
+      internalID: 4319000617179606690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62f36c6e4087dcf0800000000000000
+      internalID: -227572181844626836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d116b2e4dec04b0800000000000000
+      internalID: -5472738527170978524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 5
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b2332fa0e42dcc0800000000000000
+      internalID: -3687799335942935779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8611bbb0e7914ee80800000000000000
+      internalID: -8150361396480372376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 6
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c29ad3523ba91090800000000000000
+      internalID: -8063225425186614588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce4a540f4dc12a80800000000000000
+      internalID: -8493281682984907068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34b3dbb0c8a19600800000000000000
+      internalID: 473344981589013563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d8b761286c73440800000000000000
+      internalID: 4915615780323429701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c30b7407109d4a0800000000000000
+      internalID: -6568216999792460693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a0a9ccf7942070800000000000000
+      internalID: 8080750743379812570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9615422f3740519a0800000000000000
+      internalID: -6263094810758590103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac64f4bd4fd6220800000000000000
+      internalID: 2480908192516065890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9406ae8f928f8130800000000000000
+      internalID: 3571216651332748443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sheer_Cold_Spikes_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604a4e574fb5d4eb0800000000000000
+      internalID: -4734026527788456954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Sheer_Cold_Spikes_0: -8052556923860327844
+      VFX_Move_Sheer_Cold_Spikes_1: -4371550612199014703
+      VFX_Move_Sheer_Cold_Spikes_10: -8063225425186614588
+      VFX_Move_Sheer_Cold_Spikes_11: -8493281682984907068
+      VFX_Move_Sheer_Cold_Spikes_12: 473344981589013563
+      VFX_Move_Sheer_Cold_Spikes_13: 4915615780323429701
+      VFX_Move_Sheer_Cold_Spikes_14: -6568216999792460693
+      VFX_Move_Sheer_Cold_Spikes_15: 8080750743379812570
+      VFX_Move_Sheer_Cold_Spikes_16: -6263094810758590103
+      VFX_Move_Sheer_Cold_Spikes_17: 2480908192516065890
+      VFX_Move_Sheer_Cold_Spikes_18: 3571216651332748443
+      VFX_Move_Sheer_Cold_Spikes_19: -4734026527788456954
+      VFX_Move_Sheer_Cold_Spikes_2: -1630395392150197083
+      VFX_Move_Sheer_Cold_Spikes_3: 3604769048366656880
+      VFX_Move_Sheer_Cold_Spikes_4: -3480184605817688978
+      VFX_Move_Sheer_Cold_Spikes_5: 4319000617179606690
+      VFX_Move_Sheer_Cold_Spikes_6: -227572181844626836
+      VFX_Move_Sheer_Cold_Spikes_7: -5472738527170978524
+      VFX_Move_Sheer_Cold_Spikes_8: -3687799335942935779
+      VFX_Move_Sheer_Cold_Spikes_9: -8150361396480372376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

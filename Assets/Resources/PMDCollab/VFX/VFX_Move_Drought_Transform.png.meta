@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 808257bc6c4bb134eb72415e5989908f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2216014522480862896
+    second: VFX_Move_Drought_Transform_0
+  - first:
+      213: 8478014429612415406
+    second: VFX_Move_Drought_Transform_1
+  - first:
+      213: -5348414844366194109
+    second: VFX_Move_Drought_Transform_2
+  - first:
+      213: -1057070631572369308
+    second: VFX_Move_Drought_Transform_3
+  - first:
+      213: -5006975113222435523
+    second: VFX_Move_Drought_Transform_4
+  - first:
+      213: -737722829726562188
+    second: VFX_Move_Drought_Transform_5
+  - first:
+      213: 1774000290177067968
+    second: VFX_Move_Drought_Transform_6
+  - first:
+      213: -6912916248515818197
+    second: VFX_Move_Drought_Transform_7
+  - first:
+      213: -7008452593175148348
+    second: VFX_Move_Drought_Transform_8
+  - first:
+      213: 8483810217454437552
+    second: VFX_Move_Drought_Transform_9
+  - first:
+      213: 4294514940325879336
+    second: VFX_Move_Drought_Transform_10
+  - first:
+      213: 833945121256416234
+    second: VFX_Move_Drought_Transform_11
+  - first:
+      213: 6536174325073828033
+    second: VFX_Move_Drought_Transform_12
+  - first:
+      213: -8311517217054013372
+    second: VFX_Move_Drought_Transform_13
+  - first:
+      213: 6500277213108579881
+    second: VFX_Move_Drought_Transform_14
+  - first:
+      213: -4582130389165209038
+    second: VFX_Move_Drought_Transform_15
+  - first:
+      213: -1820462925119613436
+    second: VFX_Move_Drought_Transform_16
+  - first:
+      213: -1086274767080603645
+    second: VFX_Move_Drought_Transform_17
+  - first:
+      213: -6618426329494426819
+    second: VFX_Move_Drought_Transform_18
+  - first:
+      213: -8225153883996264760
+    second: VFX_Move_Drought_Transform_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6249d977dd0ce10800000000000000
+      internalID: 2216014522480862896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea91fad8435f7a570800000000000000
+      internalID: 8478014429612415406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a7022490d96c5b0800000000000000
+      internalID: -5348414844366194109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46091a67cd78451f0800000000000000
+      internalID: -1057070631572369308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dc721a9a6a38ab0800000000000000
+      internalID: -5006975113222435523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478c377bef413c5f0800000000000000
+      internalID: -737722829726562188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cba1776dd38e9810800000000000000
+      internalID: 1774000290177067968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d40355c436010a0800000000000000
+      internalID: -6912916248515818197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c841a6bf79fcbe90800000000000000
+      internalID: -7008452593175148348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b48331917c8cb570800000000000000
+      internalID: 8483810217454437552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e5bbcb59e299b30800000000000000
+      internalID: 4294514940325879336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3a8aa5ba4c29b00800000000000000
+      internalID: 833945121256416234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 4
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8dd042be725ba50800000000000000
+      internalID: 6536174325073828033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 5
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448c3fc902f87ac80800000000000000
+      internalID: -8311517217054013372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 6
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e27e47faf953a50800000000000000
+      internalID: 6500277213108579881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_15
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 8
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a094f20b00960c0800000000000000
+      internalID: -4582130389165209038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 7
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4061a756d9a6cb6e0800000000000000
+      internalID: -1820462925119613436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 5
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300c0bbcad6cce0f0800000000000000
+      internalID: -1086274767080603645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 5
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b646ab150a624a0800000000000000
+      internalID: -6618426329494426819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Drought_Transform_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c66a790f126add80800000000000000
+      internalID: -8225153883996264760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Drought_Transform_0: 2216014522480862896
+      VFX_Move_Drought_Transform_1: 8478014429612415406
+      VFX_Move_Drought_Transform_10: 4294514940325879336
+      VFX_Move_Drought_Transform_11: 833945121256416234
+      VFX_Move_Drought_Transform_12: 6536174325073828033
+      VFX_Move_Drought_Transform_13: -8311517217054013372
+      VFX_Move_Drought_Transform_14: 6500277213108579881
+      VFX_Move_Drought_Transform_15: -4582130389165209038
+      VFX_Move_Drought_Transform_16: -1820462925119613436
+      VFX_Move_Drought_Transform_17: -1086274767080603645
+      VFX_Move_Drought_Transform_18: -6618426329494426819
+      VFX_Move_Drought_Transform_19: -8225153883996264760
+      VFX_Move_Drought_Transform_2: -5348414844366194109
+      VFX_Move_Drought_Transform_3: -1057070631572369308
+      VFX_Move_Drought_Transform_4: -5006975113222435523
+      VFX_Move_Drought_Transform_5: -737722829726562188
+      VFX_Move_Drought_Transform_6: 1774000290177067968
+      VFX_Move_Drought_Transform_7: -6912916248515818197
+      VFX_Move_Drought_Transform_8: -7008452593175148348
+      VFX_Move_Drought_Transform_9: 8483810217454437552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

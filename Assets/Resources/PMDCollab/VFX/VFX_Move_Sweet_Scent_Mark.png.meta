@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 8951296522fd81f48a3166780ae414b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2191788182884810931
+    second: VFX_Move_Sweet_Scent_Mark_0
+  - first:
+      213: -2073297600715617034
+    second: VFX_Move_Sweet_Scent_Mark_1
+  - first:
+      213: -3932654453786202399
+    second: VFX_Move_Sweet_Scent_Mark_2
+  - first:
+      213: -3040260226822258057
+    second: VFX_Move_Sweet_Scent_Mark_3
+  - first:
+      213: -8616050199602558901
+    second: VFX_Move_Sweet_Scent_Mark_4
+  - first:
+      213: -8753044583062213172
+    second: VFX_Move_Sweet_Scent_Mark_5
+  - first:
+      213: 8391399115021297264
+    second: VFX_Move_Sweet_Scent_Mark_6
+  - first:
+      213: 793726903986792836
+    second: VFX_Move_Sweet_Scent_Mark_7
+  - first:
+      213: -126737850171450425
+    second: VFX_Move_Sweet_Scent_Mark_8
+  - first:
+      213: 3843974845155856220
+    second: VFX_Move_Sweet_Scent_Mark_9
+  - first:
+      213: -699483671374104084
+    second: VFX_Move_Sweet_Scent_Mark_10
+  - first:
+      213: -3517024687737057917
+    second: VFX_Move_Sweet_Scent_Mark_11
+  - first:
+      213: -8755417078535158115
+    second: VFX_Move_Sweet_Scent_Mark_12
+  - first:
+      213: -8749641447845066768
+    second: VFX_Move_Sweet_Scent_Mark_13
+  - first:
+      213: -6019415471550871331
+    second: VFX_Move_Sweet_Scent_Mark_14
+  - first:
+      213: -7268899814544267659
+    second: VFX_Move_Sweet_Scent_Mark_15
+  - first:
+      213: -1661514415596471976
+    second: VFX_Move_Sweet_Scent_Mark_16
+  - first:
+      213: -3997611930949800920
+    second: VFX_Move_Sweet_Scent_Mark_17
+  - first:
+      213: 2769954520522614841
+    second: VFX_Move_Sweet_Scent_Mark_18
+  - first:
+      213: -7354054277955947208
+    second: VFX_Move_Sweet_Scent_Mark_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b08fbf5dbbca6e10800000000000000
+      internalID: 2191788182884810931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc0da321da2a33e0800000000000000
+      internalID: -2073297600715617034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee27b14c976c69c0800000000000000
+      internalID: -3932654453786202399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772c2838e63dec5d0800000000000000
+      internalID: -3040260226822258057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4881c54ef3ad6880800000000000000
+      internalID: -8616050199602558901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd6b6bc350f68680800000000000000
+      internalID: -8753044583062213172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0762f5b190d347470800000000000000
+      internalID: 8391399115021297264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489adc0f962e30b00800000000000000
+      internalID: 793726903986792836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb1fe4c89cbd3ef0800000000000000
+      internalID: -126737850171450425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f4d0361ca885530800000000000000
+      internalID: 3843974845155856220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 6
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce97f819e4fea46f0800000000000000
+      internalID: -699483671374104084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 6
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d47253ea4013fc0800000000000000
+      internalID: -3517024687737057917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 6
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9606852e828e7680800000000000000
+      internalID: -8755417078535158115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 6
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f70925f577039680800000000000000
+      internalID: -8749641447845066768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 6
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd848b6558db67ca0800000000000000
+      internalID: -6019415471550871331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 7
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576af26812eaf1b90800000000000000
+      internalID: -7268899814544267659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 8
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8597e2d217d11f8e0800000000000000
+      internalID: -1661514415596471976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 7
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cafd90121a588c0800000000000000
+      internalID: -3997611930949800920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 7
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938ecb7e5fad07620800000000000000
+      internalID: 2769954520522614841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sweet_Scent_Mark_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 6
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8357e7ff89621f990800000000000000
+      internalID: -7354054277955947208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Sweet_Scent_Mark_0: 2191788182884810931
+      VFX_Move_Sweet_Scent_Mark_1: -2073297600715617034
+      VFX_Move_Sweet_Scent_Mark_10: -699483671374104084
+      VFX_Move_Sweet_Scent_Mark_11: -3517024687737057917
+      VFX_Move_Sweet_Scent_Mark_12: -8755417078535158115
+      VFX_Move_Sweet_Scent_Mark_13: -8749641447845066768
+      VFX_Move_Sweet_Scent_Mark_14: -6019415471550871331
+      VFX_Move_Sweet_Scent_Mark_15: -7268899814544267659
+      VFX_Move_Sweet_Scent_Mark_16: -1661514415596471976
+      VFX_Move_Sweet_Scent_Mark_17: -3997611930949800920
+      VFX_Move_Sweet_Scent_Mark_18: 2769954520522614841
+      VFX_Move_Sweet_Scent_Mark_19: -7354054277955947208
+      VFX_Move_Sweet_Scent_Mark_2: -3932654453786202399
+      VFX_Move_Sweet_Scent_Mark_3: -3040260226822258057
+      VFX_Move_Sweet_Scent_Mark_4: -8616050199602558901
+      VFX_Move_Sweet_Scent_Mark_5: -8753044583062213172
+      VFX_Move_Sweet_Scent_Mark_6: 8391399115021297264
+      VFX_Move_Sweet_Scent_Mark_7: 793726903986792836
+      VFX_Move_Sweet_Scent_Mark_8: -126737850171450425
+      VFX_Move_Sweet_Scent_Mark_9: 3843974845155856220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

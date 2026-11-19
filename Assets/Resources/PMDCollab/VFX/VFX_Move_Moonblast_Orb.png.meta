@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d310ad71215c36543bfb71d14662f342
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4768234621335930996
+    second: VFX_Move_Moonblast_Orb_0
+  - first:
+      213: -6599429799286928024
+    second: VFX_Move_Moonblast_Orb_1
+  - first:
+      213: 1724572454833259342
+    second: VFX_Move_Moonblast_Orb_2
+  - first:
+      213: -6910577315965953507
+    second: VFX_Move_Moonblast_Orb_3
+  - first:
+      213: -1131342036819998573
+    second: VFX_Move_Moonblast_Orb_4
+  - first:
+      213: -534484401226088472
+    second: VFX_Move_Moonblast_Orb_5
+  - first:
+      213: -4289239039540424639
+    second: VFX_Move_Moonblast_Orb_6
+  - first:
+      213: 8425140225882864598
+    second: VFX_Move_Moonblast_Orb_7
+  - first:
+      213: -2360886171149291022
+    second: VFX_Move_Moonblast_Orb_8
+  - first:
+      213: 8668033962461733567
+    second: VFX_Move_Moonblast_Orb_9
+  - first:
+      213: 8044836345100878866
+    second: VFX_Move_Moonblast_Orb_10
+  - first:
+      213: -3304378580139103251
+    second: VFX_Move_Moonblast_Orb_11
+  - first:
+      213: 2771439142874931603
+    second: VFX_Move_Moonblast_Orb_12
+  - first:
+      213: -2768846967873990630
+    second: VFX_Move_Moonblast_Orb_13
+  - first:
+      213: 3256628308085376478
+    second: VFX_Move_Moonblast_Orb_14
+  - first:
+      213: 2205281681735784385
+    second: VFX_Move_Moonblast_Orb_15
+  - first:
+      213: 8170316317503681993
+    second: VFX_Move_Moonblast_Orb_16
+  - first:
+      213: 1449225191657081640
+    second: VFX_Move_Moonblast_Orb_17
+  - first:
+      213: 3781719627844460483
+    second: VFX_Move_Moonblast_Orb_18
+  - first:
+      213: -4510752645625281661
+    second: VFX_Move_Moonblast_Orb_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478827aff1c2c2240800000000000000
+      internalID: 4768234621335930996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 11
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d0065109d1a64a0800000000000000
+      internalID: -6599429799286928024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4382cfa289eee710800000000000000
+      internalID: 1724572454833259342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a1af08b82b810a0800000000000000
+      internalID: -6910577315965953507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39880ef596aac40f0800000000000000
+      internalID: -1131342036819998573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 6
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef7ee6d4412598f0800000000000000
+      internalID: -534484401226088472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1409473a1df8974c0800000000000000
+      internalID: -4289239039540424639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 7
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db3a9aa56c1ce470800000000000000
+      internalID: 8425140225882864598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 8
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1b38d29827c3fd0800000000000000
+      internalID: -2360886171149291022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 9
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2ad81b6fa0b4870800000000000000
+      internalID: 8668033962461733567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 9
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214c3e1580005af60800000000000000
+      internalID: 8044836345100878866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb266f403d7422d0800000000000000
+      internalID: -3304378580139103251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3916cab7731267620800000000000000
+      internalID: 2771439142874931603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10147a4a541399d0800000000000000
+      internalID: -2768846967873990630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed509ec113ed13d20800000000000000
+      internalID: 3256628308085376478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c79985610cba9e10800000000000000
+      internalID: 2205281681735784385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 6
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5726f076bc26170800000000000000
+      internalID: 8170316317503681993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b844c22aeac1410800000000000000
+      internalID: 1449225191657081640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_18
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf9ac117fd5b7430800000000000000
+      internalID: 3781719627844460483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Moonblast_Orb_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3830ad72e569661c0800000000000000
+      internalID: -4510752645625281661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Moonblast_Orb_0: 4768234621335930996
+      VFX_Move_Moonblast_Orb_1: -6599429799286928024
+      VFX_Move_Moonblast_Orb_10: 8044836345100878866
+      VFX_Move_Moonblast_Orb_11: -3304378580139103251
+      VFX_Move_Moonblast_Orb_12: 2771439142874931603
+      VFX_Move_Moonblast_Orb_13: -2768846967873990630
+      VFX_Move_Moonblast_Orb_14: 3256628308085376478
+      VFX_Move_Moonblast_Orb_15: 2205281681735784385
+      VFX_Move_Moonblast_Orb_16: 8170316317503681993
+      VFX_Move_Moonblast_Orb_17: 1449225191657081640
+      VFX_Move_Moonblast_Orb_18: 3781719627844460483
+      VFX_Move_Moonblast_Orb_19: -4510752645625281661
+      VFX_Move_Moonblast_Orb_2: 1724572454833259342
+      VFX_Move_Moonblast_Orb_3: -6910577315965953507
+      VFX_Move_Moonblast_Orb_4: -1131342036819998573
+      VFX_Move_Moonblast_Orb_5: -534484401226088472
+      VFX_Move_Moonblast_Orb_6: -4289239039540424639
+      VFX_Move_Moonblast_Orb_7: 8425140225882864598
+      VFX_Move_Moonblast_Orb_8: -2360886171149291022
+      VFX_Move_Moonblast_Orb_9: 8668033962461733567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

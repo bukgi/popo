@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: cedeba0a7ad44b741bca6b85c864c32d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2072353804872904848
+    second: VFX_Move_Dragon_Claw_0
+  - first:
+      213: 5973027211775396690
+    second: VFX_Move_Dragon_Claw_1
+  - first:
+      213: -5673857585015032309
+    second: VFX_Move_Dragon_Claw_2
+  - first:
+      213: 7879910738398897570
+    second: VFX_Move_Dragon_Claw_3
+  - first:
+      213: 857105355987410123
+    second: VFX_Move_Dragon_Claw_4
+  - first:
+      213: -2832370054777008246
+    second: VFX_Move_Dragon_Claw_5
+  - first:
+      213: 8517222513388688297
+    second: VFX_Move_Dragon_Claw_6
+  - first:
+      213: 3876278590117331213
+    second: VFX_Move_Dragon_Claw_7
+  - first:
+      213: 2726172029621690342
+    second: VFX_Move_Dragon_Claw_8
+  - first:
+      213: -4001303751501588633
+    second: VFX_Move_Dragon_Claw_9
+  - first:
+      213: 5512100692463808483
+    second: VFX_Move_Dragon_Claw_10
+  - first:
+      213: -7023242502816162506
+    second: VFX_Move_Dragon_Claw_11
+  - first:
+      213: -7553049693405851746
+    second: VFX_Move_Dragon_Claw_12
+  - first:
+      213: -298709848196134296
+    second: VFX_Move_Dragon_Claw_13
+  - first:
+      213: 4842842275710849385
+    second: VFX_Move_Dragon_Claw_14
+  - first:
+      213: 3711497291343786178
+    second: VFX_Move_Dragon_Claw_15
+  - first:
+      213: 6128757706783617814
+    second: VFX_Move_Dragon_Claw_16
+  - first:
+      213: -3152823701686711367
+    second: VFX_Move_Dragon_Claw_17
+  - first:
+      213: -3304129214058709604
+    second: VFX_Move_Dragon_Claw_18
+  - first:
+      213: -7529197743023460344
+    second: VFX_Move_Dragon_Claw_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090f0644eca72cc10800000000000000
+      internalID: 2072353804872904848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 3
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b4d974a9474e250800000000000000
+      internalID: 5973027211775396690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06f50b76986241b0800000000000000
+      internalID: -5673857585015032309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a56d0821111b5d60800000000000000
+      internalID: 7879910738398897570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccd6b6b7cc05eb00800000000000000
+      internalID: 857105355987410123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f0094117661b8d0800000000000000
+      internalID: -2832370054777008246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a31e7fefb0433670800000000000000
+      internalID: 8517222513388688297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01456e17de4bc530800000000000000
+      internalID: 3876278590117331213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efd43e540f45d520800000000000000
+      internalID: 2726172029621690342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7675f4510738878c0800000000000000
+      internalID: -4001303751501588633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 6
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef6d7c106aee7c40800000000000000
+      internalID: 5512100692463808483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 6
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d9738872e688e90800000000000000
+      internalID: -7023242502816162506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 6
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fcba5525d2e2790800000000000000
+      internalID: -7553049693405851746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 6
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86acb57c9f4cadbf0800000000000000
+      internalID: -298709848196134296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 7
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9615dfa246b353340800000000000000
+      internalID: 4842842275710849385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 7
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0fe534f13e18330800000000000000
+      internalID: 3711497291343786178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 8
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613764ba9a8bd0550800000000000000
+      internalID: 6128757706783617814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_17
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 7
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb08853c8bee34d0800000000000000
+      internalID: -3152823701686711367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 6
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d3a006cff5522d0800000000000000
+      internalID: -3304129214058709604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dragon_Claw_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 6
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800f96b4b8ae28790800000000000000
+      internalID: -7529197743023460344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dragon_Claw_0: 2072353804872904848
+      VFX_Move_Dragon_Claw_1: 5973027211775396690
+      VFX_Move_Dragon_Claw_10: 5512100692463808483
+      VFX_Move_Dragon_Claw_11: -7023242502816162506
+      VFX_Move_Dragon_Claw_12: -7553049693405851746
+      VFX_Move_Dragon_Claw_13: -298709848196134296
+      VFX_Move_Dragon_Claw_14: 4842842275710849385
+      VFX_Move_Dragon_Claw_15: 3711497291343786178
+      VFX_Move_Dragon_Claw_16: 6128757706783617814
+      VFX_Move_Dragon_Claw_17: -3152823701686711367
+      VFX_Move_Dragon_Claw_18: -3304129214058709604
+      VFX_Move_Dragon_Claw_19: -7529197743023460344
+      VFX_Move_Dragon_Claw_2: -5673857585015032309
+      VFX_Move_Dragon_Claw_3: 7879910738398897570
+      VFX_Move_Dragon_Claw_4: 857105355987410123
+      VFX_Move_Dragon_Claw_5: -2832370054777008246
+      VFX_Move_Dragon_Claw_6: 8517222513388688297
+      VFX_Move_Dragon_Claw_7: 3876278590117331213
+      VFX_Move_Dragon_Claw_8: 2726172029621690342
+      VFX_Move_Dragon_Claw_9: -4001303751501588633
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

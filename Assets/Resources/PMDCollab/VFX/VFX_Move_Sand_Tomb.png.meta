@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 31048d3ec84a7c7429544138a0d3b70b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 483333199114467426
+    second: VFX_Move_Sand_Tomb_0
+  - first:
+      213: -9178671239218482491
+    second: VFX_Move_Sand_Tomb_1
+  - first:
+      213: -1552104166139145516
+    second: VFX_Move_Sand_Tomb_2
+  - first:
+      213: -7871319437850575954
+    second: VFX_Move_Sand_Tomb_3
+  - first:
+      213: -2176029570296320611
+    second: VFX_Move_Sand_Tomb_4
+  - first:
+      213: 6355758428649076753
+    second: VFX_Move_Sand_Tomb_5
+  - first:
+      213: -2326486447345024021
+    second: VFX_Move_Sand_Tomb_6
+  - first:
+      213: 7201781186900391869
+    second: VFX_Move_Sand_Tomb_7
+  - first:
+      213: 125169524110088767
+    second: VFX_Move_Sand_Tomb_8
+  - first:
+      213: 2363924762917390459
+    second: VFX_Move_Sand_Tomb_9
+  - first:
+      213: -4903530032526518225
+    second: VFX_Move_Sand_Tomb_10
+  - first:
+      213: 1864051708563060395
+    second: VFX_Move_Sand_Tomb_11
+  - first:
+      213: -7844059123199968250
+    second: VFX_Move_Sand_Tomb_12
+  - first:
+      213: 3091418327143664580
+    second: VFX_Move_Sand_Tomb_13
+  - first:
+      213: 164470709026880462
+    second: VFX_Move_Sand_Tomb_14
+  - first:
+      213: -4562689067203950690
+    second: VFX_Move_Sand_Tomb_15
+  - first:
+      213: 3526171798294106024
+    second: VFX_Move_Sand_Tomb_16
+  - first:
+      213: -5548015037579619555
+    second: VFX_Move_Sand_Tomb_17
+  - first:
+      213: 4125689048998050669
+    second: VFX_Move_Sand_Tomb_18
+  - first:
+      213: 1591081991262330399
+    second: VFX_Move_Sand_Tomb_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268fe59dbf425b600800000000000000
+      internalID: 483333199114467426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2b94c732fce9080800000000000000
+      internalID: -9178671239218482491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d25fdafb71d57ae0800000000000000
+      internalID: -1552104166139145516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabf941eca473c290800000000000000
+      internalID: -7871319437850575954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dedb982a03dc1e0800000000000000
+      internalID: -2176029570296320611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118b2d9dd90343850800000000000000
+      internalID: 6355758428649076753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be34d3307e8a6bfd0800000000000000
+      internalID: -2326486447345024021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7f94335ddd1f360800000000000000
+      internalID: 7201781186900391869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a594dd401bcb100800000000000000
+      internalID: 125169524110088767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78c0791c095ec020800000000000000
+      internalID: 2363924762917390459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f281cc95a6923fbb0800000000000000
+      internalID: -4903530032526518225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba67cdb17217ed910800000000000000
+      internalID: 1864051708563060395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cf08c79cd442390800000000000000
+      internalID: -7844059123199968250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbc789e69ce6ea20800000000000000
+      internalID: 3091418327143664580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 4
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbf08b0d31584200800000000000000
+      internalID: 164470709026880462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 5
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9700c0b7721ea0c0800000000000000
+      internalID: -4562689067203950690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af025e619a7fe030800000000000000
+      internalID: 3526171798294106024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 5
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d139a8cc7bd7103b0800000000000000
+      internalID: -5548015037579619555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 4
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b7f3bc454614930800000000000000
+      internalID: 4125689048998050669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Sand_Tomb_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e56b124a8a41610800000000000000
+      internalID: 1591081991262330399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Sand_Tomb_0: 483333199114467426
+      VFX_Move_Sand_Tomb_1: -9178671239218482491
+      VFX_Move_Sand_Tomb_10: -4903530032526518225
+      VFX_Move_Sand_Tomb_11: 1864051708563060395
+      VFX_Move_Sand_Tomb_12: -7844059123199968250
+      VFX_Move_Sand_Tomb_13: 3091418327143664580
+      VFX_Move_Sand_Tomb_14: 164470709026880462
+      VFX_Move_Sand_Tomb_15: -4562689067203950690
+      VFX_Move_Sand_Tomb_16: 3526171798294106024
+      VFX_Move_Sand_Tomb_17: -5548015037579619555
+      VFX_Move_Sand_Tomb_18: 4125689048998050669
+      VFX_Move_Sand_Tomb_19: 1591081991262330399
+      VFX_Move_Sand_Tomb_2: -1552104166139145516
+      VFX_Move_Sand_Tomb_3: -7871319437850575954
+      VFX_Move_Sand_Tomb_4: -2176029570296320611
+      VFX_Move_Sand_Tomb_5: 6355758428649076753
+      VFX_Move_Sand_Tomb_6: -2326486447345024021
+      VFX_Move_Sand_Tomb_7: 7201781186900391869
+      VFX_Move_Sand_Tomb_8: 125169524110088767
+      VFX_Move_Sand_Tomb_9: 2363924762917390459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

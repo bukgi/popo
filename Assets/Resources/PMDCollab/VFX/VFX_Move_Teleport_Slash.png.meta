@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 80f840f8c3cf5924c907a09c41c138db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3823133694295767699
+    second: VFX_Move_Teleport_Slash_0
+  - first:
+      213: 1496000024967811883
+    second: VFX_Move_Teleport_Slash_1
+  - first:
+      213: -7755323588260495112
+    second: VFX_Move_Teleport_Slash_2
+  - first:
+      213: -1814629976180607619
+    second: VFX_Move_Teleport_Slash_3
+  - first:
+      213: 7139943730535367402
+    second: VFX_Move_Teleport_Slash_4
+  - first:
+      213: -4318314216622186109
+    second: VFX_Move_Teleport_Slash_5
+  - first:
+      213: 1498889009306310004
+    second: VFX_Move_Teleport_Slash_6
+  - first:
+      213: 2586509509145205127
+    second: VFX_Move_Teleport_Slash_7
+  - first:
+      213: 5101181476326688882
+    second: VFX_Move_Teleport_Slash_8
+  - first:
+      213: -1281300316394960554
+    second: VFX_Move_Teleport_Slash_9
+  - first:
+      213: -4383283654372619634
+    second: VFX_Move_Teleport_Slash_10
+  - first:
+      213: -120303449035009944
+    second: VFX_Move_Teleport_Slash_11
+  - first:
+      213: 6917816440850301790
+    second: VFX_Move_Teleport_Slash_12
+  - first:
+      213: 4280415459592369930
+    second: VFX_Move_Teleport_Slash_13
+  - first:
+      213: -7806121011390362852
+    second: VFX_Move_Teleport_Slash_14
+  - first:
+      213: -4060399183291146030
+    second: VFX_Move_Teleport_Slash_15
+  - first:
+      213: 5755619505360791658
+    second: VFX_Move_Teleport_Slash_16
+  - first:
+      213: -6288316599251395966
+    second: VFX_Move_Teleport_Slash_17
+  - first:
+      213: 1751599469356020090
+    second: VFX_Move_Teleport_Slash_18
+  - first:
+      213: -364667515740607991
+    second: VFX_Move_Teleport_Slash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d658cae292081fac0800000000000000
+      internalID: -3823133694295767699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b239e28b81cd2c410800000000000000
+      internalID: 1496000024967811883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f08683394e8f5490800000000000000
+      internalID: -7755323588260495112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75baf6a6a321d6e0800000000000000
+      internalID: -1814629976180607619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae286de6efc261360800000000000000
+      internalID: 7139943730535367402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38127b179144214c0800000000000000
+      internalID: -4318314216622186109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475907dcc9f1dc410800000000000000
+      internalID: 1498889009306310004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78915c4d1b025e320800000000000000
+      internalID: 2586509509145205127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 6
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278414786890bc640800000000000000
+      internalID: 5101181476326688882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 7
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659ceae9628e73ee0800000000000000
+      internalID: -1281300316394960554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 8
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a085f6db27b23c0800000000000000
+      internalID: -4383283654372619634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 9
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860930786a8945ef0800000000000000
+      internalID: -120303449035009944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 9
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e534d3a9665010060800000000000000
+      internalID: 6917816440850301790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 9
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07f7109e27176b30800000000000000
+      internalID: 4280415459592369930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 9
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b4d5a7c461ba390800000000000000
+      internalID: -7806121011390362852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 10
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d025a9a47096a7c0800000000000000
+      internalID: -4060399183291146030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 11
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68e65f027110ef40800000000000000
+      internalID: 5755619505360791658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 10
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a9d62be596bb8a0800000000000000
+      internalID: -6288316599251395966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 9
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a717abfdf6eee4810800000000000000
+      internalID: 1751599469356020090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Teleport_Slash_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 8
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a282793d070faf0800000000000000
+      internalID: -364667515740607991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Teleport_Slash_0: -3823133694295767699
+      VFX_Move_Teleport_Slash_1: 1496000024967811883
+      VFX_Move_Teleport_Slash_10: -4383283654372619634
+      VFX_Move_Teleport_Slash_11: -120303449035009944
+      VFX_Move_Teleport_Slash_12: 6917816440850301790
+      VFX_Move_Teleport_Slash_13: 4280415459592369930
+      VFX_Move_Teleport_Slash_14: -7806121011390362852
+      VFX_Move_Teleport_Slash_15: -4060399183291146030
+      VFX_Move_Teleport_Slash_16: 5755619505360791658
+      VFX_Move_Teleport_Slash_17: -6288316599251395966
+      VFX_Move_Teleport_Slash_18: 1751599469356020090
+      VFX_Move_Teleport_Slash_19: -364667515740607991
+      VFX_Move_Teleport_Slash_2: -7755323588260495112
+      VFX_Move_Teleport_Slash_3: -1814629976180607619
+      VFX_Move_Teleport_Slash_4: 7139943730535367402
+      VFX_Move_Teleport_Slash_5: -4318314216622186109
+      VFX_Move_Teleport_Slash_6: 1498889009306310004
+      VFX_Move_Teleport_Slash_7: 2586509509145205127
+      VFX_Move_Teleport_Slash_8: 5101181476326688882
+      VFX_Move_Teleport_Slash_9: -1281300316394960554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

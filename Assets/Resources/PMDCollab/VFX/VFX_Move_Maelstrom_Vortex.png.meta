@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 8dd83ab6df0140b4e9e02c40ee571732
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3852505258446420305
+    second: VFX_Move_Maelstrom_Vortex_0
+  - first:
+      213: -5406515966937397467
+    second: VFX_Move_Maelstrom_Vortex_1
+  - first:
+      213: 5953486309900142299
+    second: VFX_Move_Maelstrom_Vortex_2
+  - first:
+      213: 8604335624890480376
+    second: VFX_Move_Maelstrom_Vortex_3
+  - first:
+      213: -5847922380469858816
+    second: VFX_Move_Maelstrom_Vortex_4
+  - first:
+      213: -4715273991462618296
+    second: VFX_Move_Maelstrom_Vortex_5
+  - first:
+      213: 7801838193165354959
+    second: VFX_Move_Maelstrom_Vortex_6
+  - first:
+      213: -486229574335279727
+    second: VFX_Move_Maelstrom_Vortex_7
+  - first:
+      213: -3193504852659416138
+    second: VFX_Move_Maelstrom_Vortex_8
+  - first:
+      213: -7654357091163855727
+    second: VFX_Move_Maelstrom_Vortex_9
+  - first:
+      213: 1858269424246605681
+    second: VFX_Move_Maelstrom_Vortex_10
+  - first:
+      213: -6342682312946741083
+    second: VFX_Move_Maelstrom_Vortex_11
+  - first:
+      213: 1147746708860102814
+    second: VFX_Move_Maelstrom_Vortex_12
+  - first:
+      213: -5647232338649501721
+    second: VFX_Move_Maelstrom_Vortex_13
+  - first:
+      213: 3246782114111323732
+    second: VFX_Move_Maelstrom_Vortex_14
+  - first:
+      213: 4033724605878933191
+    second: VFX_Move_Maelstrom_Vortex_15
+  - first:
+      213: 6304675176927015075
+    second: VFX_Move_Maelstrom_Vortex_16
+  - first:
+      213: 1984196925242759156
+    second: VFX_Move_Maelstrom_Vortex_17
+  - first:
+      213: 2036076060439136845
+    second: VFX_Move_Maelstrom_Vortex_18
+  - first:
+      213: 3879620603806640056
+    second: VFX_Move_Maelstrom_Vortex_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa60afef0e6298ac0800000000000000
+      internalID: -3852505258446420305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527083e7f5238f4b0800000000000000
+      internalID: -5406515966937397467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6cfb481480f9250800000000000000
+      internalID: 5953486309900142299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6f5d1c9adb86770800000000000000
+      internalID: 8604335624890480376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e890e149108dea0800000000000000
+      internalID: -5847922380469858816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b7b30994bff8eb0800000000000000
+      internalID: -4715273991462618296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc742b23082b54c60800000000000000
+      internalID: 7801838193165354959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dc47e37c09049f0800000000000000
+      internalID: -486229574335279727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 5
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3dfb4a1446ea3d0800000000000000
+      internalID: -3193504852659416138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 7
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194af25b7c246c590800000000000000
+      internalID: -7654357091163855727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 8
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17740312236e9c910800000000000000
+      internalID: 1858269424246605681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 6
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a018a59a044af7a0800000000000000
+      internalID: -6342682312946741083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 4
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98eab9fc8d9def00800000000000000
+      internalID: 1147746708860102814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efa2babb1001a1b0800000000000000
+      internalID: -5647232338649501721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e72be6123ee0d20800000000000000
+      internalID: 3246782114111323732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c69a2f482baaf730800000000000000
+      internalID: 4033724605878933191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a035f87ba4be7750800000000000000
+      internalID: 6304675176927015075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7548d3798498b10800000000000000
+      internalID: 1984196925242759156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ac62ea368914c10800000000000000
+      internalID: 2036076060439136845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Maelstrom_Vortex_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b76e21526e27d530800000000000000
+      internalID: 3879620603806640056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Maelstrom_Vortex_0: -3852505258446420305
+      VFX_Move_Maelstrom_Vortex_1: -5406515966937397467
+      VFX_Move_Maelstrom_Vortex_10: 1858269424246605681
+      VFX_Move_Maelstrom_Vortex_11: -6342682312946741083
+      VFX_Move_Maelstrom_Vortex_12: 1147746708860102814
+      VFX_Move_Maelstrom_Vortex_13: -5647232338649501721
+      VFX_Move_Maelstrom_Vortex_14: 3246782114111323732
+      VFX_Move_Maelstrom_Vortex_15: 4033724605878933191
+      VFX_Move_Maelstrom_Vortex_16: 6304675176927015075
+      VFX_Move_Maelstrom_Vortex_17: 1984196925242759156
+      VFX_Move_Maelstrom_Vortex_18: 2036076060439136845
+      VFX_Move_Maelstrom_Vortex_19: 3879620603806640056
+      VFX_Move_Maelstrom_Vortex_2: 5953486309900142299
+      VFX_Move_Maelstrom_Vortex_3: 8604335624890480376
+      VFX_Move_Maelstrom_Vortex_4: -5847922380469858816
+      VFX_Move_Maelstrom_Vortex_5: -4715273991462618296
+      VFX_Move_Maelstrom_Vortex_6: 7801838193165354959
+      VFX_Move_Maelstrom_Vortex_7: -486229574335279727
+      VFX_Move_Maelstrom_Vortex_8: -3193504852659416138
+      VFX_Move_Maelstrom_Vortex_9: -7654357091163855727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

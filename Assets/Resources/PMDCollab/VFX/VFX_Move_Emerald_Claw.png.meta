@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 6bb0da7c7444e4b4a8d5852c96f4ad87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8718780277359581786
+    second: VFX_Move_Emerald_Claw_0
+  - first:
+      213: -4848197703787962812
+    second: VFX_Move_Emerald_Claw_1
+  - first:
+      213: 7966473882522842987
+    second: VFX_Move_Emerald_Claw_2
+  - first:
+      213: -352570665025631940
+    second: VFX_Move_Emerald_Claw_3
+  - first:
+      213: 4714123510922111894
+    second: VFX_Move_Emerald_Claw_4
+  - first:
+      213: -6085172055115917618
+    second: VFX_Move_Emerald_Claw_5
+  - first:
+      213: -2901276995190498646
+    second: VFX_Move_Emerald_Claw_6
+  - first:
+      213: -8544869487573301275
+    second: VFX_Move_Emerald_Claw_7
+  - first:
+      213: 6892820524004827435
+    second: VFX_Move_Emerald_Claw_8
+  - first:
+      213: -1911916997798748257
+    second: VFX_Move_Emerald_Claw_9
+  - first:
+      213: 3720362486996985767
+    second: VFX_Move_Emerald_Claw_10
+  - first:
+      213: -6931379546600701700
+    second: VFX_Move_Emerald_Claw_11
+  - first:
+      213: -9080531615503654430
+    second: VFX_Move_Emerald_Claw_12
+  - first:
+      213: -1938409414379574745
+    second: VFX_Move_Emerald_Claw_13
+  - first:
+      213: 5651331068459473120
+    second: VFX_Move_Emerald_Claw_14
+  - first:
+      213: -919232757669477232
+    second: VFX_Move_Emerald_Claw_15
+  - first:
+      213: -6006646825835039750
+    second: VFX_Move_Emerald_Claw_16
+  - first:
+      213: -1889588380587154351
+    second: VFX_Move_Emerald_Claw_17
+  - first:
+      213: -1142785185073360673
+    second: VFX_Move_Emerald_Claw_18
+  - first:
+      213: -5524215070591043640
+    second: VFX_Move_Emerald_Claw_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a13bad7745ff870800000000000000
+      internalID: 8718780277359581786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 8
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e9ad010edb7bcb0800000000000000
+      internalID: -4848197703787962812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b677338b9c99e8e60800000000000000
+      internalID: 7966473882522842987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c398ce029da6b1bf0800000000000000
+      internalID: -352570665025631940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b64df4b5eeb6140800000000000000
+      internalID: 4714123510922111894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec69ea9a1402d8ba0800000000000000
+      internalID: -6085172055115917618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa58aac1f79cb7d0800000000000000
+      internalID: -2901276995190498646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e78e1549768a6980800000000000000
+      internalID: -8544869487573301275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2164d13fb738af50800000000000000
+      internalID: 6892820524004827435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f9c2ace918775e0800000000000000
+      internalID: -1911916997798748257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7e42978f161a330800000000000000
+      internalID: 3720362486996985767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf00571c60bcecf90800000000000000
+      internalID: -6931379546600701700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1633e3b987bf180800000000000000
+      internalID: -9080531615503654430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ae1a268e26915e0800000000000000
+      internalID: -1938409414379574745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8d7ab2aaf8d6e40800000000000000
+      internalID: 5651331068459473120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_15
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 4
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094453d5daa3e33f0800000000000000
+      internalID: -919232757669477232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 5
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3ffd6598a14aca0800000000000000
+      internalID: -6006646825835039750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 7
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154a56b1165d6c5e0800000000000000
+      internalID: -1889588380587154351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 7
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd09f1dcde20420f0800000000000000
+      internalID: -1142785185073360673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Claw_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 8
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7bf8e69ab0653b0800000000000000
+      internalID: -5524215070591043640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Emerald_Claw_0: 8718780277359581786
+      VFX_Move_Emerald_Claw_1: -4848197703787962812
+      VFX_Move_Emerald_Claw_10: 3720362486996985767
+      VFX_Move_Emerald_Claw_11: -6931379546600701700
+      VFX_Move_Emerald_Claw_12: -9080531615503654430
+      VFX_Move_Emerald_Claw_13: -1938409414379574745
+      VFX_Move_Emerald_Claw_14: 5651331068459473120
+      VFX_Move_Emerald_Claw_15: -919232757669477232
+      VFX_Move_Emerald_Claw_16: -6006646825835039750
+      VFX_Move_Emerald_Claw_17: -1889588380587154351
+      VFX_Move_Emerald_Claw_18: -1142785185073360673
+      VFX_Move_Emerald_Claw_19: -5524215070591043640
+      VFX_Move_Emerald_Claw_2: 7966473882522842987
+      VFX_Move_Emerald_Claw_3: -352570665025631940
+      VFX_Move_Emerald_Claw_4: 4714123510922111894
+      VFX_Move_Emerald_Claw_5: -6085172055115917618
+      VFX_Move_Emerald_Claw_6: -2901276995190498646
+      VFX_Move_Emerald_Claw_7: -8544869487573301275
+      VFX_Move_Emerald_Claw_8: 6892820524004827435
+      VFX_Move_Emerald_Claw_9: -1911916997798748257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

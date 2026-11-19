@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2749689bf6e0a3f49817220d3aa85562
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8000232804717560604
+    second: VFX_Move_Wild_Charge_0
+  - first:
+      213: -2412068607808209021
+    second: VFX_Move_Wild_Charge_1
+  - first:
+      213: -6467688678204765604
+    second: VFX_Move_Wild_Charge_2
+  - first:
+      213: 621368462676753772
+    second: VFX_Move_Wild_Charge_3
+  - first:
+      213: -2571061828098197122
+    second: VFX_Move_Wild_Charge_4
+  - first:
+      213: -2531525588219809768
+    second: VFX_Move_Wild_Charge_5
+  - first:
+      213: 6290543116566754613
+    second: VFX_Move_Wild_Charge_6
+  - first:
+      213: -3055633588510124258
+    second: VFX_Move_Wild_Charge_7
+  - first:
+      213: -1214807113603137925
+    second: VFX_Move_Wild_Charge_8
+  - first:
+      213: 6959225145629686220
+    second: VFX_Move_Wild_Charge_9
+  - first:
+      213: -4298561265467180812
+    second: VFX_Move_Wild_Charge_10
+  - first:
+      213: -3575939992799621043
+    second: VFX_Move_Wild_Charge_11
+  - first:
+      213: 7080154841256214164
+    second: VFX_Move_Wild_Charge_12
+  - first:
+      213: -8264633731260863174
+    second: VFX_Move_Wild_Charge_13
+  - first:
+      213: -3152601523170377131
+    second: VFX_Move_Wild_Charge_14
+  - first:
+      213: 7896403695646558144
+    second: VFX_Move_Wild_Charge_15
+  - first:
+      213: -4000507485124224615
+    second: VFX_Move_Wild_Charge_16
+  - first:
+      213: 6758764558500035
+    second: VFX_Move_Wild_Charge_17
+  - first:
+      213: 5572031861872059475
+    second: VFX_Move_Wild_Charge_18
+  - first:
+      213: 845430979510312763
+    second: VFX_Move_Wild_Charge_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecf162b6a679f090800000000000000
+      internalID: -8000232804717560604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 6
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f78b1816c968ed0800000000000000
+      internalID: -2412068607808209021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a0ac91a672e36a0800000000000000
+      internalID: -6467688678204765604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d7a7c135b8f9800800000000000000
+      internalID: 621368462676753772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79f3a0b3e0c15cd0800000000000000
+      internalID: -2571061828098197122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810b85ed3e63edcd0800000000000000
+      internalID: -2531525588219809768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5357d33c2af7c4750800000000000000
+      internalID: 6290543116566754613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 7
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e171a11d0753895d0800000000000000
+      internalID: -3055633588510124258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 9
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e3113dd53242fe0800000000000000
+      internalID: -1214807113603137925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 11
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9393df562249060800000000000000
+      internalID: 6959225145629686220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 12
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f83396cd417854c0800000000000000
+      internalID: -4298561265467180812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 12
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40d01fc585bf5ec0800000000000000
+      internalID: -3575939992799621043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 13
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eb6dbd053c14260800000000000000
+      internalID: 7080154841256214164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 13
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d2c79c86f1e4d80800000000000000
+      internalID: -8264633731260863174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 13
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552031d2e95bf34d0800000000000000
+      internalID: -3152601523170377131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 13
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c748120359a59d60800000000000000
+      internalID: 7896403695646558144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 13
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99911eb43a75b78c0800000000000000
+      internalID: -4000507485124224615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 11
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c041a08f03081000800000000000000
+      internalID: 6758764558500035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 10
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354ea0cd475d35d40800000000000000
+      internalID: 5572031861872059475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Wild_Charge_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 10
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f92df1ff29bbb00800000000000000
+      internalID: 845430979510312763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Wild_Charge_0: -8000232804717560604
+      VFX_Move_Wild_Charge_1: -2412068607808209021
+      VFX_Move_Wild_Charge_10: -4298561265467180812
+      VFX_Move_Wild_Charge_11: -3575939992799621043
+      VFX_Move_Wild_Charge_12: 7080154841256214164
+      VFX_Move_Wild_Charge_13: -8264633731260863174
+      VFX_Move_Wild_Charge_14: -3152601523170377131
+      VFX_Move_Wild_Charge_15: 7896403695646558144
+      VFX_Move_Wild_Charge_16: -4000507485124224615
+      VFX_Move_Wild_Charge_17: 6758764558500035
+      VFX_Move_Wild_Charge_18: 5572031861872059475
+      VFX_Move_Wild_Charge_19: 845430979510312763
+      VFX_Move_Wild_Charge_2: -6467688678204765604
+      VFX_Move_Wild_Charge_3: 621368462676753772
+      VFX_Move_Wild_Charge_4: -2571061828098197122
+      VFX_Move_Wild_Charge_5: -2531525588219809768
+      VFX_Move_Wild_Charge_6: 6290543116566754613
+      VFX_Move_Wild_Charge_7: -3055633588510124258
+      VFX_Move_Wild_Charge_8: -1214807113603137925
+      VFX_Move_Wild_Charge_9: 6959225145629686220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

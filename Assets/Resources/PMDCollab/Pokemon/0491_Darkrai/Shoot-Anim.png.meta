@@ -1,0 +1,5109 @@
+fileFormatVersion: 2
+guid: b1dbd6a68f8f9544a910d8fc9d7fc449
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3384586819210364289
+    second: Shoot-Anim_0
+  - first:
+      213: -5801578410851538803
+    second: Shoot-Anim_1
+  - first:
+      213: 2814634840575591994
+    second: Shoot-Anim_2
+  - first:
+      213: 4985456632395234691
+    second: Shoot-Anim_3
+  - first:
+      213: -8246523010642919062
+    second: Shoot-Anim_4
+  - first:
+      213: 5190055081072813553
+    second: Shoot-Anim_5
+  - first:
+      213: 3684805424997142856
+    second: Shoot-Anim_6
+  - first:
+      213: -6558645695815182079
+    second: Shoot-Anim_7
+  - first:
+      213: -3908728534880072015
+    second: Shoot-Anim_8
+  - first:
+      213: -6241020388797291846
+    second: Shoot-Anim_9
+  - first:
+      213: -2381519067880806184
+    second: Shoot-Anim_10
+  - first:
+      213: -3093633348625514728
+    second: Shoot-Anim_11
+  - first:
+      213: -4272973820352523883
+    second: Shoot-Anim_12
+  - first:
+      213: 956279527475647912
+    second: Shoot-Anim_13
+  - first:
+      213: -5024157266320999329
+    second: Shoot-Anim_14
+  - first:
+      213: 4348823155784810911
+    second: Shoot-Anim_15
+  - first:
+      213: -8328096745056726840
+    second: Shoot-Anim_16
+  - first:
+      213: -7720615435101543419
+    second: Shoot-Anim_17
+  - first:
+      213: 435628763982116093
+    second: Shoot-Anim_18
+  - first:
+      213: 784097534554289888
+    second: Shoot-Anim_19
+  - first:
+      213: -3517191255773290281
+    second: Shoot-Anim_20
+  - first:
+      213: 6700019984155023460
+    second: Shoot-Anim_21
+  - first:
+      213: 3958307364648208130
+    second: Shoot-Anim_22
+  - first:
+      213: 1938456851098417074
+    second: Shoot-Anim_23
+  - first:
+      213: -8690479145730305734
+    second: Shoot-Anim_24
+  - first:
+      213: -3984332885997131676
+    second: Shoot-Anim_25
+  - first:
+      213: 5260890361149926409
+    second: Shoot-Anim_26
+  - first:
+      213: -574930240285284554
+    second: Shoot-Anim_27
+  - first:
+      213: -8629952454582684458
+    second: Shoot-Anim_28
+  - first:
+      213: -834015776214983811
+    second: Shoot-Anim_29
+  - first:
+      213: 5179037328297318565
+    second: Shoot-Anim_30
+  - first:
+      213: 2284829026829045803
+    second: Shoot-Anim_31
+  - first:
+      213: -1260880115136083229
+    second: Shoot-Anim_32
+  - first:
+      213: -4301172035161035806
+    second: Shoot-Anim_33
+  - first:
+      213: 1139100989800690940
+    second: Shoot-Anim_34
+  - first:
+      213: 2462425116263458757
+    second: Shoot-Anim_35
+  - first:
+      213: 804744999948457887
+    second: Shoot-Anim_36
+  - first:
+      213: -6069207566992380976
+    second: Shoot-Anim_37
+  - first:
+      213: 3978062953010386585
+    second: Shoot-Anim_38
+  - first:
+      213: -3901028581652890542
+    second: Shoot-Anim_39
+  - first:
+      213: -926540725540300164
+    second: Shoot-Anim_40
+  - first:
+      213: 5511501198413833589
+    second: Shoot-Anim_41
+  - first:
+      213: 8472079238390235733
+    second: Shoot-Anim_42
+  - first:
+      213: -1917037280687173979
+    second: Shoot-Anim_43
+  - first:
+      213: -3107073767066417224
+    second: Shoot-Anim_44
+  - first:
+      213: -6317519624945193416
+    second: Shoot-Anim_45
+  - first:
+      213: 8311320907720867059
+    second: Shoot-Anim_46
+  - first:
+      213: 3156656778295645484
+    second: Shoot-Anim_47
+  - first:
+      213: 1807841233098461067
+    second: Shoot-Anim_48
+  - first:
+      213: -549369229615867770
+    second: Shoot-Anim_49
+  - first:
+      213: 8998833711204174478
+    second: Shoot-Anim_50
+  - first:
+      213: -7340364484610888378
+    second: Shoot-Anim_51
+  - first:
+      213: -5392870624033641216
+    second: Shoot-Anim_52
+  - first:
+      213: -5304253428937312436
+    second: Shoot-Anim_53
+  - first:
+      213: 389470216719047718
+    second: Shoot-Anim_54
+  - first:
+      213: -6142064724596962244
+    second: Shoot-Anim_55
+  - first:
+      213: 8784959438537494891
+    second: Shoot-Anim_56
+  - first:
+      213: 937194206561117183
+    second: Shoot-Anim_57
+  - first:
+      213: 6755382130298080207
+    second: Shoot-Anim_58
+  - first:
+      213: 6553901838268109071
+    second: Shoot-Anim_59
+  - first:
+      213: -7819543967787093679
+    second: Shoot-Anim_60
+  - first:
+      213: 5544034002434800460
+    second: Shoot-Anim_61
+  - first:
+      213: 1964666382270225812
+    second: Shoot-Anim_62
+  - first:
+      213: 776303327315072629
+    second: Shoot-Anim_63
+  - first:
+      213: -104660456446151889
+    second: Shoot-Anim_64
+  - first:
+      213: -6153204243364665539
+    second: Shoot-Anim_65
+  - first:
+      213: 1331864942811514114
+    second: Shoot-Anim_66
+  - first:
+      213: 8768420516481371996
+    second: Shoot-Anim_67
+  - first:
+      213: 2533707237198477145
+    second: Shoot-Anim_68
+  - first:
+      213: -7654682051103186660
+    second: Shoot-Anim_69
+  - first:
+      213: -3905153081751531284
+    second: Shoot-Anim_70
+  - first:
+      213: 7784117424303395300
+    second: Shoot-Anim_71
+  - first:
+      213: -1147561431428013162
+    second: Shoot-Anim_72
+  - first:
+      213: -8826903192789937318
+    second: Shoot-Anim_73
+  - first:
+      213: -2837180267944886102
+    second: Shoot-Anim_74
+  - first:
+      213: 2074984185278902811
+    second: Shoot-Anim_75
+  - first:
+      213: -7886028862804398092
+    second: Shoot-Anim_76
+  - first:
+      213: -1558166588622772260
+    second: Shoot-Anim_77
+  - first:
+      213: 7882175837553031290
+    second: Shoot-Anim_78
+  - first:
+      213: -8454477923473652948
+    second: Shoot-Anim_79
+  - first:
+      213: 846475139669188903
+    second: Shoot-Anim_80
+  - first:
+      213: 3869338657020290732
+    second: Shoot-Anim_81
+  - first:
+      213: -4316323328421205772
+    second: Shoot-Anim_82
+  - first:
+      213: -8327443541834059314
+    second: Shoot-Anim_83
+  - first:
+      213: -124029972599174305
+    second: Shoot-Anim_84
+  - first:
+      213: 3326643972772150447
+    second: Shoot-Anim_85
+  - first:
+      213: 1627283068323498325
+    second: Shoot-Anim_86
+  - first:
+      213: -1411745689764482919
+    second: Shoot-Anim_87
+  - first:
+      213: -8310835681644330230
+    second: Shoot-Anim_88
+  - first:
+      213: 295763718725987277
+    second: Shoot-Anim_89
+  - first:
+      213: -5519173831046821453
+    second: Shoot-Anim_90
+  - first:
+      213: 4190387593562965819
+    second: Shoot-Anim_91
+  - first:
+      213: -1246710679350145357
+    second: Shoot-Anim_92
+  - first:
+      213: 8067324109060729278
+    second: Shoot-Anim_93
+  - first:
+      213: 7252950247335260495
+    second: Shoot-Anim_94
+  - first:
+      213: 7472730204879909286
+    second: Shoot-Anim_95
+  - first:
+      213: -7390197655563811201
+    second: Shoot-Anim_96
+  - first:
+      213: -6693747075340888377
+    second: Shoot-Anim_97
+  - first:
+      213: 8755738274295713302
+    second: Shoot-Anim_98
+  - first:
+      213: 5882897741803692332
+    second: Shoot-Anim_99
+  - first:
+      213: 2718600823779588905
+    second: Shoot-Anim_100
+  - first:
+      213: 1823160934923521634
+    second: Shoot-Anim_101
+  - first:
+      213: -3976772032587759290
+    second: Shoot-Anim_102
+  - first:
+      213: 7254320871435736798
+    second: Shoot-Anim_103
+  - first:
+      213: -4743053130894076516
+    second: Shoot-Anim_104
+  - first:
+      213: 3946496961716993720
+    second: Shoot-Anim_105
+  - first:
+      213: -1139127362914198765
+    second: Shoot-Anim_106
+  - first:
+      213: 7646492970998872472
+    second: Shoot-Anim_107
+  - first:
+      213: -3559426945109628861
+    second: Shoot-Anim_108
+  - first:
+      213: -5451065778747941809
+    second: Shoot-Anim_109
+  - first:
+      213: -730242574503477898
+    second: Shoot-Anim_110
+  - first:
+      213: -4762805760415188498
+    second: Shoot-Anim_111
+  - first:
+      213: -5292242365347117876
+    second: Shoot-Anim_112
+  - first:
+      213: 6103450467180651124
+    second: Shoot-Anim_113
+  - first:
+      213: 2478872434900645538
+    second: Shoot-Anim_114
+  - first:
+      213: -6744035418913610872
+    second: Shoot-Anim_115
+  - first:
+      213: 8535462045064784725
+    second: Shoot-Anim_116
+  - first:
+      213: -8229414351784587700
+    second: Shoot-Anim_117
+  - first:
+      213: 5055535136736541600
+    second: Shoot-Anim_118
+  - first:
+      213: -7565850702505159542
+    second: Shoot-Anim_119
+  - first:
+      213: 2423072321880298392
+    second: Shoot-Anim_120
+  - first:
+      213: 1124155081764359351
+    second: Shoot-Anim_121
+  - first:
+      213: -7021726355784471310
+    second: Shoot-Anim_122
+  - first:
+      213: -2407559710920524482
+    second: Shoot-Anim_123
+  - first:
+      213: 2249501727210027735
+    second: Shoot-Anim_124
+  - first:
+      213: 8673163403475574028
+    second: Shoot-Anim_125
+  - first:
+      213: 2622517380919256021
+    second: Shoot-Anim_126
+  - first:
+      213: 3027981379249122733
+    second: Shoot-Anim_127
+  - first:
+      213: -6151953562237200779
+    second: Shoot-Anim_128
+  - first:
+      213: -4464750602108787044
+    second: Shoot-Anim_129
+  - first:
+      213: -6988069675297164333
+    second: Shoot-Anim_130
+  - first:
+      213: 6629224428764436262
+    second: Shoot-Anim_131
+  - first:
+      213: 5766214751211186249
+    second: Shoot-Anim_132
+  - first:
+      213: 1308916148895346450
+    second: Shoot-Anim_133
+  - first:
+      213: -3898556036282460139
+    second: Shoot-Anim_134
+  - first:
+      213: 2416119348302732175
+    second: Shoot-Anim_135
+  - first:
+      213: 6304654111383381404
+    second: Shoot-Anim_136
+  - first:
+      213: -843026925471423882
+    second: Shoot-Anim_137
+  - first:
+      213: 5244373072458078832
+    second: Shoot-Anim_138
+  - first:
+      213: 736675906987089700
+    second: Shoot-Anim_139
+  - first:
+      213: -8021143551997180746
+    second: Shoot-Anim_140
+  - first:
+      213: -9117136833590554953
+    second: Shoot-Anim_141
+  - first:
+      213: -4455329347156696294
+    second: Shoot-Anim_142
+  - first:
+      213: 2049431298895761835
+    second: Shoot-Anim_143
+  - first:
+      213: -6285642055933609814
+    second: Shoot-Anim_144
+  - first:
+      213: -5314163586068869726
+    second: Shoot-Anim_145
+  - first:
+      213: 5934128304835799165
+    second: Shoot-Anim_146
+  - first:
+      213: -7921246025173594784
+    second: Shoot-Anim_147
+  - first:
+      213: -5905742921981288409
+    second: Shoot-Anim_148
+  - first:
+      213: 7179298004299186404
+    second: Shoot-Anim_149
+  - first:
+      213: 2165200567652724339
+    second: Shoot-Anim_150
+  - first:
+      213: 4340409391686395513
+    second: Shoot-Anim_151
+  - first:
+      213: 1172240347044508711
+    second: Shoot-Anim_152
+  - first:
+      213: -8631705790517698078
+    second: Shoot-Anim_153
+  - first:
+      213: -5081835849111974854
+    second: Shoot-Anim_154
+  - first:
+      213: 6848493778778110805
+    second: Shoot-Anim_155
+  - first:
+      213: -6047773040772836375
+    second: Shoot-Anim_156
+  - first:
+      213: 2243805222293136565
+    second: Shoot-Anim_157
+  - first:
+      213: -3413737459215629607
+    second: Shoot-Anim_158
+  - first:
+      213: -204076027554907412
+    second: Shoot-Anim_159
+  - first:
+      213: 4094209052767095846
+    second: Shoot-Anim_160
+  - first:
+      213: -7507359146036659065
+    second: Shoot-Anim_161
+  - first:
+      213: -8060659882008351746
+    second: Shoot-Anim_162
+  - first:
+      213: 4279559964929904114
+    second: Shoot-Anim_163
+  - first:
+      213: -1438380258411166087
+    second: Shoot-Anim_164
+  - first:
+      213: 1460247730386454495
+    second: Shoot-Anim_165
+  - first:
+      213: 6339201267482173309
+    second: Shoot-Anim_166
+  - first:
+      213: 6852551631323371471
+    second: Shoot-Anim_167
+  - first:
+      213: -8293207267675064291
+    second: Shoot-Anim_168
+  - first:
+      213: 523710898527900918
+    second: Shoot-Anim_169
+  - first:
+      213: 8894001110067870274
+    second: Shoot-Anim_170
+  - first:
+      213: 7475521042801594041
+    second: Shoot-Anim_171
+  - first:
+      213: -6910537693529517659
+    second: Shoot-Anim_172
+  - first:
+      213: -866434551210513844
+    second: Shoot-Anim_173
+  - first:
+      213: -6561893127035703171
+    second: Shoot-Anim_174
+  - first:
+      213: 6921878325452121315
+    second: Shoot-Anim_175
+  - first:
+      213: -1448106139251836263
+    second: Shoot-Anim_176
+  - first:
+      213: -4807295322863622797
+    second: Shoot-Anim_177
+  - first:
+      213: -5898053416944855833
+    second: Shoot-Anim_178
+  - first:
+      213: -5543814612851466219
+    second: Shoot-Anim_179
+  - first:
+      213: -2771918825471755273
+    second: Shoot-Anim_180
+  - first:
+      213: -5412080740125550097
+    second: Shoot-Anim_181
+  - first:
+      213: 3366417843093525398
+    second: Shoot-Anim_182
+  - first:
+      213: -3071810099652149954
+    second: Shoot-Anim_183
+  - first:
+      213: 5447924838331920198
+    second: Shoot-Anim_184
+  - first:
+      213: -8112034098467455264
+    second: Shoot-Anim_185
+  - first:
+      213: 7667506609218888183
+    second: Shoot-Anim_186
+  - first:
+      213: 8101887277331298217
+    second: Shoot-Anim_187
+  - first:
+      213: 2142277622859610393
+    second: Shoot-Anim_188
+  - first:
+      213: -6462859352573339628
+    second: Shoot-Anim_189
+  - first:
+      213: -2591904820681050740
+    second: Shoot-Anim_190
+  - first:
+      213: -4585699435536295146
+    second: Shoot-Anim_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shoot-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a3f7168388701d0800000000000000
+      internalID: -3384586819210364289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 603
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d886e946c27ac7fa0800000000000000
+      internalID: -5801578410851538803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 604
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3642f499779f0720800000000000000
+      internalID: 2814634840575591994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 605
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d7801a466ef2540800000000000000
+      internalID: 4985456632395234691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 606
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a614b8683077e8d80800000000000000
+      internalID: -8246523010642919062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 606
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f56e002997c60840800000000000000
+      internalID: 5190055081072813553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8411367d20f032330800000000000000
+      internalID: 3684805424997142856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1099a452d720bf4a0800000000000000
+      internalID: -6558645695815182079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be4a0b5b1861c9c0800000000000000
+      internalID: -3908728534880072015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab264c1d5017369a0800000000000000
+      internalID: -6241020388797291846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8252d860523fed0800000000000000
+      internalID: -2381519067880806184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fbfd53cd43115d0800000000000000
+      internalID: -3093633348625514728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591185713f853b4c0800000000000000
+      internalID: -4272973820352523883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a51a25e923654d00800000000000000
+      internalID: 956279527475647912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c3d3dd59b964ab0800000000000000
+      internalID: -5024157266320999329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f910c8f7e9f1a5c30800000000000000
+      internalID: 4348823155784810911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c09ecf6228ac6c80800000000000000
+      internalID: -8328096745056726840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504ef57da2ddad490800000000000000
+      internalID: -7720615435101543419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4b8138d0aab0600800000000000000
+      internalID: 435628763982116093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 606
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e63e58ad8ca1ea00800000000000000
+      internalID: 784097534554289888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 605
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0e580103d603fc0800000000000000
+      internalID: -3517191255773290281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 605
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46814976da04bfc50800000000000000
+      internalID: 6700019984155023460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 604
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2074bad739bbee630800000000000000
+      internalID: 3958307364648208130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 604
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7b4265c38c6ea10800000000000000
+      internalID: 1938456851098417074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a311ec6d247356780800000000000000
+      internalID: -8690479145730305734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 522
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468eb3f995ec4b8c0800000000000000
+      internalID: -3984332885997131676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 523
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c2e9af8ef620940800000000000000
+      internalID: 5260890361149926409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 524
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6376a291eff6508f0800000000000000
+      internalID: -574930240285284554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 525
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4b61c47ff3c3880800000000000000
+      internalID: -8629952454582684458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 525
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b52a1021bfc64f0800000000000000
+      internalID: -834015776214983811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 525
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a856a7a203afd740800000000000000
+      internalID: 5179037328297318565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 525
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2095a4f4e755bf10800000000000000
+      internalID: 2284829026829045803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 525
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eac5f83734708ee0800000000000000
+      internalID: -1260880115136083229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 525
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebe16692da2f44c0800000000000000
+      internalID: -4301172035161035806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 525
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4bd54a056eecf00800000000000000
+      internalID: 1139100989800690940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 525
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c722e4c89a4c2220800000000000000
+      internalID: 2462425116263458757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 525
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9713b050570b2b00800000000000000
+      internalID: 804744999948457887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 525
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db6e45bfd7d5cba0800000000000000
+      internalID: -6069207566992380976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 525
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9965358dd2be43730800000000000000
+      internalID: 3978062953010386585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 525
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cfeeb6c23ccd9c0800000000000000
+      internalID: -3901028581652890542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 525
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7adc308e144423f0800000000000000
+      internalID: -926540725540300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 525
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575a8968329cc7c40800000000000000
+      internalID: 5511501198413833589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 525
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55246392e2fd29570800000000000000
+      internalID: 8472079238390235733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 525
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aec57700c05565e0800000000000000
+      internalID: -1917037280687173979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 524
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7421feed471e4d0800000000000000
+      internalID: -3107073767066417224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 524
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e259d6f59a358a0800000000000000
+      internalID: -6317519624945193416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 523
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcbafe845eb75370800000000000000
+      internalID: 8311320907720867059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 523
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25142c7d92becb20800000000000000
+      internalID: 3156656778295645484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f432de50eb61910800000000000000
+      internalID: 1807841233098461067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 442
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688573aa89f3068f0800000000000000
+      internalID: -549369229615867770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 443
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a822d159742ec70800000000000000
+      internalID: 8998833711204174478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 444
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64defd46469c12a90800000000000000
+      internalID: -7340364484610888378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 445
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00de5d67dbca825b0800000000000000
+      internalID: -5392870624033641216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 445
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c473b890c918366b0800000000000000
+      internalID: -5304253428937312436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 445
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c122e391da76500800000000000000
+      internalID: 389470216719047718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 445
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cc0fecca003caa0800000000000000
+      internalID: -6142064724596962244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 445
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b611e3c80127ae970800000000000000
+      internalID: 8784959438537494891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 445
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff321a75a25910d00800000000000000
+      internalID: 937194206561117183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 445
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb40768140ffbd50800000000000000
+      internalID: 6755382130298080207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 445
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0110c27ff224fa50800000000000000
+      internalID: 6553901838268109071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 445
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1517086e0366b7390800000000000000
+      internalID: -7819543967787093679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 445
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b30d93d8d50fc40800000000000000
+      internalID: 5544034002434800460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 445
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d5e595aa5e34b10800000000000000
+      internalID: 1964666382270225812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 445
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576919e53cbf5ca00800000000000000
+      internalID: 776303327315072629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 445
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f233f7f8edb2c8ef0800000000000000
+      internalID: -104660456446151889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 445
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37a2db775d6b9aa0800000000000000
+      internalID: -6153204243364665539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 445
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2058315eb1cbb7210800000000000000
+      internalID: 1331864942811514114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 445
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f8e1ea000bfa970800000000000000
+      internalID: 8768420516481371996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 444
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9573d0ede49892320800000000000000
+      internalID: 2533707237198477145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 444
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11af631b3b15c590800000000000000
+      internalID: -7654682051103186660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 443
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce09da866fb1ec9c0800000000000000
+      internalID: -3905153081751531284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 443
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1588d2e8db60c60800000000000000
+      internalID: 7784117424303395300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6936bc945fa0310f0800000000000000
+      internalID: -1147561431428013162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 361
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a539ef6205a808580800000000000000
+      internalID: -8826903192789937318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 362
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0c56d049f40a8d0800000000000000
+      internalID: -2837180267944886102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 363
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b123a1e6f13dbcc10800000000000000
+      internalID: 2074984185278902811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 364
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffe01008823f8290800000000000000
+      internalID: -7886028862804398092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 364
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7e1404eb7406ae0800000000000000
+      internalID: -1558166588622772260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 364
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78f386a92d136d60800000000000000
+      internalID: 7882175837553031290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 364
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2388f15f19abaa80800000000000000
+      internalID: -8454477923473652948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 364
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7216e2b97a84fbb00800000000000000
+      internalID: 846475139669188903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 364
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6a1670207a2b530800000000000000
+      internalID: 3869338657020290732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 364
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e8b93dc65914c0800000000000000
+      internalID: -4316323328421205772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 364
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec13cd9283afe6c80800000000000000
+      internalID: -8327443541834059314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 364
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b89b5a56b574ef0800000000000000
+      internalID: -124029972599174305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 364
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac3743611d9a2e20800000000000000
+      internalID: 3326643972772150447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_86
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 364
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5590e643455459610800000000000000
+      internalID: 1627283068323498325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 364
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990366066c8786ce0800000000000000
+      internalID: -1411745689764482919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 364
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03c2f0fafaf9ac80800000000000000
+      internalID: -8310835681644330230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_89
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 364
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb6c100983ca1400800000000000000
+      internalID: 295763718725987277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 364
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b982da74a4f763b0800000000000000
+      internalID: -5519173831046821453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_91
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 364
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b374681905f372a30800000000000000
+      internalID: 4190387593562965819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 363
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be06a31e3bc2bee0800000000000000
+      internalID: -1246710679350145357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 363
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb96280e884e4ff60800000000000000
+      internalID: 8067324109060729278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_94
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 362
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41fff972d7a7a460800000000000000
+      internalID: 7252950247335260495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_95
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 362
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1f234778874b760800000000000000
+      internalID: 7472730204879909286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76c130236eb07990800000000000000
+      internalID: -7390197655563811201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 281
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c61ffdff780b13a0800000000000000
+      internalID: -6693747075340888377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 282
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e00b11291a28970800000000000000
+      internalID: 8755738274295713302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_99
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 283
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c212826c35044a150800000000000000
+      internalID: 5882897741803692332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 284
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b7773ab096ab520800000000000000
+      internalID: 2718600823779588905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 284
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e4c76f53b2d4910800000000000000
+      internalID: 1823160934923521634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_102
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 284
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64106ecf7eaafc8c0800000000000000
+      internalID: -3976772032587759290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_103
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 284
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed611a4c5668ca460800000000000000
+      internalID: 7254320871435736798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_104
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 284
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c951146ae4a4d2eb0800000000000000
+      internalID: -4743053130894076516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_105
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 284
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bebc46c316c4c630800000000000000
+      internalID: 3946496961716993720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_106
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 284
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b5293e2b10130f0800000000000000
+      internalID: -1139127362914198765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_107
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 284
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899b8e128dccd1a60800000000000000
+      internalID: 7646492970998872472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_108
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 284
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34869c45d006a9ec0800000000000000
+      internalID: -3559426945109628861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_109
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 284
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cd0722e8ce954b0800000000000000
+      internalID: -5451065778747941809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_110
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 284
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d7ada5f38add5f0800000000000000
+      internalID: -730242574503477898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_111
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 284
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9b444356d17edb0800000000000000
+      internalID: -4762805760415188498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_112
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 284
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc44634bb9d2e86b0800000000000000
+      internalID: -5292242365347117876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_113
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 284
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472ae78ccdfc3b450800000000000000
+      internalID: 6103450467180651124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_114
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 284
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6b2cd8859b66220800000000000000
+      internalID: 2478872434900645538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_115
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 284
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8836007948f5862a0800000000000000
+      internalID: -6744035418913610872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_116
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 283
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b6ae5d18d047670800000000000000
+      internalID: 8535462045064784725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_117
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 283
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ec0649f3f3bcd80800000000000000
+      internalID: -8229414351784587700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_118
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 282
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abffa6eb6ed82640800000000000000
+      internalID: 5055535136736541600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_119
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 282
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a845a852fd2b00790800000000000000
+      internalID: -7565850702505159542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 201
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89391c2507b70a120800000000000000
+      internalID: 2423072321880298392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_121
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 201
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcc301471dc99f00800000000000000
+      internalID: 1124155081764359351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_122
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 202
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fce7750511dd8e90800000000000000
+      internalID: -7021726355784471310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_123
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 203
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d3a0fd231a69ed0800000000000000
+      internalID: -2407559710920524482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_124
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 204
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da3bfb07e5d73f10800000000000000
+      internalID: 2249501727210027735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_125
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 204
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d541fb9244d5870800000000000000
+      internalID: 8673163403475574028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_126
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 204
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3eafac9ad056420800000000000000
+      internalID: 2622517380919256021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_127
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 204
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad24a0850d850a20800000000000000
+      internalID: 3027981379249122733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_128
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 204
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576172064dedf9aa0800000000000000
+      internalID: -6151953562237200779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_129
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 204
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96289e8bf40a02c0800000000000000
+      internalID: -4464750602108787044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_130
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 204
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3bb3a97a3650f90800000000000000
+      internalID: -6988069675297164333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 204
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62798dcae7cbffb50800000000000000
+      internalID: 6629224428764436262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_132
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 204
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9486f88f3c5b50050800000000000000
+      internalID: 5766214751211186249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_133
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 204
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fedaf6d443a2210800000000000000
+      internalID: 1308916148895346450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_134
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 204
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518dd60c0fb85e9c0800000000000000
+      internalID: -3898556036282460139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_135
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 204
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b58820fb7c78120800000000000000
+      internalID: 2416119348302732175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_136
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 204
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9566b4c281ae7750800000000000000
+      internalID: 6304654111383381404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_137
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 204
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672af235a77fc44f0800000000000000
+      internalID: -843026925471423882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_138
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 204
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07adc750681c7c840800000000000000
+      internalID: 5244373072458078832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_139
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 204
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fdd8695d2393a00800000000000000
+      internalID: 736675906987089700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_140
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 203
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b40bc2ff6c2fa090800000000000000
+      internalID: -8021143551997180746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_141
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 203
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be8431ca5c697180800000000000000
+      internalID: -9117136833590554953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_142
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 202
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a132a59609d7b22c0800000000000000
+      internalID: -4455329347156696294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_143
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 202
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1df3278ea017c10800000000000000
+      internalID: 2049431298895761835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_144
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 122
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa832d65ad9e4c8a0800000000000000
+      internalID: -6285642055933609814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_145
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 122
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8c06cf5c4046b0800000000000000
+      internalID: -5314163586068869726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_146
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 123
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78245db0424a5250800000000000000
+      internalID: 5934128304835799165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_147
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 124
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d8d0b65b4121290800000000000000
+      internalID: -7921246025173594784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_148
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 125
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72027883a169a0ea0800000000000000
+      internalID: -5905742921981288409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_149
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 125
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e08ce25f7df1a360800000000000000
+      internalID: 7179298004299186404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_150
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 125
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e2a6ec1765c0e10800000000000000
+      internalID: 2165200567652724339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_151
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 125
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976ac33685b3c3c30800000000000000
+      internalID: 4340409391686395513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_152
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 125
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724f7f48262a44010800000000000000
+      internalID: 1172240347044508711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_153
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 125
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1a286f055063880800000000000000
+      internalID: -8631705790517698078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 125
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cc5de4831b979b0800000000000000
+      internalID: -5081835849111974854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_155
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 125
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bba829eccba0f50800000000000000
+      internalID: 6848493778778110805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_156
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 125
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e31d8e367ef11ca0800000000000000
+      internalID: -6047773040772836375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_157
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 125
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4e2f326f8932f10800000000000000
+      internalID: 2243805222293136565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_158
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 125
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2020b1ed7ff90d0800000000000000
+      internalID: -3413737459215629607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_159
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 125
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaba662fe9fa2df0800000000000000
+      internalID: -204076027554907412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_160
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 125
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c0f52017d81d830800000000000000
+      internalID: 4094209052767095846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_161
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 125
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c7433e1a080d790800000000000000
+      internalID: -7507359146036659065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_162
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 125
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb66a56b88c22090800000000000000
+      internalID: -8060659882008351746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_163
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 125
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd41a03d1d046b30800000000000000
+      internalID: 4279559964929904114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_164
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 124
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976c77d96c8d90ce0800000000000000
+      internalID: -1438380258411166087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_165
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 124
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd741c5f297d34410800000000000000
+      internalID: 1460247730386454495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_166
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 123
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f1bfb57fd59f750800000000000000
+      internalID: 6339201267482173309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_167
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 123
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc79d0ef667291f50800000000000000
+      internalID: 6852551631323371471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_168
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 42
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d183a89edeb98ec80800000000000000
+      internalID: -8293207267675064291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_169
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f491c79948944700800000000000000
+      internalID: 523710898527900918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_170
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 43
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a768d13e6dd6b70800000000000000
+      internalID: 8894001110067870274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_171
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 44
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be852b08c26eb760800000000000000
+      internalID: 7475521042801594041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_172
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 45
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1d932d496d810a0800000000000000
+      internalID: -6910537693529517659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_173
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 45
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ae8f1cd5ec9f3f0800000000000000
+      internalID: -866434551210513844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_174
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 45
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70b5f4a7f87fe4a0800000000000000
+      internalID: -6561893127035703171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_175
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 45
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4ac0fc9a37f0060800000000000000
+      internalID: 6921878325452121315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_176
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 45
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99af4d4832b47ebe0800000000000000
+      internalID: -1448106139251836263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_177
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 45
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375215ebf5e094db0800000000000000
+      internalID: -4807295322863622797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 45
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e419b0aaa7e52ea0800000000000000
+      internalID: -5898053416944855833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_179
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 45
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5106e546bf96013b0800000000000000
+      internalID: -5543814612851466219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_180
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 45
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbb985b38a2889d0800000000000000
+      internalID: -2771918825471755273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_181
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 45
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe95515cd3d64e4b0800000000000000
+      internalID: -5412080740125550097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_182
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 45
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6935027313be7be20800000000000000
+      internalID: 3366417843093525398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_183
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 45
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3db6c05dfcbe55d0800000000000000
+      internalID: -3071810099652149954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_184
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 45
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f2dcfa6caea9b40800000000000000
+      internalID: 5447924838331920198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_185
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 45
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eebdf287f34c6f80800000000000000
+      internalID: -8112034098467455264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_186
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 45
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1a37b03a4786a60800000000000000
+      internalID: 7667506609218888183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_187
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 45
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7b6979d8faf6070800000000000000
+      internalID: 8101887277331298217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_188
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 44
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919b0d0d526eabd10800000000000000
+      internalID: 2142277622859610393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_189
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 44
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4181e8819af4f46a0800000000000000
+      internalID: -6462859352573339628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_190
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 43
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85feaf4c44b70cd0800000000000000
+      internalID: -2591904820681050740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot-Anim_191
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 43
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b5622d8a25c50c0800000000000000
+      internalID: -4585699435536295146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shoot-Anim_0: -3384586819210364289
+      Shoot-Anim_1: -5801578410851538803
+      Shoot-Anim_10: -2381519067880806184
+      Shoot-Anim_100: 2718600823779588905
+      Shoot-Anim_101: 1823160934923521634
+      Shoot-Anim_102: -3976772032587759290
+      Shoot-Anim_103: 7254320871435736798
+      Shoot-Anim_104: -4743053130894076516
+      Shoot-Anim_105: 3946496961716993720
+      Shoot-Anim_106: -1139127362914198765
+      Shoot-Anim_107: 7646492970998872472
+      Shoot-Anim_108: -3559426945109628861
+      Shoot-Anim_109: -5451065778747941809
+      Shoot-Anim_11: -3093633348625514728
+      Shoot-Anim_110: -730242574503477898
+      Shoot-Anim_111: -4762805760415188498
+      Shoot-Anim_112: -5292242365347117876
+      Shoot-Anim_113: 6103450467180651124
+      Shoot-Anim_114: 2478872434900645538
+      Shoot-Anim_115: -6744035418913610872
+      Shoot-Anim_116: 8535462045064784725
+      Shoot-Anim_117: -8229414351784587700
+      Shoot-Anim_118: 5055535136736541600
+      Shoot-Anim_119: -7565850702505159542
+      Shoot-Anim_12: -4272973820352523883
+      Shoot-Anim_120: 2423072321880298392
+      Shoot-Anim_121: 1124155081764359351
+      Shoot-Anim_122: -7021726355784471310
+      Shoot-Anim_123: -2407559710920524482
+      Shoot-Anim_124: 2249501727210027735
+      Shoot-Anim_125: 8673163403475574028
+      Shoot-Anim_126: 2622517380919256021
+      Shoot-Anim_127: 3027981379249122733
+      Shoot-Anim_128: -6151953562237200779
+      Shoot-Anim_129: -4464750602108787044
+      Shoot-Anim_13: 956279527475647912
+      Shoot-Anim_130: -6988069675297164333
+      Shoot-Anim_131: 6629224428764436262
+      Shoot-Anim_132: 5766214751211186249
+      Shoot-Anim_133: 1308916148895346450
+      Shoot-Anim_134: -3898556036282460139
+      Shoot-Anim_135: 2416119348302732175
+      Shoot-Anim_136: 6304654111383381404
+      Shoot-Anim_137: -843026925471423882
+      Shoot-Anim_138: 5244373072458078832
+      Shoot-Anim_139: 736675906987089700
+      Shoot-Anim_14: -5024157266320999329
+      Shoot-Anim_140: -8021143551997180746
+      Shoot-Anim_141: -9117136833590554953
+      Shoot-Anim_142: -4455329347156696294
+      Shoot-Anim_143: 2049431298895761835
+      Shoot-Anim_144: -6285642055933609814
+      Shoot-Anim_145: -5314163586068869726
+      Shoot-Anim_146: 5934128304835799165
+      Shoot-Anim_147: -7921246025173594784
+      Shoot-Anim_148: -5905742921981288409
+      Shoot-Anim_149: 7179298004299186404
+      Shoot-Anim_15: 4348823155784810911
+      Shoot-Anim_150: 2165200567652724339
+      Shoot-Anim_151: 4340409391686395513
+      Shoot-Anim_152: 1172240347044508711
+      Shoot-Anim_153: -8631705790517698078
+      Shoot-Anim_154: -5081835849111974854
+      Shoot-Anim_155: 6848493778778110805
+      Shoot-Anim_156: -6047773040772836375
+      Shoot-Anim_157: 2243805222293136565
+      Shoot-Anim_158: -3413737459215629607
+      Shoot-Anim_159: -204076027554907412
+      Shoot-Anim_16: -8328096745056726840
+      Shoot-Anim_160: 4094209052767095846
+      Shoot-Anim_161: -7507359146036659065
+      Shoot-Anim_162: -8060659882008351746
+      Shoot-Anim_163: 4279559964929904114
+      Shoot-Anim_164: -1438380258411166087
+      Shoot-Anim_165: 1460247730386454495
+      Shoot-Anim_166: 6339201267482173309
+      Shoot-Anim_167: 6852551631323371471
+      Shoot-Anim_168: -8293207267675064291
+      Shoot-Anim_169: 523710898527900918
+      Shoot-Anim_17: -7720615435101543419
+      Shoot-Anim_170: 8894001110067870274
+      Shoot-Anim_171: 7475521042801594041
+      Shoot-Anim_172: -6910537693529517659
+      Shoot-Anim_173: -866434551210513844
+      Shoot-Anim_174: -6561893127035703171
+      Shoot-Anim_175: 6921878325452121315
+      Shoot-Anim_176: -1448106139251836263
+      Shoot-Anim_177: -4807295322863622797
+      Shoot-Anim_178: -5898053416944855833
+      Shoot-Anim_179: -5543814612851466219
+      Shoot-Anim_18: 435628763982116093
+      Shoot-Anim_180: -2771918825471755273
+      Shoot-Anim_181: -5412080740125550097
+      Shoot-Anim_182: 3366417843093525398
+      Shoot-Anim_183: -3071810099652149954
+      Shoot-Anim_184: 5447924838331920198
+      Shoot-Anim_185: -8112034098467455264
+      Shoot-Anim_186: 7667506609218888183
+      Shoot-Anim_187: 8101887277331298217
+      Shoot-Anim_188: 2142277622859610393
+      Shoot-Anim_189: -6462859352573339628
+      Shoot-Anim_19: 784097534554289888
+      Shoot-Anim_190: -2591904820681050740
+      Shoot-Anim_191: -4585699435536295146
+      Shoot-Anim_2: 2814634840575591994
+      Shoot-Anim_20: -3517191255773290281
+      Shoot-Anim_21: 6700019984155023460
+      Shoot-Anim_22: 3958307364648208130
+      Shoot-Anim_23: 1938456851098417074
+      Shoot-Anim_24: -8690479145730305734
+      Shoot-Anim_25: -3984332885997131676
+      Shoot-Anim_26: 5260890361149926409
+      Shoot-Anim_27: -574930240285284554
+      Shoot-Anim_28: -8629952454582684458
+      Shoot-Anim_29: -834015776214983811
+      Shoot-Anim_3: 4985456632395234691
+      Shoot-Anim_30: 5179037328297318565
+      Shoot-Anim_31: 2284829026829045803
+      Shoot-Anim_32: -1260880115136083229
+      Shoot-Anim_33: -4301172035161035806
+      Shoot-Anim_34: 1139100989800690940
+      Shoot-Anim_35: 2462425116263458757
+      Shoot-Anim_36: 804744999948457887
+      Shoot-Anim_37: -6069207566992380976
+      Shoot-Anim_38: 3978062953010386585
+      Shoot-Anim_39: -3901028581652890542
+      Shoot-Anim_4: -8246523010642919062
+      Shoot-Anim_40: -926540725540300164
+      Shoot-Anim_41: 5511501198413833589
+      Shoot-Anim_42: 8472079238390235733
+      Shoot-Anim_43: -1917037280687173979
+      Shoot-Anim_44: -3107073767066417224
+      Shoot-Anim_45: -6317519624945193416
+      Shoot-Anim_46: 8311320907720867059
+      Shoot-Anim_47: 3156656778295645484
+      Shoot-Anim_48: 1807841233098461067
+      Shoot-Anim_49: -549369229615867770
+      Shoot-Anim_5: 5190055081072813553
+      Shoot-Anim_50: 8998833711204174478
+      Shoot-Anim_51: -7340364484610888378
+      Shoot-Anim_52: -5392870624033641216
+      Shoot-Anim_53: -5304253428937312436
+      Shoot-Anim_54: 389470216719047718
+      Shoot-Anim_55: -6142064724596962244
+      Shoot-Anim_56: 8784959438537494891
+      Shoot-Anim_57: 937194206561117183
+      Shoot-Anim_58: 6755382130298080207
+      Shoot-Anim_59: 6553901838268109071
+      Shoot-Anim_6: 3684805424997142856
+      Shoot-Anim_60: -7819543967787093679
+      Shoot-Anim_61: 5544034002434800460
+      Shoot-Anim_62: 1964666382270225812
+      Shoot-Anim_63: 776303327315072629
+      Shoot-Anim_64: -104660456446151889
+      Shoot-Anim_65: -6153204243364665539
+      Shoot-Anim_66: 1331864942811514114
+      Shoot-Anim_67: 8768420516481371996
+      Shoot-Anim_68: 2533707237198477145
+      Shoot-Anim_69: -7654682051103186660
+      Shoot-Anim_7: -6558645695815182079
+      Shoot-Anim_70: -3905153081751531284
+      Shoot-Anim_71: 7784117424303395300
+      Shoot-Anim_72: -1147561431428013162
+      Shoot-Anim_73: -8826903192789937318
+      Shoot-Anim_74: -2837180267944886102
+      Shoot-Anim_75: 2074984185278902811
+      Shoot-Anim_76: -7886028862804398092
+      Shoot-Anim_77: -1558166588622772260
+      Shoot-Anim_78: 7882175837553031290
+      Shoot-Anim_79: -8454477923473652948
+      Shoot-Anim_8: -3908728534880072015
+      Shoot-Anim_80: 846475139669188903
+      Shoot-Anim_81: 3869338657020290732
+      Shoot-Anim_82: -4316323328421205772
+      Shoot-Anim_83: -8327443541834059314
+      Shoot-Anim_84: -124029972599174305
+      Shoot-Anim_85: 3326643972772150447
+      Shoot-Anim_86: 1627283068323498325
+      Shoot-Anim_87: -1411745689764482919
+      Shoot-Anim_88: -8310835681644330230
+      Shoot-Anim_89: 295763718725987277
+      Shoot-Anim_9: -6241020388797291846
+      Shoot-Anim_90: -5519173831046821453
+      Shoot-Anim_91: 4190387593562965819
+      Shoot-Anim_92: -1246710679350145357
+      Shoot-Anim_93: 8067324109060729278
+      Shoot-Anim_94: 7252950247335260495
+      Shoot-Anim_95: 7472730204879909286
+      Shoot-Anim_96: -7390197655563811201
+      Shoot-Anim_97: -6693747075340888377
+      Shoot-Anim_98: 8755738274295713302
+      Shoot-Anim_99: 5882897741803692332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

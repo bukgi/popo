@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: cbccfe982b80af2479351f2eb60d1bf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9216540262003494630
+    second: VFX_Move_Petal_Dance_0
+  - first:
+      213: 6084313790000797547
+    second: VFX_Move_Petal_Dance_1
+  - first:
+      213: 1346493925772441295
+    second: VFX_Move_Petal_Dance_2
+  - first:
+      213: 1156403378620771972
+    second: VFX_Move_Petal_Dance_3
+  - first:
+      213: -7613313766059776697
+    second: VFX_Move_Petal_Dance_4
+  - first:
+      213: 1384029160083351202
+    second: VFX_Move_Petal_Dance_5
+  - first:
+      213: -9212968167977963024
+    second: VFX_Move_Petal_Dance_6
+  - first:
+      213: 1386787726205790308
+    second: VFX_Move_Petal_Dance_7
+  - first:
+      213: -4512106599161424874
+    second: VFX_Move_Petal_Dance_8
+  - first:
+      213: 2294946561575561688
+    second: VFX_Move_Petal_Dance_9
+  - first:
+      213: -8423040143866439190
+    second: VFX_Move_Petal_Dance_10
+  - first:
+      213: -3788274313274767012
+    second: VFX_Move_Petal_Dance_11
+  - first:
+      213: -5281621134263073057
+    second: VFX_Move_Petal_Dance_12
+  - first:
+      213: -4041729339849328780
+    second: VFX_Move_Petal_Dance_13
+  - first:
+      213: 2759475958304861045
+    second: VFX_Move_Petal_Dance_14
+  - first:
+      213: 2082440877663613199
+    second: VFX_Move_Petal_Dance_15
+  - first:
+      213: 1330923201278544982
+    second: VFX_Move_Petal_Dance_16
+  - first:
+      213: -1111497182578901190
+    second: VFX_Move_Petal_Dance_17
+  - first:
+      213: -4136384819515940852
+    second: VFX_Move_Petal_Dance_18
+  - first:
+      213: 8134486497961665000
+    second: VFX_Move_Petal_Dance_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1132398675481080800000000000000
+      internalID: -9216540262003494630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 12
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67120be723df6450800000000000000
+      internalID: 6084313790000797547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc633e96715bfa210800000000000000
+      internalID: 1346493925772441295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ea0c7febe5c0010800000000000000
+      internalID: 1156403378620771972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7456a628773185690800000000000000
+      internalID: -7613313766059776697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 6
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6ec8d203f053310800000000000000
+      internalID: 1384029160083351202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f131bc7346f42080800000000000000
+      internalID: -9212968167977963024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4682e57e61cde3310800000000000000
+      internalID: 1386787726205790308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614994844f6c161c0800000000000000
+      internalID: -4512106599161424874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d927351db949df10800000000000000
+      internalID: 2294946561575561688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae95cf7cd995b1b80800000000000000
+      internalID: -8423040143866439190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59458d45985d6bc0800000000000000
+      internalID: -3788274313274767012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_12
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6cd06cf89e3b6b0800000000000000
+      internalID: -5281621134263073057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 6
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477b1045494e8e7c0800000000000000
+      internalID: -4041729339849328780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 5
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bedf483c0ab4620800000000000000
+      internalID: 2759475958304861045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0174eae1f056ec10800000000000000
+      internalID: 2082440877663613199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c888b9993687210800000000000000
+      internalID: 1330923201278544982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 6
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f798f833b2390f0800000000000000
+      internalID: -1111497182578901190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_18
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c002f621ceb9896c0800000000000000
+      internalID: -4136384819515940852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Petal_Dance_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1673d1f5083e070800000000000000
+      internalID: 8134486497961665000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Petal_Dance_0: -9216540262003494630
+      VFX_Move_Petal_Dance_1: 6084313790000797547
+      VFX_Move_Petal_Dance_10: -8423040143866439190
+      VFX_Move_Petal_Dance_11: -3788274313274767012
+      VFX_Move_Petal_Dance_12: -5281621134263073057
+      VFX_Move_Petal_Dance_13: -4041729339849328780
+      VFX_Move_Petal_Dance_14: 2759475958304861045
+      VFX_Move_Petal_Dance_15: 2082440877663613199
+      VFX_Move_Petal_Dance_16: 1330923201278544982
+      VFX_Move_Petal_Dance_17: -1111497182578901190
+      VFX_Move_Petal_Dance_18: -4136384819515940852
+      VFX_Move_Petal_Dance_19: 8134486497961665000
+      VFX_Move_Petal_Dance_2: 1346493925772441295
+      VFX_Move_Petal_Dance_3: 1156403378620771972
+      VFX_Move_Petal_Dance_4: -7613313766059776697
+      VFX_Move_Petal_Dance_5: 1384029160083351202
+      VFX_Move_Petal_Dance_6: -9212968167977963024
+      VFX_Move_Petal_Dance_7: 1386787726205790308
+      VFX_Move_Petal_Dance_8: -4512106599161424874
+      VFX_Move_Petal_Dance_9: 2294946561575561688
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

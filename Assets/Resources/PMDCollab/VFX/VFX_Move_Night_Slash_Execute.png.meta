@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: b830f40314cceda4eb552e42d3eca984
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4086853187952744027
+    second: VFX_Move_Night_Slash_Execute_0
+  - first:
+      213: -5741293528996842208
+    second: VFX_Move_Night_Slash_Execute_1
+  - first:
+      213: 9154197447132345819
+    second: VFX_Move_Night_Slash_Execute_2
+  - first:
+      213: 3697797173672749792
+    second: VFX_Move_Night_Slash_Execute_3
+  - first:
+      213: -8310124201329119229
+    second: VFX_Move_Night_Slash_Execute_4
+  - first:
+      213: -779319312998285724
+    second: VFX_Move_Night_Slash_Execute_5
+  - first:
+      213: -657804530413725709
+    second: VFX_Move_Night_Slash_Execute_6
+  - first:
+      213: 725510854515141950
+    second: VFX_Move_Night_Slash_Execute_7
+  - first:
+      213: 1156714295948543125
+    second: VFX_Move_Night_Slash_Execute_8
+  - first:
+      213: 4781298716346271736
+    second: VFX_Move_Night_Slash_Execute_9
+  - first:
+      213: -2530161112854442989
+    second: VFX_Move_Night_Slash_Execute_10
+  - first:
+      213: 4896857985764926784
+    second: VFX_Move_Night_Slash_Execute_11
+  - first:
+      213: 7347989587419551809
+    second: VFX_Move_Night_Slash_Execute_12
+  - first:
+      213: -1210959308250094509
+    second: VFX_Move_Night_Slash_Execute_13
+  - first:
+      213: 3136885580730614335
+    second: VFX_Move_Night_Slash_Execute_14
+  - first:
+      213: -5177743925311636933
+    second: VFX_Move_Night_Slash_Execute_15
+  - first:
+      213: 942770838594654382
+    second: VFX_Move_Night_Slash_Execute_16
+  - first:
+      213: 9138721946309781880
+    second: VFX_Move_Night_Slash_Execute_17
+  - first:
+      213: -683189214234511858
+    second: VFX_Move_Night_Slash_Execute_18
+  - first:
+      213: -571430556291610575
+    second: VFX_Move_Night_Slash_Execute_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b569815425b67b830800000000000000
+      internalID: 4086853187952744027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025f4ec34f3d250b0800000000000000
+      internalID: -5741293528996842208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd57c10c31e3a0f70800000000000000
+      internalID: 9154197447132345819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea253c00f6315330800000000000000
+      internalID: 3697797173672749792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300b66c51128cac80800000000000000
+      internalID: -8310124201329119229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb22eb63d4f25f0800000000000000
+      internalID: -779319312998285724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 7
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f71c09c3420fd6f0800000000000000
+      internalID: -657804530413725709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 7
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3da01c3748811a00800000000000000
+      internalID: 725510854515141950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 7
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59401ac06897d0010800000000000000
+      internalID: 1156714295948543125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 8
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7c9d0a9d59a5240800000000000000
+      internalID: 4781298716346271736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 8
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ccdcb8fdf03ecd0800000000000000
+      internalID: -2530161112854442989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 9
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045ad05b46225f340800000000000000
+      internalID: 4896857985764926784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 8
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1485963399d49f560800000000000000
+      internalID: 7347989587419551809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_13
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 8
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354ec42dceec13fe0800000000000000
+      internalID: -1210959308250094509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 9
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f324e74d0d4788b20800000000000000
+      internalID: 3136885580730614335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 10
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3afcd13555f428b0800000000000000
+      internalID: -5177743925311636933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 11
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0180b2515651d00800000000000000
+      internalID: 942770838594654382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 12
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8796cdee03343de70800000000000000
+      internalID: 9138721946309781880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 10
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e067c238703d486f0800000000000000
+      internalID: -683189214234511858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Night_Slash_Execute_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 10
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1384f66cfeed118f0800000000000000
+      internalID: -571430556291610575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Night_Slash_Execute_0: 4086853187952744027
+      VFX_Move_Night_Slash_Execute_1: -5741293528996842208
+      VFX_Move_Night_Slash_Execute_10: -2530161112854442989
+      VFX_Move_Night_Slash_Execute_11: 4896857985764926784
+      VFX_Move_Night_Slash_Execute_12: 7347989587419551809
+      VFX_Move_Night_Slash_Execute_13: -1210959308250094509
+      VFX_Move_Night_Slash_Execute_14: 3136885580730614335
+      VFX_Move_Night_Slash_Execute_15: -5177743925311636933
+      VFX_Move_Night_Slash_Execute_16: 942770838594654382
+      VFX_Move_Night_Slash_Execute_17: 9138721946309781880
+      VFX_Move_Night_Slash_Execute_18: -683189214234511858
+      VFX_Move_Night_Slash_Execute_19: -571430556291610575
+      VFX_Move_Night_Slash_Execute_2: 9154197447132345819
+      VFX_Move_Night_Slash_Execute_3: 3697797173672749792
+      VFX_Move_Night_Slash_Execute_4: -8310124201329119229
+      VFX_Move_Night_Slash_Execute_5: -779319312998285724
+      VFX_Move_Night_Slash_Execute_6: -657804530413725709
+      VFX_Move_Night_Slash_Execute_7: 725510854515141950
+      VFX_Move_Night_Slash_Execute_8: 1156714295948543125
+      VFX_Move_Night_Slash_Execute_9: 4781298716346271736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

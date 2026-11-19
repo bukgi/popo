@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e4de7a431a76b72488e8620fe5b8a6b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2844854691682115325
+    second: VFX_Move_Mud_Slap_0
+  - first:
+      213: 3640915901901797751
+    second: VFX_Move_Mud_Slap_1
+  - first:
+      213: 9071439056056046229
+    second: VFX_Move_Mud_Slap_2
+  - first:
+      213: -4946439638450215045
+    second: VFX_Move_Mud_Slap_3
+  - first:
+      213: -8464741039757968717
+    second: VFX_Move_Mud_Slap_4
+  - first:
+      213: -5245255749500949907
+    second: VFX_Move_Mud_Slap_5
+  - first:
+      213: -6154160590695719703
+    second: VFX_Move_Mud_Slap_6
+  - first:
+      213: -3385793587499733305
+    second: VFX_Move_Mud_Slap_7
+  - first:
+      213: 2532862472589736219
+    second: VFX_Move_Mud_Slap_8
+  - first:
+      213: -1567513842083105824
+    second: VFX_Move_Mud_Slap_9
+  - first:
+      213: 6858155463116407
+    second: VFX_Move_Mud_Slap_10
+  - first:
+      213: 6801961383388820383
+    second: VFX_Move_Mud_Slap_11
+  - first:
+      213: 4883960540600663099
+    second: VFX_Move_Mud_Slap_12
+  - first:
+      213: 7449953353662958040
+    second: VFX_Move_Mud_Slap_13
+  - first:
+      213: -284402531682954311
+    second: VFX_Move_Mud_Slap_14
+  - first:
+      213: -6602685201141474725
+    second: VFX_Move_Mud_Slap_15
+  - first:
+      213: 6688120025294225995
+    second: VFX_Move_Mud_Slap_16
+  - first:
+      213: -8661373056311631575
+    second: VFX_Move_Mud_Slap_17
+  - first:
+      213: 25706068751111751
+    second: VFX_Move_Mud_Slap_18
+  - first:
+      213: -3985221721184057857
+    second: VFX_Move_Mud_Slap_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfed057f444fa7720800000000000000
+      internalID: 2844854691682115325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7797dede8b1278230800000000000000
+      internalID: 3640915901901797751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59253d942c934ed70800000000000000
+      internalID: 9071439056056046229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77634f2b57ba5bb0800000000000000
+      internalID: -4946439638450215045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba3e895fd2378a80800000000000000
+      internalID: -8464741039757968717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aabe6bfab1537b0800000000000000
+      internalID: -5245255749500949907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec9fd48c87089aa0800000000000000
+      internalID: -6154160590695719703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce684ebbae3301d0800000000000000
+      internalID: -3385793587499733305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19f0a7cff8862320800000000000000
+      internalID: 2532862472589736219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 4
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3f02637721f3ae0800000000000000
+      internalID: -1567513842083105824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7768130c47d581000800000000000000
+      internalID: 6858155463116407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 6
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93b0d007db656e50800000000000000
+      internalID: 6801961383388820383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_12
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 7
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cf68f3c3057c340800000000000000
+      internalID: 4883960540600663099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 5
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d98f468a1d836760800000000000000
+      internalID: 7449953353662958040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 4
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3d0dd77699d0cf0800000000000000
+      internalID: -284402531682954311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 4
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5adb36cacc8e54a0800000000000000
+      internalID: -6602685201141474725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42c6d25ab9f0dc50800000000000000
+      internalID: 6688120025294225995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921e76f581f9cc780800000000000000
+      internalID: -8661373056311631575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_18
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7465b7888835b5000800000000000000
+      internalID: 25706068751111751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Mud_Slap_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff547ad85f5a1b8c0800000000000000
+      internalID: -3985221721184057857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Mud_Slap_0: 2844854691682115325
+      VFX_Move_Mud_Slap_1: 3640915901901797751
+      VFX_Move_Mud_Slap_10: 6858155463116407
+      VFX_Move_Mud_Slap_11: 6801961383388820383
+      VFX_Move_Mud_Slap_12: 4883960540600663099
+      VFX_Move_Mud_Slap_13: 7449953353662958040
+      VFX_Move_Mud_Slap_14: -284402531682954311
+      VFX_Move_Mud_Slap_15: -6602685201141474725
+      VFX_Move_Mud_Slap_16: 6688120025294225995
+      VFX_Move_Mud_Slap_17: -8661373056311631575
+      VFX_Move_Mud_Slap_18: 25706068751111751
+      VFX_Move_Mud_Slap_19: -3985221721184057857
+      VFX_Move_Mud_Slap_2: 9071439056056046229
+      VFX_Move_Mud_Slap_3: -4946439638450215045
+      VFX_Move_Mud_Slap_4: -8464741039757968717
+      VFX_Move_Mud_Slap_5: -5245255749500949907
+      VFX_Move_Mud_Slap_6: -6154160590695719703
+      VFX_Move_Mud_Slap_7: -3385793587499733305
+      VFX_Move_Mud_Slap_8: 2532862472589736219
+      VFX_Move_Mud_Slap_9: -1567513842083105824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

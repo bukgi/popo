@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 9ba951f16dfa82a4d811a2fbd8b91f0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -587387411062814929
+    second: VFX_Move_Jaw_Execute_0
+  - first:
+      213: -982735802869743757
+    second: VFX_Move_Jaw_Execute_1
+  - first:
+      213: -8397771039314990913
+    second: VFX_Move_Jaw_Execute_2
+  - first:
+      213: -6097946256339716762
+    second: VFX_Move_Jaw_Execute_3
+  - first:
+      213: 2890029416100262909
+    second: VFX_Move_Jaw_Execute_4
+  - first:
+      213: -1550948390561468650
+    second: VFX_Move_Jaw_Execute_5
+  - first:
+      213: 1646467015527209017
+    second: VFX_Move_Jaw_Execute_6
+  - first:
+      213: -1574805812788265269
+    second: VFX_Move_Jaw_Execute_7
+  - first:
+      213: 5637269706287468391
+    second: VFX_Move_Jaw_Execute_8
+  - first:
+      213: -6566079672751906816
+    second: VFX_Move_Jaw_Execute_9
+  - first:
+      213: -4311229493708432136
+    second: VFX_Move_Jaw_Execute_10
+  - first:
+      213: 1077858040703031893
+    second: VFX_Move_Jaw_Execute_11
+  - first:
+      213: 7690456725323199669
+    second: VFX_Move_Jaw_Execute_12
+  - first:
+      213: 516018075765641303
+    second: VFX_Move_Jaw_Execute_13
+  - first:
+      213: -6561790749275215208
+    second: VFX_Move_Jaw_Execute_14
+  - first:
+      213: -7683027440446788922
+    second: VFX_Move_Jaw_Execute_15
+  - first:
+      213: 7415192008036348251
+    second: VFX_Move_Jaw_Execute_16
+  - first:
+      213: -5193233472552899098
+    second: VFX_Move_Jaw_Execute_17
+  - first:
+      213: -1401470828668630676
+    second: VFX_Move_Jaw_Execute_18
+  - first:
+      213: 5443603452126695666
+    second: VFX_Move_Jaw_Execute_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f278012034e29d7f0800000000000000
+      internalID: -587387411062814929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ff3e97efe9c52f0800000000000000
+      internalID: -982735802869743757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb82198abbf157b80800000000000000
+      internalID: -8397771039314990913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665b27b203ebf5ba0800000000000000
+      internalID: -6097946256339716762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3f51121727b1820800000000000000
+      internalID: 2890029416100262909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fae93f7ace97ae0800000000000000
+      internalID: -1550948390561468650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93895eaf60d69d610800000000000000
+      internalID: 1646467015527209017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcef88af47a252ae0800000000000000
+      internalID: -1574805812788265269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 5
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fc55a2eea9b3e40800000000000000
+      internalID: 5637269706287468391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 5
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000a5b2835990e4a0800000000000000
+      internalID: -6566079672751906816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc525a0e9f6b24c0800000000000000
+      internalID: -4311229493708432136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a17626d2255fe00800000000000000
+      internalID: 1077858040703031893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4376955adf9ba60800000000000000
+      internalID: 7690456725323199669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75011b7b4b3492700800000000000000
+      internalID: 516018075765641303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aa1035416dfe4a0800000000000000
+      internalID: -6561790749275215208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca2794df37606590800000000000000
+      internalID: -7683027440446788922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_16
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 0
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51725c08dd08e660800000000000000
+      internalID: 7415192008036348251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_17
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ede0d0fbadede7b0800000000000000
+      internalID: -5193233472552899098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c694226e4b9fc8ce0800000000000000
+      internalID: -1401470828668630676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Jaw_Execute_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f01a1e8f709b8b40800000000000000
+      internalID: 5443603452126695666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Jaw_Execute_0: -587387411062814929
+      VFX_Move_Jaw_Execute_1: -982735802869743757
+      VFX_Move_Jaw_Execute_10: -4311229493708432136
+      VFX_Move_Jaw_Execute_11: 1077858040703031893
+      VFX_Move_Jaw_Execute_12: 7690456725323199669
+      VFX_Move_Jaw_Execute_13: 516018075765641303
+      VFX_Move_Jaw_Execute_14: -6561790749275215208
+      VFX_Move_Jaw_Execute_15: -7683027440446788922
+      VFX_Move_Jaw_Execute_16: 7415192008036348251
+      VFX_Move_Jaw_Execute_17: -5193233472552899098
+      VFX_Move_Jaw_Execute_18: -1401470828668630676
+      VFX_Move_Jaw_Execute_19: 5443603452126695666
+      VFX_Move_Jaw_Execute_2: -8397771039314990913
+      VFX_Move_Jaw_Execute_3: -6097946256339716762
+      VFX_Move_Jaw_Execute_4: 2890029416100262909
+      VFX_Move_Jaw_Execute_5: -1550948390561468650
+      VFX_Move_Jaw_Execute_6: 1646467015527209017
+      VFX_Move_Jaw_Execute_7: -1574805812788265269
+      VFX_Move_Jaw_Execute_8: 5637269706287468391
+      VFX_Move_Jaw_Execute_9: -6566079672751906816
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

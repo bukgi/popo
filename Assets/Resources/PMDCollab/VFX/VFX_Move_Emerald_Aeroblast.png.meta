@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0b89ca29cad688c479663a17c4a83de7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8868967955973199179
+    second: VFX_Move_Emerald_Aeroblast_0
+  - first:
+      213: -794150041235021676
+    second: VFX_Move_Emerald_Aeroblast_1
+  - first:
+      213: -3470559394113157970
+    second: VFX_Move_Emerald_Aeroblast_2
+  - first:
+      213: 8012580689076204871
+    second: VFX_Move_Emerald_Aeroblast_3
+  - first:
+      213: -5634964290930222046
+    second: VFX_Move_Emerald_Aeroblast_4
+  - first:
+      213: 5642868134954320982
+    second: VFX_Move_Emerald_Aeroblast_5
+  - first:
+      213: 8791681922957061420
+    second: VFX_Move_Emerald_Aeroblast_6
+  - first:
+      213: 6068228029652403924
+    second: VFX_Move_Emerald_Aeroblast_7
+  - first:
+      213: 4380184751627610329
+    second: VFX_Move_Emerald_Aeroblast_8
+  - first:
+      213: -5407486091284512142
+    second: VFX_Move_Emerald_Aeroblast_9
+  - first:
+      213: 7819878169080545989
+    second: VFX_Move_Emerald_Aeroblast_10
+  - first:
+      213: -6100633600966446561
+    second: VFX_Move_Emerald_Aeroblast_11
+  - first:
+      213: -3045376204760615389
+    second: VFX_Move_Emerald_Aeroblast_12
+  - first:
+      213: -114271269016011254
+    second: VFX_Move_Emerald_Aeroblast_13
+  - first:
+      213: -5697236954392461999
+    second: VFX_Move_Emerald_Aeroblast_14
+  - first:
+      213: -6327168880407057448
+    second: VFX_Move_Emerald_Aeroblast_15
+  - first:
+      213: 5666388393451885833
+    second: VFX_Move_Emerald_Aeroblast_16
+  - first:
+      213: -8255614149732216869
+    second: VFX_Move_Emerald_Aeroblast_17
+  - first:
+      213: 2831179615160896669
+    second: VFX_Move_Emerald_Aeroblast_18
+  - first:
+      213: -3108555068414881916
+    second: VFX_Move_Emerald_Aeroblast_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45da1cbd57e41b70800000000000000
+      internalID: 8868967955973199179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49023ddbebc9af4f0800000000000000
+      internalID: -794150041235021676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea48dfd6e9816dfc0800000000000000
+      internalID: -3470559394113157970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745ba8a2fa7623f60800000000000000
+      internalID: 8012580689076204871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cd71d25d59cc1b0800000000000000
+      internalID: -5634964290930222046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654c25aebae7f4e40800000000000000
+      internalID: 5642868134954320982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 8
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d241ce024520a70800000000000000
+      internalID: 8791681922957061420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 9
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6008bfd3da63450800000000000000
+      internalID: 6068228029652403924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 10
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8a85b03da89cc30800000000000000
+      internalID: 4380184751627610329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 10
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2720f11dc00c4f4b0800000000000000
+      internalID: -5407486091284512142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 10
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2c0e663c9c58c60800000000000000
+      internalID: 7819878169080545989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12359dff02365ba0800000000000000
+      internalID: -6100633600966446561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326f0d31a76acb5d0800000000000000
+      internalID: -3045376204760615389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e7442e2e60a6ef0800000000000000
+      internalID: -114271269016011254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_14
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d753cdc295fe0b0800000000000000
+      internalID: -5697236954392461999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db6e611d616138a0800000000000000
+      internalID: -6327168880407057448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9059817d83e03ae40800000000000000
+      internalID: 5666388393451885833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfc582cbaa2e6d80800000000000000
+      internalID: -8255614149732216869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 7
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c0ef81cde5a4720800000000000000
+      internalID: 2831179615160896669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Emerald_Aeroblast_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f046692a13cd4d0800000000000000
+      internalID: -3108555068414881916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Emerald_Aeroblast_0: 8868967955973199179
+      VFX_Move_Emerald_Aeroblast_1: -794150041235021676
+      VFX_Move_Emerald_Aeroblast_10: 7819878169080545989
+      VFX_Move_Emerald_Aeroblast_11: -6100633600966446561
+      VFX_Move_Emerald_Aeroblast_12: -3045376204760615389
+      VFX_Move_Emerald_Aeroblast_13: -114271269016011254
+      VFX_Move_Emerald_Aeroblast_14: -5697236954392461999
+      VFX_Move_Emerald_Aeroblast_15: -6327168880407057448
+      VFX_Move_Emerald_Aeroblast_16: 5666388393451885833
+      VFX_Move_Emerald_Aeroblast_17: -8255614149732216869
+      VFX_Move_Emerald_Aeroblast_18: 2831179615160896669
+      VFX_Move_Emerald_Aeroblast_19: -3108555068414881916
+      VFX_Move_Emerald_Aeroblast_2: -3470559394113157970
+      VFX_Move_Emerald_Aeroblast_3: 8012580689076204871
+      VFX_Move_Emerald_Aeroblast_4: -5634964290930222046
+      VFX_Move_Emerald_Aeroblast_5: 5642868134954320982
+      VFX_Move_Emerald_Aeroblast_6: 8791681922957061420
+      VFX_Move_Emerald_Aeroblast_7: 6068228029652403924
+      VFX_Move_Emerald_Aeroblast_8: 4380184751627610329
+      VFX_Move_Emerald_Aeroblast_9: -5407486091284512142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

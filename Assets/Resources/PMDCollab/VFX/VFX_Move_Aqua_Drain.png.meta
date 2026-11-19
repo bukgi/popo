@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d0dda51016590fd429157901eca34a33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -586778139941490635
+    second: VFX_Move_Aqua_Drain_0
+  - first:
+      213: -7129298000793409063
+    second: VFX_Move_Aqua_Drain_1
+  - first:
+      213: -1754932174472299198
+    second: VFX_Move_Aqua_Drain_2
+  - first:
+      213: -3118761692891256759
+    second: VFX_Move_Aqua_Drain_3
+  - first:
+      213: 6830328179291708578
+    second: VFX_Move_Aqua_Drain_4
+  - first:
+      213: 6318112754147795727
+    second: VFX_Move_Aqua_Drain_5
+  - first:
+      213: 1200621187157210203
+    second: VFX_Move_Aqua_Drain_6
+  - first:
+      213: 6964057568107520900
+    second: VFX_Move_Aqua_Drain_7
+  - first:
+      213: 309732628822628941
+    second: VFX_Move_Aqua_Drain_8
+  - first:
+      213: -1646569264997423795
+    second: VFX_Move_Aqua_Drain_9
+  - first:
+      213: -1954434054307780235
+    second: VFX_Move_Aqua_Drain_10
+  - first:
+      213: 4219032687125350056
+    second: VFX_Move_Aqua_Drain_11
+  - first:
+      213: -3748012747762143654
+    second: VFX_Move_Aqua_Drain_12
+  - first:
+      213: 6073678052784832190
+    second: VFX_Move_Aqua_Drain_13
+  - first:
+      213: -2083298914497635835
+    second: VFX_Move_Aqua_Drain_14
+  - first:
+      213: 1142463480907031748
+    second: VFX_Move_Aqua_Drain_15
+  - first:
+      213: -8969464796213422696
+    second: VFX_Move_Aqua_Drain_16
+  - first:
+      213: -4611008955589119244
+    second: VFX_Move_Aqua_Drain_17
+  - first:
+      213: 8629346729629146687
+    second: VFX_Move_Aqua_Drain_18
+  - first:
+      213: 1314158332181163169
+    second: VFX_Move_Aqua_Drain_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530b2def3685bd7f0800000000000000
+      internalID: -586778139941490635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 6
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d96eccad35af0d90800000000000000
+      internalID: -7129298000793409063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dbcaf3c7a35a7e0800000000000000
+      internalID: -1754932174472299198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948ee14a3cee7b4d0800000000000000
+      internalID: -3118761692891256759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acd50a5a433ace50800000000000000
+      internalID: 6830328179291708578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0328d933127ea750800000000000000
+      internalID: 6318112754147795727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54305acb9679a010800000000000000
+      internalID: 1200621187157210203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 7
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4836b66067d45a060800000000000000
+      internalID: 6964057568107520900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a12545f246c4400800000000000000
+      internalID: 309732628822628941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 8
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45a0c53af53629e0800000000000000
+      internalID: -1646569264997423795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 9
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579ee08259470e4e0800000000000000
+      internalID: -1954434054307780235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 9
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a64ed320e30d8a30800000000000000
+      internalID: 4219032687125350056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 8
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e600483426cfbc0800000000000000
+      internalID: -3748012747762143654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 8
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe7350620a0a4450800000000000000
+      internalID: 6073678052784832190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 8
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a5960dca2a613e0800000000000000
+      internalID: -2083298914497635835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 10
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4e15c9b78dadf00800000000000000
+      internalID: 1142463480907031748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 11
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895d3544a4f068380800000000000000
+      internalID: -8969464796213422696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 11
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f237f9f8c76200c0800000000000000
+      internalID: -4611008955589119244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_18
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 10
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e593f512991c770800000000000000
+      internalID: 8629346729629146687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Aqua_Drain_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 10
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac27485a04dc3210800000000000000
+      internalID: 1314158332181163169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Aqua_Drain_0: -586778139941490635
+      VFX_Move_Aqua_Drain_1: -7129298000793409063
+      VFX_Move_Aqua_Drain_10: -1954434054307780235
+      VFX_Move_Aqua_Drain_11: 4219032687125350056
+      VFX_Move_Aqua_Drain_12: -3748012747762143654
+      VFX_Move_Aqua_Drain_13: 6073678052784832190
+      VFX_Move_Aqua_Drain_14: -2083298914497635835
+      VFX_Move_Aqua_Drain_15: 1142463480907031748
+      VFX_Move_Aqua_Drain_16: -8969464796213422696
+      VFX_Move_Aqua_Drain_17: -4611008955589119244
+      VFX_Move_Aqua_Drain_18: 8629346729629146687
+      VFX_Move_Aqua_Drain_19: 1314158332181163169
+      VFX_Move_Aqua_Drain_2: -1754932174472299198
+      VFX_Move_Aqua_Drain_3: -3118761692891256759
+      VFX_Move_Aqua_Drain_4: 6830328179291708578
+      VFX_Move_Aqua_Drain_5: 6318112754147795727
+      VFX_Move_Aqua_Drain_6: 1200621187157210203
+      VFX_Move_Aqua_Drain_7: 6964057568107520900
+      VFX_Move_Aqua_Drain_8: 309732628822628941
+      VFX_Move_Aqua_Drain_9: -1646569264997423795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

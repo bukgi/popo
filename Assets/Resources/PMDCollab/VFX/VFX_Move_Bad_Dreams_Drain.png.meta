@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f71144c246cda794b8d16fa764e3db0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3650860999917939776
+    second: VFX_Move_Bad_Dreams_Drain_0
+  - first:
+      213: 2574195197909686059
+    second: VFX_Move_Bad_Dreams_Drain_1
+  - first:
+      213: -5412807302628049136
+    second: VFX_Move_Bad_Dreams_Drain_2
+  - first:
+      213: -504089516418811854
+    second: VFX_Move_Bad_Dreams_Drain_3
+  - first:
+      213: 4870412937261547947
+    second: VFX_Move_Bad_Dreams_Drain_4
+  - first:
+      213: -4320139438108335547
+    second: VFX_Move_Bad_Dreams_Drain_5
+  - first:
+      213: -7197109974821773536
+    second: VFX_Move_Bad_Dreams_Drain_6
+  - first:
+      213: 7523550146551851956
+    second: VFX_Move_Bad_Dreams_Drain_7
+  - first:
+      213: 2144881242212382083
+    second: VFX_Move_Bad_Dreams_Drain_8
+  - first:
+      213: -3852429415854472988
+    second: VFX_Move_Bad_Dreams_Drain_9
+  - first:
+      213: -8126400323174808782
+    second: VFX_Move_Bad_Dreams_Drain_10
+  - first:
+      213: -8759132626722179859
+    second: VFX_Move_Bad_Dreams_Drain_11
+  - first:
+      213: -2771880782284167759
+    second: VFX_Move_Bad_Dreams_Drain_12
+  - first:
+      213: 3740503785386999868
+    second: VFX_Move_Bad_Dreams_Drain_13
+  - first:
+      213: 2069110011554276176
+    second: VFX_Move_Bad_Dreams_Drain_14
+  - first:
+      213: -4157153021171749904
+    second: VFX_Move_Bad_Dreams_Drain_15
+  - first:
+      213: -4317815701961050749
+    second: VFX_Move_Bad_Dreams_Drain_16
+  - first:
+      213: -4597225871851877675
+    second: VFX_Move_Bad_Dreams_Drain_17
+  - first:
+      213: 378858040099702942
+    second: VFX_Move_Bad_Dreams_Drain_18
+  - first:
+      213: 5473926263662121177
+    second: VFX_Move_Bad_Dreams_Drain_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04caf608cb67aa230800000000000000
+      internalID: 3650860999917939776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b275ce1d4e069b320800000000000000
+      internalID: 2574195197909686059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ff631cf68d1e4b0800000000000000
+      internalID: -5412807302628049136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238bbde614d1109f0800000000000000
+      internalID: -504089516418811854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba101fa03ce279340800000000000000
+      internalID: 4870412937261547947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542a563f118cb04c0800000000000000
+      internalID: -4320139438108335547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fd35d1c9abe1c90800000000000000
+      internalID: -7197109974821773536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbaf0f2ff4096860800000000000000
+      internalID: 7523550146551851956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b77f202624cd10800000000000000
+      internalID: 2144881242212382083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e08ab97bdb698ac0800000000000000
+      internalID: -3852429415854472988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233cb8a26f9393f80800000000000000
+      internalID: -8126400323174808782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 4
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4b0bba84f417680800000000000000
+      internalID: -8759132626722179859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 4
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b568345d1d4889d0800000000000000
+      internalID: -2771880782284167759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 4
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c300ff0ff50f8e330800000000000000
+      internalID: 3740503785386999868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 6
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053a5e7c794f6bc10800000000000000
+      internalID: 2069110011554276176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_15
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 7
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbad105a53de46c0800000000000000
+      internalID: -4157153021171749904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 7
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385f10fee790414c0800000000000000
+      internalID: -4317815701961050749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 6
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da880c3d6f5330c0800000000000000
+      internalID: -4597225871851877675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_18
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 4
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9881745169f14500800000000000000
+      internalID: 378858040099702942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Bad_Dreams_Drain_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d013484fea47fb40800000000000000
+      internalID: 5473926263662121177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Bad_Dreams_Drain_0: 3650860999917939776
+      VFX_Move_Bad_Dreams_Drain_1: 2574195197909686059
+      VFX_Move_Bad_Dreams_Drain_10: -8126400323174808782
+      VFX_Move_Bad_Dreams_Drain_11: -8759132626722179859
+      VFX_Move_Bad_Dreams_Drain_12: -2771880782284167759
+      VFX_Move_Bad_Dreams_Drain_13: 3740503785386999868
+      VFX_Move_Bad_Dreams_Drain_14: 2069110011554276176
+      VFX_Move_Bad_Dreams_Drain_15: -4157153021171749904
+      VFX_Move_Bad_Dreams_Drain_16: -4317815701961050749
+      VFX_Move_Bad_Dreams_Drain_17: -4597225871851877675
+      VFX_Move_Bad_Dreams_Drain_18: 378858040099702942
+      VFX_Move_Bad_Dreams_Drain_19: 5473926263662121177
+      VFX_Move_Bad_Dreams_Drain_2: -5412807302628049136
+      VFX_Move_Bad_Dreams_Drain_3: -504089516418811854
+      VFX_Move_Bad_Dreams_Drain_4: 4870412937261547947
+      VFX_Move_Bad_Dreams_Drain_5: -4320139438108335547
+      VFX_Move_Bad_Dreams_Drain_6: -7197109974821773536
+      VFX_Move_Bad_Dreams_Drain_7: 7523550146551851956
+      VFX_Move_Bad_Dreams_Drain_8: 2144881242212382083
+      VFX_Move_Bad_Dreams_Drain_9: -3852429415854472988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

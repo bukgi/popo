@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 5a9efea6db219c34484725f0e00676be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6225301264864671918
+    second: VFX_Move_Copycat_Rush_0
+  - first:
+      213: 2891400970600061003
+    second: VFX_Move_Copycat_Rush_1
+  - first:
+      213: -1290951048580719328
+    second: VFX_Move_Copycat_Rush_2
+  - first:
+      213: 8407849753133642946
+    second: VFX_Move_Copycat_Rush_3
+  - first:
+      213: -2093682545986328509
+    second: VFX_Move_Copycat_Rush_4
+  - first:
+      213: -6538193150599076913
+    second: VFX_Move_Copycat_Rush_5
+  - first:
+      213: -8275633171863842349
+    second: VFX_Move_Copycat_Rush_6
+  - first:
+      213: -5371304524749395441
+    second: VFX_Move_Copycat_Rush_7
+  - first:
+      213: -8004723045478988556
+    second: VFX_Move_Copycat_Rush_8
+  - first:
+      213: -8168772885232225389
+    second: VFX_Move_Copycat_Rush_9
+  - first:
+      213: 3258002028236798524
+    second: VFX_Move_Copycat_Rush_10
+  - first:
+      213: 2774998038714087223
+    second: VFX_Move_Copycat_Rush_11
+  - first:
+      213: 3946128060150434554
+    second: VFX_Move_Copycat_Rush_12
+  - first:
+      213: -7023008520149578645
+    second: VFX_Move_Copycat_Rush_13
+  - first:
+      213: -2879988787415710050
+    second: VFX_Move_Copycat_Rush_14
+  - first:
+      213: -6063995519934722247
+    second: VFX_Move_Copycat_Rush_15
+  - first:
+      213: -4347625555877896726
+    second: VFX_Move_Copycat_Rush_16
+  - first:
+      213: -6093589078647587030
+    second: VFX_Move_Copycat_Rush_17
+  - first:
+      213: -2491244036265508455
+    second: VFX_Move_Copycat_Rush_18
+  - first:
+      213: -6617231484966055429
+    second: VFX_Move_Copycat_Rush_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea87c007486b46650800000000000000
+      internalID: 6225301264864671918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4816db0dd1502820800000000000000
+      internalID: 2891400970600061003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 8
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d9dee6cde951ee0800000000000000
+      internalID: -1290951048580719328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4f264cdceaea470800000000000000
+      internalID: 8407849753133642946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348ac0631deb1f2e0800000000000000
+      internalID: -2093682545986328509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc366a968fba345a0800000000000000
+      internalID: -6538193150599076913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 7
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1dd93f97b072d80800000000000000
+      internalID: -8275633171863842349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a2ddd3efa4575b0800000000000000
+      internalID: -5371304524749395441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f487dc0dc289e090800000000000000
+      internalID: -8004723045478988556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393f3e44750b2ae80800000000000000
+      internalID: -8168772885232225389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a7e82459fb63d20800000000000000
+      internalID: 3258002028236798524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73775fd7306c28620800000000000000
+      internalID: 2774998038714087223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 8
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afac77f209673c630800000000000000
+      internalID: 3946128060150434554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 7
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c41fdd5f2498e90800000000000000
+      internalID: -7023008520149578645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_14
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 7
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e968af8e4793808d0800000000000000
+      internalID: -2879988787415710050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_15
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 7
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f0bbaf33c58dba0800000000000000
+      internalID: -6063995519934722247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 7
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeddc7577912aa3c0800000000000000
+      internalID: -4347625555877896726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 6
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fb208a4093f6ba0800000000000000
+      internalID: -6093589078647587030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 5
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99185998fb25d6dd0800000000000000
+      internalID: -2491244036265508455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Copycat_Rush_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf15116260fda24a0800000000000000
+      internalID: -6617231484966055429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Copycat_Rush_0: 6225301264864671918
+      VFX_Move_Copycat_Rush_1: 2891400970600061003
+      VFX_Move_Copycat_Rush_10: 3258002028236798524
+      VFX_Move_Copycat_Rush_11: 2774998038714087223
+      VFX_Move_Copycat_Rush_12: 3946128060150434554
+      VFX_Move_Copycat_Rush_13: -7023008520149578645
+      VFX_Move_Copycat_Rush_14: -2879988787415710050
+      VFX_Move_Copycat_Rush_15: -6063995519934722247
+      VFX_Move_Copycat_Rush_16: -4347625555877896726
+      VFX_Move_Copycat_Rush_17: -6093589078647587030
+      VFX_Move_Copycat_Rush_18: -2491244036265508455
+      VFX_Move_Copycat_Rush_19: -6617231484966055429
+      VFX_Move_Copycat_Rush_2: -1290951048580719328
+      VFX_Move_Copycat_Rush_3: 8407849753133642946
+      VFX_Move_Copycat_Rush_4: -2093682545986328509
+      VFX_Move_Copycat_Rush_5: -6538193150599076913
+      VFX_Move_Copycat_Rush_6: -8275633171863842349
+      VFX_Move_Copycat_Rush_7: -5371304524749395441
+      VFX_Move_Copycat_Rush_8: -8004723045478988556
+      VFX_Move_Copycat_Rush_9: -8168772885232225389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

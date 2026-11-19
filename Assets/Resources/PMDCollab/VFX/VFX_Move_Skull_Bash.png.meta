@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 93ad564fbaf73a2408a1f0437f6205c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7898307934524986711
+    second: VFX_Move_Skull_Bash_0
+  - first:
+      213: -4767595136101502520
+    second: VFX_Move_Skull_Bash_1
+  - first:
+      213: 9207103128553822237
+    second: VFX_Move_Skull_Bash_2
+  - first:
+      213: 2637272089558634451
+    second: VFX_Move_Skull_Bash_3
+  - first:
+      213: -3090113412048238134
+    second: VFX_Move_Skull_Bash_4
+  - first:
+      213: -171285441500156207
+    second: VFX_Move_Skull_Bash_5
+  - first:
+      213: -2217451335762884677
+    second: VFX_Move_Skull_Bash_6
+  - first:
+      213: 4477798820526895000
+    second: VFX_Move_Skull_Bash_7
+  - first:
+      213: -9181575517526215380
+    second: VFX_Move_Skull_Bash_8
+  - first:
+      213: 8061161065819209631
+    second: VFX_Move_Skull_Bash_9
+  - first:
+      213: -4540655109912956957
+    second: VFX_Move_Skull_Bash_10
+  - first:
+      213: -1604742773403608398
+    second: VFX_Move_Skull_Bash_11
+  - first:
+      213: -2530446294884258489
+    second: VFX_Move_Skull_Bash_12
+  - first:
+      213: 1267272492484356898
+    second: VFX_Move_Skull_Bash_13
+  - first:
+      213: 8020320246180327305
+    second: VFX_Move_Skull_Bash_14
+  - first:
+      213: 4225658015115750235
+    second: VFX_Move_Skull_Bash_15
+  - first:
+      213: -1118889364784148703
+    second: VFX_Move_Skull_Bash_16
+  - first:
+      213: -3096369868438536308
+    second: VFX_Move_Skull_Bash_17
+  - first:
+      213: 7371065599357788767
+    second: VFX_Move_Skull_Bash_18
+  - first:
+      213: -8098993542215874523
+    second: VFX_Move_Skull_Bash_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa2df3d7c2936290800000000000000
+      internalID: -7898307934524986711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13ac7cb7916ddb0800000000000000
+      internalID: -4767595136101502520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1896db938336cf70800000000000000
+      internalID: 9207103128553822237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfc13a1ef8799420800000000000000
+      internalID: 2637272089558634451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9c13f4936bd15d0800000000000000
+      internalID: -3090113412048238134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deef286cc87f9df0800000000000000
+      internalID: -171285441500156207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7432932c70a31e0800000000000000
+      internalID: -2217451335762884677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f2b298d46542e30800000000000000
+      internalID: 4477798820526895000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c253d6f76bd749080800000000000000
+      internalID: -9181575517526215380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_9
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ffc5d874ffedf60800000000000000
+      internalID: 8061161065819209631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_10
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef63162c3a5cf0c0800000000000000
+      internalID: -4540655109912956957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 4
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba176b23fecab9e0800000000000000
+      internalID: -1604742773403608398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 5
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d683e608c02ecd0800000000000000
+      internalID: -2530446294884258489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 6
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b672c1e91469110800000000000000
+      internalID: 1267272492484356898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 6
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fa37a35c6ed4f60800000000000000
+      internalID: 8020320246180327305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 6
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ba145839d84aa30800000000000000
+      internalID: 4225658015115750235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 6
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f04150d08e870f0800000000000000
+      internalID: -1118889364784148703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_17
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 3
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f7f7a820c7705d0800000000000000
+      internalID: -3096369868438536308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_18
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 3
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52a2d9eb194b4660800000000000000
+      internalID: 7371065599357788767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Skull_Bash_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 0
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5284a0e98489a9f80800000000000000
+      internalID: -8098993542215874523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Skull_Bash_0: -7898307934524986711
+      VFX_Move_Skull_Bash_1: -4767595136101502520
+      VFX_Move_Skull_Bash_10: -4540655109912956957
+      VFX_Move_Skull_Bash_11: -1604742773403608398
+      VFX_Move_Skull_Bash_12: -2530446294884258489
+      VFX_Move_Skull_Bash_13: 1267272492484356898
+      VFX_Move_Skull_Bash_14: 8020320246180327305
+      VFX_Move_Skull_Bash_15: 4225658015115750235
+      VFX_Move_Skull_Bash_16: -1118889364784148703
+      VFX_Move_Skull_Bash_17: -3096369868438536308
+      VFX_Move_Skull_Bash_18: 7371065599357788767
+      VFX_Move_Skull_Bash_19: -8098993542215874523
+      VFX_Move_Skull_Bash_2: 9207103128553822237
+      VFX_Move_Skull_Bash_3: 2637272089558634451
+      VFX_Move_Skull_Bash_4: -3090113412048238134
+      VFX_Move_Skull_Bash_5: -171285441500156207
+      VFX_Move_Skull_Bash_6: -2217451335762884677
+      VFX_Move_Skull_Bash_7: 4477798820526895000
+      VFX_Move_Skull_Bash_8: -9181575517526215380
+      VFX_Move_Skull_Bash_9: 8061161065819209631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

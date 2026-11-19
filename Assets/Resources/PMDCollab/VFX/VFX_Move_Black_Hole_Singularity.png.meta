@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: dcf45027be8611e43a57c723be38d37b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7801081080484556479
+    second: VFX_Move_Black_Hole_Singularity_0
+  - first:
+      213: -163895989509834790
+    second: VFX_Move_Black_Hole_Singularity_1
+  - first:
+      213: -2397541112327155629
+    second: VFX_Move_Black_Hole_Singularity_2
+  - first:
+      213: -5715593642036635787
+    second: VFX_Move_Black_Hole_Singularity_3
+  - first:
+      213: -3531911915128579747
+    second: VFX_Move_Black_Hole_Singularity_4
+  - first:
+      213: -1575693916164898947
+    second: VFX_Move_Black_Hole_Singularity_5
+  - first:
+      213: -5726976047592355564
+    second: VFX_Move_Black_Hole_Singularity_6
+  - first:
+      213: -2063044771467634021
+    second: VFX_Move_Black_Hole_Singularity_7
+  - first:
+      213: -5179953955758037229
+    second: VFX_Move_Black_Hole_Singularity_8
+  - first:
+      213: 5718824529316118491
+    second: VFX_Move_Black_Hole_Singularity_9
+  - first:
+      213: 6765969341885951581
+    second: VFX_Move_Black_Hole_Singularity_10
+  - first:
+      213: -5612405393088053708
+    second: VFX_Move_Black_Hole_Singularity_11
+  - first:
+      213: 272349787880873119
+    second: VFX_Move_Black_Hole_Singularity_12
+  - first:
+      213: -254476932610720911
+    second: VFX_Move_Black_Hole_Singularity_13
+  - first:
+      213: -5868269000937759623
+    second: VFX_Move_Black_Hole_Singularity_14
+  - first:
+      213: -1402662945338891344
+    second: VFX_Move_Black_Hole_Singularity_15
+  - first:
+      213: 3797807885665614000
+    second: VFX_Move_Black_Hole_Singularity_16
+  - first:
+      213: -1755929554438633855
+    second: VFX_Move_Black_Hole_Singularity_17
+  - first:
+      213: 6657471203586432020
+    second: VFX_Move_Black_Hole_Singularity_18
+  - first:
+      213: 8616137101995040892
+    second: VFX_Move_Black_Hole_Singularity_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14192b5d61efcb390800000000000000
+      internalID: -7801081080484556479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7b7254779b9bdf0800000000000000
+      internalID: -163895989509834790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3505851af093abed0800000000000000
+      internalID: -2397541112327155629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577dce57dd12ea0b0800000000000000
+      internalID: -5715593642036635787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d599ac873d02cfec0800000000000000
+      internalID: -3531911915128579747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f3f3c4bb2022ae0800000000000000
+      internalID: -1575693916164898947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4194616a0a1b580b0800000000000000
+      internalID: -5726976047592355564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ad1f8f5b79e53e0800000000000000
+      internalID: -2063044771467634021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 5
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317a922625b1d18b0800000000000000
+      internalID: -5179953955758037229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf7daa1c985d5f40800000000000000
+      internalID: 5718824529316118491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 5
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5eab40d44d85ed50800000000000000
+      internalID: 6765969341885951581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eff71e70bbc12b0800000000000000
+      internalID: -5612405393088053708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cda4960b497c300800000000000000
+      internalID: 272349787880873119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bf43cf39ae77cf0800000000000000
+      internalID: -254476932610720911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c1ba06f68bf8ea0800000000000000
+      internalID: -5868269000937759623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_15
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3e87b9b7db88ce0800000000000000
+      internalID: -1402662945338891344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8b64e762684b430800000000000000
+      internalID: 3797807885665614000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1864311af5fa1a7e0800000000000000
+      internalID: -1755929554438633855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c592079c6146c50800000000000000
+      internalID: 6657471203586432020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Black_Hole_Singularity_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c706a744b0ba29770800000000000000
+      internalID: 8616137101995040892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Black_Hole_Singularity_0: -7801081080484556479
+      VFX_Move_Black_Hole_Singularity_1: -163895989509834790
+      VFX_Move_Black_Hole_Singularity_10: 6765969341885951581
+      VFX_Move_Black_Hole_Singularity_11: -5612405393088053708
+      VFX_Move_Black_Hole_Singularity_12: 272349787880873119
+      VFX_Move_Black_Hole_Singularity_13: -254476932610720911
+      VFX_Move_Black_Hole_Singularity_14: -5868269000937759623
+      VFX_Move_Black_Hole_Singularity_15: -1402662945338891344
+      VFX_Move_Black_Hole_Singularity_16: 3797807885665614000
+      VFX_Move_Black_Hole_Singularity_17: -1755929554438633855
+      VFX_Move_Black_Hole_Singularity_18: 6657471203586432020
+      VFX_Move_Black_Hole_Singularity_19: 8616137101995040892
+      VFX_Move_Black_Hole_Singularity_2: -2397541112327155629
+      VFX_Move_Black_Hole_Singularity_3: -5715593642036635787
+      VFX_Move_Black_Hole_Singularity_4: -3531911915128579747
+      VFX_Move_Black_Hole_Singularity_5: -1575693916164898947
+      VFX_Move_Black_Hole_Singularity_6: -5726976047592355564
+      VFX_Move_Black_Hole_Singularity_7: -2063044771467634021
+      VFX_Move_Black_Hole_Singularity_8: -5179953955758037229
+      VFX_Move_Black_Hole_Singularity_9: 5718824529316118491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

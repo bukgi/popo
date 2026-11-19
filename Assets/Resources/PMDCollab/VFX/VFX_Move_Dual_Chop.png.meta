@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0c65e1d7ba9bc97488fa18587639711c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1458203643581546896
+    second: VFX_Move_Dual_Chop_0
+  - first:
+      213: -3706857506716216267
+    second: VFX_Move_Dual_Chop_1
+  - first:
+      213: -1770319385214189088
+    second: VFX_Move_Dual_Chop_2
+  - first:
+      213: -1737603181810884819
+    second: VFX_Move_Dual_Chop_3
+  - first:
+      213: -6164828854486513077
+    second: VFX_Move_Dual_Chop_4
+  - first:
+      213: 6488060319446530886
+    second: VFX_Move_Dual_Chop_5
+  - first:
+      213: 3173703013315538664
+    second: VFX_Move_Dual_Chop_6
+  - first:
+      213: -8562757678513810340
+    second: VFX_Move_Dual_Chop_7
+  - first:
+      213: -2053754286883695348
+    second: VFX_Move_Dual_Chop_8
+  - first:
+      213: -2921265971229135959
+    second: VFX_Move_Dual_Chop_9
+  - first:
+      213: 8910855862295364050
+    second: VFX_Move_Dual_Chop_10
+  - first:
+      213: 704933137596318494
+    second: VFX_Move_Dual_Chop_11
+  - first:
+      213: -8754999584074107212
+    second: VFX_Move_Dual_Chop_12
+  - first:
+      213: -6425358336321529187
+    second: VFX_Move_Dual_Chop_13
+  - first:
+      213: -2453226298980615232
+    second: VFX_Move_Dual_Chop_14
+  - first:
+      213: 297075757505973895
+    second: VFX_Move_Dual_Chop_15
+  - first:
+      213: -1842816644744181263
+    second: VFX_Move_Dual_Chop_16
+  - first:
+      213: 3911145459103842605
+    second: VFX_Move_Dual_Chop_17
+  - first:
+      213: 8303915044863049612
+    second: VFX_Move_Dual_Chop_18
+  - first:
+      213: 6544321820243001492
+    second: VFX_Move_Dual_Chop_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e3426138b63cbe0800000000000000
+      internalID: -1458203643581546896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5349037ccb89e8cc0800000000000000
+      internalID: -3706857506716216267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1025116ef8e67e0800000000000000
+      internalID: -1770319385214189088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fd293cc1bc2e7e0800000000000000
+      internalID: -1737603181810884819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ac04bc1d0227aa0800000000000000
+      internalID: -6164828854486513077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bfaed3c783a0a50800000000000000
+      internalID: 6488060319446530886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee624b53124b0c20800000000000000
+      internalID: 3173703013315538664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c549f624249fa2980800000000000000
+      internalID: -8562757678513810340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c059c5a7b599f73e0800000000000000
+      internalID: -2053754286883695348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 4
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab6372a3149577d0800000000000000
+      internalID: -2921265971229135959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d182dce138b9ab70800000000000000
+      internalID: 8910855862295364050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 6
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1384d824fc68c900800000000000000
+      internalID: 704933137596318494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 6
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6f196a34eff7680800000000000000
+      internalID: -8754999584074107212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 5
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad5f8d2aa84d6a0800000000000000
+      internalID: -6425358336321529187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_14
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 6
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb3d97cda364fdd0800000000000000
+      internalID: -2453226298980615232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 7
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e0685d3dc6f1400800000000000000
+      internalID: 297075757505973895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 7
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f988d776000d66e0800000000000000
+      internalID: -1842816644744181263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 7
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2144caa21e274630800000000000000
+      internalID: 3911145459103842605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 7
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f751ebcbe6d3370800000000000000
+      internalID: 8303915044863049612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dual_Chop_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 6
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4900c6fa50a12da50800000000000000
+      internalID: 6544321820243001492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dual_Chop_0: -1458203643581546896
+      VFX_Move_Dual_Chop_1: -3706857506716216267
+      VFX_Move_Dual_Chop_10: 8910855862295364050
+      VFX_Move_Dual_Chop_11: 704933137596318494
+      VFX_Move_Dual_Chop_12: -8754999584074107212
+      VFX_Move_Dual_Chop_13: -6425358336321529187
+      VFX_Move_Dual_Chop_14: -2453226298980615232
+      VFX_Move_Dual_Chop_15: 297075757505973895
+      VFX_Move_Dual_Chop_16: -1842816644744181263
+      VFX_Move_Dual_Chop_17: 3911145459103842605
+      VFX_Move_Dual_Chop_18: 8303915044863049612
+      VFX_Move_Dual_Chop_19: 6544321820243001492
+      VFX_Move_Dual_Chop_2: -1770319385214189088
+      VFX_Move_Dual_Chop_3: -1737603181810884819
+      VFX_Move_Dual_Chop_4: -6164828854486513077
+      VFX_Move_Dual_Chop_5: 6488060319446530886
+      VFX_Move_Dual_Chop_6: 3173703013315538664
+      VFX_Move_Dual_Chop_7: -8562757678513810340
+      VFX_Move_Dual_Chop_8: -2053754286883695348
+      VFX_Move_Dual_Chop_9: -2921265971229135959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

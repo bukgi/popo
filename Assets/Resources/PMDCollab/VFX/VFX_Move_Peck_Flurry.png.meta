@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: c83cba22d7b32584b832f64f1841d0e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8224606542446038433
+    second: VFX_Move_Peck_Flurry_0
+  - first:
+      213: 2155358654383525284
+    second: VFX_Move_Peck_Flurry_1
+  - first:
+      213: -313705969867314619
+    second: VFX_Move_Peck_Flurry_2
+  - first:
+      213: -8578117772468643960
+    second: VFX_Move_Peck_Flurry_3
+  - first:
+      213: 333586468248787560
+    second: VFX_Move_Peck_Flurry_4
+  - first:
+      213: -3859504803623469067
+    second: VFX_Move_Peck_Flurry_5
+  - first:
+      213: 4094841663361408856
+    second: VFX_Move_Peck_Flurry_6
+  - first:
+      213: 6021764761708372737
+    second: VFX_Move_Peck_Flurry_7
+  - first:
+      213: 7275878549977806303
+    second: VFX_Move_Peck_Flurry_8
+  - first:
+      213: -6538867394564873282
+    second: VFX_Move_Peck_Flurry_9
+  - first:
+      213: 5528197918442433069
+    second: VFX_Move_Peck_Flurry_10
+  - first:
+      213: 2695529980524964864
+    second: VFX_Move_Peck_Flurry_11
+  - first:
+      213: 4748805765080761544
+    second: VFX_Move_Peck_Flurry_12
+  - first:
+      213: -8841580540296270865
+    second: VFX_Move_Peck_Flurry_13
+  - first:
+      213: 6198406568107442105
+    second: VFX_Move_Peck_Flurry_14
+  - first:
+      213: -6381428127364302670
+    second: VFX_Move_Peck_Flurry_15
+  - first:
+      213: 4938582944631637292
+    second: VFX_Move_Peck_Flurry_16
+  - first:
+      213: 8398446676887918524
+    second: VFX_Move_Peck_Flurry_17
+  - first:
+      213: 5255817989873939509
+    second: VFX_Move_Peck_Flurry_18
+  - first:
+      213: -4413135912724041227
+    second: VFX_Move_Peck_Flurry_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad89d3131ca32270800000000000000
+      internalID: 8224606542446038433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad081ec64f59ed10800000000000000
+      internalID: 2155358654383525284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aa32e151e75abf0800000000000000
+      internalID: -313705969867314619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8879a82b55764f880800000000000000
+      internalID: -8578117772468643960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a98dd102321a400800000000000000
+      internalID: 333586468248787560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fffb1364d8407ac0800000000000000
+      internalID: -3859504803623469067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f50242cccc3d830800000000000000
+      internalID: 4094841663361408856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103a796652b919350800000000000000
+      internalID: 6021764761708372737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5bf40fdfc19f460800000000000000
+      internalID: 7275878549977806303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3a391cfb64145a0800000000000000
+      internalID: -6538867394564873282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aa0d897ba18bc40800000000000000
+      internalID: 5528197918442433069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c2b9a5c32786520800000000000000
+      internalID: 2695529980524964864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 0
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c447fedea527e140800000000000000
+      internalID: 4748805765080761544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb62a2e7556c4580800000000000000
+      internalID: -8841580540296270865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bffd71eee9250650800000000000000
+      internalID: 6198406568107442105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8b3ccadec9077a0800000000000000
+      internalID: -6381428127364302670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25429cb50f598440800000000000000
+      internalID: 4938582944631637292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7d6f871c64d8470800000000000000
+      internalID: 8398446676887918524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5343b828d9a60f840800000000000000
+      internalID: 5255817989873939509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Peck_Flurry_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f17098e44461c2c0800000000000000
+      internalID: -4413135912724041227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Peck_Flurry_0: 8224606542446038433
+      VFX_Move_Peck_Flurry_1: 2155358654383525284
+      VFX_Move_Peck_Flurry_10: 5528197918442433069
+      VFX_Move_Peck_Flurry_11: 2695529980524964864
+      VFX_Move_Peck_Flurry_12: 4748805765080761544
+      VFX_Move_Peck_Flurry_13: -8841580540296270865
+      VFX_Move_Peck_Flurry_14: 6198406568107442105
+      VFX_Move_Peck_Flurry_15: -6381428127364302670
+      VFX_Move_Peck_Flurry_16: 4938582944631637292
+      VFX_Move_Peck_Flurry_17: 8398446676887918524
+      VFX_Move_Peck_Flurry_18: 5255817989873939509
+      VFX_Move_Peck_Flurry_19: -4413135912724041227
+      VFX_Move_Peck_Flurry_2: -313705969867314619
+      VFX_Move_Peck_Flurry_3: -8578117772468643960
+      VFX_Move_Peck_Flurry_4: 333586468248787560
+      VFX_Move_Peck_Flurry_5: -3859504803623469067
+      VFX_Move_Peck_Flurry_6: 4094841663361408856
+      VFX_Move_Peck_Flurry_7: 6021764761708372737
+      VFX_Move_Peck_Flurry_8: 7275878549977806303
+      VFX_Move_Peck_Flurry_9: -6538867394564873282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

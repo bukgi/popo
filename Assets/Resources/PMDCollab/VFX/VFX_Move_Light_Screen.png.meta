@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 08a0288cc61979544af690e808f8defd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6807525662410231281
+    second: VFX_Move_Light_Screen_0
+  - first:
+      213: 7466646522971361426
+    second: VFX_Move_Light_Screen_1
+  - first:
+      213: -6709636944184927268
+    second: VFX_Move_Light_Screen_2
+  - first:
+      213: 6071138914954180702
+    second: VFX_Move_Light_Screen_3
+  - first:
+      213: -9061582143147360756
+    second: VFX_Move_Light_Screen_4
+  - first:
+      213: 8346665858158633472
+    second: VFX_Move_Light_Screen_5
+  - first:
+      213: 5073567509828210190
+    second: VFX_Move_Light_Screen_6
+  - first:
+      213: -5438133159370170044
+    second: VFX_Move_Light_Screen_7
+  - first:
+      213: 323030192362956760
+    second: VFX_Move_Light_Screen_8
+  - first:
+      213: -928117186874065210
+    second: VFX_Move_Light_Screen_9
+  - first:
+      213: -8893347582745897433
+    second: VFX_Move_Light_Screen_10
+  - first:
+      213: 7057450548720688395
+    second: VFX_Move_Light_Screen_11
+  - first:
+      213: 8752121861103893625
+    second: VFX_Move_Light_Screen_12
+  - first:
+      213: 2911528636358910098
+    second: VFX_Move_Light_Screen_13
+  - first:
+      213: 1379980995449204385
+    second: VFX_Move_Light_Screen_14
+  - first:
+      213: -3079552548672536483
+    second: VFX_Move_Light_Screen_15
+  - first:
+      213: -3387295443917459850
+    second: VFX_Move_Light_Screen_16
+  - first:
+      213: 6681249669329595573
+    second: VFX_Move_Light_Screen_17
+  - first:
+      213: -6618212589445963418
+    second: VFX_Move_Light_Screen_18
+  - first:
+      213: -3868371598136670554
+    second: VFX_Move_Light_Screen_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd415ba580397e50800000000000000
+      internalID: 6807525662410231281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 10
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2901d11e37bde9760800000000000000
+      internalID: 7466646522971361426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb150a9fb492e2a0800000000000000
+      internalID: -6709636944184927268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58f4e74da4014450800000000000000
+      internalID: 6071138914954180702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 6
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ebda61d0bce3280800000000000000
+      internalID: -9061582143147360756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 5
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0022d6e106055d370800000000000000
+      internalID: 8346665858158633472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 6
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e064fe4cee86640800000000000000
+      internalID: 5073567509828210190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 7
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441e77a34bed784b0800000000000000
+      internalID: -5438133159370170044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 7
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7258b9f32ab7400800000000000000
+      internalID: 323030192362956760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 9
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cebf6ef55aae13f0800000000000000
+      internalID: -928117186874065210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 9
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7261a521e7b749480800000000000000
+      internalID: -8893347582745897433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_11
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 9
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dd160d1e911f160800000000000000
+      internalID: 7057450548720688395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 10
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c37024678c57970800000000000000
+      internalID: 8752121861103893625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 10
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290ec8b6ed3d76820800000000000000
+      internalID: 2911528636358910098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 11
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae2a86676da62310800000000000000
+      internalID: 1379980995449204385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 12
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50893de54b3345d0800000000000000
+      internalID: -3079552548672536483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 13
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e200c8db8edf0d0800000000000000
+      internalID: -3387295443917459850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_17
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 12
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc261cec2198bc50800000000000000
+      internalID: 6681249669329595573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 10
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6612e06f6b26724a0800000000000000
+      internalID: -6618212589445963418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Light_Screen_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 10
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a68ad9e688c05ac0800000000000000
+      internalID: -3868371598136670554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Light_Screen_0: 6807525662410231281
+      VFX_Move_Light_Screen_1: 7466646522971361426
+      VFX_Move_Light_Screen_10: -8893347582745897433
+      VFX_Move_Light_Screen_11: 7057450548720688395
+      VFX_Move_Light_Screen_12: 8752121861103893625
+      VFX_Move_Light_Screen_13: 2911528636358910098
+      VFX_Move_Light_Screen_14: 1379980995449204385
+      VFX_Move_Light_Screen_15: -3079552548672536483
+      VFX_Move_Light_Screen_16: -3387295443917459850
+      VFX_Move_Light_Screen_17: 6681249669329595573
+      VFX_Move_Light_Screen_18: -6618212589445963418
+      VFX_Move_Light_Screen_19: -3868371598136670554
+      VFX_Move_Light_Screen_2: -6709636944184927268
+      VFX_Move_Light_Screen_3: 6071138914954180702
+      VFX_Move_Light_Screen_4: -9061582143147360756
+      VFX_Move_Light_Screen_5: 8346665858158633472
+      VFX_Move_Light_Screen_6: 5073567509828210190
+      VFX_Move_Light_Screen_7: -5438133159370170044
+      VFX_Move_Light_Screen_8: 323030192362956760
+      VFX_Move_Light_Screen_9: -928117186874065210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

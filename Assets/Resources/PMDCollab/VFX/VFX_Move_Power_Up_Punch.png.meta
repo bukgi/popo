@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 6090b5ff419bcad42b351dd5e3656929
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7842553115544754579
+    second: VFX_Move_Power_Up_Punch_0
+  - first:
+      213: -6557568915372804908
+    second: VFX_Move_Power_Up_Punch_1
+  - first:
+      213: 6140696704811340979
+    second: VFX_Move_Power_Up_Punch_2
+  - first:
+      213: 5356080346556976073
+    second: VFX_Move_Power_Up_Punch_3
+  - first:
+      213: 5997908117468171130
+    second: VFX_Move_Power_Up_Punch_4
+  - first:
+      213: 7646441686605962647
+    second: VFX_Move_Power_Up_Punch_5
+  - first:
+      213: 6428657771810246918
+    second: VFX_Move_Power_Up_Punch_6
+  - first:
+      213: -7642537560842128883
+    second: VFX_Move_Power_Up_Punch_7
+  - first:
+      213: -6558141167087335725
+    second: VFX_Move_Power_Up_Punch_8
+  - first:
+      213: -2273028077618911731
+    second: VFX_Move_Power_Up_Punch_9
+  - first:
+      213: -1024916398922846656
+    second: VFX_Move_Power_Up_Punch_10
+  - first:
+      213: 5814433500053575975
+    second: VFX_Move_Power_Up_Punch_11
+  - first:
+      213: 309258226018318863
+    second: VFX_Move_Power_Up_Punch_12
+  - first:
+      213: -4663017088998830521
+    second: VFX_Move_Power_Up_Punch_13
+  - first:
+      213: -5777688234792717009
+    second: VFX_Move_Power_Up_Punch_14
+  - first:
+      213: 1999961242813807674
+    second: VFX_Move_Power_Up_Punch_15
+  - first:
+      213: -6561473236289160842
+    second: VFX_Move_Power_Up_Punch_16
+  - first:
+      213: 7486003232787705338
+    second: VFX_Move_Power_Up_Punch_17
+  - first:
+      213: 296099925203729824
+    second: VFX_Move_Power_Up_Punch_18
+  - first:
+      213: 924875621124204619
+    second: VFX_Move_Power_Up_Punch_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3999d28c18856dc60800000000000000
+      internalID: 7842553115544754579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d47f01a0d5def4a0800000000000000
+      internalID: -6557568915372804908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b411b34e13283550800000000000000
+      internalID: 6140696704811340979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbcafc82be945a40800000000000000
+      internalID: 5356080346556976073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b4f1197a9dc3350800000000000000
+      internalID: 5997908117468171130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d13ed833e9d1a60800000000000000
+      internalID: 7646441686605962647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601dd47de2e273950800000000000000
+      internalID: 6428657771810246918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02bc6f849040f590800000000000000
+      internalID: -7642537560842128883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6c4e4ea5dccf4a0800000000000000
+      internalID: -6558141167087335725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d062905a1059470e0800000000000000
+      internalID: -2273028077618911731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e2bb527f3c6c1f0800000000000000
+      internalID: -1024916398922846656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_11
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72913dc467401b050800000000000000
+      internalID: 5814433500053575975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 4
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a70b1d7b4ba4400800000000000000
+      internalID: 309258226018318863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 5
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e06acc9a2a94fb0800000000000000
+      internalID: -4663017088998830521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_14
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 7
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25f936792781dfa0800000000000000
+      internalID: -5777688234792717009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_15
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 8
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c3772772a41cb10800000000000000
+      internalID: 1999961242813807674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 7
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67970c31bd6f0f4a0800000000000000
+      internalID: -6561473236289160842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 5
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdacb51740a3e760800000000000000
+      internalID: 7486003232787705338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 5
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adb9cb2055fb1400800000000000000
+      internalID: 296099925203729824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Power_Up_Punch_19
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 2
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e68a2a71d5dc00800000000000000
+      internalID: 924875621124204619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Power_Up_Punch_0: 7842553115544754579
+      VFX_Move_Power_Up_Punch_1: -6557568915372804908
+      VFX_Move_Power_Up_Punch_10: -1024916398922846656
+      VFX_Move_Power_Up_Punch_11: 5814433500053575975
+      VFX_Move_Power_Up_Punch_12: 309258226018318863
+      VFX_Move_Power_Up_Punch_13: -4663017088998830521
+      VFX_Move_Power_Up_Punch_14: -5777688234792717009
+      VFX_Move_Power_Up_Punch_15: 1999961242813807674
+      VFX_Move_Power_Up_Punch_16: -6561473236289160842
+      VFX_Move_Power_Up_Punch_17: 7486003232787705338
+      VFX_Move_Power_Up_Punch_18: 296099925203729824
+      VFX_Move_Power_Up_Punch_19: 924875621124204619
+      VFX_Move_Power_Up_Punch_2: 6140696704811340979
+      VFX_Move_Power_Up_Punch_3: 5356080346556976073
+      VFX_Move_Power_Up_Punch_4: 5997908117468171130
+      VFX_Move_Power_Up_Punch_5: 7646441686605962647
+      VFX_Move_Power_Up_Punch_6: 6428657771810246918
+      VFX_Move_Power_Up_Punch_7: -7642537560842128883
+      VFX_Move_Power_Up_Punch_8: -6558141167087335725
+      VFX_Move_Power_Up_Punch_9: -2273028077618911731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

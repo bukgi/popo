@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 2812bbc5d8dae1a48a19a25bb0caf235
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6670193908772781780
+    second: VFX_Move_Dark_Void_0
+  - first:
+      213: 2585572725571725839
+    second: VFX_Move_Dark_Void_1
+  - first:
+      213: -4847412962774438074
+    second: VFX_Move_Dark_Void_2
+  - first:
+      213: 1642924475573920144
+    second: VFX_Move_Dark_Void_3
+  - first:
+      213: -8652950828359377355
+    second: VFX_Move_Dark_Void_4
+  - first:
+      213: -5658068675703186968
+    second: VFX_Move_Dark_Void_5
+  - first:
+      213: -6977315674415747562
+    second: VFX_Move_Dark_Void_6
+  - first:
+      213: 6025574001319457176
+    second: VFX_Move_Dark_Void_7
+  - first:
+      213: -6313538872193892238
+    second: VFX_Move_Dark_Void_8
+  - first:
+      213: -781174542750030941
+    second: VFX_Move_Dark_Void_9
+  - first:
+      213: 6973160153830924779
+    second: VFX_Move_Dark_Void_10
+  - first:
+      213: 7334629695312252969
+    second: VFX_Move_Dark_Void_11
+  - first:
+      213: 5121295634161868562
+    second: VFX_Move_Dark_Void_12
+  - first:
+      213: 1754513443659541912
+    second: VFX_Move_Dark_Void_13
+  - first:
+      213: -1869288107491023632
+    second: VFX_Move_Dark_Void_14
+  - first:
+      213: -1535624557754386120
+    second: VFX_Move_Dark_Void_15
+  - first:
+      213: -1047613260136469615
+    second: VFX_Move_Dark_Void_16
+  - first:
+      213: 6410877804987578551
+    second: VFX_Move_Dark_Void_17
+  - first:
+      213: -13436969757313782
+    second: VFX_Move_Dark_Void_18
+  - first:
+      213: 8884987581887584517
+    second: VFX_Move_Dark_Void_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21cf9ceaf5be63a0800000000000000
+      internalID: -6670193908772781780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a24a8e1bcc1e320800000000000000
+      internalID: 2585572725571725839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fa432d7978abcb0800000000000000
+      internalID: -4847412962774438074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091e06f1b17dcc610800000000000000
+      internalID: 1642924475573920144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e97b0211b8ae780800000000000000
+      internalID: -8652950828359377355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e952f564808a71b0800000000000000
+      internalID: -5658068675703186968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e2fac8c589b2f90800000000000000
+      internalID: -6977315674415747562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891b97c11a32f9350800000000000000
+      internalID: 6025574001319457176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 5
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2704347a8ddc168a0800000000000000
+      internalID: -6313538872193892238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 7
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a36ec764e5b825f0800000000000000
+      internalID: -781174542750030941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 8
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1200be634a5c060800000000000000
+      internalID: 6973160153830924779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 6
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9205e1ce8d6d9c560800000000000000
+      internalID: 7334629695312252969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 4
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f1af7de3f721740800000000000000
+      internalID: 5121295634161868562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d69f26ea8495810800000000000000
+      internalID: 1754513443659541912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4a222ce54fe06e0800000000000000
+      internalID: -1869288107491023632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_15
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839feaec99d50bae0800000000000000
+      internalID: -1535624557754386120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ba3975a412671f0800000000000000
+      internalID: -1047613260136469615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b878b8b56308f850800000000000000
+      internalID: 6410877804987578551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_18
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05f1cea52340dff0800000000000000
+      internalID: -13436969757313782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Dark_Void_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5099a2c8121dd4b70800000000000000
+      internalID: 8884987581887584517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Dark_Void_0: -6670193908772781780
+      VFX_Move_Dark_Void_1: 2585572725571725839
+      VFX_Move_Dark_Void_10: 6973160153830924779
+      VFX_Move_Dark_Void_11: 7334629695312252969
+      VFX_Move_Dark_Void_12: 5121295634161868562
+      VFX_Move_Dark_Void_13: 1754513443659541912
+      VFX_Move_Dark_Void_14: -1869288107491023632
+      VFX_Move_Dark_Void_15: -1535624557754386120
+      VFX_Move_Dark_Void_16: -1047613260136469615
+      VFX_Move_Dark_Void_17: 6410877804987578551
+      VFX_Move_Dark_Void_18: -13436969757313782
+      VFX_Move_Dark_Void_19: 8884987581887584517
+      VFX_Move_Dark_Void_2: -4847412962774438074
+      VFX_Move_Dark_Void_3: 1642924475573920144
+      VFX_Move_Dark_Void_4: -8652950828359377355
+      VFX_Move_Dark_Void_5: -5658068675703186968
+      VFX_Move_Dark_Void_6: -6977315674415747562
+      VFX_Move_Dark_Void_7: 6025574001319457176
+      VFX_Move_Dark_Void_8: -6313538872193892238
+      VFX_Move_Dark_Void_9: -781174542750030941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

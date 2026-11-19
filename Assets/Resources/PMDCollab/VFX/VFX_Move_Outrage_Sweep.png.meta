@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 9c8baf9bea5cc854d9d3901832d9e6eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8833235079643778202
+    second: VFX_Move_Outrage_Sweep_0
+  - first:
+      213: -6178157126236205208
+    second: VFX_Move_Outrage_Sweep_1
+  - first:
+      213: 2011966238351558144
+    second: VFX_Move_Outrage_Sweep_2
+  - first:
+      213: -4402472457602062450
+    second: VFX_Move_Outrage_Sweep_3
+  - first:
+      213: -3514788545442498022
+    second: VFX_Move_Outrage_Sweep_4
+  - first:
+      213: 6377921980335211029
+    second: VFX_Move_Outrage_Sweep_5
+  - first:
+      213: -4012321589131737966
+    second: VFX_Move_Outrage_Sweep_6
+  - first:
+      213: 1144116159371480007
+    second: VFX_Move_Outrage_Sweep_7
+  - first:
+      213: -8707241755424724018
+    second: VFX_Move_Outrage_Sweep_8
+  - first:
+      213: 7890613603874456868
+    second: VFX_Move_Outrage_Sweep_9
+  - first:
+      213: -6991441640960913356
+    second: VFX_Move_Outrage_Sweep_10
+  - first:
+      213: -8438288222426097141
+    second: VFX_Move_Outrage_Sweep_11
+  - first:
+      213: -3412392414458641211
+    second: VFX_Move_Outrage_Sweep_12
+  - first:
+      213: 6607783019012818027
+    second: VFX_Move_Outrage_Sweep_13
+  - first:
+      213: -763809113923506175
+    second: VFX_Move_Outrage_Sweep_14
+  - first:
+      213: 5510598690299612411
+    second: VFX_Move_Outrage_Sweep_15
+  - first:
+      213: 1536977769138244490
+    second: VFX_Move_Outrage_Sweep_16
+  - first:
+      213: -8434036139885061423
+    second: VFX_Move_Outrage_Sweep_17
+  - first:
+      213: 6649763828156943948
+    second: VFX_Move_Outrage_Sweep_18
+  - first:
+      213: 5138426017978286879
+    second: VFX_Move_Outrage_Sweep_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663305cde7b0a6580800000000000000
+      internalID: -8833235079643778202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 5
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f8424b3d6c24aa0800000000000000
+      internalID: -6178157126236205208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006060942a0fbeb10800000000000000
+      internalID: 2011966238351558144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87203700a647e2c0800000000000000
+      internalID: -4402472457602062450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ab948a076f83fc0800000000000000
+      internalID: -3514788545442498022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512490bdf3ee28850800000000000000
+      internalID: 6377921980335211029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2940c2bd5ce5158c0800000000000000
+      internalID: -4012321589131737966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0f1dc597b0ef00800000000000000
+      internalID: 1144116159371480007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe572a1c9a92780800000000000000
+      internalID: -8707241755424724018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4254dc63447118d60800000000000000
+      internalID: 7890613603874456868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43096aaaed869fe90800000000000000
+      internalID: -6991441640960913356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a1ee5d19d25ea80800000000000000
+      internalID: -8438288222426097141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c484fdbd2fb4a0d0800000000000000
+      internalID: -3412392414458641211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b640e1175af83bb50800000000000000
+      internalID: 6607783019012818027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100326068a76665f0800000000000000
+      internalID: -763809113923506175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_15
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc8a0bff44997c40800000000000000
+      internalID: 5510598690299612411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_16
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b48254321745510800000000000000
+      internalID: 1536977769138244490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da1853f0d844fa80800000000000000
+      internalID: -8434036139885061423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_18
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 0
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e498148f4b84c50800000000000000
+      internalID: 6649763828156943948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Outrage_Sweep_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1388322d3b5f4740800000000000000
+      internalID: 5138426017978286879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Outrage_Sweep_0: -8833235079643778202
+      VFX_Move_Outrage_Sweep_1: -6178157126236205208
+      VFX_Move_Outrage_Sweep_10: -6991441640960913356
+      VFX_Move_Outrage_Sweep_11: -8438288222426097141
+      VFX_Move_Outrage_Sweep_12: -3412392414458641211
+      VFX_Move_Outrage_Sweep_13: 6607783019012818027
+      VFX_Move_Outrage_Sweep_14: -763809113923506175
+      VFX_Move_Outrage_Sweep_15: 5510598690299612411
+      VFX_Move_Outrage_Sweep_16: 1536977769138244490
+      VFX_Move_Outrage_Sweep_17: -8434036139885061423
+      VFX_Move_Outrage_Sweep_18: 6649763828156943948
+      VFX_Move_Outrage_Sweep_19: 5138426017978286879
+      VFX_Move_Outrage_Sweep_2: 2011966238351558144
+      VFX_Move_Outrage_Sweep_3: -4402472457602062450
+      VFX_Move_Outrage_Sweep_4: -3514788545442498022
+      VFX_Move_Outrage_Sweep_5: 6377921980335211029
+      VFX_Move_Outrage_Sweep_6: -4012321589131737966
+      VFX_Move_Outrage_Sweep_7: 1144116159371480007
+      VFX_Move_Outrage_Sweep_8: -8707241755424724018
+      VFX_Move_Outrage_Sweep_9: 7890613603874456868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

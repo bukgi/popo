@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: d78846c6c7c0e46438bcbae52ab29814
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1193495053263557194
+    second: VFX_Move_Extreme_Speed_0
+  - first:
+      213: 2314601754552909842
+    second: VFX_Move_Extreme_Speed_1
+  - first:
+      213: 470244975702411428
+    second: VFX_Move_Extreme_Speed_2
+  - first:
+      213: -4921553250611252975
+    second: VFX_Move_Extreme_Speed_3
+  - first:
+      213: -819420656414702193
+    second: VFX_Move_Extreme_Speed_4
+  - first:
+      213: -3720382574745871504
+    second: VFX_Move_Extreme_Speed_5
+  - first:
+      213: 4494955692010911753
+    second: VFX_Move_Extreme_Speed_6
+  - first:
+      213: -5142413734747027501
+    second: VFX_Move_Extreme_Speed_7
+  - first:
+      213: -5804520031936882993
+    second: VFX_Move_Extreme_Speed_8
+  - first:
+      213: -7202024759993827784
+    second: VFX_Move_Extreme_Speed_9
+  - first:
+      213: 4298996554003912379
+    second: VFX_Move_Extreme_Speed_10
+  - first:
+      213: 537151847292661219
+    second: VFX_Move_Extreme_Speed_11
+  - first:
+      213: -7403225516468953483
+    second: VFX_Move_Extreme_Speed_12
+  - first:
+      213: 6909963703687370935
+    second: VFX_Move_Extreme_Speed_13
+  - first:
+      213: -7883810167035173930
+    second: VFX_Move_Extreme_Speed_14
+  - first:
+      213: 911953279976603036
+    second: VFX_Move_Extreme_Speed_15
+  - first:
+      213: 750371060611605942
+    second: VFX_Move_Extreme_Speed_16
+  - first:
+      213: -5617095041297570017
+    second: VFX_Move_Extreme_Speed_17
+  - first:
+      213: 4797488915850537876
+    second: VFX_Move_Extreme_Speed_18
+  - first:
+      213: 144257567636074773
+    second: VFX_Move_Extreme_Speed_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd2a0d829adf6fe0800000000000000
+      internalID: -1193495053263557194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2104f90580e1f1020800000000000000
+      internalID: 2314601754552909842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8872e5055a68600800000000000000
+      internalID: 470244975702411428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111b522e46123bbb0800000000000000
+      internalID: -4921553250611252975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85c8c42145d0a4f0800000000000000
+      internalID: -819420656414702193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b18bb72cb8e5cc0800000000000000
+      internalID: -3720382574745871504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9083e67f26a416e30800000000000000
+      internalID: 4494955692010911753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7405434f972a8b0800000000000000
+      internalID: -5142413734747027501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc653ccd8c3327fa0800000000000000
+      internalID: -5804520031936882993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83efff483a44d0c90800000000000000
+      internalID: -7202024759993827784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 6
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6180cb69a19ab30800000000000000
+      internalID: 4298996554003912379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 7
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ede25852c8547700800000000000000
+      internalID: 537151847292661219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 6
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e92c2ed95724990800000000000000
+      internalID: -7403225516468953483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_13
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 5
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8d021c06f15ef50800000000000000
+      internalID: 6909963703687370935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_14
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3614d5c64179290800000000000000
+      internalID: -7883810167035173930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 3
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9df1c82da8e7ac00800000000000000
+      internalID: 911953279976603036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 4
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5ec75018ad96a00800000000000000
+      internalID: 750371060611605942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17a9d112d11c02b0800000000000000
+      internalID: -5617095041297570017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b252330ca149240800000000000000
+      internalID: 4797488915850537876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VFX_Move_Extreme_Speed_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5113c135e71800200800000000000000
+      internalID: 144257567636074773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VFX_Move_Extreme_Speed_0: -1193495053263557194
+      VFX_Move_Extreme_Speed_1: 2314601754552909842
+      VFX_Move_Extreme_Speed_10: 4298996554003912379
+      VFX_Move_Extreme_Speed_11: 537151847292661219
+      VFX_Move_Extreme_Speed_12: -7403225516468953483
+      VFX_Move_Extreme_Speed_13: 6909963703687370935
+      VFX_Move_Extreme_Speed_14: -7883810167035173930
+      VFX_Move_Extreme_Speed_15: 911953279976603036
+      VFX_Move_Extreme_Speed_16: 750371060611605942
+      VFX_Move_Extreme_Speed_17: -5617095041297570017
+      VFX_Move_Extreme_Speed_18: 4797488915850537876
+      VFX_Move_Extreme_Speed_19: 144257567636074773
+      VFX_Move_Extreme_Speed_2: 470244975702411428
+      VFX_Move_Extreme_Speed_3: -4921553250611252975
+      VFX_Move_Extreme_Speed_4: -819420656414702193
+      VFX_Move_Extreme_Speed_5: -3720382574745871504
+      VFX_Move_Extreme_Speed_6: 4494955692010911753
+      VFX_Move_Extreme_Speed_7: -5142413734747027501
+      VFX_Move_Extreme_Speed_8: -5804520031936882993
+      VFX_Move_Extreme_Speed_9: -7202024759993827784
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
